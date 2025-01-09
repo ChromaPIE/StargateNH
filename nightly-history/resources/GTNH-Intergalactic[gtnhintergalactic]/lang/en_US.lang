@@ -169,6 +169,7 @@ tile.GasSiphonCasing.name=Planetary Siphon Casing
 # GUI
 GT5U.gui.text.no_space_station=§7Not on a space station
 GT5U.gui.text.invalid_depth=§7Invalid depth
+GT5U.gui.text.siphoning=§aExtracting from the planet
 GT5U.gui.text.missing_project=§7Missing §b%s §7 at §b%s
 GT5U.gui.text.no_plasma=§7Not enough plasma
 GT5U.gui.text.invalid_overdrive=§7Invalid overdrive settings
@@ -277,6 +278,7 @@ gt.blockmachines.multimachine.project.ig.miner.t3.desc1=This definitely violates
 gt.blockmachines.multimachine.project.ig.miner.desc3=Requires a plasma to operate (825L Helium / 550L Bismuth / 375L Radon / 250L Technetium / 150L Plutonium 241).
 gt.blockmachines.multimachine.project.ig.miner.desc4=Higher tier plasmas increases the chances of mining bigger asteroids, and improves mining operation time.
 gt.blockmachines.multimachine.project.ig.miner.desc5=Needs to be fed with computation to work.
+gt.blockmachines.multimachine.project.ig.miner.desc5.1=Mining Drones must be placed in a regular input bus (neither linked nor stocking bus).
 gt.blockmachines.multimachine.project.ig.miner.t1.desc5=Runs at UV with up to 2 parallels
 gt.blockmachines.multimachine.project.ig.miner.t2.desc5=Runs at UHV with up to 4 parallels
 gt.blockmachines.multimachine.project.ig.miner.t3.desc5=Runs at UEV with up to 8 parallels
