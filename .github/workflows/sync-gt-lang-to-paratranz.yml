@@ -15,15 +15,6 @@ on:
         type: choice
         options:
           - zh_CN
-          - ja_JP
-          - ko_KR
-          - pt_BR
-          - fr_FR
-          - es_ES
-          - tr_TR
-          - de_DE
-          - pl_PL
-          - ru_RU
 
 env:
   PARATRANZ_TOKEN: ${{ secrets.PARATRANZ_TOKEN }}

@@ -5,15 +5,6 @@ from typing import List
 class Language(Enum):
     en_US = "en_US"
     zh_CN = "zh_CN"
-    ja_JP = "ja_JP"
-    ko_KR = "ko_KR"
-    pt_BR = "pt_BR"
-    fr_FR = "fr_FR"
-    es_ES = "es_ES"
-    tr_TR = "tr_TR"
-    de_DE = "de_DE"
-    pl_PL = "pl_PL"
-    ru_RU = "ru_RU"
 
     @classmethod
     def from_str(cls, s: str) -> "Language":

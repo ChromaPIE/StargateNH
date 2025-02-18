@@ -1,6 +1,6 @@
 # GTNH Translations
 
-[中文](./readmes/README_zh_CN.md) / [日本語](./readmes/README_ja_JP.md) / [한국어](./readmes/README_ko_KR.md) / [Português brasileiro](./readmes/README_pt_BR.md) / [Français](./readmes/README_fr_FR.md) / [Español](./readmes/README_es_ES.md) / [Türkçe](./readmes/README_tr_TR.md) / [Deutsch](./readmes/README_de_DE.md) / [Polski](./readmes/README_pl_PL.md) /[Русский язык](./readmes/README_ru_RU.md)
+[中文](./readmes/README_zh_CN.md)
 
 This is a repository managing all the translations for GTNH.
 
@@ -21,15 +21,6 @@ We decided to manage all the translations under this repository for these reason
 Each project has its own ParaTranz project. You can join there with your GitHub account.
 
 - [zh_CN](https://paratranz.cn/projects/4964)
-- [ja_JP](https://paratranz.cn/projects/8922)
-- [ko_KR](https://paratranz.cn/projects/9359)
-- [pt_BR](https://paratranz.cn/projects/9385)
-- [fr_FR](https://paratranz.cn/projects/9461)
-- [es_ES](https://paratranz.cn/projects/9508)
-- [tr_TR](https://paratranz.cn/projects/9509)
-- [de_DE](https://paratranz.cn/projects/9510)
-- [pl_PL](https://paratranz.cn/projects/9513)
-- [ru_RU](https://paratranz.cn/projects/9929)
 
 ### I want to make contribution to language that is not listed here
 
