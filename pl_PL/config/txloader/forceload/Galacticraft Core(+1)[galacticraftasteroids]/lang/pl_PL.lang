@@ -107,7 +107,7 @@ gui.message.telepadWrongDim.name=Cel jest w niewłaściwym wymiarze!
 gui.message.telepadNotFound.name=Nie znaleziono Teleportera
 gui.message.sendingActive.name=Wysyłanie Aktywne
 gui.message.range.name=Zasięg: %dm
-gui.message.notEnoughEnergy.name=Za mało energii!
+gui.message.notEnoughEnergy.name=Brak wystarczającej energi!
 gui.message.targetNoEnergy.name=Cal ma za mało energii!
 gui.message.grapple.fail=Potrzebuje nici żeby wystrzelić chwytak!
 gui.message.astroMiner.fail=Ta stacja ma już Drona Górniczego!
@@ -144,11 +144,11 @@ tile.minerBase.description=Stacja Dronu Górniczego jest miejscem dokowana dla D
 schematic.astroMiner.name=Dron Górniczy
 
 # ENTITIES
-entity.SmallAsteroidGC.name=Mała Asteroida
-entity.GrappleHookGC.name=Hak Chwytaka
-entity.Tier3RocketGC.name=Rakieta Poziomu 3
-entity.EntryPodAsteroids.name=Lądownik
-entity.AstroMiner.name=Dron Górniczy
+entity.GalacticraftMars.SmallAsteroidGC.name=Small Asteroid
+entity.GalacticraftMars.GrappleHookGC.name=Grapple Hook
+entity.GalacticraftMars.Tier3RocketGC.name=Tier 3 Rocket
+entity.GalacticraftMars.EntryPodAsteroids.name=Entry Pod
+entity.GalacticraftMars.AstroMiner.name=Astro Miner
 
 # CONTAINERS
 container.shortRangeTelepad.name=Krótko-dystansowy Teleporter
