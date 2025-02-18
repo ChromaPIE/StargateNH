@@ -1,13 +1,12 @@
-itemGroup.nodalmechanics.tab=Nodal Mechanics
+itemGroup.nodalmechanics.tab=节点学
 
-item.nodalmechanics.matrix.name=Node Matrix
-item.nodalmechanics.matrix.attuned.name=Attuned Node Matrix
-item.nodalmechanics.matrix.unattuned.name=Unattuned Node Matrix
-tooltip.nodalmechanics.matrix.attuned=Faintly humming...
-tooltip.nodalmechanics.matrix.unattuned=Empty
-tooltip.nodalmechanics.matrix.recipe=You can attune it multiple times!
+item.nodalmechanics.matrix.attuned.name=节点基体(已调制)
+item.nodalmechanics.matrix.unattuned.name=节点基体(未调制)
+tooltip.nodalmechanics.matrix.attuned=微弱的响声...
+tooltip.nodalmechanics.matrix.unattuned=空
+tooltip.nodalmechanics.matrix.recipe=可多次调制
 
-tc.research_name.NODECATALYZATION=Node Catalyzation
-tc.research_text.NODECATALYZATION=From nothing... Something
+tc.research_name.NODECATALYZATION=节点催生
+tc.research_text.NODECATALYZATION=无中...生有
 
-nodalmechanics.nodecatalyzation.research=By applying your knowledge of nodes and warded jars, you have successfully devised a method of catalyzing the formation of new nodes.<BR>By attuning a freshly-crafted blank node matrix (or already attuned one - it is recursive process) towards any combination of essentia to provide the seed for a node's growth, you can then infuse it with a large amount of compatible vis to spark the node's growth.
+nodalmechanics.nodecatalyzation.research=将你关于节点和要素罐子的学识付之一用,你成功的发明出了一种催生出新节点的方法.<BR>组合一些要素源质来调制节点基体就能获得一个节点的种子,之后给其注入大量的要素就能激发它的生成.

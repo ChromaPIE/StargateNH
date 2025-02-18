@@ -1,5 +1,5 @@
-tile.openglassesterminal.name=Glasses Terminal
-item.openglasses.name=AR Glasses
-key.openglasses.interact=Free Cursor (Hold)
-key.openglasses.interactToggle=Free Cursor (Toggle)
-key.categories.openGlasses=OC Glasses
+tile.openglassesterminal.name=眼镜终端
+item.openglasses.name=AR眼镜
+key.openglasses.interact=自由光标(按住)
+key.openglasses.interactToggle=自由光标(切换)
+key.categories.openGlasses=OC眼镜

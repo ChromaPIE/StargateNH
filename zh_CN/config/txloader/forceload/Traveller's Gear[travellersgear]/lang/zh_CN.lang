@@ -1,83 +1,83 @@
 # -- Items --
-item.TravellersGear.simpleGear.cloak.name=Cloak
-item.TravellersGear.simpleGear.belt.name=Belt
-item.TravellersGear.simpleGear.ringGold.name=Gold Ring
-item.TravellersGear.simpleGear.ringSilver.name=Silver Ring
-item.TravellersGear.simpleGear.pauldrons.name=Pauldrons
-item.TravellersGear.simpleGear.vambraces.name=Vambraces
-item.TravellersGear.simpleGear.title.name=Title Scroll
+item.TravellersGear.simpleGear.cloak.name=披风
+item.TravellersGear.simpleGear.belt.name=腰带
+item.TravellersGear.simpleGear.ringGold.name=金指环
+item.TravellersGear.simpleGear.ringSilver.name=银指环
+item.TravellersGear.simpleGear.pauldrons.name=肩铠
+item.TravellersGear.simpleGear.vambraces.name=臂铠
+item.TravellersGear.simpleGear.title.name=头衔卷轴
 # -- Blocks -- 
-tile.TravellersGear.armorstand.name=Armor Stand
+tile.TravellersGear.armorstand.name=衣架
 
 #-- GUI --
-TG.guitext.equipment=Equipment
+TG.guitext.equipment=装备界面
 TG.guitext.lvl=Lvl
-TG.guitext.visDiscount=Vis Discount
+TG.guitext.visDiscount=魔力减免
 
-TG.guitext.preset=Presets
-TG.guitext.texture=Texture
+TG.guitext.preset=预置调置
+TG.guitext.texture=材质
 
-TG.guitext.rightclickToOpen=Rightclick to Open
-TG.guitext.linkInChat=Ctrl+Rightclick to link this in chat
+TG.guitext.rightclickToOpen=右击打开
+TG.guitext.linkInChat=Ctrl+右击将此物品复制到聊天窗口
 
-TG.guitext.showPlate=Show Floorplate
-TG.guitext.showTable=Show Table
-TG.guitext.showArmor0=Show Helmet
-TG.guitext.showArmor1=Show Chestplate
-TG.guitext.showArmor2=Show Leggings
-TG.guitext.showArmor3=Show Boots
-TG.guitext.showBaubles0=Show Amulet on table
-TG.guitext.showBaubles1=Show Ring 1 on table
-TG.guitext.showBaubles2=Show Ring 2 on table
-TG.guitext.showBaubles3=Show Belt on table
-TG.guitext.showTG0=Show Cloak on table
-TG.guitext.showTG1=Show Pauldrons on table
-TG.guitext.showTG2=Show Vambraces on table
-TG.guitext.showMari0=Show Ring on table
-TG.guitext.showMari1=Show Bracelet on table
-TG.guitext.showMari2=Show Necklace on table
+TG.guitext.showPlate=显示底板
+TG.guitext.showTable=显示桌板
+TG.guitext.showArmor0=显示头盔
+TG.guitext.showArmor1=显示胸甲
+TG.guitext.showArmor2=显示护腿
+TG.guitext.showArmor3=显示靴子
+TG.guitext.showBaubles0=显示护身符
+TG.guitext.showBaubles1=显示指环(一)
+TG.guitext.showBaubles2=显示指环(二)
+TG.guitext.showBaubles3=显示腰带
+TG.guitext.showTG0=显示斗篷
+TG.guitext.showTG1=显示肩甲
+TG.guitext.showTG2=显示臂甲
+TG.guitext.showMari0=显示戒指
+TG.guitext.showMari1=显示手镯
+TG.guitext.showMari2=显示项链
 
-TG.guitext.renderBaubles0=Render Amulet on stand
-TG.guitext.renderBaubles1=Render Ring 1 on stand
-TG.guitext.renderBaubles2=Render Ring 2 on stand
-TG.guitext.renderBaubles3=Render Belt on stand
-TG.guitext.renderTG0=Render Cloak on stand
-TG.guitext.renderTG1=Render Pauldrons on stand
-TG.guitext.renderTG2=Render Vambraces on stand
-TG.guitext.style=Style >
+TG.guitext.renderBaubles0=于衣架上渲染护身符
+TG.guitext.renderBaubles1=于衣架上渲染指环(一)
+TG.guitext.renderBaubles2=于衣架上渲染指环(二)
+TG.guitext.renderBaubles3=于衣架上渲染腰带
+TG.guitext.renderTG0=于衣架上渲染斗篷
+TG.guitext.renderTG1=于衣架上渲染肩甲
+TG.guitext.renderTG2=于衣架上渲染臂甲
+TG.guitext.style=衣架样式 >
 
-TG.guitext.add=Add
-TG.guitext.rem=Remove
-TG.guitext.translation=Translation
-TG.guitext.rotation=Rotation
-TG.guitext.scale=Scale
-TG.guitext.hideWhenEquipped=Hide when equipped
-TG.guitext.rotateWithHead=Rotate with head
+TG.guitext.add=添加
+TG.guitext.rem=移除
+TG.guitext.translation=翻译
+TG.guitext.rotation=旋转
+TG.guitext.scale=比例
+TG.guitext.hideWhenEquipped=装备时隐藏
+TG.guitext.rotateWithHead=以头部为中心旋转
 					
-TG.chattext.showItem=%1$s shows Item: %2$s
+TG.chattext.showItem=%1$s 展示物品: %2$s
 
-TG.desc.gearSlot.tg.0=Equipped in the §aCloak§7 slot
-TG.desc.gearSlot.tg.1=Equipped in the §aPauldron§7 slot
-TG.desc.gearSlot.tg.2=Equipped in the §aVambrace§7 slot
-TG.desc.gearSlot.tg.3=Equipped in the §aTitle§7 slot
-TG.desc.gearSlot.bauble.RING=Equipped in the §aRing§7 slot
-TG.desc.gearSlot.bauble.BELT=Equipped in the §aBelt§7 slot
-TG.desc.gearSlot.bauble.AMULET=Equipped in the §aAmulet§7 slot
+TG.desc.gearSlot.tg.0=可装备于§a斗篷§7格
+TG.desc.gearSlot.tg.1=可装备于§a肩甲§7格
+TG.desc.gearSlot.tg.2=可装备于§a臂甲§7格
+TG.desc.gearSlot.tg.3=可装备于§a头衔§7格
+TG.desc.gearSlot.bauble.RING=可装备于§a指环§7格
+TG.desc.gearSlot.bauble.BELT=可装备于§a腰带§7格
+TG.desc.gearSlot.bauble.AMULET=可装备于§a护身符§7格
 
-itemGroup.travellersgear=Traveller's Gear
+itemGroup.travellersgear=旅行者的装备栏
 
-TG.keybind.openInv=Traveller's Gear Inventory
-TG.keybind.activeaAbilities=Traveller's Gear Active Abilities
+TG.keybind.openInv=打开旅行者的装备栏
+TG.keybind.activeaAbilities=激活能力
 
 #-- Title --
-TG.personaltitle.treepuncher=Professional Treepuncher
-TG.personaltitle.titan=Prospector of Titan
-TG.personaltitle.librarian=The Librarian
-TG.personaltitle.bursar=The Bursar
-TG.personaltitle.archchancellor=The Archchancellor
-TG.personaltitle.justicar=Justicar
-TG.personaltitle.explorer=Striding Explorer
-TG.personaltitle.defender=Righteous Defender
-TG.personaltitle.seeker=Seeker of Treasure
-TG.personaltitle.boxFox=Fox in a Box
-TG.personaltitle.freshPrince=Fresh Prince
+TG.personaltitle.treepuncher=职业伐木工
+TG.personaltitle.titan=非凡矿工
+TG.personaltitle.librarian=图书管理员
+TG.personaltitle.bursar=财务主管
+TG.personaltitle.archchancellor=魔法师
+TG.personaltitle.justicar=仲裁者
+TG.personaltitle.explorer=勇往直前的探险家
+TG.personaltitle.defender=正义的伙伴
+TG.personaltitle.seeker=寻宝人
+TG.personaltitle.boxFox=盒中狐狸
+TG.personaltitle.freshPrince=初涉世事的王子

@@ -1,95 +1,95 @@
-neiintegration.yes=Yes
-neiintegration.no=No
+neiintegration.yes=是
+neiintegration.no=否
 
-neiintegration.shaped=Shaped
-neiintegration.shapeless=Shapeless
+neiintegration.shaped=有序
+neiintegration.shapeless=无序
 
-neiintegration.chance=Chance: %s
-neiintegration.chance.never=Never
+neiintegration.chance=几率：%s
+neiintegration.chance.never=无
 neiintegration.chance.lessThan1=<1%
 
 neiintegration.ticks=ticks
 
 neiintegration.tooltip.internalName=ID:
-neiintegration.tooltip.unlocalizedName=Unloc. name:
-neiintegration.tooltip.maxstack=Maximum stack size:
-neiintegration.tooltip.burntime=Burn time:
-neiintegration.tooltip.oredict=Ore Dictionary names:
-neiintegration.tooltip.fluidreg=Fluid Registry info:
-neiintegration.tooltip.fluidreg.empty=Empty Container
+neiintegration.tooltip.unlocalizedName=未本地化名称:
+neiintegration.tooltip.maxstack=最大堆叠数:
+neiintegration.tooltip.burntime=燃烧时间:
+neiintegration.tooltip.oredict=矿物辞典名称:
+neiintegration.tooltip.fluidreg=流体注册表信息:
+neiintegration.tooltip.fluidreg.empty=空容器
 
-neiintegration.config.title=NEI Integration Configuration
-neiintegration.config.integrations=Mod Integrations settings
-neiintegration.config.integrations.tooltip=Enable or disable all recipe handlers for certain mods.
-neiintegration.config.handlers=Recipe Handler settings
-neiintegration.config.handlers.tooltip=Enable or disable some of the recipe handlers this mod adds.
-neiintegration.config.tooltips=Item Tooltip Settings
-neiintegration.config.tooltips.tooltip=No tooltip defined. How ironic.
+neiintegration.config.title=NEI整合配置
+neiintegration.config.integrations=Mod整合设置
+neiintegration.config.integrations.tooltip=启用或禁用指定mod的所有合成表操作器.
+neiintegration.config.handlers=合成表操作器设置
+neiintegration.config.handlers.tooltip=启用或禁用此mod添加的某些合成表操作器.
+neiintegration.config.tooltips=物品Tooltip设置
+neiintegration.config.tooltips.tooltip=没有定义tooltip? 多么讽刺啊.
 
-nei.options.tools.dump.neiintegration=NEI Integration
-nei.options.tools.dump.neiintegration.chestloots=Chest Loot
-nei.options.tools.dump.neiintegration.chestloot=Chest Loot
-nei.options.tools.dump.neiintegration.dimension=Dimension
-nei.options.tools.dump.neiintegration.dimensions=Dimensions
-nei.options.tools.dump.neiintegration.entity=Entity
-nei.options.tools.dump.neiintegration.entitys=Entities
-nei.options.tools.dump.neiintegration.fluid=Fluid
-nei.options.tools.dump.neiintegration.fluids=Fluids
-nei.options.tools.dump.neiintegration.fluidcontainer=Fluid Container
-nei.options.tools.dump.neiintegration.fluidcontainers=Fluid Containers
-nei.options.tools.dump.neiintegration.inventory=Player Inventory
-nei.options.tools.dump.neiintegration.inventorys=Player Inventory
-nei.options.tools.dump.neiintegration.loadedmod=Loaded Mod
-nei.options.tools.dump.neiintegration.loadedmods=Loaded Mods
-nei.options.tools.dump.neiintegration.oredict=Ore Dictionary
-nei.options.tools.dump.neiintegration.oredicts=Ore Dictionary
-nei.options.tools.dump.neiintegration.recipehandler=Recipe Handler
-nei.options.tools.dump.neiintegration.recipehandlers=Recipe Handlers
-nei.options.tools.dump.neiintegration.tileentity=Tile Entity
-nei.options.tools.dump.neiintegration.tileentitys=Tile Entities
+nei.options.tools.dump.neiintegration=NEI整合
+nei.options.tools.dump.neiintegration.chestloots=箱子战利品
+nei.options.tools.dump.neiintegration.chestloot=箱子战利品
+nei.options.tools.dump.neiintegration.dimension=维度
+nei.options.tools.dump.neiintegration.dimensions=维度
+nei.options.tools.dump.neiintegration.entity=实体
+nei.options.tools.dump.neiintegration.entitys=实体
+nei.options.tools.dump.neiintegration.fluid=流体
+nei.options.tools.dump.neiintegration.fluids=流体
+nei.options.tools.dump.neiintegration.fluidcontainer=流体容器
+nei.options.tools.dump.neiintegration.fluidcontainers=流体容器
+nei.options.tools.dump.neiintegration.inventory=玩家物品栏
+nei.options.tools.dump.neiintegration.inventorys=玩家物品栏
+nei.options.tools.dump.neiintegration.loadedmod=已加载模组
+nei.options.tools.dump.neiintegration.loadedmods=已加载模组
+nei.options.tools.dump.neiintegration.oredict=矿物辞典
+nei.options.tools.dump.neiintegration.oredicts=矿物辞典
+nei.options.tools.dump.neiintegration.recipehandler=合成表操作器
+nei.options.tools.dump.neiintegration.recipehandlers=合成表操作器
+nei.options.tools.dump.neiintegration.tileentity=方块实体
+nei.options.tools.dump.neiintegration.tileentitys=方块实体
 
 # Forge
-neiintegration.handler.fluidRegistry=Fluid Registry
+neiintegration.handler.fluidRegistry=流体注册表
 neiintegration.handler.fluidRegistry.id=ID:
-neiintegration.handler.fluidRegistry.state=State:
-neiintegration.handler.fluidRegistry.state.gaseous=Gaseous
-neiintegration.handler.fluidRegistry.state.liquid=Liquid
-neiintegration.handler.fluidRegistry.placeable=Can be placed:
-neiintegration.handler.fluidRegistry.temperature=Temperature:
-neiintegration.handler.fluidRegistry.luminosity=Luminosity:
-neiintegration.handler.fluidRegistry.density=Density:
-neiintegration.handler.fluidRegistry.viscosity=Viscosity:
+neiintegration.handler.fluidRegistry.state=状态:
+neiintegration.handler.fluidRegistry.state.gaseous=气态
+neiintegration.handler.fluidRegistry.state.liquid=液态
+neiintegration.handler.fluidRegistry.placeable=可被放置:
+neiintegration.handler.fluidRegistry.temperature=温度:
+neiintegration.handler.fluidRegistry.luminosity=亮度:
+neiintegration.handler.fluidRegistry.density=密度:
+neiintegration.handler.fluidRegistry.viscosity=粘度:
 
-neiintegration.handler.oreDictionary=Ore Dictionary
-neiintegration.handler.oreDictionary.warning=Can take a while to load!
+neiintegration.handler.oreDictionary=矿物辞典
+neiintegration.handler.oreDictionary.warning=需要一段时间加载!
 
 # BuildCraft
 neiintegration.handler.refinery.energyRate=%d RF at %d RF/t
 
 # Electrical Age
-neiintegration.handler.electricalage.compressor=Compressor (ELN)
-neiintegration.handler.electricalage.macerator=Macerator (ELN)
-neiintegration.handler.electricalage.magnetizer=Magnetizer
-neiintegration.handler.electricalage.plateMachine=Plate Machine
+neiintegration.handler.electricalage.compressor=压缩机(ELN)
+neiintegration.handler.electricalage.macerator=粉碎机(ELN)
+neiintegration.handler.electricalage.magnetizer=磁化机
+neiintegration.handler.electricalage.plateMachine=冷轧机
 
 # Forestry
-neiintegration.handler.forestry.shaped=Forestry Shaped
-neiintegration.handler.forestry.fabricator.worth=Worth:
+neiintegration.handler.forestry.shaped=林业有序
+neiintegration.handler.forestry.fabricator.worth=可熔出：
 
 # MineFactory Reloaded
-neiintegration.handler.bioreactor.efficiency=Efficiency
-neiintegration.handler.bioreactor.efficiency.1=Depends of the amount of
-neiintegration.handler.bioreactor.efficiency.2=different items being processed.
-neiintegration.handler.bioreactor.efficiency.3=More efficiency means more BioFuel.
-neiintegration.handler.grinder.mobs=Mobs
-neiintegration.handler.grinder.mobs.1=Mobs that drop more XP
-neiintegration.handler.grinder.mobs.2=produce more Essence.
-neiintegration.handler.harvester.harvestables=Harvestable blocks
-neiintegration.handler.harvester.harvestables.1=Sludge is a byproduct of harvesting.
-neiintegration.handler.laserdrill.focus=Focus
-neiintegration.handler.sewer.animals=Animals or villagers
-neiintegration.handler.sewer.animals.1=Larger animals produce more sewage.
-neiintegration.handler.sewer.xp=Experience Orbs
-neiintegration.handler.sewer.xp.1=XP gets converted into Essence.
-neiintegration.handler.slaughterhouse.animals=Animals
-neiintegration.handler.slaughterhouse.animals.1=Larger animals produce more meat.
+neiintegration.handler.bioreactor.efficiency=效率
+neiintegration.handler.bioreactor.efficiency.1=取决于数量
+neiintegration.handler.bioreactor.efficiency.2=正在处理不同的物品.
+neiintegration.handler.bioreactor.efficiency.3=更高的效率意味着更多的生物燃料.
+neiintegration.handler.grinder.mobs=怪物
+neiintegration.handler.grinder.mobs.1=掉落更多XP的怪物
+neiintegration.handler.grinder.mobs.2=产生更多源质.
+neiintegration.handler.harvester.harvestables=可收获方块
+neiintegration.handler.harvester.harvestables.1=污泥是收割的副产物.
+neiintegration.handler.laserdrill.focus=聚焦
+neiintegration.handler.sewer.animals=动物或村民
+neiintegration.handler.sewer.animals.1=越大的动物产生越多的污水.
+neiintegration.handler.sewer.xp=经验矿石
+neiintegration.handler.sewer.xp.1=XP转换为源质.
+neiintegration.handler.slaughterhouse.animals=动物
+neiintegration.handler.slaughterhouse.animals.1=越大的动物产生越多的肉.

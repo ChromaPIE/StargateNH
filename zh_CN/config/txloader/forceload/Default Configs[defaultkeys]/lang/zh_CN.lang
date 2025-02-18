@@ -1,6 +1,6 @@
-defaultconfigs.cmd.createUpdateFile.failure=§cCould not create modpack-update file (%1$s)
-defaultconfigs.cmd.createUpdateFile.success=§amodpack-update file has been created inside the config directory. You should always ship that file in your modpack; just leave it there forever. This will ensure that local player configs defined in localconfig.txt will be restored on updates.
-defaultconfigs.cmd.saveKeys.failure=§cFailed saving the key configuration. See the log for more information.
-defaultconfigs.cmd.saveKeys.success=§aSuccessfully saved the key configuration.
-defaultconfigs.cmd.saveOptions.failure=§cFailed saving the configuration. See the log for more information.
-defaultconfigs.cmd.saveOptions.success=§aSuccessfully saved the configuration.
+defaultconfigs.cmd.createUpdateFile.failure=§c无法创建整合包更新文件(%1$s)
+defaultconfigs.cmd.createUpdateFile.success=§a整合包更新文件已在配置文件夹中创建.你应该始终将该文件放在你的整合包中;并且永远放在那里. 这将确保在更新时恢复localconfig.txt中定义的本地玩家配置.
+defaultconfigs.cmd.saveKeys.failure=§c保存键位设置失败. 查看日志以获取更多信息.
+defaultconfigs.cmd.saveKeys.success=§a保存键位设置成功.
+defaultconfigs.cmd.saveOptions.failure=§c保存配置失败. 查看日志以获取更多信息.
+defaultconfigs.cmd.saveOptions.success=§a成功保存配置.
