@@ -1,23 +1,23 @@
 
 //ITEMS
-item.ofanix.name=欧凡尼克变换器
-item.hunger.name=MSG片(饥饿)
-item.minicoal.name=迷你煤炭
-item.minicharcoal.name=迷你木炭
-item.diamondZane.name=三合一钻石工具
-item.terrainEater.name=噬地者
-item.totemTool.name=图腾工具
-item.splatAxe.name=噼里啪啦斧
+item.ofanix.name=Ofanix
+item.hunger.name=MSG Pill
+item.minicoal.name=Mini Coal
+item.minicharcoal.name=Mini Charcoal
+item.diamondZane.name=Diamond Zane
+item.terrainEater.name=Terrain Eater
+item.totemTool.name=Totem Tool
+item.splatAxe.name=Splat Axe
 
 // BLOCKS
-tile.ztones:stoneTile.name=Ztone块
-tile.ztones:cleanDirt.name=花土
-tile.ztones:booster.name=加速板
-tile.ztones:lamp.name=灯
-tile.ztones:lampf.name=平面灯
-tile.ztones:lampt.name=平面灯
-tile.ztones:lampb.name=平面灯
-tile.ztones:aurora.name=极光
+tile.ztones:stoneTile.name=Ztone Tile
+tile.ztones:cleanDirt.name=Garden Soil
+tile.ztones:booster.name=Booster
+tile.ztones:lamp.name=Lamp
+tile.ztones:lampf.name=Flat Lamp
+tile.ztones:lampt.name=Flat Lamp
+tile.ztones:lampb.name=Flat Lamp
+tile.ztones:aurora.name=Aurora
 
 
 ⓪①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮

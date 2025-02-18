@@ -1,181 +1,181 @@
-itemGroup.malisisdoors=更多门
+itemGroup.malisisdoors=Malisis'Doors
 
-item.wood_sliding_door.name=木框玻璃门
-item.iron_sliding_door.name=铁框玻璃门
-item.jail_door.name=监狱门
-item.laboratory_door.name=实验室门
-item.factory_door.name=工厂门
-item.custom_door.name=自定义门
-item.shoji_door.name=障子门
-item.rustyHatch.name=生锈舱门
-item.rustyHandle.name=生锈手轮
-item.carriage_door.name=宅门
-item.medieval_door.name=中世纪门
-item.forcefieldItem.name=力场控制器
-item.door_spruce.name=云杉木门
-item.door_birch.name=白桦木门
-item.door_jungle.name=丛林木门
-item.door_acacia.name=金合欢木门
-item.door_dark_oak.name=深色橡木门
-item.saloon.name=酒馆门
+item.wood_sliding_door.name=Wooden Glass Door
+item.iron_sliding_door.name=Iron Glass Door
+item.jail_door.name=Jail Door
+item.laboratory_door.name=Laboratory Door
+item.factory_door.name=Factory Door
+item.custom_door.name=Custom Door
+item.shoji_door.name=Shoji Door
+item.rustyHatch.name=Rusty Hatch
+item.rustyHandle.name=Rusty Handle
+item.carriage_door.name=Carriage Door
+item.medieval_door.name=Medieval Door
+item.forcefieldItem.name=Forcefield Controller
+item.door_spruce.name=Spruce Door
+item.door_birch.name=Birch Door
+item.door_jungle.name=Jungle Door
+item.door_acacia.name=Acacia Door
+item.door_dark_oak.name=Dark Oak Door
+item.saloon.name=Saloon Door
 
-item.curtain_white.name=白色幕布
-item.curtain_orange.name=橙色幕布
-item.curtain_magenta.name=品红色幕布
-item.curtain_light_blue.name=淡蓝色幕布
-item.curtain_yellow.name=黄色幕布
-item.curtain_lime.name=黄绿色幕布
-item.curtain_pink.name=粉色幕布
-item.curtain_gray.name=灰色幕布
-item.curtain_silver.name=银色幕布
-item.curtain_cyan.name=青色幕布
-item.curtain_purple.name=紫色幕布
-item.curtain_blue.name=蓝色幕布
-item.curtain_brown.name=棕色幕布
-item.curtain_green.name=绿色幕布
-item.curtain_red.name=红色幕布
-item.curtain_black.name=黑色幕布
-
-
-tile.player_sensor.name=玩家感应器
-tile.vanishing_block_wood.name=消失的木框架
-tile.vanishing_block_iron.name=消失的铁框架
-tile.vanishing_block_gold.name=消失的金框架
-tile.vanishing_block_diamond.name=消失的钻石框架
-tile.block_mixer.name=方块混合器
-tile.mixed_block.name=混合方块
-tile.garage_door.name=车库门
-tile.jail_door.name=监狱门
-tile.laboratory_door.name=实验室门
-tile.factory_door.name=工厂门
-tile.door_factory.name=制门工厂
-tile.custom_door.name=自定义门
-tile.shoji_door.name=障子门
-tile.wood_sliding_door.name=木框玻璃门
-tile.iron_sliding_door.name=铁框玻璃门
-tile.rustyHatch.name=生锈舱门
-tile.carriage_door.name=宅门
-tile.medieval_door.name=中世纪门
-tile.forcefieldDoor.name=力场
-tile.rustyLadder.name=生锈铁梯
-tile.door_spruce.name=云杉木门
-tile.door_birch.name=白桦木门
-tile.door_jungle.name=丛林木门
-tile.door_acacia.name=金合欢木门
-tile.door_dark_oak.name=深色橡木门
-tile.iron_trapdoor.name=铁制活板门
-tile.sliding_trapdoor.name=滑动活板门
-tile.saloon.name=酒馆门
-
-tile.fenceGate.name=橡木栅栏门
-tile.spruceFenceGate.name=云杉木栅栏门
-tile.birchFenceGate.name=白桦木栅栏门
-tile.jungleFenceGate.name=丛林木栅栏门
-tile.darkOakFenceGate.name=深色橡木栅栏门
-tile.acaciaFenceGate.name=金合欢木栅栏门
-tile.camoFenceGate.name=混色栅栏门
-
-tile.trapdoor_acacia.name=金合欢木活板门
-tile.trapdoor_birch.name=白桦木活板门
-tile.trapdoor_dark_oak.name=深色橡木活板门
-tile.trapdoor_jungle.name=丛林木活板门
-tile.trapdoor_spruce.name=云杉木活板门
-
-tile.curtain_white.name=白色幕布
-tile.curtain_orange.name=橙色幕布
-tile.curtain_magenta.name=品红色幕布
-tile.curtain_light_blue.name=淡蓝色幕布
-tile.curtain_yellow.name=黄色幕布
-tile.curtain_lime.name=黄绿色幕布
-tile.curtain_pink.name=粉色幕布
-tile.curtain_gray.name=灰色幕布
-tile.curtain_silver.name=银色幕布
-tile.curtain_cyan.name=青色幕布
-tile.curtain_purple.name=紫色幕布
-tile.curtain_blue.name=蓝色幕布
-tile.curtain_brown.name=棕色幕布
-tile.curtain_green.name=绿色幕布
-tile.curtain_red.name=红色幕布
-tile.curtain_black.name=黑色幕布
+item.curtain_white.name=White Curtain
+item.curtain_orange.name=Orange Curtain
+item.curtain_magenta.name=Magenta Curtain
+item.curtain_light_blue.name=Light Blue Curtain
+item.curtain_yellow.name=Yellow Curtain
+item.curtain_lime.name=Lime Curtain
+item.curtain_pink.name=Pink Curtain
+item.curtain_gray.name=Gray Curtain
+item.curtain_silver.name=SilverCurtain
+item.curtain_cyan.name=Cyan Curtain
+item.curtain_purple.name=Purple Curtain
+item.curtain_blue.name=Blue Curtain
+item.curtain_brown.name=Brown Curtain
+item.curtain_green.name=Green Curtain
+item.curtain_red.name=Red Curtain
+item.curtain_black.name=Black Curtain
 
 
-malisisdoors.command.usage=使用指令/malisisdoors <command>需在command处键入配置名或版本
+tile.player_sensor.name=Player Sensor
+tile.vanishing_block_wood.name=Wooden Vanishing Frame
+tile.vanishing_block_iron.name=Iron Vanishing Frame
+tile.vanishing_block_gold.name=Gold Vanishing Frame
+tile.vanishing_block_diamond.name=Diamond Vanishing Frame
+tile.block_mixer.name=Block Mixer
+tile.mixed_block.name=Mixed Block
+tile.garage_door.name=Garage Door
+tile.jail_door.name=Jail Door
+tile.laboratory_door.name=Laboratory Door
+tile.factory_door.name=Factory Door
+tile.door_factory.name=Door Factory
+tile.custom_door.name=Custom Door
+tile.shoji_door.name=Shoji Door
+tile.wood_sliding_door.name=Wooden Glass Door
+tile.iron_sliding_door.name=Iron Glass Door
+tile.rustyHatch.name=Rusty Hatch
+tile.carriage_door.name=Carriage Door
+tile.medieval_door.name=Medieval Door
+tile.forcefieldDoor.name=Forcefield
+tile.rustyLadder.name=Rusty Ladder
+tile.door_spruce.name=Spruce Door
+tile.door_birch.name=Birch Door
+tile.door_jungle.name=Jungle Door
+tile.door_acacia.name=Acacia Door
+tile.door_dark_oak.name=Dark Oak Door
+tile.iron_trapdoor.name=Iron Trapdoor
+tile.sliding_trapdoor.name=Sliding Trapdoor
+tile.saloon.name=Saloon Door
 
-config.title=MalisisDoors模组配置
+tile.fenceGate.name=Oak Fence Gate
+tile.spruceFenceGate.name=Spruce Fence Gate
+tile.birchFenceGate.name=Birch Fence Gate
+tile.jungleFenceGate.name=Jungle Fence Gate
+tile.darkOakFenceGate.name=Dark Oak Fence Gate
+tile.acaciaFenceGate.name=Acacia Fence Gate
+tile.camoFenceGate.name=Camo Fence Gate
 
-config.modifyVanillaDoors=启用原版门的修改
-config.modifyVanillaDoors.comment1=启用门,栅栏门和活板门的动画.
-config.modifyVanillaDoors.comment2=这会完全替换掉门,所以当其他模组试图修改它们时可能会有冲突.
+tile.trapdoor_acacia.name=Acacia Trapdoor
+tile.trapdoor_birch.name=Birch Trapdoor
+tile.trapdoor_dark_oak.name=Dark Oak Trapdoor
+tile.trapdoor_jungle.name=Jungle Trapdoor
+tile.trapdoor_spruce.name=Spruce Trapdoor
 
-config.enableMixedBlocks=启用方块混合器和混合方块
+tile.curtain_white.name=White Curtain
+tile.curtain_orange.name=Orange Curtain
+tile.curtain_magenta.name=Magenta Curtain
+tile.curtain_light_blue.name=Light Blue Curtain
+tile.curtain_yellow.name=Yellow Curtain
+tile.curtain_lime.name=Lime Curtain
+tile.curtain_pink.name=Pink Curtain
+tile.curtain_gray.name=Gray Curtain
+tile.curtain_silver.name=SilverCurtain
+tile.curtain_cyan.name=Cyan Curtain
+tile.curtain_purple.name=Purple Curtain
+tile.curtain_blue.name=Blue Curtain
+tile.curtain_brown.name=Brown Curtain
+tile.curtain_green.name=Green Curtain
+tile.curtain_red.name=Red Curtain
+tile.curtain_black.name=Black Curtain
 
-config.simpleMixedBlockRendering=简化混合方块的渲染
-config.simpleMixedBlockRendering.comment1=启用混合方块的流畅渲染.
-config.simpleMixedBlockRendering.comment2=如果你遇到了深度冲突或是渲染干扰,启用该选项.
 
-config.enableVanishingBlocks=启用消失的框架
+malisisdoors.command.usage=Use /malisisdoors <command> where command is config or version
 
-config.enableVanishingGlitch=启用消失框架的动画
-config.enableVanishingGlitch.comment=框架会随机变得不稳定且会暂时消失.
+config.title=MalisisDoors' configuration
+
+config.modifyVanillaDoors=Enable vanilla doors improvement
+config.modifyVanillaDoors.comment1=Enables the animations for doors, fence gates and trap doors.
+config.modifyVanillaDoors.comment2=This replaces the doors entirely so conflicts may arise if another mod tries to modify them too.
+
+config.enableMixedBlocks=Enable Block Mixer and Mixed Blocks
+
+config.simpleMixedBlockRendering=Simple Mixed Blocks rendering
+config.simpleMixedBlockRendering.comment1=Enables less fancy rendering for Mixed Blocks.
+config.simpleMixedBlockRendering.comment2=Enable this option if you experience z-fighting issue or glitched rendering.
+
+config.enableVanishingBlocks=Enable Vanishing Frames
+
+config.enableVanishingGlitch=Enable Vanishing Frames glitch animation
+config.enableVanishingGlitch.comment=Frames randomly become unstable and are temporarily out of this dimension.
  
-config.vanishingGlitchChance=框架消失频率
-config.vanishingGlitchChance.comment=框架变得不稳定的频率.
+config.vanishingGlitchChance=Vanishing Frames glitch frequency
+config.vanishingGlitchChance.comment=How often the frame become unstable.
 
-config.enhancedMixedBlockPlacement=混合方块使用增强的放置判定
-config.enhancedMixedBlockPlacement.comment1=使你能在所看的地方而不是一个侧面放置方块.
-config.enhancedMixedBlockPlacement.comment2=使用潜行来切换放置判定.
+config.enhancedMixedBlockPlacement=Use enhanced mixed block placement
+config.enhancedMixedBlockPlacement.comment1=Allows to place the block base on where you look instead of the side you're placing it on.
+config.enhancedMixedBlockPlacement.comment2=Use sneak key to inverse the block placement.
 
-config.enableCamoFenceGate=启用伪装栅栏门
-config.enableCamoFenceGate.comment=启用栅栏门，让其使用周围方块的材质. 
-
-
-door_movement.rotating_door=旋转
-door_movement.sliding_door=侧向滑动
-door_movement.sliding_up_door=上滑
-door_movement.sliding_split_door=上下滑动
-door_movement.rotating_split_door=上下旋转
-door_movement.vault_door=保险
-door_movement.sliding_4ways=四向滑动
-door_movement.rotating_4ways=四向旋转
-door_movement.rotate_around=自由旋转
-door_movement.rotate_slide=旋转和滑动
-door_movement.rotate_place=旋转和替换
-door_movement.vanishing_door=消失
-door_movement.spinning_door=飞旋
-door_movement.spinning_around_door=漩涡
-door_movement.double_slide_left=双滑门(左)
-door_movement.double_slide_right=双滑门(右)
-door_movement.double_rotate_left=折叠门(左)
-door_movement.double_rotate_right=折叠门(右)
+config.enableCamoFenceGate=Enable camo Fence Gates
+config.enableCamoFenceGate.comment=Enables Fence Gate to use the texture of the blocks surrounding them. 
 
 
+door_movement.rotating_door=Rotating
+door_movement.sliding_door=Sliding on the side
+door_movement.sliding_up_door=Sliding up
+door_movement.sliding_split_door=Sliding up and down
+door_movement.rotating_split_door=Rotating up and down
+door_movement.vault_door=Vault
+door_movement.sliding_4ways=Sliding four ways
+door_movement.rotating_4ways=Rotating four ways
+door_movement.rotate_around=Rotating around
+door_movement.rotate_slide=Rotating and sliding
+door_movement.rotate_place=Rotating and replacing
+door_movement.vanishing_door=Vanishing
+door_movement.spinning_door=Spinning
+door_movement.spinning_around_door=Vortex
+door_movement.double_slide_left=Double sliding left
+door_movement.double_slide_right=Double sliding right
+door_movement.double_rotate_left=Double rotating left
+door_movement.double_rotate_right=Double rotating right
 
-gui.door_factory.tab_properties=属性
-gui.door_factory.tab_materials=材料
-gui.door_factory.tab_digicode=数控密码
-gui.door_factory.rb_create=制作
-gui.door_factory.rb_edit=修改
-gui.door_factory.door_movement=移动
-gui.door_factory.door_open_time=打开时间
-gui.door_factory.door_auto_close_time=自动关闭延时
-gui.door_factory.door_require_redstone=需要红石
-gui.door_factory.door_double_door=双门
-gui.door_factory.door_sound=音效类型
-gui.door_factory.door_sound.silent_door=静音
-gui.door_factory.door_sound.vanilla_door=原版门
-gui.door_factory.door_sound.glass_door=玻璃门
-gui.door_factory.door_sound.jail_door=监狱门
-gui.door_factory.door_sound.pneumatic_door=气动门
-gui.door_factory.door_sound.shoji_door=障子门
-gui.door_factory.door_sound.carriage_door=宅门
 
 
-gui.door_factory.frame_type=框架类型
-gui.door_factory.top_material=顶部方块材料
-gui.door_factory.bottom_material=底部方块材料
-gui.door_factory.door_edit_slot=需要修改的门
-gui.door_factory.create_door=制作门
-gui.door_factory.edit_door=修改门
+gui.door_factory.tab_properties=Properties
+gui.door_factory.tab_materials=Materials
+gui.door_factory.tab_digicode=Digicode
+gui.door_factory.rb_create=Create
+gui.door_factory.rb_edit=Modify
+gui.door_factory.door_movement=Movement
+gui.door_factory.door_open_time=Opening time
+gui.door_factory.door_auto_close_time=Auto close delay
+gui.door_factory.door_require_redstone=Requires redstone
+gui.door_factory.door_double_door=Double door
+gui.door_factory.door_sound=Sound type
+gui.door_factory.door_sound.silent_door=Silent
+gui.door_factory.door_sound.vanilla_door=Vanilla door
+gui.door_factory.door_sound.glass_door=Glass door
+gui.door_factory.door_sound.jail_door=Jail door
+gui.door_factory.door_sound.pneumatic_door=Pneumatic door
+gui.door_factory.door_sound.shoji_door=Shoji door
+gui.door_factory.door_sound.carriage_door=Big Door
 
-gui.block_mixer.simple_rendering=简单渲染
-gui.block_mixer.simple_rendering_tooltip=世界内的方块需要区块更新才能起效.
+
+gui.door_factory.frame_type=Frame type
+gui.door_factory.top_material=Top block material
+gui.door_factory.bottom_material=Bottom block material
+gui.door_factory.door_edit_slot=Door to modify
+gui.door_factory.create_door=Create door
+gui.door_factory.edit_door=Modify door
+
+gui.block_mixer.simple_rendering=Simple rendering
+gui.block_mixer.simple_rendering_tooltip=In world blocks require chunk update to take effect.

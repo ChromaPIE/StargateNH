@@ -1,10 +1,10 @@
 #
 # ITEMS
-item.Ring.0.name=矿工指环
+item.Ring.0.name=Miner's Ring
 #
 # GUI
-button.baubles=饰品
-button.normal=普通
+button.baubles=Baubles
+button.normal=Normal
 #
 # Keybinding
-keybind.baublesinventory=饰品栏
+keybind.baublesinventory=Baubles Inventory

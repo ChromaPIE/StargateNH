@@ -1,22 +1,22 @@
 # Keys
-key.nutrition=打开营养值界面
+key.nutrition=Open Nutrition GUI
 
 # GUI
-gui.nutrition:nutrition_title=营养
-gui.nutrition:close=关闭
-gui.nutrition:updating=更新中...
+gui.nutrition:nutrition_title=Nutrition
+gui.nutrition:close=Close
+gui.nutrition:updating=Updating...
 
 # Nutrients
-nutrient.nutrition:grain=谷物
-nutrient.nutrition:fruit=水果
-nutrient.nutrition:vegetable=蔬菜
-nutrient.nutrition:protein=肉类
-nutrient.nutrition:dairy=乳制品
+nutrient.nutrition:grain=Grain
+nutrient.nutrition:fruit=Fruit
+nutrient.nutrition:vegetable=Vegetable
+nutrient.nutrition:protein=Protein
+nutrient.nutrition:dairy=Dairy
 
 # Tooltips
-tooltip.nutrition:nutrients=营养值：
+tooltip.nutrition:nutrients=Nutrients:
 
 # Potions
-potion.nutrition:toughness=强壮
-potion.nutrition:nourished=营养充足
-potion.nutrition:malnourished=营养不足
+potion.nutrition:toughness=Toughness
+potion.nutrition:nourished=Nourished
+potion.nutrition:malnourished=Malnourished

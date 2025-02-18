@@ -1,77 +1,77 @@
 
 //Shit I stole from GTNH~
 
-GT5U.gui.text.no_water=§7缺少 水
-GT5U.gui.text.no_lava=§7缺少 岩浆
-GT5U.gui.text.no_air=§7缺少 空气
-GT5U.gui.text.no_co2=§7缺少 二氧化碳
-GT5U.gui.text.no_li2bef4=§7缺少 Li2BeF4
-GT5U.gui.text.no_saw=§7缺少 锯
-GT5U.gui.text.no_sapling=§7缺少 树苗
-GT5U.gui.text.no_oxygen=§7缺少 氧
-GT5U.gui.text.fuel_blacklisted=§7燃料已被禁用
-GT5U.gui.text.no_catalyst=§7未找到可用催化剂
-GT5U.gui.text.no_milling_ball=§7未找到磨球
-GT5U.gui.text.growing_trees=§a树木生长中
-GT5U.gui.text.managing_power=§a能源分配中
-GT5U.gui.text.no_scrap=§a输入质量过低
-GT5U.gui.text.warm_up=§a预热中
-GT5U.gui.text.machine_locked_to_different_recipe=§7机器已锁定到另一配方
-GT5U.gui.text.no_output_for_sapling=§7树苗没有可输出产品
-GT5U.gui.text.no_tools=§7缺少可用的工具
+GT5U.gui.text.no_water=§7Missing water
+GT5U.gui.text.no_lava=§7Missing lava
+GT5U.gui.text.no_air=§7Missing air
+GT5U.gui.text.no_co2=§7Missing CO2
+GT5U.gui.text.no_li2bef4=§7Missing Li2BeF4
+GT5U.gui.text.no_saw=§7Missing saw
+GT5U.gui.text.no_sapling=§7Missing sapling
+GT5U.gui.text.no_oxygen=§7Missing oxygen
+GT5U.gui.text.fuel_blacklisted=§7Fuel blacklisted
+GT5U.gui.text.no_catalyst=§7No valid catalyst found
+GT5U.gui.text.no_milling_ball=§7No milling ball found
+GT5U.gui.text.growing_trees=§aGrowing trees
+GT5U.gui.text.managing_power=§aManaging power
+GT5U.gui.text.no_scrap=§aInput too low quality
+GT5U.gui.text.warm_up=§aWarming up
+GT5U.gui.text.machine_locked_to_different_recipe=§7Machine is already locked to a different recipe
+GT5U.gui.text.no_output_for_sapling=§7This sapling yields no outputs
+GT5U.gui.text.no_tools=§7Missing applicable tools
 
-GTPP.EBF.heat=热容
+GTPP.EBF.heat=Heat capacity
 
-GTPP.machines.tier=等级
-GTPP.machines.input=输入
-GTPP.machines.output=输出
+GTPP.machines.tier=Tier
+GTPP.machines.input=Input
+GTPP.machines.output=Output
 
-GTPP.multiblock.pollutionreduced=减少污染至
-GTPP.multiblock.pollution=污染
-GTPP.multiblock.energy=能量存储
-GTPP.multiblock.progress=进度
-GTPP.multiblock.efficiency=效率
-GTPP.multiblock.problems=维护问题
-GTPP.multiblock.mei=最大能量输入
-GTPP.multiblock.usage=NEI功率
-GTPP.multiblock.generation=可能生成
-GTPP.multiblock.specialvalue=特殊值
-GTPP.multiblock.duration=NEI时间
-GTPP.multiblock.multimachine.metal=模式:金属. 可充当压缩机(20号电路板),车床(21号电路板)或磁化机(22号电路板).
-GTPP.multiblock.multimachine.fluid=模式: 流体. 可充当发酵槽(电路板20), 流体提取机(电路板21) 或提取机(电路板22).
-GTPP.multiblock.multimachine.misc=模式: 杂项. 可充当激光蚀刻机(电路板20), 高压釜(电路板21) 或流体固化器(电路板22).
+GTPP.multiblock.pollutionreduced=Pollution reduced to
+GTPP.multiblock.pollution=Pollution
+GTPP.multiblock.energy=Stored Energy
+GTPP.multiblock.progress=Progress
+GTPP.multiblock.efficiency=Efficiency
+GTPP.multiblock.problems=Problems
+GTPP.multiblock.mei=Max Energy Income
+GTPP.multiblock.usage=Probably uses
+GTPP.multiblock.generation=Probably generates
+GTPP.multiblock.specialvalue=Special Value
+GTPP.multiblock.duration=Duration
+GTPP.multiblock.multimachine.metal=Metal Mode. Does compressor (circuit 20), lathe (circuit 21) and electromagnetic polarizer (circuit 22).
+GTPP.multiblock.multimachine.fluid=Fluid Mode. Does fermenter (circuit 20), fluid extractor (circuit 21) and extractor (circuit 22).
+GTPP.multiblock.multimachine.misc=Misc. Mode. Does precision laser engraver (circuit 20), autoclave (circuit 21) and fluid solidifier (circuit 22).
 
 
-GTPP.waila.steam.use=可能消耗: §e%s§r L/t 蒸汽
+GTPP.waila.steam.use=Probably uses: §e%s§r L/t Steam
 
-GTPP.CC.machinetier=控制核心等级
-GTPP.CC.discount=EU损耗
-GTPP.CC.parallel=最大并行
+GTPP.CC.machinetier=Control Core Tier
+GTPP.CC.discount=EU Discount
+GTPP.CC.parallel=Maximum Parallel
 
 //Tooltips for the Charger Packs
-GTPP.battpack.tooltip.1=在Baubles的腰带栏内使用
-GTPP.battpack.tooltip.2=消耗
-GTPP.battpack.tooltip.3=给穿着的盔甲充能
-GTPP.battpack.tooltip.4=同样给快捷栏内的物品充能
+GTPP.battpack.tooltip.1=Worn as a Belt within Baubles
+GTPP.battpack.tooltip.2=Drains
+GTPP.battpack.tooltip.3=to charge worn armour
+GTPP.battpack.tooltip.4=Also charges items on the hotbar
 
 //Tooltips for the Personal Healing Bauble
-GTPP.nanohealer.tooltip.1=在Baubles的项链栏内使用
-GTPP.nanohealer.tooltip.2=消耗
-GTPP.nanohealer.tooltip.3=EU 每次操作
-GTPP.nanohealer.tooltip.4=可恢复HP,饱食度,和营养值.
-GTPP.nanohealer.tooltip.5=不会阻止死亡.
-GTPP.nanohealer.tooltip.6=Shift+右键来切换信息.
-GTPP.nanohealer.hidden=隐藏信息?
+GTPP.nanohealer.tooltip.1=Worn as a Necklace within Baubles
+GTPP.nanohealer.tooltip.2=Drains
+GTPP.nanohealer.tooltip.3= EU per operation.
+GTPP.nanohealer.tooltip.4=Can restore HP, Hunger and Saturation.
+GTPP.nanohealer.tooltip.5=Will not prevent death.
+GTPP.nanohealer.tooltip.6=Shift+RMB to toggle notifications.
+GTPP.nanohealer.hidden=Hiding Info?
 
 //10/4/19
 //Tooltips for the Mob Killing Baubles
-GTPP.monsterkiller.tooltip.1=在Baubles的护身符栏内使用
-GTPP.monsterkiller.tooltip.2=产生
-GTPP.monsterkiller.tooltip.3=每击杀一个指定怪物
-GTPP.monsterkiller.tooltip.4=目标类型:
+GTPP.monsterkiller.tooltip.1=Worn as an Amulet within Baubles
+GTPP.monsterkiller.tooltip.2=Drains
+GTPP.monsterkiller.tooltip.3=per each kill
+GTPP.monsterkiller.tooltip.4=Target Type:
 
 //17/08/19
-GTPP.container.decaychest.name=可衰变
+GTPP.container.decaychest.name=Decayables
 
 
 
@@ -85,34 +85,34 @@ GTPP.container.decaychest.name=可衰变
 
 
 //NEI INFORMATION
-GTPP.nei.info=信息
+GTPP.nei.info=Information
 GTPP.nei.eutick=Eu/t
-GTPP.nei.timetaken=耗时
-GTPP.nei.output=输出
-GTPP.nei.input=输入
-GTPP.nei.result=产物
-GTPP.nei.radioation=辐射等级
+GTPP.nei.timetaken=Time Taken
+GTPP.nei.output=Output
+GTPP.nei.input=Input
+GTPP.nei.result=Result
+GTPP.nei.radioation=Radiation Level
 
 //Some Generic Words
 GTPP.info.eu=EU
-GTPP.info.euInfo=EU信息
-GTPP.info.inputLimit=输入限制
-GTPP.info.currentPower=当前能量
-GTPP.info.hidden=隐藏
+GTPP.info.euInfo=EU Information
+GTPP.info.inputLimit=Input Limit
+GTPP.info.currentPower=Current Power
+GTPP.info.hidden=Hidden
 
 //Some Time Words
-GTPP.time.ticks=t
-GTPP.time.seconds=秒
-GTPP.time.minutes=分
-GTPP.time.hours=时
-GTPP.time.days=天
-GTPP.time.weeks=周
-GTPP.time.months=月
+GTPP.time.ticks=Ticks
+GTPP.time.seconds=Seconds
+GTPP.time.minutes=Minutes
+GTPP.time.hours=Hours
+GTPP.time.days=Days
+GTPP.time.weeks=Weeks
+GTPP.time.months=Months
 
 //Steam MultiBlock Tooltips
-GTPP.MBTT.SteamHatch=蒸汽仓
-GTPP.MBTT.SteamInputBus=输入总线(蒸汽)
-GTPP.MBTT.SteamOutputBus=输出总线(蒸汽)
+GTPP.MBTT.SteamHatch=Steam Hatch
+GTPP.MBTT.SteamInputBus=Input Bus (Steam)
+GTPP.MBTT.SteamOutputBus=Output Bus (Steam)
 
 
 
@@ -124,160 +124,160 @@ GTPP.MBTT.SteamOutputBus=输出总线(蒸汽)
 //Achievements
 
 //4/2/19
-achievement.gt.blockmachines.fusioncomputer.tier.09=聚变计算机MK IV
-achievement.gtplusplus.blockcasings.3.12=聚变框架MK III
-achievement.gtplusplus.blockcasings.3.13=进阶磁力遏制!
-achievement.gtplusplus.blockcasings.3.15=量子遏制!
-achievement.gt.blockmachines.fusioncomputer.tier.09.desc=[AL]捡起此物品以在NEI内解锁该合成表
-achievement.gtplusplus.blockcasings.3.12.desc=[AL]捡起此物品以在NEI内解锁该合成表
-achievement.gtplusplus.blockcasings.3.13.desc=[AL]捡起此物品以在NEI内解锁该合成表
-achievement.gtplusplus.blockcasings.3.15.desc=[AL]捡起此物品以在NEI内解锁该合成表
-achievement.gt.blockmachines.gtplusplus.fusion.single=可控聚变
-achievement.gt.blockmachines.gtplusplus.tank.plasma=等离子存储
-achievement.gt.blockmachines.gtplusplus.fusion.single.desc=[AL]捡起此物品以在NEI内解锁该合成表
-achievement.gt.blockmachines.gtplusplus.tank.plasma.desc=[AL]捡起此物品以在NEI内解锁该合成表
+achievement.gt.blockmachines.fusioncomputer.tier.09=Fusion Computer Mark IV
+achievement.gtplusplus.blockcasings.3.12=Fusion Casing MK III
+achievement.gtplusplus.blockcasings.3.13=Advanced Magnetic Containment!
+achievement.gtplusplus.blockcasings.3.15=Quantum Containment!
+achievement.gt.blockmachines.fusioncomputer.tier.09.desc=[AL] Pickup this item to see the recipe in NEI
+achievement.gtplusplus.blockcasings.3.12.desc=[AL] Pickup this item to see the recipe in NEI
+achievement.gtplusplus.blockcasings.3.13.desc=[AL] Pickup this item to see the recipe in NEI
+achievement.gtplusplus.blockcasings.3.15.desc=[AL] Pickup this item to see the recipe in NEI
+achievement.gt.blockmachines.gtplusplus.fusion.single=Alternative Fusion
+achievement.gt.blockmachines.gtplusplus.tank.plasma=Plasma Storage
+achievement.gt.blockmachines.gtplusplus.fusion.single.desc=[AL] Pickup this item to see the recipe in NEI
+achievement.gt.blockmachines.gtplusplus.tank.plasma.desc=[AL] Pickup this item to see the recipe in NEI
 
 
 //5/2/19
-achievement.MU-metaitem.01.32106=初级物理学家
-achievement.MU-metaitem.01.32107=研究生物理学家
-achievement.MU-metaitem.01.32108=学术物理学家
-achievement.MU-metaitem.01.32109=物理学硕士
-achievement.MU-metaitem.01.32106.desc=[AL]捡起此物品以在NEI内解锁该合成表
-achievement.MU-metaitem.01.32107.desc=[AL]捡起此物品以在NEI内解锁该合成表
-achievement.MU-metaitem.01.32108.desc=[AL]捡起此物品以在NEI内解锁该合成表
-achievement.MU-metaitem.01.32109.desc=[AL]捡起此物品以在NEI内解锁该合成表
-achievement.MU-metaitem.01.32066=质子遏制
-achievement.MU-metaitem.01.32068=电子遏制
-achievement.MU-metaitem.01.32070=夸克遏制
-achievement.MU-metaitem.01.32110=引力遏制
-achievement.MU-metaitem.01.32066.desc=[AL]捡起此物品以在NEI内解锁该合成表
-achievement.MU-metaitem.01.32068.desc=[AL]捡起此物品以在NEI内解锁该合成表
-achievement.MU-metaitem.01.32070.desc=[AL]捡起此物品以在NEI内解锁该合成表
-achievement.MU-metaitem.01.32110.desc=[AL]捡起此物品以在NEI内解锁该合成表
-achievement.item.personalHealingDevice=食物是给笨蛋的
-achievement.item.personalHealingDevice.desc=[AL]你已经升级到纳米，未来在你手中
-achievement.item.GTPP.BattPack.06.name=充电工具包Mk I
-achievement.item.GTPP.BattPack.07.name=充电工具包Mk II
-achievement.item.GTPP.BattPack.08.name=充电工具包Mk III
-achievement.item.GTPP.BattPack.09.name=充电工具包Mk IV
-achievement.item.GTPP.BattPack.06.name.desc=[AL]捡起此物品以在NEI内解锁该合成表
-achievement.item.GTPP.BattPack.07.name.desc=[AL]捡起此物品以在NEI内解锁该合成表
-achievement.item.GTPP.BattPack.08.name.desc=[AL]捡起此物品以在NEI内解锁该合成表
-achievement.item.GTPP.BattPack.09.name.desc=[AL]捡起此物品以在NEI内解锁该合成表
+achievement.MU-metaitem.01.32106=Junior Physicist
+achievement.MU-metaitem.01.32107=Graduate Physicist
+achievement.MU-metaitem.01.32108=Scholarly Physicist
+achievement.MU-metaitem.01.32109=Master Physicist
+achievement.MU-metaitem.01.32106.desc=[AL] Pickup this item to see the recipe in NEI
+achievement.MU-metaitem.01.32107.desc=[AL] Pickup this item to see the recipe in NEI
+achievement.MU-metaitem.01.32108.desc=[AL] Pickup this item to see the recipe in NEI
+achievement.MU-metaitem.01.32109.desc=[AL] Pickup this item to see the recipe in NEI
+achievement.MU-metaitem.01.32066=Proton Containment
+achievement.MU-metaitem.01.32068=Electron Containment
+achievement.MU-metaitem.01.32070=Quark Containment
+achievement.MU-metaitem.01.32110=Graviton Containment
+achievement.MU-metaitem.01.32066.desc=[AL] Pickup this item to see the recipe in NEI
+achievement.MU-metaitem.01.32068.desc=[AL] Pickup this item to see the recipe in NEI
+achievement.MU-metaitem.01.32070.desc=[AL] Pickup this item to see the recipe in NEI
+achievement.MU-metaitem.01.32110.desc=[AL] Pickup this item to see the recipe in NEI
+achievement.item.personalHealingDevice=Food is for chumps
+achievement.item.personalHealingDevice.desc=[AL] You have upgraded to the nano, the future is yours
+achievement.item.GTPP.BattPack.06.name=Charge Pack Mk I
+achievement.item.GTPP.BattPack.07.name=Charge Pack Mk II
+achievement.item.GTPP.BattPack.08.name=Charge Pack Mk III
+achievement.item.GTPP.BattPack.09.name=Charge Pack Mk IV
+achievement.item.GTPP.BattPack.06.name.desc=[AL] Pickup this item to see the recipe in NEI
+achievement.item.GTPP.BattPack.07.name.desc=[AL] Pickup this item to see the recipe in NEI
+achievement.item.GTPP.BattPack.08.name.desc=[AL] Pickup this item to see the recipe in NEI
+achievement.item.GTPP.BattPack.09.name.desc=[AL] Pickup this item to see the recipe in NEI
 
 
 
 //14/2/19
 achievement.gtpp.start=Gregtech++
-achievement.gtpp.start.desc=那么，你认为你有这个能力吗？
-achievement.hatch.control=这是你放置控制核心的地方
-achievement.hatch.control.desc=所有GT++多方块机器都需要的特殊仓室.
-achievement.hatch.dynamo.buffered=缓冲动力仓
-achievement.hatch.dynamo.buffered.desc=同一台多方块机器，更高功率！
-achievement.multi.abs=合金冶炼炉[ABS]
-achievement.multi.abs.desc=用于制造大多数后期合金.
-achievement.dust.potin=铜锡铅合金！
-achievement.dust.potin.desc=好吧，你得从某个地方开始...
-achievement.dust.eglin=埃格林钢！
-achievement.dust.eglin.desc=有进展，虽然很慢…
-achievement.dust.staballoy=贫铀合金！
-achievement.dust.staballoy.desc=现在我们正在讨论...
-achievement.dust.quantum=量子！
-achievement.dust.quantum.desc=原始材料
-achievement.dust.hypogen=海珀珍！
-achievement.dust.hypogen.desc=这到底是什么材料？
-achievement.block.fishtrap=免费的鱼
-achievement.block.fishtrap.desc=比潘马斯农场好.
-achievement.block.withercage=监狱
-achievement.block.withercage.desc=用此捕捉凋灵/末影龙.
-achievement.rtg=放射性同位素热电发电！
-achievement.rtg.desc=可能盗于俄罗斯,小心使用.
-achievement.dehydrate=脱水
-achievement.dehydrate.desc=喝点水.
-achievement.semifluid=它有点像液体，但并不是
-achievement.semifluid.desc=半流质令人困惑.
-achievement.earlywasher=简单的洗矿场
-achievement.earlywasher.desc=只在ULV下工作.
-achievement.advancedsteam=替代蒸汽选项
-achievement.advancedsteam.desc=智能油耗
-achievement.pollutionremoval=污染，没了！
-achievement.pollutionremoval.desc=污 染 不 好
-achievement.hiampxform=高电流变压器
-achievement.hiampxform.desc=进阶电力转换
-achievement.multi.pss=能源站[PSS]
-achievement.multi.pss.desc=电力网络存储.
-achievement.multi.cyclo=回旋加速器
-achievement.multi.cyclo.desc=高级科学
-achievement.multi.sifter=工业筛选机
-achievement.multi.sifter.desc=比乌龟快.
-achievement.multi.cokeoven=工业焦炉[ICO]
-achievement.multi.cokeoven.desc=比热解炉更好
-achievement.multi.boiler.thermal=地热锅炉
-achievement.multi.boiler.thermal.desc=熔岩也能用！
-achievement.multi.zhuhai=珠海，渔场
-achievement.multi.zhuhai.desc=实际存在
-achievement.casing.abs=进展缓慢
-achievement.casing.abs.desc=最终，你将拥有你的合金冶炼炉。
-achievement.casing.cyclotron.coil=进展缓慢
-achievement.casing.cyclotron.coil.desc=想想你为什么要这样做…
-achievement.casing.multiuse=我要做很多这些
-achievement.casing.multiuse.desc=不要开始计数.
-achievement.casing.containment=这个是干什么的？
-achievement.casing.containment.desc=我应该试着找出答案.
-achievement.decay.neptunium238=镎-238
-achievement.decay.neptunium238.desc=回旋加速器产物
-achievement.decay.radium226=镭-226
-achievement.decay.radium226.desc=回旋加速器产物
-achievement.decay.molybdenum99=钼-99
-achievement.decay.molybdenum99.desc=回旋加速器产物
-achievement.decay.technetium99m=锝99M
-achievement.decay.technetium99m.desc=回旋加速器产物
-achievement.decay.technetium99=锝99
-achievement.decay.technetium99.desc=回旋加速器产物
+achievement.gtpp.start.desc=So, think you've got what it takes?
+achievement.hatch.control=This is where you put the Control Core
+achievement.hatch.control.desc=A special hatch required by all GT++ Multiblocks.
+achievement.hatch.dynamo.buffered=Buffered Dynamo Hatch
+achievement.hatch.dynamo.buffered.desc=More energy from the same multi!
+achievement.multi.abs=Alloy Blast Smelter [ABS]
+achievement.multi.abs.desc=Used to create most late game alloys.
+achievement.dust.potin=Potin!
+achievement.dust.potin.desc=Well, you gotta start somewhere...
+achievement.dust.eglin=Eglin Steel!
+achievement.dust.eglin.desc=Progress, albeit slow...
+achievement.dust.staballoy=Staballoy!
+achievement.dust.staballoy.desc=Now we're talking...
+achievement.dust.quantum=Quantum!
+achievement.dust.quantum.desc=Raw Matter.
+achievement.dust.hypogen=Hypogen!
+achievement.dust.hypogen.desc=What even is this material?
+achievement.block.fishtrap=Free Fish
+achievement.block.fishtrap.desc=Better than HarvestCraft.
+achievement.block.withercage=Jail
+achievement.block.withercage.desc=Trap a Wither/Dragon with this.
+achievement.rtg=Radioisotope Thermoelectric Generation!
+achievement.rtg.desc=Probably stolen from Russia, use with care.
+achievement.dehydrate=Dehydration
+achievement.dehydrate.desc=Drink some water.
+achievement.semifluid=It's like a fluid, but it's not
+achievement.semifluid.desc=Semifluids are confusing.
+achievement.earlywasher=Simple Ore Washer
+achievement.earlywasher.desc=Runs on ULV only.
+achievement.advancedsteam=Alternative Steam options
+achievement.advancedsteam.desc=Smart fuel consumption
+achievement.pollutionremoval=Pollution, no more!
+achievement.pollutionremoval.desc=POLLUTION IS BAD
+achievement.hiampxform=High Amp Transformers
+achievement.hiampxform.desc=Advanced power transformation
+achievement.multi.pss=Power Sub-Station [PSS]
+achievement.multi.pss.desc=Grid Power Storage.
+achievement.multi.cyclo=Cyclotron
+achievement.multi.cyclo.desc=Advanced Science
+achievement.multi.sifter=Industrial Sifter
+achievement.multi.sifter.desc=Faster than a turtle.
+achievement.multi.cokeoven=Industrial Coke Oven [ICO]
+achievement.multi.cokeoven.desc=Better than a Pyrolyse
+achievement.multi.boiler.thermal=Thermal Boiler
+achievement.multi.boiler.thermal.desc=Pahoehoe works too!
+achievement.multi.zhuhai=Zhuhai, Fishing Port
+achievement.multi.zhuhai.desc=Actually exists
+achievement.casing.abs=Slow Progress
+achievement.casing.abs.desc=Eventually, you will have your ABS.
+achievement.casing.cyclotron.coil=Slower Progress
+achievement.casing.cyclotron.coil.desc=Consider why you're even doing this..
+achievement.casing.multiuse=I'm going to make lots of these
+achievement.casing.multiuse.desc=Don't start counting.
+achievement.casing.containment=What's this for?
+achievement.casing.containment.desc=I should probably try find out.
+achievement.decay.neptunium238=Neptunium 238
+achievement.decay.neptunium238.desc=Cyclotron Product
+achievement.decay.radium226=Radium 226
+achievement.decay.radium226.desc=Cyclotron Product
+achievement.decay.molybdenum99=Molybdenum 99
+achievement.decay.molybdenum99.desc=Cyclotron Product
+achievement.decay.technetium99m=Technetium 99M
+achievement.decay.technetium99m.desc=Cyclotron Product
+achievement.decay.technetium99=Technetium 99
+achievement.decay.technetium99.desc=Cyclotron Product
 
 //24/11/19
-achievement.gt.blockmachines.hatch.turbine.input.tier.00=涡轮仓
-achievement.gt.blockmachines.hatch.turbine.input.tier.00.desc=[AL]捡起此物品以在NEI内解锁该合成表
+achievement.gt.blockmachines.hatch.turbine.input.tier.00=Turbine Housing
+achievement.gt.blockmachines.hatch.turbine.input.tier.00.desc=[AL] Pickup this item to see the recipe in NEI
 
 //Added 6/12/21
-achievement.gt.blockmachines.gtpp.multimachine.flotationcell=工业浮选机
-achievement.gt.blockmachines.gtpp.multimachine.flotationcell.desc=[AL]捡起此物品以在NEI内解锁该合成表
-achievement.gt.blockmachines.gtpp.multimachine.isamill=艾萨研磨机
-achievement.gt.blockmachines.gtpp.multimachine.isamill.desc=[AL]捡起此物品以在NEI内解锁该合成表
+achievement.gt.blockmachines.gtpp.multimachine.flotationcell=Flotation Cell
+achievement.gt.blockmachines.gtpp.multimachine.flotationcell.desc=[AL] Pickup this item to see the recipe in NEI
+achievement.gt.blockmachines.gtpp.multimachine.isamill=IsaMill
+achievement.gt.blockmachines.gtpp.multimachine.isamill.desc=[AL] Pickup this item to see the recipe in NEI
 
 //2023-1-13
-achievement.gt.blockmachines.industrialalloysmelter.controller.tier.mega=工业合金炉
+achievement.gt.blockmachines.industrialalloysmelter.controller.tier.mega=Fast Pikachu-Alloy at last
 
 //2023-4-8
-tooltip.flotationCell.lockedTo=锁定为：
-tooltip.large_macerator.tier=等级：§6%s
-tooltip.large_distill_tower.upgraded=§6已升级
+tooltip.flotationCell.lockedTo=Locked to:
+tooltip.large_macerator.tier=Tier: §6%s
+tooltip.large_distill_tower.upgraded=§6Upgraded
 
 //2023-7-12
-achievement.gtplusplus.blockcasings.5.3=元素约束机械方块
-achievement.gtplusplus.blockcasings.5.3.desc=[AL]捡起此物品以在NEI内解锁该合成表
-achievement.gtplusplus.blockcasings.5.7=中子脉冲控制方块
-achievement.gtplusplus.blockcasings.5.7.desc=[AL]捡起此物品以在NEI内解锁该合成表
-achievement.gtplusplus.blockcasings.5.8=寰宇强化脉冲控制方块
-achievement.gtplusplus.blockcasings.5.8.desc=[AL]捡起此物品以在NEI内解锁该合成表
-achievement.gtplusplus.blockcasings.5.9=无尽强化脉冲控制方块
-achievement.gtplusplus.blockcasings.5.9.desc=[AL]捡起此物品以在NEI内解锁该合成表
-achievement.gtplusplus.blockcasings.5.10=时空连续体撕裂方块
-achievement.gtplusplus.blockcasings.5.10.desc=[AL]捡起此物品以在NEI内解锁该合成表
-achievement.gtplusplus.blockcasings.5.11=中子屏蔽核心方块
-achievement.gtplusplus.blockcasings.5.11.desc=[AL]捡起此物品以在NEI内解锁该合成表
-achievement.gtplusplus.blockcasings.5.12=寰宇强化屏蔽核心方块
-achievement.gtplusplus.blockcasings.5.12.desc=[AL]捡起此物品以在NEI内解锁该合成表
-achievement.gtplusplus.blockcasings.5.13=无尽强化屏蔽核心方块
-achievement.gtplusplus.blockcasings.5.13.desc=[AL]捡起此物品以在NEI内解锁该合成表
-achievement.gtplusplus.blockcasings.5.14=时空扭曲核心方块
-achievement.gtplusplus.blockcasings.5.14.desc=[AL]捡起此物品以在NEI内解锁该合成表
-achievement.gt.blockmachines.sparge.controller.single=气涤塔
-achievement.gt.blockmachines.sparge.controller.single.desc=[AL]捡起此物品以在NEI内解锁该合成表
-achievement.gt.blockmachines.industrialsalloyamelter.controller.tier.mega=巨型合金冶炼炉
-achievement.gt.blockmachines.industrialsalloyamelter.controller.tier.mega.desc=[AL]捡起此物品以在NEI内解锁该合成表
-achievement.gt.blockmachines.moleculartransformer.controller.tier.single=分子重组仪
-achievement.gt.blockmachines.moleculartransformer.controller.tier.single.desc=[AL]捡起此物品以在NEI内解锁该合成表
-achievement.gt.blockmachines.gtpp.multimachine.replicator=大型元素复制机
-achievement.gt.blockmachines.gtpp.multimachine.replicator.desc=[AL]捡起此物品以在NEI内解锁该合成表
+achievement.gtplusplus.blockcasings.5.3=Elemental Confinement Shell
+achievement.gtplusplus.blockcasings.5.3.desc=[AL] Pickup this item to see the recipe in NEI
+achievement.gtplusplus.blockcasings.5.7=Neutron Pulse Manipulator
+achievement.gtplusplus.blockcasings.5.7.desc=[AL] Pickup this item to see the recipe in NEI
+achievement.gtplusplus.blockcasings.5.8=Cosmic Fabric Manipulator
+achievement.gtplusplus.blockcasings.5.8.desc=[AL] Pickup this item to see the recipe in NEI
+achievement.gtplusplus.blockcasings.5.9=Infinity Infused Manipulator
+achievement.gtplusplus.blockcasings.5.9.desc=[AL] Pickup this item to see the recipe in NEI
+achievement.gtplusplus.blockcasings.5.10=SpaceTime Continuum Manipulator
+achievement.gtplusplus.blockcasings.5.10.desc=[AL] Pickup this item to see the recipe in NEI
+achievement.gtplusplus.blockcasings.5.11=Neutron Shielding Core
+achievement.gtplusplus.blockcasings.5.11.desc=[AL] Pickup this item to see the recipe in NEI
+achievement.gtplusplus.blockcasings.5.12=Cosmic Fabric Shielding Core
+achievement.gtplusplus.blockcasings.5.12.desc=[AL] Pickup this item to see the recipe in NEI
+achievement.gtplusplus.blockcasings.5.13=Infinity Infused Shielding Core
+achievement.gtplusplus.blockcasings.5.13.desc=[AL] Pickup this item to see the recipe in NEI
+achievement.gtplusplus.blockcasings.5.14=SpaceTime Bending Core
+achievement.gtplusplus.blockcasings.5.14.desc=[AL] Pickup this item to see the recipe in NEI
+achievement.gt.blockmachines.sparge.controller.single=Sparge Tower
+achievement.gt.blockmachines.sparge.controller.single.desc=[AL] Pickup this item to see the recipe in NEI
+achievement.gt.blockmachines.industrialsalloyamelter.controller.tier.mega=Mega Alloy Blast Smelter
+achievement.gt.blockmachines.industrialsalloyamelter.controller.tier.mega.desc=[AL] Pickup this item to see the recipe in NEI
+achievement.gt.blockmachines.moleculartransformer.controller.tier.single=Molecular Transformer
+achievement.gt.blockmachines.moleculartransformer.controller.tier.single.desc=[AL] Pickup this item to see the recipe in NEI
+achievement.gt.blockmachines.gtpp.multimachine.replicator=Elemental Duplicator
+achievement.gt.blockmachines.gtpp.multimachine.replicator.desc=[AL] Pickup this item to see the recipe in NEI
