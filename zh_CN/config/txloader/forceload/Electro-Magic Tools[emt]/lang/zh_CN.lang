@@ -1,422 +1,428 @@
 #=============Creative Tab Name=============
-itemGroup.EMT.creativeTab=电子魔法工具
+itemGroup.EMT.creativeTab=Electro-Magic Tools
 
 #=============Thaumonomicon Tab Name=============
-tc.research_category.EMT=电子魔法工具
+tc.research_category.EMT=Electro-Magic Tools
 
 #=============GUI=============
-gui.EMT.config.title=选项
-gui.EMT.etherealMacerator.title=天域加工机
-gui.EMT.wandRecharge.title=工业法杖充能站
-gui.EMT.inventory=物品栏
-gui.EMT.book.aspect.output.eu.title=源质发电机
-gui.EMT.book.aspect.output.essentia.eu=源质发电功率
-gui.EMT.key.unequip=卸下装备
-emt.Output=输出：
-emt.Storage=存储：
-emt.PressShift=<按下Shift>
-emt.Generating=发电：
-emt.Fuel=燃料
-emt.OutputMax=最大输出：
-emt.remaining_second=剩余秒数：
+gui.EMT.config.title=Electro-Magic Tools Configuration
+gui.EMT.etherealMacerator.title=Ethereal Processor
+gui.EMT.wandRecharge.title=Industrial Wand Recharge Station
+gui.EMT.inventory=Inventory
+gui.EMT.book.aspect.output.eu.title=Essentia Outputs Book
+gui.EMT.book.aspect.output.essentia.eu=EU Output per Essentia
+gui.EMT.key.unequip=Unequip
+emt.Output=Output:
+emt.Storage=Storage:
+emt.PressShift=<Press SHIFT>
+emt.Generating=Generating:
+emt.Fuel=Fuel
+emt.OutputMax=Output at Max:
+emt.remaining_second=Remaining seconds:
 
 #=============Tooltips=============
 #This comes after a player name. The 's is depicting ownership.
-tooltip.EMT.hammer.broken.The Hammer of Thor=破碎的雷神之锤
-tooltip.EMT.hammer.electric=%player%的雷神之锤
-tooltip.EMT.hammer.broken.thor=它曾经是属于托尔的雷神之锤
-tooltip.EMT.hammer.broken.danger=现在它充满着危险的能量
-tooltip.EMT.hammer.broken.plsNoRightClick=千万不要使用
-tooltip.EMT.hammer.broken.plsRightClick=右键使用
-tooltip.EMT.visDiscount=魔力减免
-tooltip.EMT.specialEffect=特殊效果
-tooltip.EMT.normalConditions=普通状态
+tooltip.EMT.hammer.broken.The Hammer of Thor=The Hammer of Thor
+tooltip.EMT.hammer.electric=%player%'s Hammer
+tooltip.EMT.hammer.broken.thor=It was once the Hammer of Thor.
+tooltip.EMT.hammer.broken.danger=It is now very dangerous.
+tooltip.EMT.hammer.broken.plsNoRightClick=Do NOT right-click.
+tooltip.EMT.hammer.broken.plsRightClick=Do right-click.
+tooltip.EMT.visDiscount=Vis Discount
+tooltip.EMT.specialEffect=Special Effect
+tooltip.EMT.normalConditions=Normal Conditions
 tooltip.EMT.euPerTick=EU/t
-tooltip.EMT.night=夜晚时发电量
-tooltip.EMT.day=白天时发电量
-tooltip.EMT.forget=我忘记写下提示信息了吗?
-tooltip.EMT.raining=降雨时发电量
-tooltip.EMT.thunder=雷雨时发电量
-tooltip.EMT.underwater=水下发电量
-tooltip.EMT.output.double=输出2倍电量
-tooltip.EMT.output.triple=输出3倍电量
-tooltip.EMT.output.double.nether=处于下界时发电量
-tooltip.EMT.output.double.lava=每秒供给0.01vis火之要素时发电量
-tooltip.EMT.output.double.half.height=位置越高发电量越高(y=5时1倍，y=220时3倍)
-tooltip.EMT.output.double.half.low=位置越低发电量越高(y=220时1倍，y=5时3倍)
+tooltip.EMT.night=at night
+tooltip.EMT.day=at day
+tooltip.EMT.forget=Didn't I forget a tooltip?
+tooltip.EMT.raining=while raining
+tooltip.EMT.thunder=while in a thunderstorm
+tooltip.EMT.underwater=while under water
+tooltip.EMT.output.double=Output multiplied by 2
+tooltip.EMT.output.triple=Output multiplied by 3
+tooltip.EMT.output.double.nether=when located in the Nether
+tooltip.EMT.output.double.lava=when fed with Ignis Centivis
+tooltip.EMT.output.double.half.height=Higher output at heights (x1 at y = 5, x3 at y=220)
+tooltip.EMT.output.double.half.low=Higher output at depths (x1 at y = 220, x3 at y=5)
 
 #=============Entity Names=============
-entity.EMT.laser.name=镭射器
-entity.EMT.archer.name=雪人守卫
-entity.EMT.shield.name=护盾
+entity.EMT.laser.name=Laser
+entity.EMT.archer.name=Guardian Snowman
+entity.EMT.shield.name=Shield
 
 #=============Item Names=============
-item.EMT.oreClusterUranium=铀矿簇
-item.EMT.crushedOreAmber.name=粉碎琥珀矿
-item.EMT.purifiedOreAmber.name=纯净的粉碎琥珀矿
-item.EMT.crushedOreCinnabar.name=粉碎朱砂矿
-item.EMT.purifiedOreCinnabar.name=纯净的粉碎朱砂矿
-item.EMT.thaumiumPlate.name=神秘板
-item.EMT.lightningSummoner.name=雷电碎片
-item.EMT.featherMesh.name=织羽
-item.EMT.glue.name=粘合剂
-item.EMT.ductTape.name=布基胶带
-item.EMT.rubberBall.name=橡胶球
-item.EMT.cardboard.name=硬纸板
-item.EMT.featherGluedCardboardWing.name=纸板羽翼
-item.EMT.denseIronSheet.name=致密铁片
-item.EMT.taintedFeather.name=腐化羽毛
-item.EMT.thaumiumWing.name=神秘强化羽翼
-item.EMT.uumatterDrop.name=结晶UU物质液滴
-item.EMT.draconicSchematic.name=[弃用]龙芯图纸
-item.EMT.wyvernSchematic.name=[弃用]双足飞龙核心图纸
-item.EMT.awakenedSchematic.name=[弃用]觉醒核心图纸
-item.EMT.chaoticSchematic.name=[弃用]混沌核心图纸
-item.EMT.bauble.euMaker.armor.name=装备充电指环
-item.EMT.bauble.euMaker.inventory.name=物品充能指环
-item.EMT.bauble.oneRing.name=魔戒
-item.EMT.goggles.electric.name=电子揭示护目镜
-item.EMT.goggles.nano.name=纳米揭示护目镜
-item.EMT.goggles.quantum.name=量子揭示护目镜
-item.EMT.goggles.solar.name=太阳能揭示护目镜
-item.EMT.boots.traveller.electric.name=电子旅行者之靴
-item.EMT.boots.traveller.nano.name=纳米旅行者之靴
-item.EMT.boots.traveller.quantum.name=量子旅行者之靴
-item.EMT.scribingtools.electric.name=电子笔与墨
-item.EMT.wing.feather.name=粘合纸板羽翼
-item.EMT.wing.thaumium.name=神秘强化羽翼
-item.EMT.wing.nano.name=纳米羽翼
-item.EMT.wing.quantum.name=量子羽翼
-item.EMT.chestplates.infusedQuantum.name=注魔量子胸甲
-item.EMT.hammer.broken.name=破损的雷神之锤
-item.EMT.hammer.name=雷神之锤
-item.EMT.hammer.electric.name=高压雷神之锤
-item.EMT.drill.thaumium.name=神秘钻头
-item.EMT.chainsaw.diamond.name=钻石链锯
-item.EMT.chainsaw.thaumium.name=神秘链锯
-item.EMT.omnitool.iron.name=铁制钻锯
-item.EMT.omnitool.diamond.name=钻石钻锯
-item.EMT.omnitool.thaumium.name=神秘钻锯
-item.EMT.chainsaw.stream.name=奔雷电锯
-item.EMT.drill.rockbreaker.name=岩石粉碎者
-item.EMT.hoeofgrowth.electric.name=电子句芒锄
-item.EMT.focus.explosion.name=法杖核心:爆炸
-item.EMT.focus.christmas.name=法杖核心:圣诞
-item.EMT.focus.shield.name=法杖核心:护盾
-item.EMT.focus.charge.name=法杖核心:充电
-item.EMT.focus.chargeWand.name=法杖核心:化魔
-item.EMT.focus.maintenance.name=法杖核心:维护
-item.EMT.focus.electricCloud.name=雷云之光
-item.EMT.focus.energyBall.name=法杖核心:能量球
+item.EMT.oreClusterUranium=Uranium Native Cluster
+item.EMT.crushedOreAmber.name=Crushed Amber Ore
+item.EMT.purifiedOreAmber.name=Purified Amber Ore
+item.EMT.crushedOreCinnabar.name=Crushed Cinnabar Ore
+item.EMT.purifiedOreCinnabar.name=Purified Cinnabar Ore
+item.EMT.thaumiumPlate.name=Thaumium Plate
+item.EMT.lightningSummoner.name=Lightning Summoner
+item.EMT.featherMesh.name=Feather Mesh
+item.EMT.glue.name=Glue
+item.EMT.ductTape.name=Duct Tape
+item.EMT.rubberBall.name=Rubber Ball
+item.EMT.cardboard.name=Cardboard Sheet
+item.EMT.featherGluedCardboardWing.name=Feather Glued Cardboard Wing
+item.EMT.denseIronSheet.name=Dense Iron Sheet
+item.EMT.taintedFeather.name=Tainted Feather
+item.EMT.thaumiumWing.name=Thaumium Reinforced Wing
+item.EMT.uumatterDrop.name=Crystallized UU-Matter Drop
+item.EMT.draconicSchematic.name=[DEPRECATED] Draconic Core Schematic
+item.EMT.wyvernSchematic.name=[DEPRECATED] Wyvern Core Schematic
+item.EMT.awakenedSchematic.name=[DEPRECATED] Awakened Core Schematic
+item.EMT.chaoticSchematic.name=[DEPRECATED] Chaotic Core Schematic
+item.EMT.bauble.euMaker.armor.name=Armor Charging Ring
+item.EMT.bauble.euMaker.inventory.name=Inventory Charging Ring
+item.EMT.bauble.oneRing.name=The One Ring
+item.EMT.goggles.electric.name=Electric Goggles of Revealing
+item.EMT.goggles.nano.name=Nanosuit Goggles of Revealing
+item.EMT.goggles.quantum.name=Quantum Goggles of Revealing
+item.EMT.goggles.solar.name=Solar Goggles of Revealing
+item.EMT.boots.traveller.electric.name=Electric Boots of the Traveller
+item.EMT.boots.traveller.nano.name=Nanosuit Boots of the Traveller
+item.EMT.boots.traveller.quantum.name=Quantum Boots of the Traveller
+item.EMT.scribingtools.electric.name=Electric Scribing Tools
+item.EMT.wing.feather.name=Feather Duct-Taped Wings
+item.EMT.wing.thaumium.name=Thaumium Reinforced Wings
+item.EMT.wing.nano.name=Nanosuit Wings
+item.EMT.wing.quantum.name=Quantum Wings
+ic2.EMT.quantum.name=Infused Quantum Chestplate
+item.EMT.chestplates.infusedQuantum.name=Infused Quantum Chestplate
+item.EMT.hammer.broken.name=Broken Relic of Mjolnir
+item.EMT.hammer.name=Mjolnir
+item.EMT.hammer.electric.name=Supercharged Mjolnir
+item.EMT.drill.thaumium.name=Thaumium Drill
+item.EMT.chainsaw.diamond.name=Diamond Chainsaw
+item.EMT.chainsaw.thaumium.name=Thaumium Chainsaw
+item.EMT.omnitool.iron.name=Iron Omnitool
+item.EMT.omnitool.diamond.name=Diamond Omnitool
+item.EMT.omnitool.thaumium.name=Thaumium Omnitool
+item.EMT.chainsaw.stream.name=Chainsaw of the Stream
+item.EMT.drill.rockbreaker.name=Drill of the Rockbreaker
+item.EMT.hoeofgrowth.electric.name=Electric Hoe of Growth
+item.EMT.focus.explosion.name=Wand Focus: Explosion
+item.EMT.focus.christmas.name=Wand Focus: Kris-tmas
+item.EMT.focus.shield.name=Wand Focus: Shield
+item.EMT.focus.charge.name=Wand Focus: Charging
+item.EMT.focus.chargeWand.name=Wand Focus: Wand Charging
+item.EMT.focus.maintenance.name=Wand Focus: Maintenance
+item.EMT.focus.electricCloud.name=Electric Cloud
+item.EMT.focus.energyBall.name=Energy Ball Focus
 
 #=============Block Names=============
-tile.EMT.electricCloud.name=雷云之光
-tile.EMT.shield.name=护盾方块
-tile.EMT.portablenode.name=便携式节点
-tile.EMT.essentia.potentia.name=能量源质发电机
-tile.EMT.essentia.ignis.name=火之源质发电机
-tile.EMT.essentia.auram.name=灵气源质发电机
-tile.EMT.essentia.arbor.name=木之源质发电机
-tile.EMT.essentia.aer.name=风之源质发电机
-tile.EMT.essentia.lucrum.name=贪婪源质发电机
-tile.EMT.machine.wandrecharge.name=工业法杖充能站
-tile.EMT.machine.etheralprocessor.name=天域加工机
-tile.EMT.machine.essentiafiller.name=源质填充机 - 即将弃用
-tile.EMT.solar.compressed.name=压缩太阳能(1级)
-tile.EMT.solar.doublecompressed.name=压缩太阳能(2级)
-tile.EMT.solar.triplecompressed.name=压缩太阳能(3级)
-tile.EMT.Quadruple_Compressed_Solar.name=压缩太阳能(4级)
-tile.EMT.Quintuple_Compressed_Solar.name=压缩太阳能(5级)
-tile.EMT.Sextuple_Compressed_Solar.name=压缩太阳能(6级)
-tile.EMT.Septuple_Compressed_Solar.name=压缩太阳能(7级)
-tile.EMT.Octuple_Compressed_Solar.name=压缩太阳能(8级)
-tile.EMT.solar.water.name=水注魔太阳能(1级)
-tile.EMT.solar.doublewater.name=水注魔太阳能(2级)
-tile.EMT.solar.triplewater.name=水注魔太阳能(3级)
-tile.EMT.Quadruple_Compressed_Aqua_Solar.name=水注魔太阳能(4级)
-tile.EMT.Quintuple_Compressed_Aqua_Solar.name=水注魔太阳能(5级)
-tile.EMT.Sextuple_Compressed_Aqua_Solar.name=水注魔太阳能(6级)
-tile.EMT.Septuple_Compressed_Aqua_Solar.name=水注魔太阳能(7级)
-tile.EMT.Octuple_Compressed_Aqua_Solar.name=水注魔太阳能(8级)
-tile.EMT.solar.dark.name=混沌注魔太阳能(1级)
-tile.EMT.solar.doubledark.name=混沌注魔太阳能(2级)
-tile.EMT.solar.tripledark.name=混沌注魔太阳能(3级)
-tile.EMT.Quadruple_Compressed_Perditio_Solar.name=混沌注魔太阳能(4级)
-tile.EMT.Quintuple_Compressed_Perditio_Solar.name=混沌注魔太阳能(5级)
-tile.EMT.Sextuple_Compressed_Perditio_Solar.name=混沌注魔太阳能(6级)
-tile.EMT.Septuple_Compressed_Perditio_Solar.name=混沌注魔太阳能(7级)
-tile.EMT.Octuple_Compressed_Perditio_Solar.name=混沌注魔太阳能(8级)
-tile.EMT.solar.order.name=秩序注魔太阳能(1级)
-tile.EMT.solar.doubleorder.name=秩序注魔太阳能(2级)
-tile.EMT.solar.tripleorder.name=秩序注魔太阳能(3级)
-tile.EMT.Quadruple_Compressed_Ordo_Solar.name=秩序注魔太阳能(4级)
-tile.EMT.Quintuple_Compressed_Ordo_Solar.name=秩序注魔太阳能(5级)
-tile.EMT.Sextuple_Compressed_Ordo_Solar.name=秩序注魔太阳能(6级)
-tile.EMT.Septuple_Compressed_Ordo_Solar.name=秩序注魔太阳能(7级)
-tile.EMT.Octuple_Compressed_Ordo_Solar.name=秩序注魔太阳能(8级)
-tile.EMT.solar.fire.name=火注魔太阳能(1级)
-tile.EMT.solar.doublefire.name=火注魔太阳能(2级)
-tile.EMT.solar.triplefire.name=火注魔太阳能(3级)
-tile.EMT.Quadruple_Compressed_Ignis_Solar.name=火注魔太阳能(4级)
-tile.EMT.Quintuple_Compressed_Ignis_Solar.name=火注魔太阳能(5级)
-tile.EMT.Sextuple_Compressed_Ignis_Solar.name=火注魔太阳能(6级)
-tile.EMT.Septuple_Compressed_Ignis_Solar.name=火注魔太阳能(7级)
-tile.EMT.Octuple_Compressed_Ignis_Solar.name=火注魔太阳能(8级)
-tile.EMT.solar.air.name=风注魔太阳能(1级)
-tile.EMT.solar2.doubleair.name=风注魔太阳能(2级)
-tile.EMT.solar2.tripleair.name=风注魔太阳能(3级)
-tile.EMT.Quadruple_Compressed_Aer_Solar.name=风注魔太阳能(4级)
-tile.EMT.Quintuple_Compressed_Aer_Solar.name=风注魔太阳能(5级)
-tile.EMT.Sextuple_Compressed_Aer_Solar.name=风注魔太阳能(6级)
-tile.EMT.Septuple_Compressed_Aer_Solar.name=风注魔太阳能(7级)
-tile.EMT.Octuple_Compressed_Aer_Solar.name=风注魔太阳能(8级)
-tile.EMT.solar2.earth.name=地注魔太阳能(1级)
-tile.EMT.solar2.doubleearth.name=地注魔太阳能(2级)
-tile.EMT.solar2.tripleearth.name=地注魔太阳能(3级)
-tile.EMT.Quadruple_Compressed_Terra_Solar.name=地注魔太阳能(4级)
-tile.EMT.Quintuple_Compressed_Terra_Solar.name=地注魔太阳能(5级)
-tile.EMT.Sextuple_Compressed_Terra_Solar.name=地注魔太阳能(6级)
-tile.EMT.Septuple_Compressed_Terra_Solar.name=地注魔太阳能(7级)
-tile.EMT.Octuple_Compressed_Terra_Solar.name=地注魔太阳能(8级)
+tile.EMT.electricCloud.name=Electric Cloud
+tile.EMT.shield.name=Shield Block
+tile.EMT.portablenode.name=Portable Node
+tile.EMT.essentia.name=Essentia Generator
+tile.EMT.essentia.potentia.name=Potentia Generator
+tile.EMT.essentia.ignis.name=Ignis Generator
+tile.EMT.essentia.auram.name=Auram Generator
+tile.EMT.essentia.arbor.name=Arbor Generator
+tile.EMT.essentia.aer.name=Aer Generator
+tile.EMT.essentia.lucrum.name=Lucrum Generator
+tile.EMT.machine.name=Machine
+tile.EMT.machine.wandrecharge.name=Industrial Wand Charging Station
+tile.EMT.machine.etheralprocessor.name=Ethereal Processor
+tile.EMT.machine.essentiafiller.name=Essentia Filler - Marked for deprecation
+tile.EMT.solar.name=Compressed Solar Panel
+tile.EMT.solar2.name=Double Compressed Aer Solar
+tile.EMT.solar3.name=Quadruple Compressed Solar
+tile.EMT.solar4.name=Sextuple Compressed Perditio Solar
+tile.EMT.solar5.name=Octuple Compressed Terra Solar
+tile.EMT.solar.compressed.name=Compressed Solar Panel
+tile.EMT.solar.doublecompressed.name=Double Compressed Solar Panel
+tile.EMT.solar.triplecompressed.name=Triple Compressed Solar Panel
+tile.EMT.Quadruple_Compressed_Solar.name=Quadruple Compressed Solar
+tile.EMT.Quintuple_Compressed_Solar.name=Quintuple Compressed Solar
+tile.EMT.Sextuple_Compressed_Solar.name=Sextuple Compressed Solar
+tile.EMT.Septuple_Compressed_Solar.name=Septuple Compressed Solar
+tile.EMT.Octuple_Compressed_Solar.name=Octuple Compressed Solar
+tile.EMT.solar.water.name=Water Infused Compressed Solar Panel
+tile.EMT.solar.doublewater.name=Water Infused Double Compressed Solar Panel
+tile.EMT.solar.triplewater.name=Water Infused Triple Compressed Solar Panel
+tile.EMT.Quadruple_Compressed_Aqua_Solar.name=Quadruple Compressed Aqua Solar
+tile.EMT.Quintuple_Compressed_Aqua_Solar.name=Quintuple Compressed Aqua Solar
+tile.EMT.Sextuple_Compressed_Aqua_Solar.name=Sextuple Compressed Aqua Solar
+tile.EMT.Septuple_Compressed_Aqua_Solar.name=Septuple Compressed Aqua Solar
+tile.EMT.Octuple_Compressed_Aqua_Solar.name=Octuple Compressed Aqua Solar
+tile.EMT.solar.dark.name=Entropy Infused Compressed Solar Panel
+tile.EMT.solar.doubledark.name=Entropy Double Infused Compressed Solar Panel
+tile.EMT.solar.tripledark.name=Entropy Triple Infused Compressed Solar Panel
+tile.EMT.Quadruple_Compressed_Perditio_Solar.name=Quadruple Compressed Perditio Solar
+tile.EMT.Quintuple_Compressed_Perditio_Solar.name=Quintuple Compressed Perditio Solar
+tile.EMT.Sextuple_Compressed_Perditio_Solar.name=Sextuple Compressed Perditio Solar
+tile.EMT.Septuple_Compressed_Perditio_Solar.name=Septuple Compressed Perditio Solar
+tile.EMT.Octuple_Compressed_Perditio_Solar.name=Octuple Compressed Perditio Solar
+tile.EMT.solar.order.name=Order Infused Compressed Solar Panel
+tile.EMT.solar.doubleorder.name=Order Infused Double Compressed Solar Panel
+tile.EMT.solar.tripleorder.name=Order Infused Triple Compressed Solar Panel
+tile.EMT.Quadruple_Compressed_Ordo_Solar.name=Quadruple Compressed Ordo Solar
+tile.EMT.Quintuple_Compressed_Ordo_Solar.name=Quintuple Compressed Ordo Solar
+tile.EMT.Sextuple_Compressed_Ordo_Solar.name=Sextuple Compressed Ordo Solar
+tile.EMT.Septuple_Compressed_Ordo_Solar.name=Septuple Compressed Ordo Solar
+tile.EMT.Octuple_Compressed_Ordo_Solar.name=Octuple Compressed Ordo Solar
+tile.EMT.solar.fire.name=Fire Infused Compressed Solar Panel
+tile.EMT.solar.doublefire.name=Fire Infused Double Compressed Solar Panel
+tile.EMT.solar.triplefire.name=Fire Infused Triple Compressed Solar Panel
+tile.EMT.Quadruple_Compressed_Ignis_Solar.name=Quadruple Compressed Ignis Solar
+tile.EMT.Quintuple_Compressed_Ignis_Solar.name=Quintuple Compressed Ignis Solar
+tile.EMT.Sextuple_Compressed_Ignis_Solar.name=Sextuple Compressed Ignis Solar
+tile.EMT.Septuple_Compressed_Ignis_Solar.name=Septuple Compressed Ignis Solar
+tile.EMT.Octuple_Compressed_Ignis_Solar.name=Octuple Compressed Ignis Solar
+tile.EMT.solar.air.name=Air Infused Compressed Solar Panel
+tile.EMT.solar2.doubleair.name=Air Infused Double Compressed Solar Panel
+tile.EMT.solar2.tripleair.name=Air Infused Triple Compressed Solar Panel
+tile.EMT.Quadruple_Compressed_Aer_Solar.name=Quadruple Compressed Aer Solar
+tile.EMT.Quintuple_Compressed_Aer_Solar.name=Quintuple Compressed Aer Solar
+tile.EMT.Sextuple_Compressed_Aer_Solar.name=Sextuple Compressed Aer Solar
+tile.EMT.Septuple_Compressed_Aer_Solar.name=Septuple Compressed Aer Solar
+tile.EMT.Octuple_Compressed_Aer_Solar.name=Octuple Compressed Aer Solar
+tile.EMT.solar2.earth.name=Earth Infused Compressed Solar Panel
+tile.EMT.solar2.doubleearth.name=Earth Infused Double Compressed Solar Panel
+tile.EMT.solar2.tripleearth.name=Earth Infused Triple Compressed Solar Panel
+tile.EMT.Quadruple_Compressed_Terra_Solar.name=Quadruple Compressed Terra Solar
+tile.EMT.Quintuple_Compressed_Terra_Solar.name=Quintuple Compressed Terra Solar
+tile.EMT.Sextuple_Compressed_Terra_Solar.name=Sextuple Compressed Terra Solar
+tile.EMT.Septuple_Compressed_Terra_Solar.name=Septuple Compressed Terra Solar
+tile.EMT.Octuple_Compressed_Terra_Solar.name=Octuple Compressed Terra Solar
 
 #=============Thaumonomicon Texts=============
-emt.rsname.Electric Magic Tools=电力魔法工具
-emt.tag.Electric Magic Tools=谁说科技和魔法不能互相结合?
-emt.text.Electric Magic Tools=谁说魔法和科技不能共同工作?我们的研究者们集合了魔法学院顶尖的神秘使们带来了魔法与电子工具的组合.
+emt.rsname.Electric Magic Tools=Electric Magic Tools
+emt.tag.Electric Magic Tools=Who says magic and technology can't go together?
+emt.text.Electric Magic Tools=Who says magic can't work with technology? Our researchers have collaborated with the top mages of the school of Thaumaturgy to bring you the effectiveness of magic coupled with the convenience of electric tools.
 
-emt.rsname.Energy Ball Focus=法杖核心:能量球
-emt.tag.Energy Ball Focus=这可不是玩具
-emt.text.Energy Ball Focus=要使用此法杖核心必须装备电池背包或纳米/量子胸甲.每制造一个能量球需要消耗5120EU.请勿在密闭空间内使用此法杖核心!
+emt.rsname.Energy Ball Focus=Energy Ball Focus
+emt.tag.Energy Ball Focus=Not a toy
+emt.text.Energy Ball Focus=It's necessary to put on the BatPack or nano/quant chestplate for using this focus. You need 5120EU to create one ball. It's not recommended for using in a closed space!
 
-emt.rsname.Electric Cloud=雷云之光
-emt.tag.Electric Cloud=闪耀之光?
-emt.text.Electric Cloud.1=所有神秘使(除了血腥邪徒,我猜)享受着魔法火焰：闪耀之光的光明和温暖,不是么? 你决定将其变得更...有活力.很好,你成功了.<BR><BR>你创造了一种新的魔法火焰—雷云之光.它与普通闪耀之光类似,但它是紫色的并且在它周围生成淡紫色的闪电.要使其电子化,你需要手持强化充电电池(或更高级的)右键闪耀之光.
+emt.rsname.Electric Cloud=Electric Cloud
+emt.tag.Electric Cloud=Still the same Nitor
+emt.text.Electric Cloud.1=All thaumaturges (except Crimson ones, I guess) enjoy the shine and heat of the magic flame called Nitor, aren't they? You desided to make it more... energetic. Well, you did it.<BR><BR>You have created a new kind of magic flame — the Electric Cloud. It behaves and looks like normal Nitor, but it has purple colour and creates light-purple lightning charges around itself. For electrolizing need to click RMB on Nitor with advanced battery(or better) on hand.
 emt.text.Electric Cloud.2=<IMG>emt:textures/researches/electric_cloud.png:0:0:255:255:0.6</IMG>
 
-emt.rsname.Thaumium Drill=神秘钻头
-emt.tag.Thaumium Drill=魔法式采矿
-emt.text.Thaumium Drill=你已发现了一种向神秘力量注入普通电子的方法.将神秘材料融入钻石产生了一个能快速采集石头的高性能工具<BR><BR>尽管神秘板是十分有用并强力的材料,它还不能与铱相比.它更像是一个过渡工具.<BR><BR>这个工具不是最强的,但你觉得你未来能升级它.
+emt.rsname.Thaumium Drill=Thaumium Drill
+emt.tag.Thaumium Drill=Magical mining
+emt.text.Thaumium Drill=You have discovered a way to infuse Thaumium with mundane electricity. Fusing Thaumium to a Diamond Drill results in a tool that can dig through stone faster and has a higher capacity.<BR><BR>While Thaumium is a very useful and powerful material, it is nowhere near the strength of Iridium. It is considered a mid-tier tool. <BR><BR>This tool may not be the most powerful, but you have a feeling that you will be able to upgrade it in the near future.
 
-emt.rsname.Thaumium Chainsaw=神秘链锯
-emt.tag.Thaumium Chainsaw=以魔法之力来砍树木和御敌
-emt.text.Thaumium Chainsaw=你发现了一个将神秘力量融入钻石电锯的方法,使得它能更快的砍伐树并储存更多电力.然而这种改良并不是没有缺陷的:在加入这些材料的过程中,电锯失去了处理树叶,草堆和伤害动物的能力.<BR><BR>你觉得不远的未来你还能升级这个工具.
+emt.rsname.Thaumium Chainsaw=Thaumium Chainsaw
+emt.tag.Thaumium Chainsaw=Felling trees and severing heads with a touch of magic
+emt.text.Thaumium Chainsaw=You have found a way to fuse Thaumium to a Diamond Chainsaw, allowing it to fell trees quicker and hold more power. Nevertheless, these ameliorations do not come without drawbacks: during the process of fusing these materials, the chainsaw loses its ability to shear foliage, tall grass, and animals.<BR><BR>You have an intuition you will be able to upgrade this tool in the near future.
 
-emt.rsname.Electric Goggles=电子揭示护目镜
-emt.tag.Electric Goggles=两侧的顶尖技术
-emt.text.Electric Goggles=你已发现了一种用纯电子设备观测灵气的方法,这意味着你不必再消耗神秘的能量.你现在可以制作出一副能被充电的揭示护目镜,你能像之前那样用它观测节点.为了给电路提供空间并保护敏感的魔力感知电路你需要一个钻石头盔,这也提供了额外的护甲保护.
+emt.rsname.Electric Goggles=Electric Goggles
+emt.tag.Electric Goggles=The best of both worlds
+emt.text.Electric Goggles=You have found a way to detect auras using purely electronic means, no longer requiring mystical energy that can be depleted over time. You can now create a pair of Goggles of Revealing that can be recharged with EU while being able to see Aura Nodes just as you could before. A diamond helmet is required to house the sensitive vis sensing circuitry and prevent it from being damaged, which also has the added benefit of providing extra protection.
 
-emt.rsname.Nanosuit Goggles of Revealing=纳米揭示护目镜
-emt.tag.Nanosuit Goggles of Revealing=高级眼部防护
-emt.text.Nanosuit Goggles of Revealing=你已发现了一种无需移动太多就能将你之前的魔力感应器融入纳米头盔的方法.通过给纳米头盔注魔,你将能用它看见灵气节点.在这个魔法过程中,夜视用的控制芯片被用于代替吸收多余魔法能量的电容和魔力感应微芯片.以防你不小心关闭了夜视.
+emt.rsname.Nanosuit Goggles of Revealing=Nanosuit Goggles of Revealing
+emt.tag.Nanosuit Goggles of Revealing=Top-tier eye protection
+emt.text.Nanosuit Goggles of Revealing=You have discovered a way to incorporate your previous vis sensors to a Nanosuit Helmet without moving too much around. By infusing the nano helmet with magic, you will be able to use it to see Aura Nodes. During the magical process, the control circuits for the night vision feature are replaced with capacitors to absorb the excess magical energy and vis-sensing microchips.
 
-emt.rsname.Quantum Goggles of Revealing=量子揭示护目镜
-emt.tag.Quantum Goggles of Revealing=更高级的双重保护
-emt.text.Quantum Goggles of Revealing=这期间出现了许多的尝试和错误,但你已找到了一种方法来将魔力感应器加入量子头盔里.通过给量子头盔注魔,你将能用它看见灵气节点.在设计的过程中,你需要将几个包含夜视和自动补充饱食度的控制芯片替换成魔力感知电路和电容,用于吸收过量的魔法能量.你发现使用激光采矿枪时它能安全地确认准星并控制爆炸的冲击.玩的愉快.有了它再也不用夜视药水和补充食物了.
+emt.rsname.Quantum Goggles of Revealing=Quantum Goggles of Revealing
+emt.tag.Quantum Goggles of Revealing=Protection coupled with utility
+emt.text.Quantum Goggles of Revealing=It took a lot of trial and error, but you have found a way to slip in vis detection sensors to a Quantum Helmet. By infusing the quantum helmet with magic, you will be able to use it to see Aura Nodes. During the design process, you had to replace several control circuits that involve night vision and automatic feeding with vis detecting circuitry and capacitors to absorb the excess magical energy. You find that using a Mining Laser to contain it can safely focus and direct the explosive pulse where the vision effect and the feeding unit of the helmet lie. Have fun getting force-fed energy.
 
-emt.rsname.Iron Omnitool=铁制钻锯
-emt.tag.Iron Omnitool=为农夫准备的便利工具
-emt.text.Iron Omnitool=当你研究是否能用魔法融合你所用的一些工具的用途时,你已发现了一种结合电钻和电锯的方法,结果你得到了一个同时可采矿,砍树和御敌的工具!在处理普通金属矿物时,并不需要什么魔法效应.
+emt.rsname.Iron Omnitool=Iron Omnitool
+emt.tag.Iron Omnitool=Changing tools is for peasants
+emt.text.Iron Omnitool=While tinkering with the inner workings of some of your tools to see if magical integration is a possibility, you have discovered a way to combine the Mining Drill and the Chainsaw, resulting in a tool capable of both mining, cutting down trees and attacking enemies! As you are working with mundane metals, magic influence is not needed to merge these tools together.
 
-emt.rsname.Diamond Omnitool=钻石钻锯
-emt.tag.Diamond Omnitool=万能的工具
-emt.text.Diamond Omnitool=铁制钻锯的发现让你试着将同样的结合用在一些更强力的设备上.你已发现了一种结合钻石电锯和电钻的方法,结果得到了一个拥有砍树和挖矿并御敌的工具,同时保持着钻石工具的特性.由于钻石在被制成电钻电锯这样的工具后很难被重塑,所以你将需要一点魔法的力量来融合它们.
+emt.rsname.Diamond Omnitool=Diamond Omnitool
+emt.tag.Diamond Omnitool=Jack of all trades
+emt.text.Diamond Omnitool=Your discovery of an Iron Omnitool has driven you to try to accomplish the same with some more powerful devices. You have discovered a way to combine the Diamond Drill and the Diamond Chainsaw, resulting in a tool capable of both mining, cutting down trees and attacking enemies, while maintaining the speed and capacity bonuses of the diamond tools. As diamonds are incredibly tough and nearly impossible to reshape once the raw diamonds have been fashioned into tools such as drills and chainsaws, you will require a little bit of magic to coax them to merge.
 
-emt.rsname.Thaumium Omnitool=神秘钻锯
-emt.tag.Thaumium Omnitool=神秘的复合工具
-emt.text.Thaumium Omnitool=在创作了钻石钻锯和铁钻锯之后,下一步就是用在神秘材料上了.不幸的是,这不是一个容易事,你发现了一种结合神秘电钻和神秘电锯的方法,而得到了一个有挖矿和砍树能力的工具.这些工具已被注入魔力.你不确定下次注入时将会发生什么.
+emt.rsname.Thaumium Omnitool=Thaumium Omnitool
+emt.tag.Thaumium Omnitool=Mystical multitool
+emt.text.Thaumium Omnitool=After creating the Diamond and Iron Omnitools, the next logical step was to do the same with Thaumium. Unfortunately, this isn't as easy. You have discovered a way to combine the Thaumium Drill and the Thaumium Chainsaw, resulting in a tool capable of mining and chopping trees at great speed with a high energy capacity. These tools have already once been infused with magic. You are not sure what will happen if they were to be infused again.
 
-emt.rsname.Explosion Focus=法杖核心:爆炸
-emt.tag.Explosion Focus=请在开阔处使用
-emt.text.Explosion Focus=你已发现了一种通过将蝙蝠换为更具爆炸性的采矿激光来修改九狱核心的方法.这个核心工作时类似激光采矿枪但是它使用魔力而不是电力.这个核心很不稳定所以记着小心点.
+emt.rsname.Explosion Focus=Explosion Focus
+emt.tag.Explosion Focus=Use only in well-ventilated areas
+emt.text.Explosion Focus=You have found a way to improve the Nine Hells focus.  By exposing the bats to the explosive properties of a Mining Laser, you have built a focus that acts similarly to the Laser but uses vis instead of EU.  However, its effects are incredibly unstable, so you make a note to be careful.
 
-emt.rsname.Kris-tmas Focus=法杖核心:圣诞
-emt.tag.Kris-tmas Focus=吼!吼!吼!
-emt.text.Kris-tmas Focus=圣诞快乐!<BR><BR>你已发现了寒霜核心的全新用法.你可以随意召唤你的雪人朋友们,向庆祝节日的邻居们砸雪球,圣诞节的魔法!
+emt.rsname.Kris-tmas Focus=Kris-tmas Focus
+emt.tag.Kris-tmas Focus=Ho! Ho! Ho!
+emt.text.Kris-tmas Focus=Merry Christmas!<BR><BR>You have found a novel use for the frost focus. By exposing it to the magic of Christmas, you can summon your snowy friends at will to fire snowballs at your Festivus celebrating neighbours!
 
-emt.rsname.Shield Focus=法杖核心:护盾
-emt.tag.Shield Focus=结界张开
-emt.text.Shield Focus=通过对便携式洞穴的试验,你已发现了更多关于在多次元空间移动物体的方法.你相信你能反过来使用,从异次元召唤出一些方块来在各种危险情况下保护你.注意在使用这个核心将这些方块带入我们的次元时,将会从次元出现的地方转置任何方块,不会再返还.而且在盾牌方块存在时你将无法移动.
+emt.rsname.Shield Focus=Shield Focus
+emt.tag.Shield Focus=S.H.I.E.L.D.
+emt.text.Shield Focus=With some experimentation with the Portable Hole, you have found out more about the transportation of objects to alternate dimensions. You believe you can reverse these effects to summon a swath of blocks from a dimension full of matter to shield you from any oncoming disaster. Caution is to be taken when using this focus, as when bringing these blocks into our dimension, it will transpose any blocks in the way into the dimension it came from, never to return again. You will also be unable to move while this shield is in existence.
 
-emt.rsname.Wand Focus: Maintenance=神秘维护
-emt.tag.Wand Focus: Maintenance=有了魔法谁还需要工具箱？
-emt.text.Wand Focus: Maintenance=在深入研究了设备的机械特性之后,你终于做到了,发现了一种可以在修理中使用vis的方法.<BR>在纯粹的进步面前,几座爆炸的超净间算什么?现在你可以摆脱那些卑鄙的世俗工具了...
+emt.rsname.Wand Focus: Maintenance=Thaumic Maintenance
+emt.tag.Wand Focus: Maintenance=Who needs a toolbox when you have magic?
+emt.text.Wand Focus: Maintenance=After intense study of the supposedly mechanical nature of your apparati, you've finally done it, you've discovered a method allowing the use of vis in repair. <BR> What are a few exploded cleanrooms in the face of sheer progress? Now you can get rid of those dastardly mundane tools...
 
-emt.rsname.Potentia Generator=能量源质发电机
-emt.tag.Potentia Generator=利用要素源质来发电
-emt.text.Potentia Generator=在许多的学习与研究后,你终于发现了如何从多余的要素源质中提取电力.<BR><BR>只需要在机器边8格范围内放置一个装有能量要素源质的罐子它就会吸收要素源质产生电力.<BR><BR>尽管能量是产生电力最合理的的选择,但你相信经过一些探索在未来你能从其他不同的要素源质中获得电力.
+emt.rsname.Potentia Generator=Potentia Generator
+emt.tag.Potentia Generator=Harnessing the power-producing potential of Essentia
+emt.text.Potentia Generator=After much studying and research, you have finally discovered how to create electricity from your leftover Essentia.<BR><BR>Simply place a Warded Jar containing Potentia in a 8 blocks radius of the machine and it will draw it in to create EU.<BR><BR>While Potentia seems like the most logical choice for producing Essentia with EU, you believe you will be able to generate electricity from different Essentia in the near future with a bit of tinkering.
 
-emt.rsname.Lucrum Generator=贪婪源质发电机
-emt.tag.Lucrum Generator=贪婪也是能量...?
-emt.text.Lucrum Generator=你的贪婪驱使你不断前进,所以你找到了将贪婪要素源质转化为电力的方法.<BR><BR>通过向能量源质发电机中注入大量的金、交换要素和贪婪要素,你成功地建造了一个强大的发电机.<BR><BR>但如你所料,注魔并不稳定，若是没有准备完全那将很容易失败.
+emt.rsname.Lucrum Generator=Lucrum Generator
+emt.tag.Lucrum Generator=Greed is gold...?
+emt.text.Lucrum Generator=Your greed kept you going further, so you found a way to convert Lucrum to power.<BR><BR>By Infusing the Potentia Generator with huge amounts of Gold, Permutatio and Lucrum, you managed to build a powerful generator that literally runs on gold.<BR><BR>But as you thought, the Infusion is unstable and will fail easily when you are not prepared.
 
-emt.rsname.Ignis Generator=火之源质发电机
-emt.tag.Ignis Generator=如果你不能掌控那热量...
-emt.text.Ignis Generator=就如你所想的,通过一点调整,你已经找到了代替火要素源质产生能量的方法.在机器内部,它会消耗火要素来加热水.通过这种热量产生的蒸汽驱动涡轮机运作,就像一个典型的发电机.
+emt.rsname.Ignis Generator=Ignis Generator
+emt.tag.Ignis Generator=If you can't handle the heat...
+emt.text.Ignis Generator=Just as you thought, with a bit of tweaking, you have found a way to instead use Ignis Essentia to produce power. On the inside, this machine is able to heat water by consuming Ignis. The steam produced by this heat then spins the turbines, similar to a typical Generator.
 
-emt.rsname.Auram Generator=灵气源质发电机
-emt.tag.Auram Generator=利用空气中的魔力
-emt.text.Auram Generator=尽管比你最初的想法用了更多的努力,你已经发现了一种用灵气要素源质产生电力的方法.这需要一个完全的机器改造,依靠灵气脉动的魔法能量来带动发电机工作.
+emt.rsname.Auram Generator=Auram Generator
+emt.tag.Auram Generator=Harnessing the magic in the air
+emt.text.Auram Generator=Though it took a bit more work than you initially thought, you have found a way to produce EU using Auram Essenita. This required a complete reworking of the machine, relying on Auram's pulsating magical power to spin a Generator.
 
-emt.rsname.Arbor Generator=木之源质发电机
-emt.tag.Arbor Generator=让发电回到基础
-emt.text.Arbor Generator=总有许多多余的树木要素源质在你的身边.不再是这样了!通过修改最初的能量要素源质发电机,你已经发现了使用树木要素源质发电的方法.
+emt.rsname.Arbor Generator=Arbor Generator
+emt.tag.Arbor Generator=Bringing power generation back to its basics
+emt.text.Arbor Generator=You always seem to have excess Arbor Essentia sitting around. Not anymore! By modifying your original Potentia Generator, you have found a way to produce energy using Arbor Essentia instead.
 
-emt.rsname.Aer Generator=风之源质发电机
-emt.tag.Aer Generator=压缩周围的风
-emt.text.Aer Generator=你已经发现了蕴藏在风中的巨大能量,并试着修改最初的能量源质发电机,使其具有压缩风源质的能力,并提供300EU的电力.
+emt.rsname.Aer Generator=Aer Generator
+emt.tag.Aer Generator=Compressing your environment
+emt.text.Aer Generator=You have discovered the enormous power of the air, and therefore decided to try out a modification of your original Potentia Generator capable of compressing air from Aer Essentia in a nearby jar.
 
-emt.rsname.Chainsaw of the Stream=奔雷电锯
-emt.tag.Chainsaw of the Stream=你只需要一个劲的砍树
-emt.text.Chainsaw of the Stream=在研究了奔雷斧和神秘电锯后,你试着将它们两者的能力结合,得到了一个能轻松砍完一棵树的电子工具.
+emt.rsname.Chainsaw of the Stream=Chainsaw of the Stream
+emt.tag.Chainsaw of the Stream=Felling trees in a single swoop
+emt.text.Chainsaw of the Stream=After studying both the Axe of the Stream and the Thaumium Chainsaw, you managed to combine most of their abilities, resulting in an electric tool that can chop down whole trees without much effort.
 
-emt.rsname.Drill of the Rockbreaker=岩石粉碎者
-emt.tag.Drill of the Rockbreaker=疯狂挖矿
-emt.text.Drill of the Rockbreaker=在研究了炽心镐,后土铲和神秘电钻后,你试着将他们的能力结合而得到一个能开采3X3X1区域材料的电子工具,开采十分迅速.<BR><BR>这个非凡的设备能通过右击找出最近的矿物,当然那会消耗一些电力.
+emt.rsname.Drill of the Rockbreaker=Drill of the Rockbreaker
+emt.tag.Drill of the Rockbreaker=Mining it big
+emt.text.Drill of the Rockbreaker=After studying the Pickaxe of the Core, the Shovel of the Earthmover and the Thaumium Drill, you have managed to combine most of their abilities, resulting in an electric tool that can mine a whole 3x3x1 area of pickaxe and dirt materials very quickly.<BR><BR>This marvelous device is able to find the closest ore clusters on a shift-right click, though at the cost of some EU.
 
-emt.rsname.Shield Block=护盾方块
-emt.tag.Shield Block=魔法保护
-emt.text.Shield Block=研究了盾牌核心制造出的方块后,你已发现了如何自己制作它们,再也不用需要核心来召唤.它们有很高的爆炸抗性,并且甚至能防止核弹的破坏.然而,在一次核爆炸试验中,尽管盾方块毫发无损,它周围的方块却不是.<BR><BR>这些方块不稳定并且破坏时不会掉落,就算你使用精准采集也是如此.
+emt.rsname.Shield Block=Shield Block
+emt.tag.Shield Block=Magical protection
+emt.text.Shield Block=After studying the blocks created by the shield focus, you have discovered how to recreate them yourself, without relying on them to be summoned by the focus. They are highly blast resistant, and even resistant to nukes. However, in the event of an actual nuclear explosion, while the shield blocks will survive the aftermath, the surrounding blocks will not.<BR><BR>These blocks are unstable and do not drop when broken, even when Silk Touch is used.
 
-emt.rsname.Tiny Uranium=小撮铀
-emt.tag.Tiny Uranium=可能会有些缩减
-emt.text.Tiny Uranium=在你将自己所有的矿物都用在了核反应堆的材料上后,你终于用尽了用来做你所需燃料棒的铀.在很长时间的研究后,你试着将你剩下的铀转化为更有用的粒!<BR><BR>不幸的是,这个过程有些浪费,不过你相信它会有所值.
+emt.rsname.Tiny Uranium=Tiny Uranium
+emt.tag.Tiny Uranium=Some shrinkage may occur
+emt.text.Tiny Uranium=After processing all your ores and using them for the creation of nuclear reactors, you have finally run out of uranium nuggets, needed to make your beloved fuel rods. After long research sessions, you have managed to transform your leftover uranium into much-needed nuggets!<BR><BR>Unfortunately, this process is a bit wasteful, but you believe it to be worth the cost.
 
-emt.rsname.Mjolnir=雷神之锤
-emt.tag.Mjolnir=感受神之力吧
-emt.text.Mjolnir=你走遍了世界,为了找到这个可能存在的雷神之锤.一天,你偶然发现了它的碎片,你很沮丧.经过长时间辛苦的研究,你找到了让这个魔法工具重现昔日荣光的方法.<BR><BR>你有种感觉(似乎常常有这种感觉),尽管这个工具十分强力,但你还能做更多.
+emt.rsname.Mjolnir=Mjolnir
+emt.tag.Mjolnir=Godly power
+emt.text.Mjolnir=You have travelled the world, in quest for the mighty Hammer of Thor. One day, you stumbled upon its broken remains, and your heart crumbled with it. After some long and tedious research, you found a way to restore this magnificent tool to its past greatness.<BR><BR>You have an odd feeling,(you seem to have a lot of these), that although this tool is amazingly powerful, you could do more with it.
 
-emt.rsname.The Legend=传说之物
-emt.tag.The Legend=童年的记忆...
-emt.text.The Legend=你总是听到关于那个锤子的传说.<BR><BR>传说有一个闪电之神,托尔,有一把能够召唤闪电的锤子.<BR><BR>传说神在他的次元隐退,留下了他的锤子,在某个被保护好的地牢里藏了起来,只有有能力的家伙才能找到它.<BR><BR>你有很多时间去探索这个世界,去试着找到这把锤子.
+emt.rsname.The Legend=The Legend
+emt.tag.The Legend=Childhood memories...
+emt.text.The Legend=You have always heard about the Legend of the Hammer.<BR><BR>It is said that the god of Lightning, Thor, had a hammer capable of summoning lightning.<BR><BR>The legend also states that, when the god retired in his dimension, he left his hammer, hidden somewhere in a well protected dungeon, where only a worthy mortal could find it.<BR><BR>You have long since wanted to go explore the world, to try and find it.
 
-emt.rsname.Lightning Summoner=雷电碎片
-emt.tag.Lightning Summoner=从死敌那里所得
-emt.text.Lightning Summoner=这个物品是你的死敌:高压爬行者所掉落的.你觉得它以后会派上用场.
+emt.rsname.Lightning Summoner=Lightning Summoner
+emt.tag.Lightning Summoner=From vilest enemies
+emt.text.Lightning Summoner=This item is dropped by your archenemy, the Supercharged Creeper. You feel it is going to be very useful later on.
 
-emt.rsname.Supercharged Mjolnir=高压雷神之锤
-emt.tag.Supercharged Mjolnir=将它据为己有
-emt.text.Supercharged Mjolnir=在对各个世界和维度中的地牢进行探索之后,你已经成功地找到了一种方法来压制托尔(雷神)的力量,使得他的锤子变为你的所有物.此外,你可以用你的锤子召唤守卫(类似雪傀儡的奇怪生物)来保护你.然而,这把锤子失去了在你所指之处召唤闪电的力量,并且使用时会在你的周围召唤一圈闪电.
+emt.rsname.Supercharged Mjolnir=Supercharged Mjolnir
+emt.tag.Supercharged Mjolnir=Making it yours
+emt.text.Supercharged Mjolnir=After some more exploring of the dungeons existing all around the worlds and dimensions, you have managed to find a method that makes you able to overpower Thor's power, making his Hammer yours. Furthermore, you have managed to make your Hammer summon defenders, some strange Snow-Golems like creature that shall protect you. However, the hammer lost its power to summon lightning where you desire it to, and creates a ring of lightning around you.
 
-emt.rsname.Industrial Wand Charging Station=工业法杖充能站
-emt.tag.Industrial Wand Charging Station=用工业的方式为你的法杖充能
-emt.text.Industrial Wand Charging Station=你已试着将法杖充能基座和强大的UU物质结合起来.结果得到了一个能再生法杖魔力的机器,回复每种要素魔力1vis将会消耗50000EU.
+emt.rsname.Industrial Wand Charging Station=Industrial Wand Charging Station
+emt.tag.Industrial Wand Charging Station=Charging your wand the industrial way
+emt.text.Industrial Wand Charging Station=You have managed to combine the powers of the Wand Pedestal with those of the mighty UU-Matter, resulting in a machine capable of replicating aspects on your wand, at the cost of 50000 EU to recharge every aspect on the wand of 1 unit.
 
-emt.rsname.Compressed Solars=压缩太阳能发电机
-emt.tag.Compressed Solars=增加发电效率!
-emt.text.Compressed Solars=你找到了一种将9普通太阳能压缩为1个魔法太阳能的方法,它工作起来就像是10个普通太阳能发电10eu/t.你将这个过程在压缩太阳能上重复以增加每个方块的产能.你也可以用魔法注魔做出三重压缩的太阳能大大提高发电效率.
+emt.rsname.Compressed Solars=Compressed Solars
+emt.tag.Compressed Solars=Increase the efficiency!
+emt.text.Compressed Solars=You have found a way to compress 9 mundane Solar Panels in a magical one, that acts as if it was made of 10 mundane solar panels, generating 10 EU/t. You may repeat this process with compressed solar panels, allowing you to increase the power potential per block even higher. You can also, by magical infusion, create triple compressed solar panels, taking the folly a step further.
 
-emt.rsname.Solar Helmet of Revealing=太阳能揭示护目镜
-emt.tag.Solar Helmet of Revealing=阳光太刺眼了
-emt.text.Solar Helmet of Revealing=你现在有了一顶可以像你的量子揭示护目镜一样工作的头盔,也能给你的胸甲充电!在白天可以产生65536 EU的电,在夜晚则是4096 EU.
+emt.rsname.Solar Helmet of Revealing=Solar Helmet of Revealing
+emt.tag.Solar Helmet of Revealing=The sunlight hurts my eyes
+emt.text.Solar Helmet of Revealing=You now have a helmet that acts exactly like your quantum goggles of revealing, but can also recharge your chest armor! It generates 65536 EU during the day, and 4096 EU at night.
 
-emt.rsname.Diamond Chainsaw=钻石链锯
-emt.tag.Diamond Chainsaw=更硬,更好,更快,更强
-emt.text.Diamond Chainsaw=你不知道为何用钻石升级电锯就像钻石升级电钻那样的想法从未出现在脑海中.这个升级使得电锯能储存更多的电力并且更快的破坏方块.
+emt.rsname.Diamond Chainsaw=Diamond Chainsaw
+emt.tag.Diamond Chainsaw=Harder, better, faster, stronger
+emt.text.Diamond Chainsaw=You are unsure why the thought of upgrading a Chainsaw with diamonds similarly to what you have done with a Drill has never occurred to you. This upgrade makes the Chainsaw capable of holding more energy and breaking blocks faster.
 
-emt.rsname.Thaumium Plate=神秘板
-emt.tag.Thaumium Plate=神秘锭的工业处理
-emt.text.Thaumium Plate=就如每个电子工程师所知道的,板材是许多设备的基础.我们知道把神秘锭压制成板材将会是把魔法方便地融入工具的必要途径,但这让魔法学院的魔法师们十分心烦.他们不愿意让我们对珍贵的金属材料瞎捣鼓.你可以像所示的那样制作出这些贵重的板材,或是在金属成型机内制作,只需要一个神秘锭.但别让那些恼火的魔法师们看见.
+emt.rsname.Thaumium Plate=Thaumium Plate
+emt.tag.Thaumium Plate=Thaumium, the industrial way
+emt.text.Thaumium Plate=As every electrical engineer knows, plates are the basis of many devices. We knew that pressing Thaumium into plates would be a neccesary step to facilitate integration of magic into our tools, but this made the mages of the school of Thaumaturgy very upset. The don't like us tampering with their precious metal. You can produce these plates as shown, which is a bit more expensive, or in a metal former, requiring only one Thaumium Ingot. Keep an eye out for angry mages.
 
-emt.rsname.Macerating Native Ore Clusters=矿簇粉碎工艺
-emt.tag.Macerating Native Ore Clusters=增加你的矿物产量
-emt.text.Macerating Native Ore Clusters=你可以磨粉所有的矿簇,除了朱砂矿簇.你将会从每个矿簇中得到22个小堆粉.
+emt.rsname.Macerating Native Ore Clusters=Macerating Native Ore Clusters
+emt.tag.Macerating Native Ore Clusters=Augmenting your yield
+emt.text.Macerating Native Ore Clusters=You can macerate all Native Ore Clusters, except cinnabar. You will get 22 tiny dusts per Native Ore Cluster macerated.
 
-emt.rsname.Electric Boots of the Traveller=电子旅行者之靴
-emt.tag.Electric Boots of the Traveller=我充满了力量
-emt.text.Electric Boots of the Traveller=通过许多精密机械部件和对魔法的接触,你用更稳定的形式重现了旅行者之靴.这些靴子,不像初始的,不会因长时间穿着而损坏,用电力代替耐久.这些靴子免疫一切掉落伤害(不消耗电力),并保有旅行者之靴的所有特性.
+emt.rsname.Electric Boots of the Traveller=Electric Boots of the Traveller
+emt.tag.Electric Boots of the Traveller=I've got the power
+emt.text.Electric Boots of the Traveller=With lots of precise mechanical components and a touch of magic, you have recreated the effects of the Boots of the Traveller in a more stable form. These boots, unlike the original, will not wear away over time, but instead use EU. These boots negate all fall damage, and have all the normal properties of the Boots of the Traveller.
 
-emt.rsname.Nano Boots of the Traveller=纳米旅行者之靴
-emt.tag.Nano Boots of the Traveller=速度之魔
-emt.text.Nano Boots of the Traveller=你的电子旅行者之靴还不错,但你觉得你能做的更好.你已发现了一种将这些靴子升级到纳米的方法,改良机械零件和靴子的符文.这些靴子提供了比以往更高的跳跃高度和更快的奔跑速度.
+emt.rsname.Nano Boots of the Traveller=Nano Boots of the Traveller
+emt.tag.Nano Boots of the Traveller=Speed demon
+emt.text.Nano Boots of the Traveller=Your Electric Boots of the Traveller are nice, but you think you can do better. You have found a way to upgrade these boots to the Nano tier, improving the mechanical components and improving the spell cast on the footwear. These boots allow for higher jumps and faster running than before.
 
-emt.rsname.Quantum Boots of the Traveller=量子旅行者之靴
-emt.tag.Quantum Boots of the Traveller=超越光速
-emt.text.Quantum Boots of the Traveller=你利用量子物理学来改良,使得这些量子旅行者之靴如此之快,让你总能在第一时间达到各个地点.但是别忘了薛定谔的猫发生了什么....
+emt.rsname.Quantum Boots of the Traveller=Quantum Boots of the Traveller
+emt.tag.Quantum Boots of the Traveller=Faster than light
+emt.text.Quantum Boots of the Traveller=You have meddled with Quantum Physics, making these Quantum Boots of the Traveller so fast, that you appear to be in multiple places at once. But do not forget what happened to Schrodinger's cat...
 
-emt.rsname.Electric Scribing Tools=电子笔与墨
-emt.tag.Electric Scribing Tools=保护墨鱼!
-emt.text.Electric Scribing Tools=你不想再杀墨鱼了.因此你研究出了一种补充书写工具的方法,使得他们不再需要墨水.通过静电和圆珠笔技术你做出了能在内部快速回复墨水的工具,只需要充电就能持续使用.
+emt.rsname.Electric Scribing Tools=Electric Scribing Tools
+emt.tag.Electric Scribing Tools=Save squiddy!
+emt.text.Electric Scribing Tools=You have decided not to kill any more squid. Therefore, you researched a way to charge your scribing tools, in a way which would make them not needing any ink. Thanks to static electricity, and the ball pen technology, you managed to make the ink inside the scribing tools spin so quickly, that EU could recharge it.
 
-emt.rsname.Etheral Processor=天域加工机
-emt.tag.Etheral Processor=天空如此湛蓝...
-emt.text.Etheral Processor=在你为了处理众多矿物而开发炼狱熔炉的地狱能量后,你脑子中出现了一些完全不同的想法.现在你使用名为"古德"的力量,来自天空和叫做天堂的这些.这个天域加工机使得每个冶炼的产物双倍,并且有10%的几率产生一个神秘粒作为奖励.你知道他有两个缺点:尽管它使冶炼产物双倍,但这也要双倍于一个物品的冶炼时间.并且由于它是高级魔法的发明,一些普通的冶炼合成会失效.你相信圆石不能在这个奇妙的机器里被烧成石头.
+emt.rsname.Etheral Processor=Etheral Processor
+emt.tag.Etheral Processor=The sky is blue...
+emt.text.Etheral Processor=After taping into hell's power with the Infernal Furnace to get some rewards out of your mining sessions, you have something totally different in mind. You are now using the power of the "Good", the sky and the so called "Paradise". This Ethereal Processor doubles the yield of every smelting recipe, and gives a 10% chance of getting a Thaumium Nugget as a bonus. You can see two drawbacks to this : as it doubles your smelting yield, it takes twice the time to process an item. As it is a highly magical device, some mundane smelting recipes do not seem to work. You are confident that smelting cobblestone into stone will not work into this wonder-machine.
 
-emt.rsname.Water Infused Solar Panels=注魔太阳能发电机(水)
-emt.tag.Water Infused Solar Panels=该死又下雨了!
-emt.text.Water Infused Solar Panels=你总是讨厌下雨,他别是当你所有的能源来自太阳能时.你如此讨厌它于是你决定寻找一种让太阳能在雨天工作的方法.你做出来了...这种..水注魔太阳能能在下雨时工作,并且只在下雨时发电.
+emt.rsname.Water Infused Solar Panels=Water Infused Solar Panels
+emt.tag.Water Infused Solar Panels=Curse you rain!
+emt.text.Water Infused Solar Panels=You always hated rain, especially when all your power came from Solar Panels. You hated it so much that you decided to find a way to make your Solar Panels keep running during rain. You managed... kind of. The Water Infused Solar Panels work during rain, and during rain only.
 
-emt.rsname.Entropy Infused Solar Panels=注魔太阳能发电机(混沌)
-emt.tag.Entropy Infused Solar Panels=不要惧怕黑暗
-emt.text.Entropy Infused Solar Panels=你知道太阳能晚上会停止工作.为了解决这个问题,你找到了一种让你的太阳能在晚上工作的方法!(只能在晚上工作)
+emt.rsname.Entropy Infused Solar Panels=Entropy Infused Solar Panels
+emt.tag.Entropy Infused Solar Panels=Not afraid of the dark
+emt.text.Entropy Infused Solar Panels=You know that Solar Panels stop working at nightime. To counter that, you found a way to make your Solar Panels produce energy at night!
 
-emt.rsname.Order Infused Solar Panels=注魔太阳能发电机(秩序)
-emt.tag.Order Infused Solar Panels=我得到了能量!
-emt.text.Order Infused Solar Panels=利用秩序的力量,你已经有办法让你的太阳能在白天输出三倍的电力!
+emt.rsname.Order Infused Solar Panels=Order Infused Solar Panels
+emt.tag.Order Infused Solar Panels=I've got the power!
+emt.text.Order Infused Solar Panels=Harnessing the power of Order, you have managed to triple the output of your Solar Panels at day!
 
-emt.rsname.Fire Infused Solar Panels=注魔太阳能发电机(火)
-emt.tag.Fire Infused Solar Panels=炽热的危险之地...
-emt.text.Fire Infused Solar Panels=你被下界所吸引,做出了一个怪物.这些太阳能在主世界正常工作,但放在下界也能发电!它真是个怪物...
+emt.rsname.Fire Infused Solar Panels=Fire Infused Solar Panels
+emt.tag.Fire Infused Solar Panels=Where it is hot and dangerous...
+emt.text.Fire Infused Solar Panels=Fascinated by the Nether, you created a monster. These Solar Panels work like normal in the Overworld, but also produce more energy when they are located in the Nether! A monster I tell you...
 
-emt.rsname.Air Infused Solar Panels=注魔太阳能发电机(风)
-emt.tag.Air Infused Solar Panels=高度不是问题
-emt.text.Air Infused Solar Panels=你的大胆的想法和在高空存在的大量的风使得这些太阳能在Y=160层以上能提供更多的电力.
+emt.rsname.Air Infused Solar Panels=Air Infused Solar Panels
+emt.tag.Air Infused Solar Panels=Don't be afraid of heights
+emt.text.Air Infused Solar Panels=Your adventurous mind and the natural amount of air existing at the top of the world make these Solar Panels yield more energy when located over Y = 160.
 
-emt.rsname.Earth Infused Solar Panels=注魔太阳能发电机(地)
-emt.tag.Earth Infused Solar Panels=非幽闭症患者定制
-emt.text.Earth Infused Solar Panels=你已决定向地心更进一步.这些太阳能在Y=10层以下的地方工作,但是记住它们仍需要在太阳的沐浴下才能工作.
+emt.rsname.Earth Infused Solar Panels=Earth Infused Solar Panels
+emt.tag.Earth Infused Solar Panels=Not for claustrophobic persons
+emt.text.Earth Infused Solar Panels=You have decided to get closer to the core. These Solar Panels produce more energy under Y = 10, but keep in mind the rebellious spirits need to be able to see the sun to work.
 
-emt.rsname.UU-Matter Infusion=UU物质注魔
-emt.tag.UU-Matter Infusion=蕴含魔力的百变液体...
-emt.text.UU-Matter Infusion=你总是觉得UU物质拥有的力量十分奇特,甚至...看起来像魔法般神奇,特别是大量种类的正确排列能合成物质.然后现在,你已发现了通过注魔合成塑造uu液体的方法.你能使用许多种合成,并且他们大都消耗4~32单位每种基础要素源质.
+emt.rsname.UU-Matter Infusion=UU-Matter Infusion
+emt.tag.UU-Matter Infusion=A magically charged metamorphic liquid...
+emt.text.UU-Matter Infusion=You have always found the powers possessed by UU-Mater very strange, even... magical looking, especially the ability to take a large number of shapes if manipulated correctly. And here you are, having discovered a way to shape the liquid through the process of Infusion Crafting. Many recipes are available, and all of them use between 4 to 32 of each primal aspect.
 
-emt.rsname.Portable Node=便携式节点
-emt.tag.Portable Node=处处实用
-emt.text.Portable Node=在对缸中节点进行深入研究后,你成功制作出了一个能生成随机节点的道具.然而,由于你无法理解节点的一些魔法部分所以这个便携及节点将会是凋零且不稳定的.<BR><BR>你只能通过shift+右键去除它,并且你觉得你应该早些处理它,因为不稳定节点是...十分无法预料的.
+emt.rsname.Portable Node=Portable Node
+emt.tag.Portable Node=Randomly convenient
+emt.text.Portable Node=After studying in an in-depth manner of the wonders of Node Jarring, you have managed to create an item capable of spawning a random node. However, due to some parts of node magic which you cannot understand, this Portable Node will always be Fading and Unstable. <BR><BR>You can only get rid of it by a shift-right click, and you think that you should dispose of it as soon as possible, for unstable nodes are... rather unpredictable.
 
-emt.rsname.Electric Hoe of Growth=电子句芒锄
-emt.tag.Electric Hoe of Growth=惊人的自然力量
-emt.text.Electric Hoe of Growth=你试着升级你的句芒锄.现在它对土地和植物就像之前的句芒锄一样工作.<BR><BR>然而,对你来说这个工具里的魔力过于强力难以全部转为使用一般电力的性能,在它用坏前你还会有几次使用的次数,它是可充电的.
+emt.rsname.Electric Hoe of Growth=Electric Hoe of Growth
+emt.tag.Electric Hoe of Growth=Shockingly natural
+emt.text.Electric Hoe of Growth=You have managed to upgrade your Hoe of Growth. It now delivers little shocks to the land and plants around it, much like your regular Hoe of Growth would do. <BR><BR>However, the magic contained within this tool is too powerful for you to convert it fully to using mundane electricity, for the tool still has a limited number of uses before it breaks, but is rechargeable.
 
-emt.rsname.Wand Focus: Charging=法杖核心:充电
-emt.tag.Wand Focus: Charging=从魔力到电力
-emt.text.Wand Focus: Charging=你意识到你总是随身带着一支法杖和你的电子设备.但有时,你用光了电子工具里的电.因此你做出了这个核心.它很简单也很实用,将法杖的魔力转化为一般的电力来给物品充电.
+emt.rsname.Wand Focus: Charging=Wand Focus: Charging
+emt.tag.Wand Focus: Charging=From vis to electricity
+emt.text.Wand Focus: Charging=You realized you always carry a wand with you, along with your electric stuff. But sometimes, you have ran out of juice in your electric tools. That's why you created this wand focus. It is very simple, yet very useful, for it drains vis from your wand storage, and charges the items using mundane electricity.
 
-emt.rsname.Wand Focus: Wand Charging=法杖核心:化魔
-emt.tag.Wand Focus: Wand Charging=从电力到魔力
-emt.text.Wand Focus: Wand Charging=你发现了一种方法利用工业充能站的能力并将其嵌入法杖核心,逆转原有的过程.现在它会从物品中抽取电力给你的法杖充能,尽管消耗率很高.此外,你意识到你需要一整套符文护甲才能启动法杖充能的过程.
+emt.rsname.Wand Focus: Wand Charging=Wand Focus: Wand Charging
+emt.tag.Wand Focus: Wand Charging=From electricity to vis
+emt.text.Wand Focus: Wand Charging=You've discovered a way to take the benefits of the Industrial Recharge station and house them inside of a Charging Focus, reversing its polarity.  Now it will drain electricity from your items in order to recharge your wand, albeit at a rather high cost. Furthermore, you have realized than you need a full set of Electric Armor to be able to start the wand charging process.
 
-emt.rsname.Inventory Charging Ring=物品充能指环
-emt.tag.Inventory Charging Ring=被动充电
-emt.text.Inventory Charging Ring=尽管其他神秘使使用指环给符文护盾充能,你觉得它们还有更好的应用.给凡人指环注入能量源,你就能对物品栏里的耗电物品使用它的充电效果.它的发电效率仅有32EU/t,但那不就说明还有提升的空间么.
+emt.rsname.Inventory Charging Ring=Inventory Charging Ring
+emt.tag.Inventory Charging Ring=Passive charger
+emt.text.Inventory Charging Ring=While other thaumaturgists use rings to charge their runic shields, you feel that there are better applications for them.  By fusing power sources into a mundane ring, you have learned how to funnel its charging effects into electric items in your inventory instead. It doesn't generate much at only 32 EU per tick, but that just means there's room for improvement.
 
-emt.rsname.Armor Charging Ring=装备充电指环
-emt.tag.Armor Charging Ring=或许能救你的命
-emt.text.Armor Charging Ring=新指环低但稳定的充电率比预期的还要有用.当没有工具需要能量时它给护甲充电还是不错的.通过注入多一点的能量源和一点护甲你做到了.可惜的是,这个新的能量源没有增加充电效率,但不都是慢慢来的么.
+item.EMT.bauble.name=Armor Charging Ring
+emt.rsname.Armor Charging Ring=Armor Charging Ring
+emt.tag.Armor Charging Ring=Passive life-saver
+emt.text.Armor Charging Ring=You have found the low but constant recharge rate of your new ring to be more useful than anticipated, but it would be nice if it charged your armor when there wasn't a tool in need of power.  By infusing a few more power sources and a piece of armor, you have found a way to have it do just that.  Sadly, the new power sources do not increase the recharge rate, but progress is progress.
 
-emt.rsname.The One Ring=魔戒
-emt.tag.The One Ring=在末日山的坑中所埋藏...
-emt.text.The One Ring=天下精灵铸三戒,地底矮人得七戒,寿定凡人持九戒,魔多妖境暗影伏,闇王坐拥至尊戒.至尊戒,驭众戒;至尊戒,寻众戒,魔戒至尊引众戒,禁锢众戒黑暗中,魔多妖境暗影伏.-J.R.R.Tolkien指环王题词.<BR>你梦想着从隐于众目,免于一切的攻击.你听说这个戒指在某处的遗迹中遗留着,时间流逝恒久不变...
+item.EMT.item.bauble.name=The One Ring
+emt.rsname.The One Ring=The One Ring
+emt.tag.The One Ring=Forged inside the pit of the volcanic Mount Doom...
+emt.text.The One Ring=Three Rings for the Elven-kings under the sky, Seven for the Dwarf-lords in their halls of stone, Nine for Mortal Men doomed to die, One for the Dark Lord on his dark throne in the Land of Mordor where the Shadows lie. One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkness bind them in the Land of Mordor where the Shadows lie. -J.R.R. Tolkien's epigraph to The Lord of The Rings.<BR>You dream of being able to disappear from sight , therefore becoming invulnerable to any attack. You have heard that this Ring lays somewhere in ruins, unaltered by time...
 
-emt.rsname.Feather Wings=羽毛羽翼
-emt.tag.Feather Wings=在动漫里才会起效...
-emt.text.Feather Wings=把羽毛黏上硬纸板再做成翅膀的形状听着是个好主意.至少,你可以按住空格键在空中推动自己.虽然不是太明显但会起效.但在水下和下雨天使用翅膀听起来可不好.摔落伤害减免:25%.
+emt.rsname.Feather Wings=Feather Wings
+emt.tag.Feather Wings=It only works in anime...
+emt.text.Feather Wings=Duct-taping feathers to cardboard sheets, formed in the shape of wings sounded like a good idea. At least, you can thrust yourself in the air when the spacebar is hit. Not much, but it'll work. Using any wings underwater or during the rain sounds like a very bad idea. Included: fall damage reduction, 25%.
 
-emt.rsname.Thaumium Reinforced Wings=神秘强化羽翼
-emt.tag.Thaumium Reinforced Wings=好多了
-emt.text.Thaumium Reinforced Wings=注入魔力的神秘锭是众所周知的.因此,用神秘锭来强化你的纸板翼是个好主意.按下空格键会将你推得更高,如果一直按住则会缓慢下降.潜行则会快速下降.摔落伤害减免:50%.
+emt.rsname.Thaumium Reinforced Wings=Thaumium Reinforced Wings
+emt.tag.Thaumium Reinforced Wings=Already much better
+emt.text.Thaumium Reinforced Wings=The magic infusing Thaumium is well known. Therefore, reinforcing your cardboard wings with Thaumium sounded like a good idea. You can thrust yourself much higher on spacebar hit, and slow your fall down when spacebar is held. Sneak to go down at a steady pace. Included: fall damage reduction, 50%.
 
-emt.rsname.Nanosuit Wings=纳米羽翼
-emt.tag.Nanosuit Wings=纳米大法好!
-emt.text.Nanosuit Wings=利用神秘锭将魔法与纳米科技结合到你的飞行翼上..听着很符合逻辑.现在你可以推的比之前还要高,按住空格下落的也比之前要慢.摔落伤害减免:75%.
+emt.rsname.Nanosuit Wings=Nanosuit Wings
+emt.tag.Nanosuit Wings=Nanotechnologies to the rescue!
+emt.text.Nanosuit Wings=Combining the magic harnessed by Thaumium with the nanotechnologies in your wings.. seemed like the logical way to go. You can thrust yourself way higher than before, and fall even slower when holding spacebar. Included: fall damage reduction, 75%.
 
-emt.rsname.Quantum Wings=量子羽翼
-emt.tag.Quantum Wings=量子科技
-emt.text.Quantum Wings=在探索完纳米科技所有的可能性后,你决定做最后一搏,量子.你可以在空中再跳几格的高度,极好的防护,并且的下降的过程极大减缓了.然而,量子的不可预测又一次发生了.同时按住潜行键和空格键时你的下降会完全停止.你不知道为何会这样,但它就是这样.摔落伤害减免:100%.
+emt.rsname.Quantum Wings=Quantum Wings
+emt.tag.Quantum Wings=Quantum technologies.
+emt.text.Quantum Wings=After exploring all the possibilities of nanotechnologies, you decided to do the last jump. Quantum. You can thrust yourself many blocks high, have a very good protection, and your fall is slowed down a lot. However, the quantum unpredictability happened once again. Your fall will be completely stopped when spacebar and sneak are maintained. You don't know why, but it works. Included: fall damage reduction, 100%.
 
-emt.rsname.Infused Quantum Armor=注魔量子胸甲
-emt.tag.Infused Quantum Armor=最后的一步...
-emt.text.Infused Quantum Armor=你已经无事可做,但是你决定做一些有用的东西.你的脑海中浮现出一个想法,在制作盔甲时可以把羽翼或者背包系在一起以保证飞行的安全.持有羽翼或者背包时在潜行状态下右击可以将它们系在盔甲上.要将它们拿下来时只需要按住Shift + [卸下装备]键(详见[选项]-[控制]).
-
-emt.rsname.ResearchCompleter=自动化研究
-emt.tag.ResearchCompleter=再也不用担心秩序危机了
-emt.text.ResearchCompleter=连连看一开始很有趣,但你已经决定寻找一种更好的方法解决所有的研究.最终,你结合科技与魔法,制造出了一台多方块机器,可以自动完成研究笔记.<BR><BR>需要将灵气节点放在机器内部才能使其正常运行,而且在运行过程中,机器会缓慢摧毁这些节点.节点稳定器不是必须品,但为了让这么多节点不互相打架,我们还是推荐使用节点稳定器.
+emt.rsname.Infused Quantum Armor=Infused Quantum Сhestplate.
+emt.tag.Infused Quantum Armor=The last step is here...
+emt.text.Infused Quantum Armor=You had been nothing to do and you decided to do something useful. You had an idea in your head of making armor which you can fasten the wings or backpack for being protected in flight. Take the wings or backpack in your hands and sit down to put their on armor. To remove them, hold Shift + "Unequip"(see in options).

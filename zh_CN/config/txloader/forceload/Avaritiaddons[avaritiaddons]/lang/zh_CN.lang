@@ -1,11 +1,11 @@
-itemGroup.avaritiaddons=无尽贪婪拓展
+itemGroup.avaritiaddons=Avaritiaddons
 
-tile.CompressedChest.name=压缩箱子
-tile.InfinityChest.name=无尽箱子
-tile.ExtremeAutoCrafter.name=梦魇工作台
+tile.CompressedChest.name=Compressed Chest
+tile.InfinityChest.name=Infinity Chest
+tile.ExtremeAutoCrafter.name=Dire Autocrafting Table
 
-container.CompressedChest=压缩箱子
-container.InfinityChest=无尽箱子
-container.ExtremeAutoCrafter=梦魇工作台
+container.CompressedChest=Compressed Chest
+container.InfinityChest=Infinity Chest
+container.ExtremeAutoCrafter=Dire Autocrafting Table
 
-tooltip.fillingRange=%1$s / %2$s
+tooltip.fillingRange=%1$s of %2$s

@@ -1,222 +1,227 @@
 #Group names
-itemGroup.ThaumicEnergistics=神秘能源
-thaumicenergistics.group.essentia.transport=ME源质输入/输出总线
+itemGroup.ThaumicEnergistics=Thaumic Energistics
+thaumicenergistics.group.essentia.transport=ME Essentia Import/Export Bus
 
 #Fluids
-thaumicenergistics.fluid.gaseous=超临界流体
+thaumicenergistics.fluid.gaseous=Super Critical Fluid
 
 #Blocks
-thaumicenergistics.block.essentia.provider.name=源质供应器
-thaumicenergistics.block.infusion.provider.name=注魔供应器
-thaumicenergistics.block.advanced.infusion.provider.name=高级注魔供应器
-thaumicenergistics.block.gear.box.name=铁齿轮箱
-thaumicenergistics.block.golem.gear.box.name=神秘齿轮箱
-thaumicenergistics.block.essentia.cell.workbench.name=源质元件工作台
-thaumicenergistics.block.arcane.assembler.name=奥术装配室
-thaumicenergistics.block.knowledge.inscriber.name=知识记录仪
-thaumicenergistics.block.essentia.vibration.chamber.name=源质谐振仓
-thaumicenergistics.block.distillation.encoder.name=蒸馏编码台
+thaumicenergistics.block.essentia.provider.name=Essentia Provider
+thaumicenergistics.block.infusion.provider.name=Infusion Provider
+thaumicenergistics.block.advanced.infusion.provider.name=Advanced Infusion Provider
+thaumicenergistics.block.gear.box.name=Iron Gear Box
+thaumicenergistics.block.golem.gear.box.name=Thaumium Gear Box
+thaumicenergistics.block.essentia.cell.workbench.name=Essentia Cell Workbench
+thaumicenergistics.block.arcane.assembler.name=Arcane Assembler
+thaumicenergistics.block.knowledge.inscriber.name=Knowledge Inscriber
+thaumicenergistics.block.essentia.vibration.chamber.name=Essentia Vibration Chamber
+thaumicenergistics.block.distillation.encoder.name=Distillation Pattern Encoder
 
 #Cable parts
-thaumicenergistics.aeparts.essentia.ImportBus.name=源质输入总线
-thaumicenergistics.aeparts.essentia.ExportBus.name=源质输出总线
-thaumicenergistics.aeparts.essentia.levelemitter.name=源质发信器
-thaumicenergistics.aeparts.essentia.StorageBus.name=源质储存总线
-thaumicenergistics.aeparts.essentia.terminal.name=源质终端
-thaumicenergistics.aeparts.arcane.crafting.terminal.name=奥术合成终端
-thaumicenergistics.aeparts.vis.interface.name=要素中继接口
-thaumicenergistics.aeparts.vis.interface_creative.name=创造模式要素中继接口
-thaumicenergistics.aeparts.essentia.storage.monitor.name=源质储存监控器
-thaumicenergistics.aeparts.essentia.conversion.monitor.name=源质交换监控器
+thaumicenergistics.item.aeparts.name=Essentia Bus/Terminal/Interface/Monitor
+thaumicenergistics.aeparts.essentia.ImportBus.name=Essentia Import Bus
+thaumicenergistics.aeparts.essentia.ExportBus.name=Essentia Export Bus
+thaumicenergistics.aeparts.essentia.levelemitter.name=Essentia Level Emitter
+thaumicenergistics.aeparts.essentia.StorageBus.name=Essentia Storage Bus
+thaumicenergistics.aeparts.essentia.terminal.name=Essentia Terminal
+thaumicenergistics.aeparts.arcane.crafting.terminal.name=Arcane Crafting Terminal
+thaumicenergistics.aeparts.vis.interface.name=Vis Relay Interface
+thaumicenergistics.aeparts.vis.interface_creative.name=Creative Vis Relay Interface
+thaumicenergistics.aeparts.essentia.storage.monitor.name=Essentia Storage Monitor
+thaumicenergistics.aeparts.essentia.conversion.monitor.name=Essentia Conversion Monitor
 
 #Items
-thaumicenergistics.item.essentia.cell.1k.name=1k-ME源质存储元件
-thaumicenergistics.item.essentia.cell.4k.name=4k-ME源质存储元件
-thaumicenergistics.item.essentia.cell.16k.name=16k-ME源质存储元件
-thaumicenergistics.item.essentia.cell.64k.name=64k-ME源质存储元件
-thaumicenergistics.item.essentia.cell.256k.name=256k-ME源质存储元件
-thaumicenergistics.item.essentia.cell.1024k.name=1024k-ME源质存储元件
-thaumicenergistics.item.essentia.cell.4096k.name=4096k-ME源质存储元件
-thaumicenergistics.item.essentia.cell.16384k.name=16384k-ME源质存储元件
-thaumicenergistics.item.essentia.cell.quantum.name=ME源质量子存储元件
-thaumicenergistics.item.essentia.cell.singularity.name=ME源质数字奇点元件
-thaumicenergistics.item.essentia.cell.creative.name=魔导源质存储元件
-thaumicenergistics.item.storage.casing.name=ME源质存储外壳
-thaumicenergistics.item.storage.component.1k.name=1k-ME源质存储组件
-thaumicenergistics.item.storage.component.4k.name=4k-ME源质存储组件
-thaumicenergistics.item.storage.component.16k.name=16k-ME源质存储组件
-thaumicenergistics.item.storage.component.64k.name=64k-ME源质存储组件
-thaumicenergistics.item.storage.component.256k.name=256k-ME源质存储组件
-thaumicenergistics.item.storage.component.1024k.name=1024k-ME源质存储组件
-thaumicenergistics.item.storage.component.4096k.name=4096k-ME源质存储组件
-thaumicenergistics.item.storage.component.16384k.name=16384k-ME源质存储组件
-thaumicenergistics.item.material.diffusion.core.name=扩散核心
-thaumicenergistics.item.material.coalescence.core.name=聚集核心
-thaumicenergistics.item.material.iron.gear.name=铁齿轮
-thaumicenergistics.item.wireless.essentia.terminal.name=无线源质终端
-thaumicenergistics.item.knowledge.core.name=知识核心
-thaumicenergistics.item.focus.aewrench.name=法杖核心: AE扳手
-thaumicenergistics.item.focus.aewrench.disabled.name=法杖核心: AE扳手 - 扳手模式已禁用
-thaumicenergistics.item.golem.wifi.backpack.name=无线傀儡背包
-thaumicenergistics.item.cell.microscope.name=元件显微镜
+item.itemCraftingAspect.name=Aspect
+thaumicenergistics.item.essentia.cell.name=ME Essentia Storage Cell
+thaumicenergistics.item.essentia.cell.1k.name=1k ME Essentia Storage Cell
+thaumicenergistics.item.essentia.cell.4k.name=4k ME Essentia Storage Cell
+thaumicenergistics.item.essentia.cell.16k.name=16k ME Essentia Storage Cell
+thaumicenergistics.item.essentia.cell.64k.name=64k ME Essentia Storage Cell
+thaumicenergistics.item.essentia.cell.256k.name=256k ME Essentia Storage Cell
+thaumicenergistics.item.essentia.cell.1024k.name=1024k ME Essentia Storage Cell
+thaumicenergistics.item.essentia.cell.4096k.name=4096k ME Essentia Storage Cell
+thaumicenergistics.item.essentia.cell.16384k.name=16384k ME Essentia Storage Cell
+thaumicenergistics.item.essentia.cell.quantum.name=ME Essentia Quantum Storage Cell
+thaumicenergistics.item.essentia.cell.singularity.name=ME Essentia Digital Singularity Storage Cell
+thaumicenergistics.item.essentia.cell.creative.name=Thaumometric Essentia Cell
+thaumicenergistics.item.storage.casing.name=ME Essentia Storage Housing
+thaumicenergistics.item.storage.component.name=ME Essentia Storage Component
+thaumicenergistics.item.storage.component.1k.name=1k ME Essentia Storage Component
+thaumicenergistics.item.storage.component.4k.name=4k ME Essentia Storage Component
+thaumicenergistics.item.storage.component.16k.name=16k ME Essentia Storage Component
+thaumicenergistics.item.storage.component.64k.name=64k ME Essentia Storage Component
+thaumicenergistics.item.storage.component.256k.name=256k ME Essentia Storage Component
+thaumicenergistics.item.storage.component.1024k.name=1024k ME Essentia Storage Component
+thaumicenergistics.item.storage.component.4096k.name=4096k ME Essentia Storage Component
+thaumicenergistics.item.storage.component.16384k.name=16384k ME Essentia Storage Component
+thaumicenergistics.item.material.name=Material
+thaumicenergistics.item.material.diffusion.core.name=Diffusion Core
+thaumicenergistics.item.material.coalescence.core.name=Coalescence Core
+thaumicenergistics.item.material.iron.gear.name=Iron Gear
+thaumicenergistics.item.wireless.essentia.terminal.name=Wireless Essentia Terminal
+thaumicenergistics.item.knowledge.core.name=Knowledge Core
+thaumicenergistics.item.focus.aewrench.name=Wand Focus: AE Wrench
+thaumicenergistics.item.focus.aewrench.disabled.name=Wand Focus: AE Wrench - Wrench Mode Disabled
+thaumicenergistics.item.golem.wifi.backpack.name=Wireless Golem Backpack
+thaumicenergistics.item.cell.microscope.name=Cell Microscope
 
 #Tooltips
-thaumicenergistics.tooltip.itemstack.details=按住§eCTRL§f查看详细信息.
-thaumicenergistics.tooltip.essentia.cell.contains=包含
-thaumicenergistics.tooltip.essentia.cell.bytes=%s / %s 字节已使用.
-thaumicenergistics.tooltip.essentia.cell.types=%s / %s 源质类型储存.
-thaumicenergistics.tooltip.button.void=允许清空
-thaumicenergistics.tooltip.button.void.disabled=不清空源质
-thaumicenergistics.tooltip.button.void.allowed=罐子溢满时清空源质
-thaumicenergistics.tooltip.button.void.note=只供应给虚空罐子
-thaumicenergistics.tooltip.button.inscriber.invalid=无效配方
-thaumicenergistics.tooltip.button.inscriber.full=知识核心已满
-thaumicenergistics.tooltip.button.inscriber.delete=从核心中除去模板
-thaumicenergistics.tooltip.button.inscriber.save=向核心存入模板
-thaumicenergistics.tooltip.button.inscriber.missing=需要知识核心
-thaumicenergistics.tooltip.button.swap.armor=将你目前装备的护甲与终端中的护甲交换.
-thaumicenergistics.tooltip.button.swap.armor.title=交换护甲
-thaumicenergistics.tooltip.arcane.assembler.hasVis=已存储Vis
-thaumicenergistics.tooltip.button.reset.aspect=重置各方面
-thaumicenergistics.tooltip.button.reset.aspect.description=将左侧表格重置为原始状态
-thaumicenergistics.tooltip.advanced.infusion.provider.working.on=工作模式
-thaumicenergistics.tooltip.advanced.infusion.provider.normal=普通供应器
-thaumicenergistics.tooltip.advanced.infusion.provider.advanced=高级供应器
-thaumicenergistics.tooltip.advanced.infusion.provider.bindto=绑定到%s %s %s矩阵
+thaumicenergistics.tooltip.itemstack.details=Hold §eCTRL§f for details.
+thaumicenergistics.tooltip.essentia.cell.contains=Contains
+thaumicenergistics.tooltip.essentia.cell.bytes=%s of %s Bytes Used.
+thaumicenergistics.tooltip.essentia.cell.types=%s of %s essentia types stored.
+thaumicenergistics.tooltip.button.void=Allow Void?
+thaumicenergistics.tooltip.button.void.disabled=Do not void essentia
+thaumicenergistics.tooltip.button.void.allowed=Void essentia if jar is full
+thaumicenergistics.tooltip.button.void.note=Only applies to void jars
+thaumicenergistics.tooltip.button.inscriber.invalid=Invalid Arcane Recipe
+thaumicenergistics.tooltip.button.inscriber.full=Knowledge Core Is Full
+thaumicenergistics.tooltip.button.inscriber.delete=Erase Pattern From Knowledge Core
+thaumicenergistics.tooltip.button.inscriber.save=Save Pattern To Knowledge Core
+thaumicenergistics.tooltip.button.inscriber.missing=Requires Knowledge Core
+thaumicenergistics.tooltip.button.swap.armor=Swaps your currently equipped armor with the armor stored in the terminal.
+thaumicenergistics.tooltip.button.swap.armor.title=Swap Armor
+thaumicenergistics.tooltip.arcane.assembler.hasVis=Contains Stored Vis
+thaumicenergistics.tooltip.button.reset.aspect=Reset the aspects
+thaumicenergistics.tooltip.button.reset.aspect.description=Reset the left-hand aspects table to its original state
+thaumicenergistics.tooltip.advanced.infusion.provider.working.on=Workig Mode
+thaumicenergistics.tooltip.advanced.infusion.provider.normal=Normal Provider
+thaumicenergistics.tooltip.advanced.infusion.provider.advanced=Advanced Provider
+thaumicenergistics.tooltip.advanced.infusion.provider.totalbind=Total binded to %d matrices
 
 
 #GUI
-thaumicenergistics.gui.arcane.crafting.terminal.title=奥术终端
-thaumicenergistics.gui.essentia.cell.title=源质元件
-thaumicenergistics.gui.selected.amount=数量
-thaumicenergistics.gui.selected.aspect=要素
-thaumicenergistics.gui.digivis.source.name=数位魔力源
-thaumicenergistics.gui.essentia.cell.workbench.title=源质元件工作台
-thaumicenergistics.gui.arcane.assembler.title=奥术装配室
-thaumicenergistics.gui.vibration.chamber.stored=存储：%d %s
-thaumicenergistics.gui.vibration.chamber.processing=正在处理：%s
+thaumicenergistics.gui.arcane.crafting.terminal.title=Arcane Terminal
+thaumicenergistics.gui.essentia.cell.title=Essentia Cell
+thaumicenergistics.gui.selected.amount=Amount
+thaumicenergistics.gui.selected.aspect=Aspect
+thaumicenergistics.gui.digivis.source.name=DigiVis Source
+thaumicenergistics.gui.essentia.cell.workbench.title=Essentia Cell Workbench
+thaumicenergistics.gui.arcane.assembler.title=Arcane Assembler
+thaumicenergistics.gui.vibration.chamber.stored=Stored: %d %s
+thaumicenergistics.gui.vibration.chamber.processing=Processing: %s
 
 #Research Tab
-tc.research_category.thaumicenergistics=神秘能源
+tc.research_category.thaumicenergistics=Energistics
 
 # Research basics
-tc.research_name.thaumicenergistics.TERESEARCH=神秘能源
-tc.research_text.thaumicenergistics.TERESEARCH=数字化时代也是可以用些魔法的
-thaumicenergistics.research_page.TERESEARCH.1=同时作为科学家和奥术学者,你设想有方法能将科技与魔法稳定有效地结合起来.<BR>你需要先细致研究物质与能量相互转换的法则.似乎神秘学中有要素可以做到,科技中也有方法做到同样的事.<BR>这可能需要大量的研究,但你确信这样投入时间是值得的.
+tc.research_name.thaumicenergistics.TERESEARCH=Thaumic Energistics
+tc.research_text.thaumicenergistics.TERESEARCH=Thaumaturgy Enters the Digital Age.
+thaumicenergistics.research_page.TERESEARCH.1=As both a scientist and an arcane scholar, you have postulated that it must be possible to combine technology and magic in a stable and productive way.<BR>You will need to study the principals of matter-energy conversion in detail to accomplish this. It is likely there are aspects of Thaumaturgy that can accomplish this, as well as technology capable of doing the same.<BR>This will require extensive study, but you are sure that it will be a worthwhile investment of your time.
 
 # Research conversion cores
-tc.research_name.thaumicenergistics.TECORES=源质数位化
-tc.research_text.thaumicenergistics.TECORES=几位大小的源质液体
-thaumicenergistics.research_page.TECORES.1=完成要素蒸馏的研究后你突然想到可以数字化储存要素源质.<BR>测试了§l成型核心§r和§l破坏核心§r后你意识到仅需小改动就能做到在源质与数位格式之间转化.<BR>由于某些源质天生具有腐蚀性,就需要在电路表面覆上一层水银来预防侵蚀.
-thaumicenergistics.research_page.TECORES.2=§l扩散核心§r<BR>源质液体相对较高的波动性和所含的能量使得需先将其扩散稀释再数字化.这时候就需要某种缓冲器来容纳这些扩散的源质.<LINE>§l聚集核心§r<BR>压缩并将分散的源质重塑凝为原先的液态很可能也需要这样一个缓冲器.
+tc.research_name.thaumicenergistics.TECORES=Digi-sentia
+tc.research_text.thaumicenergistics.TECORES=Digital Essentia.
+thaumicenergistics.research_page.TECORES.1=Having discovered how to distill essentia, it occurs to you that you may be able store it digitally.<BR>Examining the §lFormation Core§r and §lAnnihilation Core§r you realize that with some minor modifications they could serve as a means to convert essentia to and from a digital format.<BR>However, due to the corrosive nature of certain types of essentia, a layer of quicksilver around the circuitry is required to prevent decay.
+thaumicenergistics.research_page.TECORES.2=§lDiffusion Core§r<BR>The relatively high volatility and immense energy in distilled essentia requires that it first be diffused then digitized. A buffer chamber of some kind will likely be required to hold the diffused essentia.<LINE>§lCoalescence Core§r<BR>Compresses and binds re-materialized essentia diffusion back into its raw form. A buffer chamber will also likely be needed.
 
 # Research storage
-tc.research_name.thaumicenergistics.TESTORAGE=数位化源质存储
-tc.research_text.thaumicenergistics.TESTORAGE=这货真的能储存源质?
-thaumicenergistics.research_page.TESTORAGE.1=检查了现有的数字化存储媒介后你总结出确实可以储存这些数字化的源质.<BR>§l赛特斯石英§r通过注入浓缩的物质,就会获得存储源质的能力,在数字化的格式下也是十分有效的.<BR>你总结了注入的物质越浓缩储存空间就越大的结论.但这不会大于石英本身所能承受的储存大小.
-thaumicenergistics.research_page.TESTORAGE.2=§l组件§r<BR>存储组件以数位格式存储源质.单独是无法操作的,它们需要元件外壳才能与数字网络进行交互.<LINE>§l元件外壳§r<BR>为存储组件提供了接口以及保护.<BR>§l源质元件工作台§r<BR>这个元件工作台可以让你指定何种要素源质可以存储于这个元件之中.
+tc.research_name.thaumicenergistics.TESTORAGE=Digi-sentia Storage
+tc.research_text.thaumicenergistics.TESTORAGE=Can this thing really store essentia?
+thaumicenergistics.research_page.TESTORAGE.1=Upon inspecting existing digital storage mediums you have concluded that you can in-fact store digitized essentia.<BR>By infusing §lCertus Quartz§r with concentrated essence, it will gain the ability to store the essentia, which remains remarkably active even in digital form.<BR>You conclude that the higher the concentration of essence, the more it should be able to store, although there are inherit limits as to how much the quartz itself can store.
+thaumicenergistics.research_page.TESTORAGE.2=§lComponents§r<BR>Stores the essentia in its digital format. Non-operational unless a cell housing is used to interface with a digital network.<BR>§lCell Housing§r<BR>Provides an interface and protects a storage component.<BR>§lEssentia Cell Workbench§r<BR>The cell workbench allows you to partition a cell, specifying what essentia types are allowed to be stored.
 
 # Research IO
-tc.research_name.thaumicenergistics.TEIO=数位化源质运输
-tc.research_text.thaumicenergistics.TEIO=即时运输源质.
-thaumicenergistics.research_page.TEIO.1=现在你已经知道了如何数字化源质,是时候投入实际使用了.<LINE>§l输入&输出§r<BR>通过组合恰当的核心,源质管道与要素罐子你就能输入或输出网络内的源质储存.源质过滤管道的使用让你能设置可输送的要素源质类型.
-thaumicenergistics.research_page.TEIO.2=§l储存总线§r<BR>将输入和输出总线并入一个设备中,让你像使用网络储存一样使用外部的源质容器.<BR>和储存一样,总线还可以使用虚空罐子或者物质聚合器来清除多余的源质.若使用虚空罐子,你需要在GUI中设定允许使用虚空罐子.在这里强烈建议为存储总线设定低优先级.
+tc.research_name.thaumicenergistics.TEIO=Digi-sentia Transportation
+tc.research_text.thaumicenergistics.TEIO=Moving Essentia Digitally!
+thaumicenergistics.research_page.TEIO.1=Now that you know how to digitize essentia, it's time to put that knowledge to work.<LINE>§lImport & Export§r<BR>By binding the appropriate core to an essentia tube and chamber, you are able to move essentia in and out of the storage network. The use of a filter tube allows you to specify what aspects are allowed to be transferred.
+thaumicenergistics.research_page.TEIO.2=§lStorage Bus§r<BR>Combining the import and export buses into a single device allows you to use external essentia containers as network storage.<BR>As well as storage, the bus can also be used to remove excess essentia from the network by using a void jar or ME Condenser. If using a void jar, you must select the allow void button in the GUI. Setting a low priority on the storage bus is recommended here.
 
 # Research Arcane crafting terminal
-tc.research_name.thaumicenergistics.TEARCANETERM=奥术合成终端
-tc.research_text.thaumicenergistics.TEARCANETERM=利用魔法§o与科技§r来合成
-thaumicenergistics.research_page.TEARCANETERM.1=你已发现将初始要素注入§l终端§r和§l奥术工作台§r,就能赋予终端合成奥术物品的能力.<BR>终端仍保有其访问ME网络中物品的能力,保证了快速高效的合成,还提供了储存并交换护甲的能力,在你需要快速减免Vis消耗时你会用到的.
+tc.research_name.thaumicenergistics.TEARCANETERM=Arcane Crafting Terminal
+tc.research_text.thaumicenergistics.TEARCANETERM=Crafting with magic §oand technology.§r
+thaumicenergistics.research_page.TEARCANETERM.1=You have discovered that using primal aspects to bind a §lTerminal§r to an §lArcane Worktable§r allows you to imbue the terminal with the worktable's ability to craft arcane items.<BR>The terminal retains its ability to access items on the ME network allowing faster and more plentiful crafting, as well as store and swap a set of armor for when you need a quick vis discount.
 
 # Research Essentia terminal
-tc.research_name.thaumicenergistics.TEESSTERM=源质终端
-tc.research_text.thaumicenergistics.TEESSTERM=已知你有多少源质.
-thaumicenergistics.research_page.TEESSTERM.1=§l源质终端§r让你能看到网络中储存了多少源质,并提供了用源质容器向终端输入源质或从中抽取源质的方法.§l源质发信器§r会持续监测网络中的源质等级,并在条件符合时发出红石信号.
-thaumicenergistics.research_page.TEESSTERM.2=§l源质储存监控器§r和§l源质交换监控器§r则能让你看到此刻有多少某源质存储于网络之中.转换监视器还能让你向网络中输入或从中抽取源质.<BR>使用扳手右键将会锁定/解锁监视器.<BR>手持标签,装有源质的罐子或者安瓿右击解锁状态下的监视器将会设定当前显示的要素种类,空手右键则会清空.<BR>右击锁定的交换监视器可以填充要素罐子或安瓿,潜行并右击则会清空罐子或安瓿并将源质导入网络.<BR>潜行并右键双击将会清空你物品栏里所有的源质,并导入进网络.
-thaumicenergistics.research_page.TEESSTERM.3=§l源质发信器§r可在网络中源质低于或高于指定水平时发出红石信号.
-thaumicenergistics.research_page.TEESSTERM.4=§l源质储存监控器§r和§l源质交换监控器§r可以让你知道在某一刻时网络内有多少指定要素源质.源质交换监控器还可以让你将源质输入网络,或是从网络中提取源质.<BR>使用扳手右击即可锁定/解锁监控器.<BR>手持罐子标签或者填满的罐子或填满的安瓿右击未锁定的监控器可设定显示的要素种类,空手右击则可清空.<BR>右击锁定的监控器可填满罐子或安瓿,按住Shift右击则可清空它们.<BR>按住Shift时右键双击可清空你物品栏中的所有源质.
+tc.research_name.thaumicenergistics.TEESSTERM=Essentia Monitoring
+tc.research_text.thaumicenergistics.TEESSTERM=Knowing how much you have.
+thaumicenergistics.research_page.TEESSTERM.1=The §lEssentia Terminal§r provides a convenient way to insert or extract essentia stored within the network.<BR>When placing a jar or phial it will be emptied if it contains any essentia, or filled with the selected aspect. Labels can also be set or cleared depending on the selected aspect.
+thaumicenergistics.research_page.TEESSTERM.2=For the Thaumaturge with little time on their hands and many aspects to work with, the displayed aspects can be clicked with an item to fill, drain, or set the item in question.<BR>When holding multiple of an item, items will be returned to your inventory.
+thaumicenergistics.research_page.TEESSTERM.3=The §lEssentia Level Emitter§r provides a redstone signal when the level of essentia in the network falls below or rises above a set amount.
+thaumicenergistics.research_page.TEESSTERM.4=The §lEssentia Storage Monitor§r & §lEssentia Conversion Monitor§r allow you to see how much of an aspect is in the network at a glance. The conversion monitor also allows you to insert and extract essentia from the network.<BR>Right-clicking with a wrench will lock/unlock the monitor.<BR>Right-clicking an unlocked monitor with a label or filled jar or phial will set the displayed aspect, and right-clicking with an empty hand will clear aspect.<BR>Right-clicking a locked conversion monitor will fill jar or phial and Shift-Right-Clicking will empty them.<BR>Shift-Double-Right-Click will empty all essentia from your inventory.
 
 # Research Essentia Provider
-tc.research_name.thaumicenergistics.TEESSPROV=源质供应器
-tc.research_text.thaumicenergistics.TEESSPROV=应汝所呼.
-thaumicenergistics.research_page.TEESSPROV.1=尽管输入和输出总线适用于许多工作,它们还缺乏与复杂炼金设备相接的灵活性.为了突破这个限制你做出了一个使得这些设备能直接的从网络中获取源质的装置.<BR>使用§l源质供应器§r时就成了项轻松的工作.只要将它连接网络和设备,它就会完成剩下所有的事.<BR>和源质缓冲器相似,它也有少量吸力(8).
+tc.research_name.thaumicenergistics.TEESSPROV=Essentia Provider
+tc.research_text.thaumicenergistics.TEESSPROV=Ask and you shall receive.
+thaumicenergistics.research_page.TEESSPROV.1=While import and export buses are useful for an array of jobs, they lack the flexibility to interface with complex alchemical constructs. To overcome this limitation you have created a device that will allow these constructs to request any essentia directly from the network.<BR>Using the §lEssentia Provider§r should prove to be a simple task. Simply connect it to both the network and construct, and it will do the rest.<BR>Like an essentia buffer it has a small amount of suction(8).
 
 # Research Infusion Provider
-tc.research_name.thaumicenergistics.TEINFPROV=注魔供应器
-tc.research_text.thaumicenergistics.TEINFPROV=注魔更易.
-thaumicenergistics.research_page.TEINFPROV.1=通过研究源质注魔的过程,你发现了能用于注魔的源质瞬间数字化与数字瞬间源质化的方法.<BR>将注魔供应器邻近神秘装置放置,装置就能直接从网络中抽取源质,就像是要素罐子一样.对注魔祭坛来说这十分实用.
+tc.research_name.thaumicenergistics.TEINFPROV=Infusion Provider
+tc.research_text.thaumicenergistics.TEINFPROV=Infusion made easier.
+thaumicenergistics.research_page.TEINFPROV.1=By researching the process of essentia infusion, you have discovered a method for instantaneous conversion between digi-sentia and essentia that can be used for infusion.<BR>By placing the §lInfusion Provider§r near a thaumic device, the device can draw essentia directly from the network as if it were a warded jar.<BR>This could prove to be very useful for the infusion alter.
 
 # Research Advanced Infusion Provider
-tc.research_name.thaumicenergistics.TEADVINFPROV=高级注魔供应器
-tc.research_text.thaumicenergistics.TEADVINFPROV=最简单的灌注。
-thaumicenergistics.research_page.TEADVINFPROV.1=当你不断的优化自己的网络合成自动化时,你无数次的被注魔时需要的要素源质的制作给难住了.<BR>现在,你有了全新的想法,不如把计算源质合成的任务交给ME网络来做?<BR>于是你试着使用自己的魔法技巧,将截流者与原有的供应器进行结合,经过你的不懈努力得到了这个进阶注魔供应器,它会在自身为中心25*25*11的空间内搜索所有的注魔矩阵并自动绑定,且当他发现源质缺失时会自动进行下单,你需要做的只有把他放在多个矩阵的中间,就是这么简单.<BR>右键可以让他重新搜索区域内的矩阵并重新绑定.
+tc.research_name.thaumicenergistics.TEADVINFPROV=Advanced Infusion Provider
+tc.research_text.thaumicenergistics.TEADVINFPROV=Easiest Infusion.
+thaumicenergistics.research_page.TEADVINFPROV.1=As you continue to optimize your ME network autocrafting, you've been stumped by infusion recipes countless times.<BR>Now you have a new idea, why not leave the task of preparing essentia to your ME network?<BR>So you've developed a new infusion provider that incorporates the functionality of the Interceptor and automatically orders the missing essentia. It can also bind multiple infusion matrices in 25*25*11 area. All you need to do is just put it down among those matrices, that's it. Right-click allows him to search the area for matrix and rebind it.
 
 # Research Vis Interface
-tc.research_name.thaumicenergistics.TEVISINT=要素中继接口
-tc.research_text.thaumicenergistics.TEVISINT=数位化使用要素魔力
-thaumicenergistics.research_page.TEVISINT.1=发现要素能量网之后,你开始研究将其与数字网络连接的方法.<BR>在细致观察要素魔力在§l要素中继§r网络中的流动后,你确信自己也能做出一个有着相似功能的数字化设备.利用数字网络的点对点能力你就可以导入,传导要素魔力,并为数字设备所用,但要储存要素魔力你还需要进行更深入的研究.
-thaumicenergistics.research_page.TEVISINT.2=要使用§l要素中继接口§r,只需将其接入数字网络并在其上放置一个要素中继器.中继器的底端必须附在接口上.<BR>若要将其他设备连接到接口则需§l内存卡§r.<BR>用内存卡shift右击接口,之后右击一个设备来建立连接.
-thaumicenergistics.research_page.TEVISINT.3=§l连接§r<LINE>§l要素中继接口§r.构建一个VisP2P通道.<BR>§l奥术合成终端§r.在A.C.T(奥术合成终端)中给法杖充能.<BR>§l奥术装配室§r.存储Vis,并用于合成.
+tc.research_name.thaumicenergistics.TEVISINT=Vis Relay Interface
+tc.research_text.thaumicenergistics.TEVISINT=Using Vis Digitally
+thaumicenergistics.research_page.TEVISINT.1=Having discovered the vis power network, you now pursue the means of linking your digital system to this network.<BR>After observing how vis flows through the network of §lvis relays§r, you believe you can construct a digital device to harness the vis. By utilizing the peer-to-peer capabilities of the digital network, vis can be imported, tunnelled, and used by your digital devices.<BR>Storing it however, will require more research.
+thaumicenergistics.research_page.TEVISINT.2=To use the §lVis Relay Interface§r, attach it to the digital network and place a vis relay on it. The base of the relay must be against the interface.<BR>In order for a device to receive vis it must be linked with the interface. Linking other devices to the interface will require the use of a §lMemory Card§r. Each device can only be linked with one interface.<BR>Shift right-click on the interface with a memory card, then right-click on a device to create the link.<BR>Right clicking the other device with a blank memory card will remove the link.
+thaumicenergistics.research_page.TEVISINT.3=§lLinks§r<LINE>§lVis Relay Interface§r.Constructs a P2P vis tunnel.<BR>§lArcane Crafting Terminal§r. Charges the wand in the A.C.T.<BR>§lArcane Assembler§r. Fills vis storage, used for crafting.
 
 # Research Iron Gear Box
-tc.research_name.thaumicenergistics.TEIRONGEARBOX=铁齿轮箱
-tc.research_text.thaumicenergistics.TEIRONGEARBOX=只需转动那一个
-thaumicenergistics.research_page.TEIRONGEARBOX.1=使用过§l木质曲柄§r后你产生了些许疑问,它是否还能有所改进?<BR>你想方设法将一组齿轮装入盒子中,当其中一侧转动时便会驱动其他面的齿轮.为此你就需要比木材更加坚固的材料,最终你将铁固定在木齿轮上,做出了§l铁齿轮§r.<BR>§l铁齿轮箱§r让你能同时转动多个设备.你需要调整这些设备的朝向,让输入面朝着齿轮箱.
-thaumicenergistics.research_page.TEIRONGEARBOX.2=驱动多个设备时如两个研磨机和充能器时,动力将会被平均分配到所有可传递的方向上.<BR>它的另一个优势就在于能被多人同时使用.人数越多,输出的动力就越大.<BR>只要你能找到人能为你整天站在那里转这个...
+tc.research_name.thaumicenergistics.TEIRONGEARBOX=Iron Gear Box
+tc.research_text.thaumicenergistics.TEIRONGEARBOX=One Turn At A Time
+thaumicenergistics.research_page.TEIRONGEARBOX.1=Your experiences with the §lWooden Crank§r has left you to wonder, could this be improved?<BR>You have devised a way of setting up a series of gears in a box so that when any side is turned, all other sides will also turn. However you will need a stronger material than wood, to that end you have created the §lIron Gear§r by bonding iron to a wooden gear.<BR>The §lIron Gear Box§r will allow you to crank multiple devices simultaneously. You will need to orient the devices so that their input faces the gearbox.
+thaumicenergistics.research_page.TEIRONGEARBOX.2=When cranking multiple devices, such as a two grinders & a charger, the crank power will be split evenly between all devices that are currently able to be cranked.<BR>Another advantage of the gearbox is that it can be used by multiple people simultaneously. Each person cranking the gearbox will add to the crank power output.<BR>Now if only you had someone who would stand around all day and crank this for you...
 
 # Research Thaumium Gear Box
-tc.research_name.thaumicenergistics.TETHAUMGBOX=神秘齿轮箱
-tc.research_text.thaumicenergistics.TETHAUMGBOX=蠢萌的免费劳力
-thaumicenergistics.research_page.TETHAUMGBOX.1=既然傀儡能代替你右击操作,是时候把齿轮箱改造成适合它们的版本了.加上一点金属和魔法,你就成功地将§l铁齿轮箱§r改造成了§l神秘齿轮箱§r.<BR>改良后的齿轮箱可让任意装有§l使用运转核心§r的傀儡驱动.
+tc.research_name.thaumicenergistics.TETHAUMGBOX=Thaumium Gear Box
+tc.research_text.thaumicenergistics.TETHAUMGBOX=Little Labor Force
+thaumicenergistics.research_page.TETHAUMGBOX.1=Now that your golems can right-click on your behalf, its time you updated the gearbox to accommodate them. Adding a dash of metal and magic, you have retrofitted the §lIron Gear Box§r and created the §lThaumium Gear Box§r.<BR>The redesigned model will allow any golem with the §lUse Core§r to crank the gearbox.
 
 # Research Certus Quartz Duplication
-tc.research_name.thaumicenergistics.TECERTUSDUPE=赛特斯石英复制
-tc.research_text.thaumicenergistics.TECERTUSDUPE=吃我炼金术
-thaumicenergistics.research_page.TECERTUSDUPE.1=你现在能用炼金术复制§l赛特斯石英§r和§l下界石英§r了.
+tc.research_name.thaumicenergistics.TECERTUSDUPE=Quartz Duplication
+tc.research_text.thaumicenergistics.TECERTUSDUPE=Impurities Intact
+thaumicenergistics.research_page.TECERTUSDUPE.1=You are now able to alchemically duplicate §lCertus Quartz Crystal§r and §lNether Quartz§r.
 
 # Research Knowledge Inscriber + Core
-tc.research_name.thaumicenergistics.TEKNOWLEDGEINSCRIBER=知识记录仪
-tc.research_text.thaumicenergistics.TEKNOWLEDGEINSCRIBER=魔力模板
-thaumicenergistics.research_page.TEKNOWLEDGEINSCRIBER.1=做出了§l奥术装配室§r,你需要告诉它该装配什么.你发明了一个可储存有限的奥术配方的装置.§l知识核心§r就可以储存这些配方的模板,将其放入装配室来协助它组装物品.<BR>为了将配方模板写入核心,你就需要用到§l知识记录仪§r.
-thaumicenergistics.research_page.TEKNOWLEDGEINSCRIBER.2=使用知识记录仪<BR>首先在右上角的槽放入一个§l知识核心§r.接下来,用合成栏来设置物品的合成配方.如果你有配方所需的知识(研究),就会显示出可合成的物品.再按下保存按钮就会将配方写入核心.制作的成品会显示在模板储存区.<BR>若要从核心移除一个配方,先在模板储存区选择一个模板.选择的配方模板就会显示在合成区.最后,点击删除按钮就会移除模板.
+tc.research_name.thaumicenergistics.TEKNOWLEDGEINSCRIBER=Knowledge Inscription
+tc.research_text.thaumicenergistics.TEKNOWLEDGEINSCRIBER=Magical Patterns
+thaumicenergistics.research_page.TEKNOWLEDGEINSCRIBER.1=With the §lArcane Assembler§r constructed, you will need a way to teach it what it will be assembling.<BR>You have devised the §lKnowledge Core§r, a device capable of storing arcane recipes. The core serves as pattern storage, giving the assembler instructions on how to build items.<BR>To encode recipe patterns on the core, you will need to use the §lKnowledge Inscriber§r.
+thaumicenergistics.research_page.TEKNOWLEDGEINSCRIBER.2=Using The §lKnowledge Inscriber§r<BR>First place a §lKnowledge Core§r into the top-right slot. Next, use the crafting grid to setup the recipe for the item. If you have the required knowledge(research) for the recipe, the resulting item will be displayed. Pressing the save button will then inscribe the recipe onto the core. The finished product will then show in the stored-pattern area.<BR>To remove an inscribed recipe from the core, first select a pattern from the stored-pattern area. The selected patterns recipe will then display in the crafting area. Finally, clicking the delete button will remove the pattern from the core.
 
 # Research Arcane Assembler
-tc.research_name.thaumicenergistics.TEARCANEASSEMBLER=奥术装配室
-tc.research_text.thaumicenergistics.TEARCANEASSEMBLER=装配魔力分子
-thaumicenergistics.research_page.TEARCANEASSEMBLER.1=调试§l分子装配室§r时你就想着能不能将它改装,使其能制造奥术物品.总结下来,给它嵌入相应的碎片就能让它将魔力注入物品中.它也需要中等储量的魔力,§l银树权杖§r似乎是最好的选择.<BR>注意: 需要一个完全充能的权杖,并且权杖最终不会返还.
-thaumicenergistics.research_page.TEARCANEASSEMBLER.2=§l模板存储§r<BR>装配室本身不会储存合成配方.或许你还要进一步研究才能做出储存模板的东西.<BR>§l魔力补充§r<BR>补充装配室的魔力需要用到§l要素中继接口§r.<BR>§l加速卡§r<BR>每张都会减少20%的合成时间并增加50%的消耗.
-thaumicenergistics.research_page.TEARCANEASSEMBLER.3=§l魔力减免§r<BR>装配室会根据工艺权杖获取一个基础的魔力减免.同时可以提供魔力减免的防具还能进一步提升减免的效果.每种要素的减免可通过悬停在GUI的要素来查看.<BR>注意装配室对扭曲装备的效果不免疫.每点扭曲值都会抽取额外15%的能量来维持稳定,该效果只会在合成时生效.
+tc.research_name.thaumicenergistics.TEARCANEASSEMBLER=Arcane Assembler
+tc.research_text.thaumicenergistics.TEARCANEASSEMBLER=Magical Molecule Assembly
+thaumicenergistics.research_page.TEARCANEASSEMBLER.1=While examining the §lMolecular Assembler§r it occurs to you that it may be possible to modify the assembler to produce arcane items. You conclude that by infusing the assembler with the appropriate shards it will be able to regulate vis flow into items. It will also need a moderate amount of vis storage, and the §lSilverwood Scepter§r seems the best choice.<BR>Note: The scepter is infused into the assembler, and must be fully charged.
+thaumicenergistics.research_page.TEARCANEASSEMBLER.2=§lPattern Storage§r<BR>The assembler itself does not store crafting recipes. Further research may be required to devise a pattern storage medium.<BR>§lVis Replenishment§r<BR>Replenishing the assembler's internal vis storage will require the services of a §lVis Relay Interface§r.<BR>§lAcceleration Cards§r<BR>Each card decreases crafting time by 20% and increases power required by 50%.
+thaumicenergistics.research_page.TEARCANEASSEMBLER.3=§lVis Discounts§r<BR>Due to the inclusion of the crafting scepter, the assembler has a base vis discount equal to that of the scepter. The discount can be further enhanced by providing the assembler vis discount armor. The discount for each aspect can be viewed by hovering over the aspect in the GUI.<BR>The assembler is not immune to the effects of warping gear; For each point of warp the assembler must draw an additional 15% power to remain stable while crafting.
 
 # Research Wrench Focus
-tc.research_name.thaumicenergistics.TEFOCUSWRENCH=法杖核心: AE扳手
-tc.research_text.thaumicenergistics.TEFOCUSWRENCH=一些地方会用得上的
-thaumicenergistics.research_page.TEFOCUSWRENCH.1=这个法杖核心的作用类似于AE2的扳手.<BR>潜行+左键:转向.<BR>潜行+右键:拆除.
+tc.research_name.thaumicenergistics.TEFOCUSWRENCH=Wand Focus: AE Wrench
+tc.research_text.thaumicenergistics.TEFOCUSWRENCH=Some Assembly Required
+thaumicenergistics.research_page.TEFOCUSWRENCH.1=This wand focus interacts with blocks and machinery as if it were an AE2 wrench.<BR>Sneak + left click: Rotate.<BR>Sneak + right click: Dismantle.
 
 # Research Essentia Vibration Chamber
-tc.research_name.thaumicenergistics.TEESSVIBCMBR=源质谐振仓
-tc.research_text.thaumicenergistics.TEESSVIBCMBR=源质驱动网络
-thaumicenergistics.research_page.TEESSVIBCMBR.1=直到现在你的网络所需的能量还是要依赖§l谐振仓§r燃烧物品.是时候改变这一切了!<BR>你造出了一台可以释放源质中的能量的设备,它可以为谐振仓提供能量.现在只需要蒸馏出§lIgnis§r或§lPotentia§r源质,你就可以仅靠烧物品来驱动你的网络了.<BR>不过要注意一点,它也有和普通谐振仓一样的限制:若网络中有足够能源,它就会降低输出以避免浪费,但只要还有源质它就会一直反应下去.
-thaumicenergistics.research_page.TEESSVIBCMBR.2=§l§n操作§r<BR>将诸如煤炭之类的物品分解,以得到Ignis或Potentia源质,这些源质可以为你带来更多的能量.你最初的估计是,将煤炭分解成源质再使用源质谐振仓供能,相比于直接烧煤,可以带来约350%的效率提升.Potentia源质似乎比Ignis源质更具有开发潜力.<BR>§l源质谐振仓§r在没有源质时,可根据实际情况智能调整对源质的需求,将需求量稳定在一个正常的水平上.当存有源质时,它只会请求更多其存有的源质.
-thaumicenergistics.research_page.TEESSVIBCMBR.3=打开GUI后,其GUI会显示当前存储的源质种类,源质数量,正在处理的源质,剩余时间以及当前产能等级.<LINE>§l§n备注§r<BR>§l源质谐振仓§r可置于§l源质终端§r中以快速填装源质.<BR>§l源质输出总线§r,§l源质储存总线§r和源质管道都可以为§l源质谐振仓§r源源不断提供源质.
+tc.research_name.thaumicenergistics.TEESSVIBCMBR=Vibration Chamber
+tc.research_text.thaumicenergistics.TEESSVIBCMBR=Essentia Powered Network
+thaumicenergistics.research_page.TEESSVIBCMBR.1=Getting power for your network until this point has relied on burning items in the §lVibration Chamber§r. That is about to change!<BR>You have constructed a simple device that unleashes the energies of essentia to fuel the vibration chamber. By using distilled §lIgnis or Potentia§r essentia, you can generate more power than simply burning the item.<BR>Be aware that it has the same regulation behavior as the original chamber: It minimizes wasted power by slowing the reaction if the network is fully powered, but so long as there is essentia to use, it will use it.
+thaumicenergistics.research_page.TEESSVIBCMBR.2=§l§nOperation§r<BR>By breaking down an item, such as coal, into Ignis or Potentia much more power can be generated from the essentia. Your early estimates show an increase of roughly 350% for processing coal essentia v.s. burning the coal directly. Potentia essentia seems to be much more potent than Ignis.<BR>The §lE.V.C.§r will rotate which essentia it is requesting on a regular interval when empty. When essentia is stored, it will only request more of the stored essentia.
+thaumicenergistics.research_page.TEESSVIBCMBR.3=Opening the GUI shows how much and what type of essentia is stored. What is currently being processed, and the time remaining. As well as the current power production level.<LINE>§l§nNotes§r<BR>The §lE.V.C.§r can be placed in an §lEssentia Terminal§r to quickly fill or drain the stored essentia.<BR>The §lEssentia Export Bus§r, §lEssentia Provider§r, and essentia tubes can be used to keep the §lE.V.C.§r full.
 
 # Research Distillation Pattern Encoder
-tc.research_name.thaumicenergistics.TEDISTILLATIONPATTERNENCODER=蒸馏编码台
-tc.research_text.thaumicenergistics.TEDISTILLATIONPATTERNENCODER=买买买
-thaumicenergistics.research_page.TEDISTILLATIONPATTERNENCODER.1=将AE自动合成的原理进行推广后,你找到了将源质蒸馏过程写入§l编码样板§r的方法.<BR>将物品放入魔导透镜的格子中后会揭示其要素组成.选中你想要的要素后,其数据就可以写入样板中了.
+tc.research_name.thaumicenergistics.TEDISTILLATIONPATTERNENCODER=Distillation Pattern Encoder
+tc.research_text.thaumicenergistics.TEDISTILLATIONPATTERNENCODER=Ordering More
+thaumicenergistics.research_page.TEDISTILLATIONPATTERNENCODER.1=Expanding on the principals of AE's autocrafing system, you have created a way to encode the essentia distillation process onto an §lEncoded Pattern§r.<BR>Placing an item into the Thaumometer slot will reveal what you know of the items composition. After selecting the preferred aspect, it can then be encoded onto the encoded pattern or an available blank pattern.
 
 # Research Golem Wifi Backpack
-tc.research_name.thaumicenergistics.TEGOLEMWIFIBACKPACK=无线傀儡背包
+tc.research_name.thaumicenergistics.TEGOLEMWIFIBACKPACK=Golem Wifi Backpack
 tc.research_text.thaumicenergistics.TEGOLEMWIFIBACKPACK=DigitalGolem423@ae2.net
-thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.1=你的傀儡不断地奔波于各个箱子之间,帮你储存收集到的物品,以供不时之需.在看到这一切后,你开始思考一个问题:有没有可能把这个中间人裁掉? 而当你想到你的ME网络可以做到无线访问后,你恍然大悟:你完全可以用一样的方法完成这个任务.<BR>在热火朝天地奋斗数小时后,你终于做出来了一个特制背包,傀儡可以通过这个背包访问ME网络.然而这个背包也有一些局限.傀儡必须处在§lAccess Point§r的范围内方可访问网络.天线上的福鲁伊克斯珍珠可以告诉你傀儡是否能访问ME网络.
-thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.2=有鉴于连接网络也需要耗能,你对充能器做了些修改,使得它可以从两个内嵌的闪耀之光中吸取能量.充能后,背包仅有一小段可与网络建立连接的时间.在这段宝贵的时间里傀儡便可与网络进行无线交互.<BR>要将背包与你的网络连接,将其置于安全终端中即可.<LINE>随着你对傀儡学研究的不断深入,请不要忘记继续浏览本页以查看新的用法.
-thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.3=§n迷彩§r<BR>各种迷彩可以为背包带来各种不同的风格.可用的伪装材质有:神秘块(默认),宏伟之木,砖,草垛,油脂块,腐肉块,石头,铁块,金块以及钻石块.<BR>手持目标方块右击背有背包的傀儡以改变迷彩.
-thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.COREGATHER=§n聚集核心 解锁§r<IMG>thaumicenergistics:textures/gui/states.png:16:0:16:16:1.0</IMG>装备有§l聚集核心§r的傀儡可将收集到的物品直接存入网络.单次存储物品之最大数取决于傀儡管理每次充能的效率.
-thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.COREFILL=§n填充核心 解锁§r<IMG>thaumicenergistics:textures/gui/states.png:32:0:16:16:1.0</IMG>装备有§l填充核心§r的傀儡可直接从网络中抽取物品.单次提取物品之最大数取决于傀儡的GUI以及傀儡管理每次充能的效率.
-thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.CORELIQUID=§n移液核心 解锁§r<IMG>thaumicenergistics:textures/gui/states.png:48:0:16:16:1.0</IMG>装备有§l移液核心§r的傀儡可直接从网络中抽取液体.单次提取流体之最大数取决于傀儡管理每次充能的效率.<LINE>特别提醒:在ME网络中存储流体的功能需要别的MOD支持,例如Extra Cells 2.
-thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.COREALCHEMY=§n炼金核心 解锁§r<IMG>thaumicenergistics:textures/gui/states.png:64:0:16:16:1.0</IMG>装备有§l炼金核心§r的傀儡可自动从网络中自动存入或抽取源质.单次传输源质之最大数取决于傀儡管理每次充能的效率.<BR>当傀儡被放置于源质来源上时,例如放置于炼金熔炉上时,它会自动将源质存入网络.<BR>若是要求傀儡填装源质容器,例如罐子,那么它会从网络中提取源质.
-thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.UPGRADEORDER=§n秩序升级 解锁§r<IMG>thaumcraft:textures/items/golem_upgrade_order.png:0:0:255:255:0.0625</IMG>装备有秩序升级的傀儡会更高效地管理背包能量,这为其带来了单次充能后工作量的提升.
-thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.ADVANCEDGOLEM=§n高级傀儡§r<IMG>thaumcraft:textures/items/brain.png:0:0:255:255:0.0625</IMG>高级傀儡每次充能后的工作量是原来的两倍.
+thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.1=After watching your golems running around depositing gathered items into a chest for you to collect and store later, you wondered if you could cut out the middle-man.  Inspiration struck when you realized that you could utilize your networks wireless capabilities to do just that.<BR>After spending hours feverishly working, you created a backpack that will give your golems access to the network. The backpack does come with some limitations however. Golems must be in range of an §lAccess Point§r to communicate with the network. The fluix pearl atop the antenna serves as an indicator to whether or not the golem can communicate with the network.
+thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.2=As communicating with the network takes power, you retro-fitted a charger to draw power from two embedded Nitor. When charged the backpack will be able to transmit for only a short time before starting another charge cycle. During this window of opportunity the golem will be able to interact with the network.<BR>To link the backpack with your network, place it in the security terminal.<LINE>As you progress with your golemancy research, check back here for potential new uses of the backpack.
+thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.3=§nFacades§r<BR>Facades can be used to apply a variety of styles to the backpack: Thaumium Block(default), Greatwood Log, Bricks, Hay Bale, Tallow Block, Flesh Block, Stone, Iron Block, Gold Block and Diamond Block.<BR>Right click on a golem wearing a backpack with the facade in hand to apply it.
+thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.COREGATHER=§nGather Core Unlocked§r<IMG>thaumicenergistics:textures/gui/states.png:16:0:16:16:1.0</IMG>A golem equipped with a §lGather Core§r will be able to deposit gathered items directly into the network. The maximum number of items deposited is determined by how efficiently the golem manages each charge.
+thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.COREFILL=§nFill Core Unlocked§r<IMG>thaumicenergistics:textures/gui/states.png:32:0:16:16:1.0</IMG>A golem equipped with a §lFill Core§r will be able to extract items from the network. The maximum number of items extracted is determined by the golems GUI, and how efficiently the golem manages each charge.
+thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.CORELIQUID=§nDecanting Core Unlocked§r<IMG>thaumicenergistics:textures/gui/states.png:48:0:16:16:1.0</IMG>A golem equipped with a §lDecanting Core§r will be able to extract fluid from the network. The maximum amount of fluid extracted is determined by how efficiently the golem manages each charge.<LINE>Special note: Storing fluids in the AE network requires the services of another mod, such as Extra Cells 2.
+thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.COREALCHEMY=§nAlchemy Core Unlocked§r<IMG>thaumicenergistics:textures/gui/states.png:64:0:16:16:1.0</IMG>A golem equipped with an §lAlchemy Core§r will be able to insert and extract essentia from the network. The maximum amount of essentia transferred is determined by how efficiently the golem manages each charge.<BR>When the golem is placed against an essentia source, such as the Alchemical Furnace, it will deposit the gathered essentia.<BR>When the golem has been instructed to fill essentia containers, such as jars, it will extract essentia from the network.
+thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.UPGRADEORDER=§nOrder Upgrade Unlocked§r<IMG>thaumcraft:textures/items/golem_upgrade_order.png:0:0:255:255:0.0625</IMG>Golems equipped with the order upgrade will better manage each backpack charge, increasing the amount of work they can perform per charge.
+thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.ADVANCEDGOLEM=§nAdvanced Golems§r<IMG>thaumcraft:textures/items/brain.png:0:0:255:255:0.0625</IMG>Advanced golems are able to perform twice as much work per charge.
 
 # Research Cell Microscope
-tc.research_name.thaumicenergistics.TECELLMICROSCOPE=元件显微学
-tc.research_text.thaumicenergistics.TECELLMICROSCOPE=风夸克与地夸克
-thaumicenergistics.research_page.TECELLMICROSCOPE.1=经过仔细的研究与实验,你发明了一种显微扫描设备,可以生成存储元件中所包含能量的详细图像. 这个过程十分复杂,在此过程中元件需要处于地面上.<LINE>元件中包含的所有物品都将被扫描,就像使用§l魔导透镜§r扫描一样.
+tc.research_name.thaumicenergistics.TECELLMICROSCOPE=Cell Microscopy
+tc.research_text.thaumicenergistics.TECELLMICROSCOPE=Aer Quarks and Terra Quarks
+thaumicenergistics.research_page.TECELLMICROSCOPE.1=Through careful study and experimentation, you have developed a microscopic scanning device that can produce a detailed image of energy contained within a storage cell. This is an intricate task, requiring the cell to be on the ground during the process.<LINE>All contents contained within the cell will be scanned as if looked at through a §lThaumometer§r.

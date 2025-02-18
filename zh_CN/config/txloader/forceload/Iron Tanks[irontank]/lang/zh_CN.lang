@@ -1,28 +1,28 @@
 # Item localizations
-item.irontank:copperIronUpgrade.name=储罐升级：铜>铁
-item.irontank:copperSilverUpgrade.name=储罐升级：铜>钢
-item.irontank:diamondObsidianUpgrade.name=储罐升级：钻石>黑曜石
-item.irontank:diamondEmeraldUpgrade.name=储罐升级：钻石>铝
-item.irontank:goldDiamondUpgrade.name=储罐升级：金>钻石
-item.irontank:ironGoldUpgrade.name=储罐升级：铁>金
-item.irontank:silverGoldUpgrade.name=储罐升级：钢>金
-item.irontank:glassCopperUpgrade.name=储罐升级：玻璃>铜
-item.irontank:glassIronUpgrade.name=储罐升级：玻璃>铁
-item.irontank:silverDiamondUpgrade.name=储罐升级：钢>钻石
-item.irontank:emeraldStainlesssteelUpgrade.name=储罐升级：铝>不锈钢
-item.irontank:stainlesssteelTitaniumUpgrade.name=储罐升级：不锈钢>钛
-item.irontank:titaniumTungstensteelUpgrade.name=储罐升级：钛>钨钢
+item.irontank:copperIronUpgrade.name=Copper to Iron Tank Upgrade
+item.irontank:copperSilverUpgrade.name=Copper to Steel Tank Upgrade
+item.irontank:diamondObsidianUpgrade.name=Diamond to Obsidian Tank Upgrade
+item.irontank:diamondEmeraldUpgrade.name=Diamond to Aluminium Tank Upgrade
+item.irontank:goldDiamondUpgrade.name=Gold to Diamond Tank Upgrade
+item.irontank:ironGoldUpgrade.name=Iron to Gold Tank Upgrade
+item.irontank:silverGoldUpgrade.name=Steel to Gold Tank Upgrade
+item.irontank:glassCopperUpgrade.name=Glass to Copper Tank Upgrade
+item.irontank:glassIronUpgrade.name=Glass to Iron Tank Upgrade
+item.irontank:silverDiamondUpgrade.name=Steel to Diamond Tank Upgrade
+item.irontank:emeraldStainlesssteelUpgrade.name=Aluminium to Stainless Steel Tank Upgrade
+item.irontank:stainlesssteelTitaniumUpgrade.name=Stainless Steel to Titanium Tank Upgrade
+item.irontank:titaniumTungstensteelUpgrade.name=Titanium to Tungstensteel Tank Upgrade
 # Block localizations
-tile.irontank:ironTank.name=铁储罐
-tile.irontank:goldTank.name=金储罐
-tile.irontank:diamondTank.name=钻石储罐
-tile.irontank:emeraldTank.name=铝储罐
-tile.irontank:obsidianTank.name=黑曜石储罐
-tile.irontank:copperTank.name=铜储罐
-tile.irontank:silverTank.name=钢储罐
-tile.irontank:stainlesssteelTank.name=不锈钢储罐
-tile.irontank:titaniumTank.name=钛储罐
-tile.irontank:tungstensteelTank.name=钨钢储罐
+tile.irontank:ironTank.name=Iron Tank
+tile.irontank:goldTank.name=Gold Tank
+tile.irontank:diamondTank.name=Diamond Tank
+tile.irontank:emeraldTank.name=Aluminium Tank
+tile.irontank:obsidianTank.name=Obsidian Tank
+tile.irontank:copperTank.name=Copper Tank
+tile.irontank:silverTank.name=Steel Tank
+tile.irontank:stainlesssteelTank.name=Stainless Steel Tank
+tile.irontank:titaniumTank.name=Titanium Tank
+tile.irontank:tungstensteelTank.name=Tungstensteel Tank
 
 # Misc localizations
-itemGroup.irontank=更多储罐
+itemGroup.irontank=Iron Tanks
