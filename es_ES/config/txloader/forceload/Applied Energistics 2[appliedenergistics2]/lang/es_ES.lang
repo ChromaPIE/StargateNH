@@ -274,10 +274,12 @@ gui.appliedenergistics2.ToCraftRequests=Pasos
 gui.appliedenergistics2.CraftingPlan=Plan de elaboración
 gui.appliedenergistics2.Automatic=Automático
 gui.appliedenergistics2.Start=Comenzar
+gui.appliedenergistics2.StartWithFollow=Start With Follow
 gui.appliedenergistics2.Merge=Combinar
 gui.appliedenergistics2.Missing=Desaparecido
 gui.appliedenergistics2.NoCraftingTreeReceived=No se recibió ningún árbol de elaboración
 gui.appliedenergistics2.CraftingStepLimitExceeded=Se superó el límite de pasos de elaboración
+gui.appliedenergistics2.CraftingSizeLimitExceeded=Crafting size limit exceeded
 gui.appliedenergistics2.RequestedItem=Objeto solicitado
 gui.appliedenergistics2.SimulationIncomplete=Simulación incompleta
 gui.appliedenergistics2.Bytes=Almacenamiento
@@ -335,6 +337,17 @@ gui.appliedenergistics2.TypesInfo=Tipos
 gui.appliedenergistics2.BytesInfo=Bytes
 gui.appliedenergistics2.ToFollow=Seguir
 gui.appliedenergistics2.ToUnfollow=Dejar de seguir
+gui.appliedenergistics2.CellRestriction=Cell Restriction
+gui.appliedenergistics2.Restricted=Restricted
+gui.appliedenergistics2.CellRestrictionTips=0 for default
+gui.appliedenergistics2.MaxItems=Max Items:
+gui.appliedenergistics2.MaxFluid=Max Fluids:
+gui.appliedenergistics2.MaxTypes=Max Types:
+gui.appliedenergistics2.NumberOfItems=Number of items
+gui.appliedenergistics2.NumberOfFluids=Number of fluids
+gui.appliedenergistics2.ItemsPerByte=Items per byte:
+gui.appliedenergistics2.FluidsPerByte=Fluids per byte:
+gui.appliedenergistics2.BytesPerType=Bytes per type:
 
 # GUI Colors - ARGB
 gui.color.appliedenergistics2.SearchboxFocused=6E000000
@@ -547,7 +560,8 @@ gui.tooltips.appliedenergistics2.ToUnfollow=Dejar de seguir esta fabricación\nE
 gui.tooltips.appliedenergistics2.StringOrder=Sorting
 gui.tooltips.appliedenergistics2.StringOrderNatural=Default
 gui.tooltips.appliedenergistics2.StringOrderAlphanum=Natural Order
-
+gui.tooltips.appliedenergistics2.CellRestrictionLabel=Cell Restriction
+gui.tooltips.appliedenergistics2.CellRestrictionHint=Setup Cell Restriction
 # Units
 gui.appliedenergistics2.units.appliedenergstics=AE
 gui.appliedenergistics2.units.ic2=Unidades de Energía
@@ -643,6 +657,8 @@ item.appliedenergistics2.ItemMaterial.CardPatternRefiller.name=Tarjeta de Rellen
 item.appliedenergistics2.ItemMaterial.CardAdvancedBlocking.name=Tarjeta de Bloqueo Avanzada
 item.appliedenergistics2.ItemMaterial.CardLockCrafting.name=Tarjeta de Bloqueo
 item.appliedenergistics2.ItemMaterial.CardSticky.name=Tarjeta Pegajosa
+item.appliedenergistics2.ItemMaterial.CardVoidOverflow.name=Overflow Void Card
+item.appliedenergistics2.ItemMaterial.CardDistribution.name=Equal Distribution Card
 item.appliedenergistics2.ItemMaterial.CardFakeCrafting.name=Fake Crafting Card
 item.appliedenergistics2.ItemMaterial.CardSuperluminalSpeed.name=Superluminal Acceleration Card
 
@@ -718,6 +734,7 @@ item.appliedenergistics2.ItemPart.CableDense.name=Cable Inteligente Denso ME
 item.appliedenergistics2.ItemPart.CableDenseCovered.name=Cable Denso Cubierto ME
 item.appliedenergistics2.ItemPart.StorageMonitor.name=Monitor de Almacenamiento ME
 item.appliedenergistics2.ItemPart.ConversionMonitor.name=Monitor de Conversión ME
+item.appliedenergistics2.ItemPart.ThroughputMonitor.name=ME Throughput Monitor
 item.appliedenergistics2.ItemPart.SemiDarkMonitor.name=Panel Iluminado
 item.appliedenergistics2.ItemPart.Monitor.name=Panel Iluminado Claro
 item.appliedenergistics2.ItemPart.DarkMonitor.name=Panel Iluminado Oscuro
