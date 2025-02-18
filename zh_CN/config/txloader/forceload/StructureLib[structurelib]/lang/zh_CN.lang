@@ -35,6 +35,10 @@ item.structurelib.constructableTrigger.gui.add=添加
 item.structurelib.constructableTrigger.gui.set=替换
 item.structurelib.constructableTrigger.gui.unset=删除
 item.structurelib.constructableTrigger.gui.wipe=§4全部清空
+item.structurelib.constructableTrigger.gui.error.show=Show Errors
+item.structurelib.constructableTrigger.gui.error.hide=Hide Errors
+item.structurelib.constructableTrigger.gui.gt_no_hatch.enable=No Hatch
+item.structurelib.constructableTrigger.gui.gt_no_hatch.disable=Hatches
 
 structurelib.autoplace.built_stat=已放置 %s 个方块
 structurelib.autoplace.complete=§a此多方块机器已构造完成!

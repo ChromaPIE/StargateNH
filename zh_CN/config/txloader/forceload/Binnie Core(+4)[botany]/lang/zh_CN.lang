@@ -1,9 +1,13 @@
 botany.tab.botany=Binnie|花卉
 
+tile.stained.name=Pigmented Glass
 botany.pigmentedGlass=染色玻璃
+tile.ceramic.name=Ceramic Block
 botany.ceramicBlock=陶瓷块
+tile.ceramicBrick.name=Ceramic Tile
 botany.ceramicTile=瓷砖
 botany.ceramicBricks=陶瓷砖块
+tile.ceramicPattern.name=Ceramic Block
 botany.strippedCeramicBricks=条纹陶瓷砖块
 botany.largeCeramicBricks=大型瓷砖
 botany.splitCeramicTile=匀称瓷砖
@@ -130,14 +134,21 @@ botany.moisture.dry=干燥
 botany.moisture.normal=普通
 botany.moisture.damp=潮湿
 
+tile.plant.name=Plant
 botany.plant.weeds=杂草
 botany.plant.longWeeds=长的杂草
 botany.plant.veryLongWeeds=非常长的杂草
 botany.plant.deadFlower=死花
 botany.plant.decayingFlower=凋谢的花
 
+tile.soil.name=Soil
+tile.soilNoWeed.name=Soil
 botany.soil.soil=普通花土
+tile.loam.name=Loam
+tile.loamNoWeed.name=Loam
 botany.soil.loam=肥沃花土
+tile.flowerbed.name=Flowerbed
+tile.flowerbedNoWeed.name=Flowerbed
 botany.soil.flowerbed=花床
 botany.soil.weedkiller=除草剂
 
@@ -158,15 +169,20 @@ botany.item.tooltip.fertility=肥沃度: %dx
 botany.item.tooltip.flowerColor1=花茎：%1$s、%2$s
 botany.item.tooltip.flowerColor2=花茎：%1$s、%2$s和%3$s
 
+item.soilMeter.name=Soil Meter
 botany.item.soilMeter.name=土壤检测计
+item.pigment.name=Pigment
 botany.item.pigment.name=颜料
 botany.item.clay.name=粘土
 botany.item.botany.name=%1$s %2$s
+item.pollen.name=Pollen
 botany.item.pollen.tag.name=花粉
 botany.item.germling.tag.name=幼苗
 botany.item.flowerCorrupted.name=腐烂的花
+item.database.name=Botanist Database
 botany.item.database.0.name=园丁数据库
 botany.item.database.1.name=园艺大师数据库
+item.misc.name=Powder
 botany.item.powderAsh.name=灰烬粉
 botany.item.powderPulp.name=木浆粉
 botany.item.powderMulch.name=覆盖物粉
@@ -176,12 +192,13 @@ botany.item.powderCompost.name=堆肥粉
 botany.item.mortar.name=研钵
 botany.item.weedkiller.name=除草剂
 
-item.trowelWood.name=木质泥铲
-item.trowelStone.name=石质泥铲
-item.trowelIron.name=铁质泥铲
-item.trowelGold.name=金质泥铲
+item.trowelWood.name=木泥铲
+item.trowelStone.name=石泥铲
+item.trowelIron.name=铁泥铲
+item.trowelGold.name=金泥铲
 item.trowelDiamond.name=钻石泥铲
 
+item.itemFlower.name=Flower
 botany.flower.name=花
 botany.flower.dandelion=蒲公英
 botany.flower.poppy=虞美人
@@ -365,6 +382,7 @@ for.binnie.circuit.garden.damp.acid=花土(潮湿，酸性)
 for.binnie.circuit.garden.damp.neutral=花土(潮湿，中性)
 for.binnie.circuit.garden.damp.alkaline=花土(潮湿，碱性)
 
+item.insulatedTube.name=Insulated Tube
 botany.tube.name=恒温管
 botany.tube.copper=铜
 botany.tube.tin=锡
@@ -456,3 +474,5 @@ botany.gui.database.tab.breeder=杂交路线
 
 botany.gui.database.tab.colour.resultant=导向混色
 botany.gui.database.tab.colour.further=次代混色
+
+item.seed.name=Seed

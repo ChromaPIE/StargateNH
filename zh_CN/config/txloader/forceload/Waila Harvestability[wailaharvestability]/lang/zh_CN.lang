@@ -1,6 +1,6 @@
 # tools
 wailaharvestability.toolclass.pickaxe=镐
-wailaharvestability.toolclass.shovel=铲
+wailaharvestability.toolclass.shovel=锹
 wailaharvestability.toolclass.axe=斧
 wailaharvestability.toolclass.chisel=凿
 wailaharvestability.toolclass.scoop=捕虫网
@@ -8,10 +8,10 @@ wailaharvestability.toolclass.crowbar=撬棍
 wailaharvestability.toolclass.sword=剑
 
 # tooltips
-wailaharvestability.effectivetool=所需工具 : 
-wailaharvestability.harvestlevel=采掘等级: 
-wailaharvestability.currentlyharvestable= 目前能否挖掘
-wailaharvestability.harvestable= 能否挖掘
+wailaharvestability.effectivetool=所需工具 :
+wailaharvestability.harvestlevel=采掘等级:
+wailaharvestability.currentlyharvestable=目前能否挖掘
+wailaharvestability.harvestable=能否挖掘
 
 # options
 option.harvestability.harvestlevel=采掘等级

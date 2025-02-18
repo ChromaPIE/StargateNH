@@ -1,4 +1,4 @@
-endercore.tooltip.oreDictNames=矿物辞典名称:
+endercore.tooltip.oreDictNames=矿物词典名称:
 endercore.tooltip.showDetails=<按住Shift>
 endercore.tooltip.durability=耐久:
 
@@ -14,7 +14,7 @@ endercore.enchantment.autosmelt.tooltip=自动熔炼采集的矿物
 
 endercore.celebrate=新年快乐!
 
-endercore.resourcepack.readme=这是用于游戏中资源包的实际文件. 
+endercore.resourcepack.readme=这是用于游戏中资源包的实际文件.
 endercore.resourcepack.readme2=请勿编辑, 这将由mod自己创建/删除.
 
 endercore.gui.normal=正常

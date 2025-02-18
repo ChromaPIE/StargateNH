@@ -54,7 +54,7 @@ item.WG_Material.photoPlate.name=成像底片
 item.WG_Material.developedPhoto.name=成像洗片
 item.WG_Material.clusterAluminum.name=铝矿簇
 item.WG_Material.clusterCobalt.name=钴矿簇
-item.WG_Material.clusterArdite.name=阿迪特矿簇
+item.WG_Material.clusterArdite.name=熔焱矿簇
 item.WG_Material.clusterNickel.name=镍矿簇
 item.WG_Material.clusterFZDarkIron.name=玄铁矿簇
 item.WG_Material.guidingString.name=引路线卷
@@ -116,8 +116,10 @@ item.WG_PrimordialBoots.name=元始靴子
 item.WG_Baubles.ring_primordial.name=元始指环
 item.WG_Baubles.ring_lifeProtection.name=生命保护指环
 
-item.WG_Baubles.shouldersDoublejump.name=炽天使肩铠
-item.WG_Baubles.shouldersKnockback.name=磐石肩铠
+item.WG_Baubles.charmEmpty.name=Empty Leather Charm
+item.WG_Baubles.vambraceEmpty.name=Leather Vambraces
+item.WG_Baubles.charmDoublejump.name=Seraph's Charm
+item.WG_Baubles.charmKnockback.name=Steadfast Charm
 item.WG_Baubles.vambraceStrength.name=狂战士护腕
 item.WG_Baubles.vambraceHaste.name=迅捷护腕
 item.WG_Baubles.titleCrimsonCult.name=称号:血腥教徒
@@ -148,6 +150,8 @@ enchantment.wg.soulbound=灵魂绑定
 enchantment.wg.soultether=灵魂绑定
 #
 # -- Random bits of text --
+wg.config.activateKey=Hotkey for activating some worn items.
+
 wg.chat.notyourbag=§7这个口袋属于§r %1$s! §7你不能打开它.§r
 wg.chat.bagunlocked=§7口袋已解锁,其他人可以打开.§r
 wg.chat.baglocked=§7口袋已锁定,除你以外没人能打开.§r
@@ -158,6 +162,7 @@ wg.gui.buttonMigrate=回到巢穴
 wg.gui.noFeathersToMigrate=你没有回到巢穴需要的物品
 
 wg.desc.noGlide=无法滑翔
+wg.desc.enableCloak=§7Enable or disable by Holding §a%s1§7 and pressing §a%s2§7.
 
 wg.gui.visSize=Vis容量
 wg.gui.shiftForAspectList=§7按住§aShift§7查看要素列表§r
@@ -175,13 +180,13 @@ wg.desc.gemaversion=自然疏离:
 wg.desc.ctrlForAspectList=§7按住§aCtrl§7查看要素列表§r
 wg.desc.scanCompleted=已扫描
 
-wg.desc.gearSlot.tg.0=装备在§a斗篷§7栏
-wg.desc.gearSlot.tg.1=装备在§a肩甲§7栏
-wg.desc.gearSlot.tg.2=装备在§a臂甲§7栏
-wg.desc.gearSlot.tg.3=装备在§a头衔§7栏
-wg.desc.gearSlot.bauble.RING=装备在§a戒指§7栏
-wg.desc.gearSlot.bauble.BELT=装备在§a腰带§7栏
-wg.desc.gearSlot.bauble.AMULET=装备在§a项链§7栏
+wg.desc.gearSlot.bauble.Cloak=Equipped in the §aCloak§7 slot
+wg.desc.gearSlot.bauble.Charm=Equipped in the §aCharm§7 slot
+wg.desc.gearSlot.bauble.Gloves=Equipped in the §aGloves§7 slot
+wg.desc.gearSlot.bauble.Title=Equipped in the §aTitle§7 slot
+wg.desc.gearSlot.bauble.Ring=Equipped in the §aRing§7 slot
+wg.desc.gearSlot.bauble.Belt=Equipped in the §aBelt§7 slot
+wg.desc.gearSlot.bauble.Amulet=Equipped in the §aAmulet§7 slot
 
 wg.desc.filteredItems=接受物品:
 
@@ -309,12 +314,15 @@ witchinggadgets_research_page.ADVANCEDROBES.r1=<IMG>witchinggadgets:textures/gui
 #-----------------------#
 witchinggadgets_research_name.WGBAUBLES=巫师装备
 witchinggadgets_research_text.WGBAUBLES=[WG]就像神奇的魔法
+witchinggadgets_research_page.WGBAUBLES.0=What looks like catalogue pages from a wizarding equipment store actually proved to be arcane schematics for magical garments! §oAll of these are to be equipped in Baubles slots.§r<BR>§lEmpty Leather Charm:§r<BR>This basic leather charm is ready to be enchanted.§r
 witchinggadgets_research_page.WGBAUBLES.1=这几页看上去是从巫术装备商店取来的,实际上居然是魔法装备的制作图!§o所有的这些都可在Baubles或Traveller's Gear的装备栏中装备.TG默认的键位是'数字键7'.§r<BR>§l磐石肩铠:§r<BR>这些肩铠并没有设计得多么好看,保护作用也可以忽略不计.然而其中所蕴含的魔法能让你扎根于地面,从而不会被敌人的攻击所击退.§o赋予你60%的击退抗性.§r
 witchinggadgets_research_page.WGBAUBLES.2=§l狂战士护腕:§r<BR>这些覆盖着狼皮的护腕禁不住刀刃的攻击.但有了注入其中的魔力,就能让使用者如狼般的凶猛.另外,它们也是毛茸茸的.<BR>§o会让你的攻击伤害提升2点.§r
 witchinggadgets_research_page.WGBAUBLES.3=§l迅捷护腕:§r<BR>这些护腕由矮人中的神秘使所设计,能赋予你快速挖掘的能力.它们的效果随工作环境而变化,提升水下,空中以及对坚硬材料的挖掘速度.<BR>它们也会提升爬梯子的速度,以便你能快速从地下脱离.
 witchinggadgets_research_page.WGBAUBLES.4=§l炽天使肩铠:§r<BR>飞翔是许多人所向往的.让使用者飞行算是很高级的魔法了,但在空中继续跳跃还是力所能及的.<BR>这些肩铠会生成强力的魔法之翼,让你能在半空中进行第二次跳跃.
 witchinggadgets_research_page.WGBAUBLES.5=§l狙击指环:§r<BR>有些黑暗生物由于太过强大而最好不要和它们肉搏,因此和它们保持一定距离是一个明智的选择.使用狙击指环会使得这个任务更加容易.<BR>戴上这个指环的时候,你会提升拉开弓时候的移动速度.潜行时可以让你更容易瞄准一个目标.
 witchinggadgets_research_page.WGBAUBLES.6=§l贪婪指环:§r<BR>幸运万岁!但没人能一直保持好运气.你想出了一个办法来增加自己的运气,给戒指镶上一枚金币然后施以魔法.<BR>§o戴着这个指环时你的时运和抢夺等级就会提升2级.<BR>制作金币的附魔书所带的附魔种类不限.§r
+witchinggadgets_research_page.WGBAUBLES.7=§lRing of the Covetous Coin:§r<BR>It's great to be lucky! But one can never have enough luck. You've devised a way to boost your own luck, by socketing a golden coin in a ring and loading it with magic.<BR>§oWearing the ring will increase your fortune and looting by two levels.<BR>The enchanted books used to make the coin can carry any enchantment.§r
+witchinggadgets_research_page.WGBAUBLES.8=§lLucky Gold Coin:§r<BR>An enchanted Lucky Coin, ready to be used.§r
 #
 witchinggadgets_research_name.CLOAK=斗篷
 witchinggadgets_research_text.CLOAK=[WG]飕飕!
@@ -371,9 +379,9 @@ witchinggadgets_research_name.PURECOBALT=晶簇化:钴
 witchinggadgets_research_text.PURECOBALT=[WG]提纯钴成为矿簇
 witchinggadgets_research_page.PURECOBALT.1=矿簇是稀有的纯金属凝聚物.你已发现了从钴矿中提纯并凝出钴矿簇的方法.<BR>这些矿簇熔炼后会产出通常产量两倍的钴锭.
 #
-witchinggadgets_research_name.PUREARDITE=晶簇化:阿迪特
-witchinggadgets_research_text.PUREARDITE=[WG]提纯阿迪特成为矿簇
-witchinggadgets_research_page.PUREARDITE.1=矿簇是稀有的纯金属凝聚物.你已发现了从阿迪特矿中提纯并凝出阿迪特矿簇的方法.<BR>这些矿簇熔炼后会产出通常产量两倍的阿迪特锭.
+witchinggadgets_research_name.PUREARDITE=晶簇化:熔焱
+witchinggadgets_research_text.PUREARDITE=[WG]提纯熔焱成为矿簇
+witchinggadgets_research_page.PUREARDITE.1=矿簇是稀有的纯金属凝聚物.你已发现了从熔焱矿中提纯并凝出熔焱矿簇的方法.<BR>这些矿簇熔炼后会产出通常产量两倍的熔焱锭.
 #
 witchinggadgets_research_name.PURENICKEL=晶簇化:镍
 witchinggadgets_research_text.PURENICKEL=[WG]提纯镍成为矿簇
@@ -462,10 +470,10 @@ witchinggadgets_research_page.GEMCUTTING.1=在各种通过物理形式赋予魔�
 witchinggadgets_research_page.GEMCUTTING.2=你可以用新造的切割台来制作这些宝石,并向其中注入源质.<BR>在左侧放入一颗有效的宝石,另外三个槽放入天域之华或要素安瓿.它们所含的要素必须是同种类型的,要素类型也会决定蕴魔宝石最终的强度.通过箭头可以选择雕刻的琢型,然后就可以在右侧取出制作完成的宝石.宝石一旦被加工出来,就无法重新加工了.
 witchinggadgets_research_page.GEMCUTTING.3=§l自然亲和§r<BR>一些石头与生俱来就对特定的要素有自然亲和,这会增强它们的效果.如果亲和属性与注入的要素匹配,宝石就会被附魔"闪耀",附魔等级取决于制作时所用的源质量.<BR>§l自然疏离§r<BR>类似的,一些宝石对特定要素也会有自然疏离,如果向宝石注入了这些要素就会使其变得脆弱,削弱它们的效果,并且会让可反复使用的宝石的损坏几率增大.<BR>按住shift就可以查看宝石的自然亲和与自然疏离属性.
 
-witchinggadgets_research_page.GEMCUTTING.4=            §l结晶体琢型§r<LINE>结晶体琢型是蕴魔宝石最基础的琢型.尽管它能储存魔法能量,但你只能通过粉碎宝石来释放.使用过后的宝石会变为一摊宝石粉末.各种要素的效果如下:<BR>§e§lAer:§r§0让你短暂获得大幅的跳跃力提升.<BR>§2§lTerra:§r§0赋予你对击退效果的抗性.<BR>§c§lIgnis:§r§0用临时的光源照亮你周围的区域.
+witchinggadgets_research_page.GEMCUTTING.4=§l结晶体琢型§r<LINE>结晶体琢型是蕴魔宝石最基础的琢型.尽管它能储存魔法能量,但你只能通过粉碎宝石来释放.使用过后的宝石会变为一摊宝石粉末.各种要素的效果如下:<BR>§e§lAer:§r§0让你短暂获得大幅的跳跃力提升.<BR>§2§lTerra:§r§0赋予你对击退效果的抗性.<BR>§c§lIgnis:§r§0用临时的光源照亮你周围的区域.
 witchinggadgets_research_page.GEMCUTTING.5=§3§lAqua:§r§0释放出一阵极寒的能量,使附近的水结冰,岩浆凝固.<BR>§f§lOrdo:§r§0让你回复一些生命值.<BR>§8§lPerditio:§r§0增加一些临时扭曲值.
 
-witchinggadgets_research_page.GEMCUTTING.6=              §l椭圆琢型§r<LINE>椭圆琢型是蕴魔宝石的高级琢型.增多雕琢的翻光面后,它就能储存更多的能量.并且会以更集中的脉冲来释放能量.它们的效果与结晶体琢型的截然不同,此外这种琢型的宝石能通过相应的要素魔力充能.<BR>由于其结构的复杂性,将没有自然亲和的原石用于雕琢会使成品十分脆弱,同时制作闪耀宝石所需的源质也会增多.
+witchinggadgets_research_page.GEMCUTTING.6=§l椭圆琢型§r<LINE>椭圆琢型是蕴魔宝石的高级琢型.增多雕琢的翻光面后,它就能储存更多的能量.并且会以更集中的脉冲来释放能量.它们的效果与结晶体琢型的截然不同,此外这种琢型的宝石能通过相应的要素魔力充能.<BR>由于其结构的复杂性,将没有自然亲和的原石用于雕琢会使成品十分脆弱,同时制作闪耀宝石所需的源质也会增多.
 witchinggadgets_research_page.GEMCUTTING.7=§e§lAer:§r§0风之力会推动你前行,每次使用消耗1充能.<BR>§2§lTerra:§r§0在一个方块上使用时,它会检测相连的方块来搜寻矿物,每次使用消耗1充能.<BR>§c§lIgnis:§r§0在所指方块上燃起一团火焰,每次使用消耗1充能.<BR>§3§lAqua:§r§0在所指方块上生成水方块.每次使用消耗2充能.<BR>§7§lOrdo:§r§0为你指出最近的节点所在的方位.每次使用消耗2充能.<BR>§8§lPerditio:§r§0对魔镜使用时,会将你传送到相连的另一个魔镜,每次使用消耗16充能.(需要shift右击)
 witchinggadgets_research_page.GEMCUTTING.7.noMirrors=§e§lAer:§r§0风之力会推动你前行,每次使用消耗1充能.<BR>§2§lTerra:§r§0在一个方块上使用时,它会检测相连的方块来搜寻矿物,每次使用消耗1充能.<BR>§c§lIgnis:§r§0在所指方块上燃起一团火焰,每次使用消耗1充能.<BR>§3§lAqua:§r§0在所指方块上生成水方块.每次使用消耗2充能.<BR>§7§lOrdo:§r§0为你指出最近的节点所在的方位.每次使用消耗2充能.<BR>§8§lPerditio:§r§0释放一阵能量波,推开周围的敌人并致盲.每次使用消耗2充能.
 #
@@ -659,7 +667,7 @@ witchinggadgets_research_text.ANGELIC_BOOTS=[WG]羽毛般轻灵的脚步
 witchinggadgets_research_page.ANGELIC_BOOTS.1=这双靴子的魔法让你跑得更快,同时免疫跌落伤害.<BR>此外,你获得了能在任何液体表面行走的能力.包括水和岩浆.按住下蹲会下沉.
 #
 witchinggadgets_research_name.THAUMICAPPLICATOR=
-witchinggadgets_research_text.THAUMICAPPLICATOR=[WG] 
+witchinggadgets_research_text.THAUMICAPPLICATOR=[WG]
 witchinggadgets_research_page.THAUMICAPPLICATOR.1=
 #
 

@@ -62,13 +62,13 @@ item.universalSingularities.draconicEvolution.draconiumAwakened.name=觉醒龙�
 
 //Ender IO
 item.universalSingularities.enderIO.conductiveIron.name=导电铁奇点
-item.universalSingularities.enderIO.electricalSteel.name=磁钢奇点
+item.universalSingularities.enderIO.electricalSteel.name=电工钢奇点
 item.universalSingularities.enderIO.energeticAlloy.name=充能合金奇点
 item.universalSingularities.enderIO.darkSteel.name=玄钢奇点
 item.universalSingularities.enderIO.pulsatingIron.name=脉冲铁奇点
 item.universalSingularities.enderIO.redstoneAlloy.name=红石合金奇点
 item.universalSingularities.enderIO.soularium.name=魂金奇点
-item.universalSingularities.enderIO.vibrantAlloy.name=脉冲合金奇点
+item.universalSingularities.enderIO.vibrantAlloy.name=跃动合金奇点
 //Ender IO
 
 //ExtraPlanets
@@ -126,15 +126,15 @@ item.universalSingularities.redstoneArsenal.crystalFlux.name=红石水晶奇点
 //Tinkers' Construct
 item.universalSingularities.tinkersConstruct.aluminumBrass.name=铝黄铜奇点
 item.universalSingularities.tinkersConstruct.alumite.name=耐酸铝奇点
-item.universalSingularities.tinkersConstruct.ardite.name=阿迪特奇点
+item.universalSingularities.tinkersConstruct.ardite.name=熔焱奇点
 item.universalSingularities.tinkersConstruct.cobalt.name=钴奇点
 item.universalSingularities.tinkersConstruct.ender.name=末影奇点
 item.universalSingularities.tinkersConstruct.glue.name=凝胶奇点
-item.universalSingularities.tinkersConstruct.manyullyn.name=玛玉灵奇点
+item.universalSingularities.tinkersConstruct.manyullyn.name=斫星奇点
 //item.universalSingularities.tinkersConstruct.pigIron.name=生铁奇点
 //Tinkers' Construct
 
 /*Removed
- * item.universalSingularities.general.salt.name=盐奇点
- * item.universalSingularities.extraTiC.red_aurum.name=红金奇点
+ * item.universalSingularities.general.salt.name=Salt Singularity
+ * item.universalSingularities.extraTiC.red_aurum.name=RedAurum Singularity
  */

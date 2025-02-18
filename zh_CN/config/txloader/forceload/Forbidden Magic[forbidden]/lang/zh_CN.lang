@@ -9,6 +9,7 @@ tc.aspect.desidia=怠惰,懒散,拖延
 tc.aspect.luxuria=欲望,欲念,无度
 #
 # Items
+item.NetherShard.name=Shard
 item.NetherShard.wrath.name=暴怒碎片
 item.NetherShard.envy.name=妒忌碎片
 item.NetherShard.gluttony.name=饕餮碎片
@@ -20,12 +21,13 @@ item.NetherShard.taint.name=腐化碎片
 item.NetherShard.despair.name=绝望碎片
 item.SkullAxe.name=啄颅斧
 item.ArcaneCake.name=奥法蛋糕
-item.TaintShovel.name=净化铲
+item.TaintShovel.name=净化锹
 item.TaintPickaxe.name=畸变镐
 item.MorphPickaxe.name=避役镐
 item.MorphSword.name=避役剑
-item.MorphShovel.name=避役铲
+item.MorphShovel.name=避役锹
 item.MorphAxe.name=避役斧
+item.FMResource.name=Resource
 item.FMResource.0.name=绿宝石碎片
 item.FMResource.1.name=暗影墨水
 item.FMResource.2.name=魔钢粒
@@ -67,6 +69,7 @@ item.Wand.vinteum.cap=温特姆杖端
 item.Wand.manasteel.cap=魔钢缠绕杖端
 item.Wand.elementium.cap=元素钢亲吻杖端
 item.Wand.terrasteel.cap=泰拉钢杖端
+item.WandCores.name=Wand Core
 item.WandCores.tainted.name=腐化杖柄
 item.WandCores.infernal.name=炼狱杖柄
 item.WandCores.soul.name=异域杖柄
@@ -81,6 +84,7 @@ item.WandCores.witchwood_staff.name=巫魂木杖芯
 item.WandCores.dreamwood.name=梦之木杖柄
 item.WandCores.dreamwood_inert.name=休眠梦之木杖柄
 item.WandCores.dreamwood_staff.name=梦之木杖芯
+item.WandCaps.name=Wand Cap
 item.WandCaps.alchemical.name=炼金杖端
 item.WandCaps.vinteum.name=温特姆杖端
 item.WandCaps.soul.name=末影杖端
@@ -176,10 +180,10 @@ forbidden.research_name.FOCUSBLINK=法杖核心:闪烁
 forbidden.research_text.FOCUSBLINK=比那愚蠢的末影珍珠要好
 forbidden.research_page.FOCUSBLINK.1=啊哈.<BR><BR>有一件事情比起床还令人恼火,那就是走路.简直是成吨————的工作.如果你还是像凡人一样用脚走路,那么你成为一名华丽丽的法师的意义是什么?<BR><BR>闪烁核心,解放你的双脚!只需要将你的法杖指向远处并不断挥舞,你就被传送过去了.<BR><BR>现在你只需要一个Shower核心,然后就一切就绪了...
 #
-forbidden.research_name.TAINTSHOVEL=净化铲
+forbidden.research_name.TAINTSHOVEL=净化锹
 forbidden.research_text.TAINTSHOVEL=犹如火热的刀子划过真正的黄油
-forbidden.research_page.TAINTSHOVEL.1=有时,清楚腐化区域的最简单途径无非直接挖走它们.<BR><BR>使用银树和秩序碎片强化神秘铲,你制造出这柄能够对抗腐化的工具.净化铲能够像挖开普通泥土那样捣稀泥一般地挖开腐化后的大地.<BR><BR>手持它右击,铲子就会消耗一些耐久,净化小范围内所有的咒波粘浆和瓦斯.你就不必再用圆石来一点点处理注魔的灾难了!
-forbidden.research_page.TAINTSHOVEL.2=用这柄铲子挖开腐化的大地有几率释放出的扭曲能量,会结晶成腐化碎片.不像其余的腐化材料,水晶的形态让这种碎片稳定到能够随身携带.
+forbidden.research_page.TAINTSHOVEL.1=有时,清楚腐化区域的最简单途径无非直接挖走它们.<BR><BR>使用银树和秩序碎片强化神秘锹,你制造出这柄能够对抗腐化的工具.净化锹能够像挖开普通泥土那样捣稀泥一般地挖开腐化后的大地.<BR><BR>手持它右击,锹就会消耗一些耐久,净化小范围内所有的咒波粘浆和瓦斯.你就不必再用圆石来一点点处理注魔的灾难了!
+forbidden.research_page.TAINTSHOVEL.2=用这柄锹挖开腐化的大地有几率释放出的扭曲能量,会结晶成腐化碎片.不像其余的腐化材料,水晶的形态让这种碎片稳定到能够随身携带.
 #
 forbidden.research_name.TAINTPICK=畸变镐
 forbidden.research_text.TAINTPICK=黑曜石粉碎机
@@ -288,7 +292,7 @@ forbidden.research_page.CLUSTER.1=你研究出一种能让避役镐模仿炽心�
 #
 forbidden.research_name.IMPACT==附魔:冲击
 forbidden.research_text.IMPACT=有一天墙壁轰然倒塌.
-forbidden.research_page.IMPACT.1=某些工具在用来挖掘时效果范围会更宽广.如果带有冲击附魔,你的避役镐和避役铲就能有这种效果.<BR><BR>带有冲击附魔的避役工具能够一次破坏3X3区域的方块,让开掘矿道,平整土地变得更加轻松.
+forbidden.research_page.IMPACT.1=某些工具在用来挖掘时效果范围会更宽广.如果带有冲击附魔,你的避役镐和避役锹就能有这种效果.<BR><BR>带有冲击附魔的避役工具能够一次破坏3X3区域的方块,让开掘矿道,平整土地变得更加轻松.
 #
 forbidden.research_name.GREEDY=附魔:剥削
 forbidden.research_text.GREEDY=无控的附魔
@@ -308,7 +312,7 @@ forbidden.research_page.EDUCATIONAL.1=你创造出一种附魔,能将知识和�
 #
 forbidden.research_name.CORRUPTING=附魔:堕落
 forbidden.research_text.CORRUPTING=对碎片的坏影响
-forbidden.research_page.CORRUPTING.1=下界无与伦比,但它毕竟是一个地狱之坑.<BR><BR>堕落附魔让你无须前往下界就能收获到下界碎片.堕落附魔的镐能随机腐化挖出的元素碎片,将其转换为下界碎片.晶化的碎片只是看起来容易感染,因此腐化晶簇不会有效果.
+forbidden.research_page.CORRUPTING.1=下界无与伦比,但它毕竟是一个地狱之坑.<BR><BR>堕落附魔让你无需前往下界就能收获到下界碎片.堕落附魔的镐能随机腐化挖出的元素碎片,将其转换为下界碎片.晶化的碎片只是看起来容易感染,因此腐化晶簇不会有效果.
 #
 forbidden.research_name.VOIDTOUCHED=附魔:虚空之触
 forbidden.research_text.VOIDTOUCHED=外域之色彩

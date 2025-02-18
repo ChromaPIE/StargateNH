@@ -19,8 +19,11 @@ moon.kebe=凯贝洁特
 
 tile.darkMatter.name=暗物质
 tile.basalt.name=玄武岩
+tile.rockSlab.0.name=Basalt Slab
+tile.rockDoubleslab.0.name=Basalt Slab
 tile.basalt.slab.name=玄武岩台阶
 tile.basalt.stairs.name=玄武岩楼梯
+tile.baseBlockRock.0.name=Block
 tile.basaltcobble.name=玄武岩圆石
 tile.redrock.name=红砂石
 tile.redrockcobble.name=红圆石
@@ -39,7 +42,9 @@ tile.blockUranium.name=铀块
 tile.mothershipController.name=母舰导航控制台
 tile.mothershipController.description=控制母舰的目的地.
 tile.mothershipEngineRocket.name=火箭引擎
+tile.machines2.name=Jet
 tile.mothershipEngineRocketJet.name=火箭引擎喷口
+tile.msBoosters1.0.name=Base
 tile.mothershipEngineRocketBooster.name=火箭引擎方块
 tile.mothershipEngineRocket.description=将一个或多个引擎方块排成一行,并在一侧安装引擎喷口,即可建成一台母舰引擎,使母舰可以移动
 tile.mothershipSettings.name=母舰配置终端
@@ -63,8 +68,10 @@ tile.msBaseBlock.name=母舰方块
 tile.mothershipEngineIon.name=离子推进器
 tile.mothershipEngineRocketBoosterIon.name=离子推进器方块
 tile.mothershipEngineRocketJetIon.name=离子推进器喷口
+tile.machines3.0.name=Machine
 tile.blockScale.name=方块质量
 tile.blockScale.description=显示直接放置在其上的方块质量.该质量与母舰建造相关.
+tile.machines4.0.name=Machine
 tile.shuttleDock.name=穿梭机接驳舱
 tile.shuttleDock.description=放置在母舰外墙或空间站上，以便穿梭机接驳。穿梭机可以停靠在另一侧。
 tile.gravity.name=人工重力发生器
@@ -75,15 +82,18 @@ tile.steelChest.name=钢制箱子
 tile.steelChest.description=容量是普通箱子的两倍,但不能组合成大箱子.
 
 
+tile.oldConcreteOre.0.name=Urbolite
 tile.oldConcrete.name=褐铁矿
 tile.oldConcreteOre.oreSteel.name=含钢褐铁矿
 tile.oldConcreteOre.oreBone.name=含磷褐铁矿
 
 
+tile.baseBlockCrystal.0.name=Glowing Coral
 tile.glowCoral.name=发光珊瑚
 tile.obsidianbrick.name=黑曜石砖块
 tile.obsidianbrick.stairs.name=黑曜石砖块楼梯
 tile.obsidianbrick.slab.name=黑曜石砖块台阶
+tile.baseBlockGround.0.name=Dirt / Crusted Dust
 tile.methanedirt.name=泥土
 tile.dustblock.name=结壳灰
 tile.underwaterBlueGrass.name=深海蓝藻
@@ -96,24 +106,40 @@ tile.oreTitanium.name=钛铁矿石
 tile.oreUranium.name=铀矿石
 tile.oreSteel.name=钢矿石
 tile.oreBone.name=化石矿石
+tile.asteroidMultiOre1.0.name=Ore
+tile.basaltMultiOre.0.name=Ore
+tile.hardClayMultiOre.0.name=Ore
+tile.obsidianMultiOre.0.name=Ore
 
+tile.basePlant.0.name=Tall Redgrass
 tile.methaneTallGrass.name=高红草
 
+tile.blockFake.0.name=Fake Block
 
+tile.bossSpawner.0.name=Boss Spawner
+
+tile.baseFalling.0.name=Falling Block
 tile.basaltregolith.name=玄武岩风化层
 tile.obsidianGravel.name=黑曜石砂砾
 tile.obsidianSand.name=黑曜石沙子
 
+tile.baseGrass.0.name=Redgrass
 tile.methanegrass.name=红草方块
 tile.vacuumRedGrass.name=浅红草方块
+tile.log1.0.name=Virilig Log
 tile.methanewood.name=维里格原木
 tile.methanePlanks.name=维里格木板
 tile.methanePlanks.slab.name=维里格台阶
 tile.methanePlanks.stairs.name=维里格楼梯
+tile.null.0.name=Virilig Leaf
 tile.methaneleaf.name=维里格树叶
+tile.saplings.0.name=Virilig Sapling
 tile.mTreeSapling.name=维里格树苗
+tile.wood1.0.name=Lumipod Bark
 tile.podBark.name=卢米坡德树皮
 tile.podPlanks.name=卢米坡德木板
+tile.woodSlab.0.name=Lumipod Slab
+tile.woodDoubleslab.0.name=Lumipod Slab
 tile.podPlanks.slab.name=卢米坡德台阶
 tile.podPlanks.stairs.name=卢米坡德楼梯
 tile.podleaf.name=卢米坡德木髓
@@ -127,11 +153,13 @@ tile.hydroponics.noplant=没有植物
 tile.hydroponics.plantstatus=植物状态
 
 
+tile.machines1.0.name=Radioisotope Generator
 tile.isotopeGeneratorBasic.name=放射性同位素发电机
 tile.isotopeGeneratorAdvanced.name=进阶放射性同位素发电机
 tile.isotopeGenerator.description=利用核材料衰变产生的热量发电。能量产生效率取决于外部温度，温度越高，产生的能量越少。由于所用同位素的半衰期较长，可以认为这种发电机用之不竭。
 
 
+item.baseItem.name=Resource
 item.baseItem.compressedGold.name=致密金板
 item.baseItem.goldFoil.name=金箔
 item.baseItem.transformer.name=变压器
@@ -181,6 +209,7 @@ entity.alienVillagerAR.name=软体动物村民
 entity.alienBug.name=钳子虫
 entity.GalacticraftAmunRa.Shuttle.name=穿梭机火箭
 item.itemShuttle.name=穿梭机火箭
+item.thermalSuit.name=Thermoregulation Armor Piece
 item.thermalSuit.thermalLevel.name=热量等级：%s
 item.thermalSuit.helmet.name=温度调节靴子
 item.thermalSuit.chest.name=温度调节胸甲
@@ -188,7 +217,7 @@ item.thermalSuit.boots.name=温度调节靴子
 item.thermalSuit.legs.name=温度调节护腿
 item.baseItem.thermalController.name=便携式温度调节器
 item.baseItem.tricorder.name=多功能传感器
-item.baseItem.tricorder.description=测量并显示你所处维度的某些数据。 
+item.baseItem.tricorder.description=测量并显示你所处维度的某些数据。
 item.baseItem.tricorder.message.gravity=重力加速度: %s m/s²
 item.baseItem.tricorder.message.temperature=热量等级：%s
 item.baseItem.tricorder.message.solar=恒星光照等级: %s
@@ -204,7 +233,7 @@ item.nanotool.mode.axe=斧
 item.nanotool.mode.hoe=锄头
 item.nanotool.mode.pickaxe=镐
 item.nanotool.mode.shears=剪刀
-item.nanotool.mode.shovel=铲
+item.nanotool.mode.shovel=锹
 item.nanotool.mode.wrench=扳手
 item.battery-using-item.powerlevel=电源
 
@@ -265,7 +294,7 @@ gui.message.mothership.notAllowed=你不能在这艘母舰上降落.%s必须先�
 gui.message.mothership.permissionError=权限错误
 gui.message.mothership.chat.wrongUser=你不允许使用这艘母舰。
 gui.message.mothership.chat.notOnShip=这必须放在母舰上
-gui.message.shuttle.transferFailed=穿梭机传输失败 
+gui.message.shuttle.transferFailed=穿梭机传输失败
 gui.message.dock.status.obstructed=路上有障碍$穿梭机不能停靠在这里.
 gui.message.dock.status.occupied=一架穿梭机停靠在这里.
 gui.message.dock.status.free=该码头是空的

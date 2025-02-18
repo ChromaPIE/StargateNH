@@ -377,7 +377,7 @@ item.gems.amber.name=琥珀
 
 item.pickaxeMud.name=泥巴镐
 item.axeMud.name=泥巴斧
-item.shovelMud.name=泥巴铲
+item.shovelMud.name=泥巴锹
 item.swordMud.name=泥巴剑
 item.hoeMud.name=泥巴锄
 item.helmetMud.name=泥巴头盔
@@ -387,7 +387,7 @@ item.bootsMud.name=泥巴靴子
 
 item.pickaxeAmethyst.name=紫水晶镐
 item.axeAmethyst.name=紫水晶斧
-item.shovelAmethyst.name=紫水晶铲
+item.shovelAmethyst.name=紫水晶锹
 item.swordAmethyst.name=紫水晶剑
 item.hoeAmethyst.name=紫水晶锄
 item.helmetAmethyst.name=紫水晶头盔
@@ -454,7 +454,7 @@ phrase.bop.updateAvaliable=你当前没有使用最新的BOP版本. 最新版本
 warning.bopStartup1=超多生物群系(以下简称BOP)有一个自己独特的世界类型, 你可以在
 warning.bopStartup2=在生成世界的时候在世界类型那里选择BOP的世界类型
 warning.bopStartup3='超多生物群系'.
-warning.bopStartup4=如果你在服务器使用的话, 可以打开server.properties把level-type参数改成 BIOMESOP 
+warning.bopStartup4=如果你在服务器使用的话, 可以打开server.properties把level-type参数改成 BIOMESOP
 warning.bopStartup5=这样就会在服务器世界的生成中生成BOP生物群系
 warning.bopStartup6=这个提示只会出现一次.
 

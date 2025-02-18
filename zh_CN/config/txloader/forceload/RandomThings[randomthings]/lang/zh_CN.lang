@@ -100,13 +100,13 @@ text.miscellaneous.press=按下%s查看详情
 text.miscellaneous.shift=Shift
 text.miscellaneous.block=方块
 text.miscellaneous.metadata=MetaData
-text.miscellaneous.oreDictionary=矿物辞典
+text.miscellaneous.oreDictionary=矿物词典
 text.miscellaneous.listType=类型列表
 text.miscellaneous.entityid=实体ID
 text.miscellaneous.entityName=实体名称
 text.miscellaneous.connectedTo=连接到
 text.miscellaneous.invalidArguments=无效的数据
-text.miscellaneous.setBonus=设定奖励: 
+text.miscellaneous.setBonus=设定奖励:
 text.miscellaneous.opOnly=仅管理员
 text.miscellaneous.creativeOnly=仅创造模式
 text.miscellaneous.category=种类: %s
@@ -123,8 +123,8 @@ text.miscellaneous.no=否
 text.onlineDetector.detectingNobody=未探测到任何玩家
 text.onlineDetector.detecting="探测到玩家%s"
 
-text.miscellaneous.ignoreOreDict=忽略矿物辞典
-text.miscellaneous.useOreDict=使用矿物辞典
+text.miscellaneous.ignoreOreDict=忽略矿物词典
+text.miscellaneous.useOreDict=使用矿物词典
 
 text.miscellaneous.ignoreMetadata=忽略元数据(metadata)
 text.miscellaneous.useMetadata=使用元数据(metadata)
@@ -173,5 +173,5 @@ text.enderLetter.invalidreceiver=你填写了一个无效的收件人
 text.enderLetter.empty=你不能寄出空的邮件
 
 text.bloodmoon.command=血月将在明晚出现
-text.bloodmoon.notify=血月升起...
+text.bloodmoon.notify=血月升起……
 text.bloodmoon.nosleep=此刻你并不感到疲倦

@@ -18,6 +18,11 @@ tile.reactorSim.name=反应堆模拟器
 tile.reactorSim.desc.0=裂变反应不确定度解析器9001
 tile.reactorSim.desc.1=爆炸，但没有那么多...
 
+gt.spacetime_compression_field_generator.name=Spacetime Compression Field Generator
+gt.time_acceleration_field_generator.name=Time Dilation Field Generator
+
+tile.Forge of the Gods Renderer.name=Forge of the Gods Renderer
+
 #Items
 item.em.programmer.name=AVR编程器
 item.em.programmer.desc.0=当前PC
@@ -67,6 +72,7 @@ item.em.parametrizerMemoryCard.desc.1=在多方块结构的控制器上使用以
 item.em.parametrizerMemoryCard.desc.2=在多方块结构的控制器上使用以存储参数
 item.em.parametrizerMemoryCard.desc.3=潜行右键以锁定/解锁
 
+item.tm.teslaCoilCapacitor.name=Tesla Capacitor
 item.tm.teslaCoilCapacitor.0.name=LV特斯拉电容
 item.tm.teslaCoilCapacitor.1.name=MV特斯拉电容
 item.tm.teslaCoilCapacitor.2.name=HV特斯拉电容
@@ -80,10 +86,12 @@ item.tm.teslaCoilCapacitor.desc.2=把这个破碎的东西浸入某种辛辣的�
 item.tm.teslaCoilCapacitor.desc.3=插入特斯拉电塔的电容仓中
 item.tm.teslaCoilCapacitor.desc.4=电容器就像电池一样，对吗?
 
+item.tm.itemTeslaComponent.name=Tesla Windings
 item.tm.itemTeslaComponent.0.name=琥珀金特斯拉绕组
 item.tm.itemTeslaComponent.1.name=超导特斯拉绕组
 item.tm.itemTeslaComponent.desc=特斯拉需要这些!
 
+item.tm.teslaCover.name=Tesla Coil Cover
 item.tm.teslaCover.0.name=特斯拉线圈帽
 item.tm.teslaCover.1.name=豪华特斯拉线圈帽
 item.tm.teslaCover.desc.0=特斯拉使能机器!
@@ -111,6 +119,8 @@ item.tm.itemAstralArrayFabricator.desc1=此设备能够增强鸿蒙之眼的空�
 item.tm.itemAstralArrayFabricator.desc2=触及更遥远的空间。
 item.tm.itemAstralArrayFabricator.desc3=允许配方执行并行。
 
+item.tm.fakeItemQGP.name=Fake Item
+
 #Death Messages
 death.attack.microwaving=%1$s被辐射脱水。
 death.attack.microwaving.player=%1$s在与%2$s的战斗中被辐射脱水。
@@ -120,63 +130,63 @@ death.attack.subspace=%1$s受到了降维打击。
 death.attack.subspace.player=%1$s在与%2$s的战斗中受到了降维打击。
 
 #Machine hulls
-gt.blockmachines.hull.tier.10.name=UEV机器外壳
-gt.blockmachines.hull.tier.11.name=UIV机器外壳
-gt.blockmachines.hull.tier.12.name=UMV机器外壳
-gt.blockmachines.hull.tier.13.name=UXV机器外壳
-gt.blockmachines.hull.tier.14.name=MAX机器外壳
+gt.blockmachines.hull.tier.10.name=UEV机身
+gt.blockmachines.hull.tier.11.name=UIV机身
+gt.blockmachines.hull.tier.12.name=UMV机身
+gt.blockmachines.hull.tier.13.name=UXV机身
+gt.blockmachines.hull.tier.14.name=MAX机身
 
 #Transformers
 gt.blockmachines.wetransformer.tier.00.name=ULV高能变压器
-gt.blockmachines.wetransformer.tier.00.desc=LV -> ULV (用软锤右击以反转)
+gt.blockmachines.wetransformer.tier.00.desc=LV -> ULV (用软槌右击以反转)
 gt.blockmachines.wetransformer.tier.01.name=LV高能变压器
-gt.blockmachines.wetransformer.tier.01.desc=MV -> LV (用软锤右击以反转)
+gt.blockmachines.wetransformer.tier.01.desc=MV -> LV (用软槌右击以反转)
 gt.blockmachines.wetransformer.tier.02.name=MV高能变压器
-gt.blockmachines.wetransformer.tier.02.desc=HV -> MV (用软锤右击以反转)
+gt.blockmachines.wetransformer.tier.02.desc=HV -> MV (用软槌右击以反转)
 gt.blockmachines.wetransformer.tier.03.name=HV高能变压器
-gt.blockmachines.wetransformer.tier.03.desc=EV -> HV (用软锤右击以反转)
+gt.blockmachines.wetransformer.tier.03.desc=EV -> HV (用软槌右击以反转)
 gt.blockmachines.wetransformer.tier.04.name=EV高能变压器
-gt.blockmachines.wetransformer.tier.04.desc=IV -> EV (用软锤右击以反转)
+gt.blockmachines.wetransformer.tier.04.desc=IV -> EV (用软槌右击以反转)
 gt.blockmachines.wetransformer.tier.05.name=IV高能变压器
-gt.blockmachines.wetransformer.tier.05.desc=LuV -> IV (用软锤右击以反转)
+gt.blockmachines.wetransformer.tier.05.desc=LuV -> IV (用软槌右击以反转)
 gt.blockmachines.wetransformer.tier.06.name=LuV高能变压器
-gt.blockmachines.wetransformer.tier.06.desc=ZPM -> LuV (用软锤右击以反转)
+gt.blockmachines.wetransformer.tier.06.desc=ZPM -> LuV (用软槌右击以反转)
 gt.blockmachines.wetransformer.tier.07.name=ZPM高能变压器
-gt.blockmachines.wetransformer.tier.07.desc=UV -> ZPM (用软锤右击以反转)
+gt.blockmachines.wetransformer.tier.07.desc=UV -> ZPM (用软槌右击以反转)
 gt.blockmachines.wetransformer.tier.08.name=UV高能变压器
-gt.blockmachines.wetransformer.tier.08.desc=UHV -> UV (用软锤右击以反转)
+gt.blockmachines.wetransformer.tier.08.desc=UHV -> UV (用软槌右击以反转)
 gt.blockmachines.wetransformer.tier.09.name=UHV高能变压器
-gt.blockmachines.wetransformer.tier.09.desc=UEV -> UHV (用软锤右击以反转)
+gt.blockmachines.wetransformer.tier.09.desc=UEV -> UHV (用软槌右击以反转)
 gt.blockmachines.wetransformer.tier.10.name=UEV高能变压器
-gt.blockmachines.wetransformer.tier.10.desc=UIV -> UEV (用软锤右击以反转)
+gt.blockmachines.wetransformer.tier.10.desc=UIV -> UEV (用软槌右击以反转)
 gt.blockmachines.wetransformer.tier.11.name=UIV高能变压器
-gt.blockmachines.wetransformer.tier.11.desc=UMV -> UIV (用软锤右击以反转)
+gt.blockmachines.wetransformer.tier.11.desc=UMV -> UIV (用软槌右击以反转)
 gt.blockmachines.wetransformer.tier.12.name=UMV高能变压器
-gt.blockmachines.wetransformer.tier.12.desc=UXV -> UMV (用软锤右击以反转)
+gt.blockmachines.wetransformer.tier.12.desc=UXV -> UMV (用软槌右击以反转)
 gt.blockmachines.wetransformer.tier.13.name=UXV高能变压器
-gt.blockmachines.wetransformer.tier.13.desc=MAX -> UXV (用软锤右击以反转)
+gt.blockmachines.wetransformer.tier.13.desc=MAX -> UXV (用软槌右击以反转)
 
 gt.blockmachines.tt.transformer.tier.09.name=UHV变压器
-gt.blockmachines.tt.transformer.tier.09.desc=UEV -> UHV (用软锤右击以反转)
+gt.blockmachines.tt.transformer.tier.09.desc=UEV -> UHV (用软槌右击以反转)
 gt.blockmachines.tt.transformer.tier.10.name=UEV变压器
-gt.blockmachines.tt.transformer.tier.10.desc=UIV -> UEV (用软锤右击以反转)
+gt.blockmachines.tt.transformer.tier.10.desc=UIV -> UEV (用软槌右击以反转)
 gt.blockmachines.tt.transformer.tier.11.name=UIV变压器
-gt.blockmachines.tt.transformer.tier.11.desc=UMV -> UIV (用软锤右击以反转)
+gt.blockmachines.tt.transformer.tier.11.desc=UMV -> UIV (用软槌右击以反转)
 gt.blockmachines.tt.transformer.tier.12.name=UMV变压器
-gt.blockmachines.tt.transformer.tier.12.desc=UXV -> UMV (用软锤右击以反转)
+gt.blockmachines.tt.transformer.tier.12.desc=UXV -> UMV (用软槌右击以反转)
 gt.blockmachines.tt.transformer.tier.13.name=UXV变压器
-gt.blockmachines.tt.transformer.tier.13.desc=MAX -> UXV (用软锤右击以反转)
+gt.blockmachines.tt.transformer.tier.13.desc=MAX -> UXV (用软槌右击以反转)
 
 gt.blockmachines.transformer.ha.tier.09.name=UHV高电流变压器
-gt.blockmachines.transformer.ha.tier.09.desc=UEV -> UHV (用软锤右击以反转
+gt.blockmachines.transformer.ha.tier.09.desc=UEV -> UHV (用软槌右击以反转
 gt.blockmachines.transformer.ha.tier.10.name=UEV高电流变压器
-gt.blockmachines.transformer.ha.tier.10.desc=UIV -> UEV (用软锤右击以反转)
+gt.blockmachines.transformer.ha.tier.10.desc=UIV -> UEV (用软槌右击以反转)
 gt.blockmachines.transformer.ha.tier.11.name=UIV高电流变压器
-gt.blockmachines.transformer.ha.tier.11.desc=UMV -> UIV (用软锤右击以反转)
+gt.blockmachines.transformer.ha.tier.11.desc=UMV -> UIV (用软槌右击以反转)
 gt.blockmachines.transformer.ha.tier.12.name=UMV高电流变压器
-gt.blockmachines.transformer.ha.tier.12.desc=UXV -> UMV (用软锤右击以反转)
+gt.blockmachines.transformer.ha.tier.12.desc=UXV -> UMV (用软槌右击以反转)
 gt.blockmachines.transformer.ha.tier.13.name=UXV高电流变压器
-gt.blockmachines.transformer.ha.tier.13.desc=MAX -> UXV (用软锤右击以反转)
+gt.blockmachines.transformer.ha.tier.13.desc=MAX -> UXV (用软槌右击以反转)
 
 #Hatches
 tt.base.emhatch.desc.0=最大元物质组数：
@@ -382,33 +392,33 @@ gt.blockmachines.hatch.energytunnel.tier.14.name=传奇激光靶仓
 gt.blockmachines.hatch.energytunnel.desc.0=多方块机器的能量输入端
 gt.blockmachines.hatch.energytunnel.desc.1=通量
 
-gt.blockmachines.hatch.dynamomulti04.tier.05.name=4安IV动力仓
-gt.blockmachines.hatch.dynamomulti16.tier.05.name=16安IV动力仓
-gt.blockmachines.hatch.dynamomulti64.tier.05.name=64安IV动力仓
-gt.blockmachines.hatch.dynamomulti04.tier.06.name=4安LuV动力仓
-gt.blockmachines.hatch.dynamomulti16.tier.06.name=16安LuV动力仓
-gt.blockmachines.hatch.dynamomulti64.tier.06.name=64安LuV动力仓
-gt.blockmachines.hatch.dynamomulti04.tier.07.name=4安ZPM动力仓
-gt.blockmachines.hatch.dynamomulti16.tier.07.name=16安ZPM动力仓
-gt.blockmachines.hatch.dynamomulti64.tier.07.name=64安ZPM动力仓
-gt.blockmachines.hatch.dynamomulti04.tier.08.name=4安UV动力仓
-gt.blockmachines.hatch.dynamomulti16.tier.08.name=16安UV动力仓
-gt.blockmachines.hatch.dynamomulti64.tier.08.name=64安UV动力仓
-gt.blockmachines.hatch.dynamomulti04.tier.09.name=4安UHV动力仓
-gt.blockmachines.hatch.dynamomulti16.tier.09.name=16安UHV动力仓
-gt.blockmachines.hatch.dynamomulti64.tier.09.name=64安UHV动力仓
-gt.blockmachines.hatch.dynamomulti04.tier.10.name=4安UEV动力仓
-gt.blockmachines.hatch.dynamomulti16.tier.10.name=16安UEV动力仓
-gt.blockmachines.hatch.dynamomulti64.tier.10.name=64安UEV动力仓
-gt.blockmachines.hatch.dynamomulti04.tier.11.name=4安UIV动力仓
-gt.blockmachines.hatch.dynamomulti16.tier.11.name=16安UIV动力仓
-gt.blockmachines.hatch.dynamomulti64.tier.11.name=64安UIV动力仓
-gt.blockmachines.hatch.dynamomulti04.tier.12.name=4安UMV动力仓
-gt.blockmachines.hatch.dynamomulti16.tier.12.name=16安UMV动力仓
-gt.blockmachines.hatch.dynamomulti64.tier.12.name=64安UMV动力仓
-gt.blockmachines.hatch.dynamomulti04.tier.13.name=4安UXV动力仓
-gt.blockmachines.hatch.dynamomulti16.tier.13.name=16安UXV动力仓
-gt.blockmachines.hatch.dynamomulti64.tier.13.name=64安UXV动力仓
+gt.blockmachines.hatch.dynamomulti04.tier.05.name=4安IV发电仓
+gt.blockmachines.hatch.dynamomulti16.tier.05.name=16安IV发电仓
+gt.blockmachines.hatch.dynamomulti64.tier.05.name=64安IV发电仓
+gt.blockmachines.hatch.dynamomulti04.tier.06.name=4安LuV发电仓
+gt.blockmachines.hatch.dynamomulti16.tier.06.name=16安LuV发电仓
+gt.blockmachines.hatch.dynamomulti64.tier.06.name=64安LuV发电仓
+gt.blockmachines.hatch.dynamomulti04.tier.07.name=4安ZPM发电仓
+gt.blockmachines.hatch.dynamomulti16.tier.07.name=16安ZPM发电仓
+gt.blockmachines.hatch.dynamomulti64.tier.07.name=64安ZPM发电仓
+gt.blockmachines.hatch.dynamomulti04.tier.08.name=4安UV发电仓
+gt.blockmachines.hatch.dynamomulti16.tier.08.name=16安UV发电仓
+gt.blockmachines.hatch.dynamomulti64.tier.08.name=64安UV发电仓
+gt.blockmachines.hatch.dynamomulti04.tier.09.name=4安UHV发电仓
+gt.blockmachines.hatch.dynamomulti16.tier.09.name=16安UHV发电仓
+gt.blockmachines.hatch.dynamomulti64.tier.09.name=64安UHV发电仓
+gt.blockmachines.hatch.dynamomulti04.tier.10.name=4安UEV发电仓
+gt.blockmachines.hatch.dynamomulti16.tier.10.name=16安UEV发电仓
+gt.blockmachines.hatch.dynamomulti64.tier.10.name=64安UEV发电仓
+gt.blockmachines.hatch.dynamomulti04.tier.11.name=4安UIV发电仓
+gt.blockmachines.hatch.dynamomulti16.tier.11.name=16安UIV发电仓
+gt.blockmachines.hatch.dynamomulti64.tier.11.name=64安UIV发电仓
+gt.blockmachines.hatch.dynamomulti04.tier.12.name=4安UMV发电仓
+gt.blockmachines.hatch.dynamomulti16.tier.12.name=16安UMV发电仓
+gt.blockmachines.hatch.dynamomulti64.tier.12.name=64安UMV发电仓
+gt.blockmachines.hatch.dynamomulti04.tier.13.name=4安UXV发电仓
+gt.blockmachines.hatch.dynamomulti16.tier.13.name=16安UXV发电仓
+gt.blockmachines.hatch.dynamomulti64.tier.13.name=64安UXV发电仓
 gt.blockmachines.hatch.dynamomulti.desc.0=从多方块机器以高电流输出能源
 gt.blockmachines.hatch.dynamomulti.desc.1=输出电流
 
@@ -503,10 +513,11 @@ gt.blockmachines.hatch.param.tier.10.name=参数仪 tXt
 gt.blockmachines.hatch.param.desc.0=多方块机器的参数化
 gt.blockmachines.hatch.param.desc.1=E=mine*craft²
 
+gt.blockmachines.hatch.certain.tier.05.name=Uncertainty Resolver
 gt.blockmachines.hatch.certain.tier.07.name=未定元解析器
-gt.blockmachines.hatch.certain.tier.10.name=未定元解析器 X
 gt.blockmachines.hatch.certain.desc.0=你真的很确定吗？
 gt.blockmachines.hatch.certain.desc.1=盒子里的薛定谔方程
+gt.blockmachines.hatch.certain.desc.2=Deprecated! Use Uncertainty Resolver X
 
 gt.blockmachines.hatch.datain.tier.07.name=副光学接口
 gt.blockmachines.hatch.datain.desc.0=多方块机器的数据输入
@@ -545,11 +556,12 @@ gt.blockmachines.hatch.capacitor.desc.0=用于特斯拉电塔
 gt.blockmachines.hatch.capacitor.desc.1=存储'䏍量! (就一会儿) 原文：store 'nergy'(for a while)
 
 #Casings
-gt.blockcasingsNH.10.name=UEV机械方块
-gt.blockcasingsNH.11.name=UIV机械方块
-gt.blockcasingsNH.12.name=UMV机械方块
-gt.blockcasingsNH.13.name=UXV机械方块
-gt.blockcasingsNH.14.name=MAX机械方块
+gt.godforgecasing.name=Machine Casing
+gt.blockcasingsNH.10.name=UEV机器外壳
+gt.blockcasingsNH.11.name=UIV机器外壳
+gt.blockcasingsNH.12.name=UMV机器外壳
+gt.blockcasingsNH.13.name=UXV机器外壳
+gt.blockcasingsNH.14.name=MAX机器外壳
 
 gt.blockhintTT.desc.0=构造时的帮助
 gt.blockhintTT.0.name=提示方块：1号
@@ -574,6 +586,7 @@ gt.blockhintTT.desc.4=确保其中不含空气方块.
 gt.blockhintTT.15.name=提示方块：错误
 gt.blockhintTT.desc.5=错误，你希望做什么?
 
+gt.blockcasingsTT.name=Machine Casing
 gt.blockcasingsTT.0.name=超能机械方块
 gt.blockcasingsTT.0.desc.0=非常适合高能应用.
 gt.blockcasingsTT.0.desc.1=能量等级正在上升!
@@ -623,6 +636,7 @@ gt.blockcasingsTT.15.name=[调试方块]
 gt.blockcasingsTT.15.desc.0=懒人确定边的方式.
 gt.blockcasingsTT.15.desc.1=0, 1, 2, 3, 4, 5, 6?!
 
+gt.blockcasingsBA0.name=Primary Tesla Windings
 gt.blockcasingsBA0.0.name=红石合金初级特斯拉绕组
 gt.blockcasingsBA0.1.name=MV超导初级特斯拉绕组
 gt.blockcasingsBA0.2.name=HV超导初级特斯拉绕组
@@ -644,14 +658,14 @@ gt.blockcasingsBA0.8.desc.1=谁不想要32k的环氧树脂?
 
 #Multiblocks
 gt.blockmachines.multimachine.em.transformer.name=有源变压器
-gt.blockmachines.multimachine.em.transformer.hint=1 - 能源仓、动力仓或超能机械方块
-gt.blockmachines.multimachine.em.transformer.desc.0=有源变压器的控制器方块
+gt.blockmachines.multimachine.em.transformer.machinetype=Active Transformer, AT
+gt.blockmachines.multimachine.em.transformer.hint=1 - 能源仓、发电仓或超能机械方块
 gt.blockmachines.multimachine.em.transformer.desc.1=任意电压间的相互转换!
 gt.blockmachines.multimachine.em.transformer.desc.2=只有0.004%的能量损失, HAYO!
 gt.blockmachines.multimachine.em.transformer.desc.3=运行时被破坏会发生爆炸
 
 gt.blockmachines.multimachine.tm.microwave.name=微波发生仪
-gt.blockmachines.multimachine.tm.microwave.hint.0=1 - 基础仓室或洁净不锈钢机械方块
+gt.blockmachines.multimachine.tm.microwave.hint.0=1 - 基础仓室或洁净不锈钢机器外壳
 gt.blockmachines.multimachine.tm.microwave.hint.1=也像个漏斗,所以给它个输出总线吧
 gt.blockmachines.multimachine.tm.microwave.desc.0=微波发生仪的控制器方块
 gt.blockmachines.multimachine.tm.microwave.desc.1=机器启动时开启一个计时器
@@ -694,13 +708,13 @@ gt.blockmachines.multimachine.tm.teslaCoil.cfgo.8=扫描时间显示
 gt.blockmachines.multimachine.tm.teslaCoil.cfgo.9=最大输出显示
 
 gt.blockmachines.multimachine.em.switch.name=QoS网络交换机
-gt.blockmachines.multimachine.em.switch.hint=1 - 基础仓室、光学接口或电子计算机机械方块
+gt.blockmachines.multimachine.em.switch.hint.0=1 - Data Input/Output Hatches or Advanced computer casing
+gt.blockmachines.multimachine.em.switch.hint.1=2 - Data Output Hatches or Computer casing
 gt.blockmachines.multimachine.em.switch.desc.0=QoS网络交换机的控制器方块
 gt.blockmachines.multimachine.em.switch.desc.1=用于路由和分发算力
-gt.blockmachines.multimachine.em.switch.desc.2=需要通过参数仪进行配置
-
 
 gt.blockmachines.multimachine.em.computer.name=量子计算机
+gt.blockmachines.multimachine.em.computer.machinetype=Quantum Computer, QC
 gt.blockmachines.multimachine.em.computer.hint.0=1 - 基础仓室、光学接口或电子计算机机械方块
 gt.blockmachines.multimachine.em.computer.hint.1=2 - 计算机箱或进阶电子计算机械方块
 gt.blockmachines.multimachine.em.computer.desc=你需要它来处理上面的这串数字
@@ -767,7 +781,6 @@ gt.blockmachines.multimachine.em.scanner.desc.0=元物质扫描仪的控制器�
 gt.blockmachines.multimachine.em.research.type=研究站,扫描仪
 gt.blockmachines.multimachine.em.research.hint.0=1 - 基础仓室、光学接口或电子计算机械方块
 gt.blockmachines.multimachine.em.research.hint.1=2 - 物品固定容器
-gt.blockmachines.multimachine.em.research.desc.0=研究站的控制器方块
 gt.blockmachines.multimachine.em.research.desc.1=用于扫描物品, 生成装配线配方闪存
 gt.blockmachines.multimachine.em.research.desc.2=需要为其提供算力
 gt.blockmachines.multimachine.em.research.desc.3=在完成闪存写入之前不会消耗物品
@@ -851,7 +864,8 @@ gt.blockcasingsBA0.11.desc.1=至少能在一次宇宙大爆炸中幸存，也许
 achievement.gt.blockcasingsBA0.10=强化时间结构方块
 gt.blockcasingsBA0.10.desc.0=抵抗时间膨胀差造成的时间剪切.
 gt.blockcasingsBA0.10.desc.1=这个方块可以持久不衰.
-
+eoh.rightclick.wirecutter.1=Can't retrieve Astral Array Fabricators when the machine is working!
+eoh.rightclick.wirecutter.2=Retrieved %s Astral Array Fabricators
 
 # Antimatter
 gt.blockmachines.antimatterForge.name=半稳定反物质稳定序列器
@@ -889,7 +903,7 @@ achievement.gt.stabilisation_field_generator.8=鸿蒙稳定力场发生器
 
 # Forge of the Gods / Godforge
 fog.upgrade.confirm=结构
-fog.upgrade.respec=重新分配
+fog.upgrade.respec=Respec
 
 fog.upgrade.tt.0=升级开始
 fog.upgrade.tt.1=改进的引力对流线圈
@@ -922,6 +936,7 @@ fog.upgrade.tt.27=升级141
 fog.upgrade.tt.28=升级151
 fog.upgrade.tt.29=升级161
 fog.upgrade.tt.30=升级结束
+fog.upgrade.tt.secret=Secret Upgrade
 
 fog.upgrade.tt.short.0=START
 fog.upgrade.tt.short.1=IGCC
@@ -954,13 +969,14 @@ fog.upgrade.tt.short.27=TSE
 fog.upgrade.tt.short.28=TBF
 fog.upgrade.tt.short.29=EE
 fog.upgrade.tt.short.30=END
+fog.upgrade.tt.short.secret=SECRET
 
-fog.upgrade.lore.0=诸神之锻炉是围绕一颗稳定的中子星建造的强大结构--它是如此先进，以至于人们还不了解它的全部能力。不过，通过持续使用，人们可以慢慢升级和扩展锻炉的功能，并了解隐藏在宇宙最极端部分的力量：引力子碎片。只有在中子星表面的常规物质和简并中子地壳物质相遇的地方，才能找到这种神秘的材料。在这个空间点上，引力子更为常见，它们辐照这种物质混合物，产生极不稳定的引力子碎片，可用于锻炉的内部升级。虽然这些碎片还不能在锻炉的极端条件之外存在，但随着不断的研究和利用，最终有可能在锻炉之外分离和提取这些碎片--但目的是什么呢？
-fog.upgrade.lore.1=拜引力子碎片的引力扭曲效应所赐，诸神之锻炉的首次重大升级使得处理速度随着热量的增加而提高。这是第一个被发现的引力子碎片应用。通过对锻炉的不断使用，引力子碎片的众多应用将会被逐渐发现。
-fog.upgrade.lore.2=引力子碎片可以扭曲锻炉中燃料的表面积，使得每单位燃料可以处理更多材料来提高效率。引力子碎片将被证明是进一步提高效率的关键，以抵消锻炉不断增长的需求。
-fog.upgrade.lore.3=使用引力子碎片，增大锻炉的内部空间，燃烧更多的燃料，从而达到更高的温度。别忘了留些燃料来维持中心中子星的活跃。
+fog.upgrade.lore.0=[神煅]是围绕一颗稳定的中子星建造的强大结构--它是如此先进，以至于人们还不了解它的全部能力。不过，通过持续使用，人们可以慢慢升级和扩展锻炉的功能，并了解隐藏在宇宙最极端部分的力量：引力子碎片。只有在中子星表面的常规物质和简并中子地壳物质相遇的地方，才能找到这种神秘的材料。在这个空间点上，引力子更为常见，它们辐照这种物质混合物，产生极不稳定的引力子碎片，可用于锻炉的内部升级。虽然这些碎片还不能在锻炉的极端条件之外存在，但随着不断的研究和利用，最终有可能在锻炉之外分离和提取这些碎片--但目的是什么呢？
+fog.upgrade.lore.1=拜引力子碎片的引力扭曲效应所赐，[神锻]的首次重大升级使得处理速度随着热量的增加而提高。这是第一个被发现的引力子碎片应用。通过对锻炉的不断使用，引力子碎片的众多应用将会被逐渐发现。
+fog.upgrade.lore.2=引力子碎片可以扭曲[神煅]中燃料的表面积，使得每单位燃料可以处理更多材料来提高效率。引力子碎片将被证明是进一步提高效率的关键，以抵消锻炉不断增长的需求。
+fog.upgrade.lore.3=使用引力子碎片，增大[神锻]的内部空间，燃烧更多的燃料，从而达到更高的温度。别忘了留些燃料来维持中心中子星的活跃。
 fog.upgrade.lore.4=引力子碎片能影响的不只物质，还有能量：使用足够浓度的恒星燃料，炉内可以通过仅仅引力来达到超导。这些引力子碎片还能有哪些其他的特性呢？
-fog.upgrade.lore.5=随着锻炉的使用，你收集了更多关于引力子碎片的数据。你发现它们能稳定锻炉的输出，从而能够让你从更接近恒星心脏的地方直接抽取熔融材料。
+fog.upgrade.lore.5=As usage of the Forge continues, more data on graviton shards is gathered. It has been found that they can stabilize the outputs of the Forge, allowing for the direct extraction of molten material while it is still close to the heart of the star.
 fog.upgrade.lore.6=As stellar fuel consumption continues to increase the size and energy of the star, the amount of material that can be processed at once also increases. Graviton shards facilitate the manipulation of increased quantities of materials near the star in the core of the Forge.
 fog.upgrade.lore.7=As understanding of graviton shards continues to improve, better control over the materials they manipulate can be achieved. Graviton shards provide an alternative to electromagnetic containment of plasma using spacetime manipulation instead, allowing the Forge to directly output processed materials as plasma.
 fog.upgrade.lore.8=Adding graviton shards to the Forge’s internal energy storage allows for greater quantities of energy stored in a smaller area. By increasing energy density to relativistic levels, the Forge can be run more efficiently as the electrical potential continues to increase.
@@ -987,7 +1003,7 @@ fog.upgrade.lore.28=The usage of graviton shards in electrical systems to create
 fog.upgrade.lore.29=诸神之锻炉最后的外部结构升级需要对引力子碎片及其在极端环境中的应用有着最前沿的研究.有了这个升级,诸神之锻炉的最后4个模块插槽就可以建造了,它可以使你的生产攀升到从未有过的技术高度.
 fog.upgrade.lore.30=在完全掌握诸神之锻炉之后,我们就有可能开始一项新的宇宙跨越计划.现在,我们可以量化和提取引力子碎片,将其用于锻炉之外的强大新技术领域；生产出超出元素周期表的异域等离子体；最重要的是,我们开始了解磁物质的巨大威力,这是一种完全由磁单极子构成的物质形式,其密度和稳定性是传统玻色物质的数十亿倍.有了这样的发展,你才会意识到,锻炉的完成并不是最终目标,而仅仅是通向宇宙超越的垫脚石.
 
-fog.upgrade.text.0=解锁诸神之锻炉的初始状态,你可以使用8个模块插槽,1 个环和太阳耀斑锻炉模块.
+fog.upgrade.text.0=解锁[神煅]的初始状态,你可以使用8个模块插槽,1 个环和太阳耀斑锻炉模块.
 fog.upgrade.text.1=Unlocks a recipe time reduction multiplier based on the current heat the multi is running at. This bonus is calculated via following formula: Multiplier = 1 / (Heat^0.01)
 fog.upgrade.text.2=Increases fuel efficiency by multiplying the actual fuel consumption by 0.8
 fog.upgrade.text.3=Multiplies the maximum fuel consumption by 1.2
@@ -1025,9 +1041,12 @@ fog.debug.unlockall.text=解锁所有的升级
 fog.debug.gravitonshardsetter.tooltip=设置可用的引力子碎片数量
 
 fog.button.fuelconfig.tooltip=燃料配置菜单
-fog.button.furnacemode.tooltip=切换熔炉模式
+fog.button.upgradetree.tooltip=Path of Celestial Transcendence
+fog.button.furnacemode.tooltip.01=Blast Mode
+fog.button.furnacemode.tooltip.02=Furnace Mode
 fog.button.magmattermode.tooltip.01=切换磁物质模式
 fog.button.magmattermode.tooltip.02=磁物质模式锁定，缺少升级
+fog.button.magmattermode.tooltip.03=Magmatter Mode locked, missing upgrade
 fog.button.battery.tooltip.01=切换电池充能
 fog.button.battery.tooltip.02=右键以打开配置菜单(如果已经解锁的话)
 fog.button.voltageconfig.tooltip.01=打开电压配置
@@ -1040,10 +1059,19 @@ fog.button.materialrequirements.tooltip.clickhere=点击打开材料输入窗口
 fog.button.ejection.tooltip=切换引力子碎片喷射
 fog.button.formatting.tooltip=切换数字显示格式
 fog.button.exoticinputs.tooltip=点击以显示预期的输入
+fog.button.possibleexoticinputs.tooltip=Click to display all possible inputs
 fog.button.reciperefresh.tooltip=点击以重置配方
 fog.button.refreshtimer.tooltip=重置将就绪于
 fog.button.seconds=秒
 fog.button.thanks.tooltip=打开贡献者清单
+fog.button.color.tooltip=Cosmetics Menu
+fog.button.statistics.tooltip=Stats Overview
+fog.text.tooltip.heat=Heat value used for checking if a recipe can run
+fog.text.tooltip.effectiveheat=Heat value used for calculating bonuses
+fog.text.tooltip.parallel=Maximum parallel amount
+fog.text.tooltip.speedbonus=Multiplier for base recipe time, making it shorter
+fog.text.tooltip.energydiscount=Multiplier for base energy usage, reducing it
+fog.text.tooltip.ocdivisor=Divisor for recipe time reduction per overclock (does not affect perfect OCs)
 
 
 achievement.gt.blockmachines.multimachine.em.forge_of_gods=诸神之锻炉
@@ -1086,6 +1114,8 @@ gt.blockmachines.multimachine.FOG.milestoneinfo=查看里程碑进度
 gt.blockmachines.multimachine.FOG.inversionactive=反转已激活
 gt.blockmachines.multimachine.FOG.inversion=反转
 gt.blockmachines.multimachine.FOG.expectedinputs=预期的输入
+gt.blockmachines.multimachine.FOG.possibleinputsqgp=Possible Input Materials for QGP
+gt.blockmachines.multimachine.FOG.possibleinputsmagmatter=Possible Input Materials for Magmatter
 gt.blockmachines.multimachine.FOG.inversioninfotext=一旦锻炉的所有里程碑都达到第 7 级，就会激活反转。这将取消所有里程碑的最高级别，并允许无限扩展。每个里程碑目标的增长从指数级增长变为线性增长，但是授予的引力子碎片数量会不断增加。每个后续里程碑所需的进度与每个里程碑第 7 层所需的进度相同。但 “构成 ”里程碑是个例外，因为它每一层都会增加 1，并有自己的进度计算公式。每种模块类型都有一个数值，从太阳耀斑锻炉的 1 到 磁物质模式下的太阳聚变异化器 的 5，然后将每种模块的数量减去1再乘以其数值。这些数值相加后除以 5，这就是基础 7 级之上的最后一级里程碑。
 gt.blockmachines.multimachine.FOG.powermilestone=充能
 gt.blockmachines.multimachine.FOG.recipemilestone=转换
@@ -1099,7 +1129,7 @@ gt.blockmachines.multimachine.FOG.shardgain=已获取引力子碎片数量
 gt.blockmachines.multimachine.FOG.consumeUpgradeMats=点击以消耗升级材料,供应§4精确§r的物品堆叠数量
 gt.blockmachines.multimachine.FOG.clickhere=感到困惑?点击这里来获取更多信息
 gt.blockmachines.multimachine.FOG.introduction=§N引言
-gt.blockmachines.multimachine.FOG.introductioninfotext=诸神之锻炉系统非常复杂,其中有很多内容会让人感到困惑.此菜单旨在解释正在发生的一切以及锻炉的所有功能/机制.
+gt.blockmachines.multimachine.FOG.introductioninfotext=[神煅]系统非常复杂,其中有很多内容会让人感到困惑.此菜单旨在解释正在发生的一切以及锻炉的所有功能/机制.
 gt.blockmachines.multimachine.FOG.tableofcontents=§N目录
 gt.blockmachines.multimachine.FOG.fuel=燃料
 gt.blockmachines.multimachine.FOG.modules=模块
@@ -1114,7 +1144,7 @@ gt.blockmachines.multimachine.FOG.lead=项目主管
 gt.blockmachines.multimachine.FOG.cloud=GDCloud
 gt.blockmachines.multimachine.FOG.programming=编程
 gt.blockmachines.multimachine.FOG.teg=TheEpicGamer
-gt.blockmachines.multimachine.FOG.serenybiss=§dSereni§5byss
+gt.blockmachines.multimachine.FOG.serenibyss=§dSereni§5byss
 gt.blockmachines.multimachine.FOG.textures=材质 & 结构
 gt.blockmachines.multimachine.FOG.ant=Ant
 gt.blockmachines.multimachine.FOG.lore=顾问
@@ -1124,9 +1154,64 @@ gt.blockmachines.multimachine.FOG.bucket=BucketBrigade
 gt.blockmachines.multimachine.FOG.playtesting=测试
 gt.blockmachines.multimachine.FOG.misi=Misi
 gt.blockmachines.multimachine.FOG.thanks=非常感谢这些了不起的人帮助实现这一目标! -Cloud
+gt.blockmachines.multimachine.FOG.modulestats=Module Statistics
+gt.blockmachines.multimachine.FOG.powerforge=Power Forge
+gt.blockmachines.multimachine.FOG.meltingcore=Melting Core
+gt.blockmachines.multimachine.FOG.plasmafab=Plasma Fabricator
+gt.blockmachines.multimachine.FOG.exoticizer=Exoticizer
+gt.blockmachines.multimachine.FOG.heat=Heat
+gt.blockmachines.multimachine.FOG.effectiveheat=Effective Heat
+gt.blockmachines.multimachine.FOG.speedbonus=Speed Bonus
+gt.blockmachines.multimachine.FOG.energydiscount=Energy Discount
+gt.blockmachines.multimachine.FOG.ocdivisor=OC Divisor
+gt.blockmachines.multimachine.FOG.clickstat=Click to view value breakdown
 
 gt.blockmachines.multimachine.FOG.hint.0=1 - 基础仓室, 或超时空强化磁约束机械方块
 gt.blockmachines.multimachine.FOG.hint.1=2 - 模块控制器,或奇点强化恒星屏蔽机械方块
+
+# Godforge Star Cosmetics
+fog.cosmetics.header=Star Cosmetics
+fog.cosmetics.color=Color
+fog.cosmetics.color.red=Red
+fog.cosmetics.color.green=Green
+fog.cosmetics.color.blue=Blue
+fog.cosmetics.color.gamma=Gamma
+fog.cosmetics.selectcolor.tooltip.1=Left click to select this Star Color
+fog.cosmetics.selectcolor.tooltip.2=Shift-Left click to edit this Star Color (must be a custom color)
+fog.cosmetics.starcolor=Custom Star Color
+fog.cosmetics.customstarcolor=Custom...
+fog.cosmetics.misc=Miscellaneous
+fog.cosmetics.spin=Spin
+fog.cosmetics.size=Size
+fog.cosmetics.cyclespeed=Cycle speed between colors
+fog.cosmetics.onlyintegers=Accepts Integers
+fog.cosmetics.onlydecimals=Accepts Decimals
+fog.cosmetics.starcolorname=Star Color Name:
+fog.cosmetics.starcolorname.tooltip.1=Set the name for this Star Color (max 15 chars)
+fog.cosmetics.starcolorname.tooltip.2=Must be unique! Will have a number appended otherwise
+fog.cosmetics.colorlist.tooltip.1=Left click to select this Star Color
+fog.cosmetics.colorlist.tooltip.2=Right click to remove this Star Color from the list
+fog.cosmetics.applycolor=Apply
+fog.cosmetics.applycolor.tooltip=Apply color to selected Star Color
+fog.cosmetics.addcolor=Add
+fog.cosmetics.addcolor.tooltip=Add to Star Color List
+fog.cosmetics.resetcolor=Reset
+fog.cosmetics.resetcolor.tooltip=Reset Current Color
+fog.cosmetics.savecolors=Save
+fog.cosmetics.savecolors.tooltip=Save this Star Color
+fog.cosmetics.deletecolors=Delete
+fog.cosmetics.deletecolors.tooltip=Delete this Star Color
+fog.cosmetics.importcolors=Import
+fog.cosmetics.importcolors.tooltip=Import a Star Color from text
+fog.cosmetics.exportcolors=Export
+fog.cosmetics.exportcolors.tooltip=Save exported Star Color to clipboard
+fog.cosmetics.importer.import=Import Star Color
+fog.cosmetics.importer.error=Invalid Star Color
+fog.cosmetics.importer.valid=Valid Star Color
+fog.cosmetics.importer.apply=Apply
+fog.cosmetics.importer.apply.tooltip=Apply imported Star Color to color editor
+fog.cosmetics.importer.reset=Reset
+fog.cosmetics.importer.reset.tooltip=Reset imported Star Color
 
 # Optical Circuits
 achievement.gt.metaitem.03.32155=光学处理器集群
@@ -1134,23 +1219,23 @@ achievement.gt.metaitem.03.32156=光学处理器超级电脑
 achievement.gt.metaitem.03.32157=光学处理器主机
 
 # Parts
-achievement.gt.metaitem.01.32017=电动马达(UIV)
-achievement.gt.metaitem.01.32021=电动活塞(UIV)
-achievement.gt.metaitem.01.32025=电动泵(UIV)
-achievement.gt.metaitem.01.32029=传送带(UIV)
-achievement.gt.metaitem.01.32033=机械臂(UIV)
-achievement.gt.metaitem.01.32037=发射器(UIV)
-achievement.gt.metaitem.01.32041=传感器(UIV)
-achievement.gt.metaitem.01.32045=力场发生器(UIV)
+achievement.gt.metaitem.01.32017=电动马达（UIV）
+achievement.gt.metaitem.01.32021=电动活塞（UIV）
+achievement.gt.metaitem.01.32025=电动泵（UIV）
+achievement.gt.metaitem.01.32029=运送模块（UIV）
+achievement.gt.metaitem.01.32033=机械臂（UIV）
+achievement.gt.metaitem.01.32037=发射器（UIV）
+achievement.gt.metaitem.01.32041=传感器（UIV）
+achievement.gt.metaitem.01.32045=力场发生器（UIV）
 
-achievement.gt.metaitem.01.32018=电动马达(UMV)
-achievement.gt.metaitem.01.32022=电动活塞(UMV)
-achievement.gt.metaitem.01.32026=电动泵(UMV)
-achievement.gt.metaitem.01.32030=传送带(UMV)
-achievement.gt.metaitem.01.32034=机械臂(UMV)
-achievement.gt.metaitem.01.32038=发射器(UMV)
-achievement.gt.metaitem.01.32042=传感器(UMV)
-achievement.gt.metaitem.01.32046=力场发生器(UMV)
+achievement.gt.metaitem.01.32018=电动马达（UMV）
+achievement.gt.metaitem.01.32022=电动活塞（UMV）
+achievement.gt.metaitem.01.32026=电动泵（UMV）
+achievement.gt.metaitem.01.32030=运送模块（UMV）
+achievement.gt.metaitem.01.32034=机械臂（UMV）
+achievement.gt.metaitem.01.32038=发射器（UMV）
+achievement.gt.metaitem.01.32042=传感器（UMV）
+achievement.gt.metaitem.01.32046=力场发生器（UMV）
 
 #Pipes
 gt.blockmachines.pipe.elementalmatter.name=量子隧道
@@ -1218,7 +1303,7 @@ gt.blockmachines.debug.tt.data.name=Debug数据仓
 gt.blockmachines.debug.tt.data.desc.0=量子数据输出
 gt.blockmachines.debug.tt.data.desc.1=高速光纤接口
 gt.blockmachines.debug.tt.data.desc.2=启用前必须涂色
-gt.blockmachines.debug.tt.maintenance.name=Debug维护仓
+gt.blockmachines.debug.tt.maintenance.name=Debug维修仓
 gt.blockmachines.debug.tt.maintenance.desc.0=自动维护多方块机器
 gt.blockmachines.debug.tt.maintenance.desc.1=它能修好一切，除了自己.
 gt.blockmachines.debug.tt.maintenance.desc.2=为人民服务!
@@ -1271,6 +1356,7 @@ gt.recipe.researchStation=研究站
 gt.recipe.fog_plasma=太阳热能等离子制造机
 gt.recipe.fog_exotic=太阳聚变异化器
 gt.recipe.fog_molten=太阳射流融化核心
+gt.recipe.upgrade_costs=Godforge Upgrades
 
 
 # NEI
@@ -1285,9 +1371,7 @@ tt.nei.research.min_computation=最小算力输入：%s /s
 #Example: ID:3
 tt.keyword.ID=ID
 #Example: 32EU at 1A
-tt.keyword.at= 
-# Structure is too complex
-tt.keyword.Structure.StructureTooComplex=结构太复杂了！
+tt.keyword.at=at
 # Any X
 tt.keyword.Structure.AnyComputerCasing=任意电子计算机械方块
 tt.keyword.Structure.AnyHighPowerCasing=任意超能机械方块
@@ -1297,6 +1381,7 @@ tt.keyword.Structure.AnyHighPowerCasingFront=任意正面超能机械方块
 tt.keyword.Structure.AnyTeslaBaseCasingOuter=任意外侧特斯拉基座机械方块
 tt.keyword.Structure.AnyComputerCasingFirstOrLastSlice=任意最前或最后一片电子计算机械方块
 tt.keyword.Structure.AnyComputerCasingBackMain=任意主体背面电子计算机械方块
+tt.keyword.Structure.AnyAdvComputerCasing=Any Advanced Computer Casing
 tt.keyword.Structure.AnyAdvComputerCasingExceptOuter=除外侧的任意进阶电子计算机械方块
 tt.keyword.Structure.AnyMolecularCasing=任意分子机械方块
 tt.keyword.Structure.AnyMolecularCasing2D=任意分子机械方块(提示方块：2号)
@@ -1323,6 +1408,8 @@ tt.keyword.Structure.ElementalOverflow=元物质溢流仓
 tt.keyword.Structure.ElementalInput=元物质输入仓
 tt.keyword.Structure.EssentiaStorage=源质存储装置
 tt.keyword.Structure.DataConnector=光学接口
+tt.keyword.Structure.DataInput=Data Input Hatch
+tt.keyword.Structure.DataOutput=Data Output Hatch
 tt.keyword.Structure.SuperconductingCoilBlock=超导线圈方块
 tt.keyword.Structure.StainlessSteelCasing=不锈钢机械方块
 tt.wirelessInputData.config.text=设置从无线网络中拉取多少算力
@@ -1382,9 +1469,9 @@ tt.keyphrase.Receiving_power=接收功率
 tt.keyphrase.Stored_energy=已存储能量
 tt.keyphrase.Stored_EU=已存储EU
 tt.keyphrase.Average_IO=平均I/O
-tt.keyphrase.Average_IO_(max)=电压I/O(最大)
+tt.keyphrase.Average_IO_(max)=Voltage I/O (max)
 tt.keyphrase.Average_IO_max=电压I/O 最大
-tt.keyphrase.Amperage_IO_(max)=电流I/O(最大)
+tt.keyphrase.Amperage_IO_(max)=Amperage I/O (max)
 tt.keyphrase.Side_capabilities=辅助功能
 tt.keyphrase.Ass_line_recipe=装配线合成表
 
@@ -1778,3 +1865,4 @@ tt.chat.debug.generator=激光模式：%s
 GT5U.gui.config.general.debug=调试
 GT5U.gui.config.general.features=功能
 GT5U.gui.config.general.teslatweaks=Tesla Tweaks
+GT5U.gui.config.general.visual=Visual

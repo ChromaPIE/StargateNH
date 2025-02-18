@@ -1192,11 +1192,11 @@ witchery:cauldronbook.brewing6=[h1 酿造: 喷溅巫术酿造之灭火]将下列
 witchery:cauldronbook.bottling=[next=bottling2][h1 装瓶]经验不足的巫师经常手忙脚乱 洒掉很多药水.一次获得 更多的药水需要大量的练习 来提升装瓶技巧等级.
 witchery:cauldronbook.bottling2=[h1 装瓶]穿着合适的衣服也可以增加 药水产量,有个青蛙爱宠就 更棒了.如果你能窥破奥秘, 更多的药水产量也不是 不可以有
 
-witchery:cauldronbook.rituals=[next=rituals2][h1 炼药锅仪式]除了装到瓶子里,巫师炼药 锅的药水也可以用来做炼药 锅仪式.释放仪式需要加入 目标对象的巫媒或者加入 狗之舌来原地施放. 
+witchery:cauldronbook.rituals=[next=rituals2][h1 炼药锅仪式]除了装到瓶子里,巫师炼药 锅的药水也可以用来做炼药 锅仪式.释放仪式需要加入 目标对象的巫媒或者加入 狗之舌来原地施放.
 witchery:cauldronbook.rituals2=[next=rituals3][h1 炼药锅仪式: 寻路石]添加狗之舌前可以加入寻 路石来在寻路石指定的地方 施放.某些效果需要第二块 寻路石来确定施法源.
 witchery:cauldronbook.rituals3=[next=rituals4][h1 炼药锅仪式: 聚会女巫和强度]聚会女巫的参与数目决定 了仪式的最大施法距离和 效果.最多7名女巫可以 参加帮助.
 witchery:cauldronbook.rituals4=[next=rituals5][h1 炼药锅仪式: 喷溅]用巫媒启动来确定施法目 标.否则加入狗之舌之前 必须加入[url=dispersal 喷溅]添加剂. 即刻喷溅没有差别, 不过气态换成扩散效果, 液态会变成降雨效果.
-witchery:cauldronbook.rituals5=[next=rituals6][h1 炼药锅仪式: 风险和强度]施放炼药锅仪式需要祭坛 魔力,而且不像单纯的圆环 法阵,施放炼药锅仪式可能 产生副作用. [br]在巫师炼药锅周围画上仪式 圆环可以减少祭坛消耗并 抵消副作用. 
+witchery:cauldronbook.rituals5=[next=rituals6][h1 炼药锅仪式: 风险和强度]施放炼药锅仪式需要祭坛 魔力,而且不像单纯的圆环 法阵,施放炼药锅仪式可能 产生副作用. [br]在巫师炼药锅周围画上仪式 圆环可以减少祭坛消耗并 抵消副作用.
 witchery:cauldronbook.rituals6=[next=rituals7][h1 炼药锅仪式: 风险和强度]小型仪式(白色)和中型 仪式圆环可以适量的减少 魔力消耗并且抵消副作用. [br][br][img=witchery:textures/gui/circles_2white.png|center|top|32|32]
 witchery:cauldronbook.rituals7=[next=rituals8][h1 炼药锅仪式: 风险和强度]小型炼狱(红色)和中型 炼狱圆环可以巨量减少魔力 消耗但是会增加副作用. [br][br][img=witchery:textures/gui/circles_2red.png|center|top|32|32]
 witchery:cauldronbook.rituals8=[next=rituals9][h1 炼药锅仪式: 风险和强度]可以自行组合红色和白色 圆环来达到期望的效果.
@@ -1323,14 +1323,14 @@ witchery:cauldronbook.inferno=[h1 药效: 炼狱]带有此效果的生物会点�
 witchery:cauldronbook.blast=[h1 药效: 爆炸]引起爆炸.
 witchery:cauldronbook.poisontoad=[h1 药效: 毒蟾蜍]召唤一个会爆炸并且喷溅 毒液的蟾蜍.
 witchery:cauldronbook.reflectdamage=[h1 药效: 反射伤害]反弹部分伤害给攻击者. 强度决定反弹量.
-witchery:cauldronbook.iceshell=[h1 药效: 冰球]在目标地点制造一个冰球. 强度决定半径.可以在水 下使用来制造房间. 
+witchery:cauldronbook.iceshell=[h1 药效: 冰球]在目标地点制造一个冰球. 强度决定半径.可以在水 下使用来制造房间.
 
 witchery:cauldronbook.fortune=[h1 药效: 时运]带有此效果的生物挖矿时 会更幸运.
 witchery:cauldronbook.undeadscurse=[h1 药效: 不死之诅咒]带有此效果的生物会被阳 光伤害.
 
 witchery:cauldronbook.snowburst=[h1 药效: 雪傀儡之足]命中的方块会被雪地毯覆 盖.带有此效果的生物在 非炎热地区行走时会留下 雪痕迹.雪傀儡会受到伤害
 witchery:cauldronbook.swimspeed=[h1 药效: 游泳加速]增加水中游泳速度.
-witchery:cauldronbook.enderinhibition=[h1 药效: 乖乖站好!]带有此效果的生物无法瞬 移.高强度下可以阻止更 强力的瞬移和仪式 
+witchery:cauldronbook.enderinhibition=[h1 药效: 乖乖站好!]带有此效果的生物无法瞬 移.高强度下可以阻止更 强力的瞬移和仪式
 witchery:cauldronbook.partwater=[h1 药效: 潮汐退散]临时性的推开水.
 witchery:cauldronbook.extinguish=[h1 药效: 灭火]扑灭作用范围内的火焰. 伤害烈焰人.
 witchery:cauldronbook.dissipategas=[h1 药效: 雾气退散]去除药水产生的气体.高 强度可以去除其他气体. 伤害幽灵型不死生物.
@@ -1355,7 +1355,7 @@ witchery:cauldronbook.removedebuffs=[h1 药效: 去除debuff]去除不高于强�
 witchery:cauldronbook.paralysis=[h1 药效: 麻痹]麻痹一个生物.强度超过 3可以麻痹玩家.
 witchery:cauldronbook.combustion=[h1 药效: 燃烧]带有此效果的药水可以作 为燃料.强度越高燃烧时 间越长.
 
-witchery:cauldronbook.illfitting=[h1 药效: 装备脱落]带有此buff的生物在效果 结束后装备会脱落.等级 越高同时脱落更多装备的 几率越高. 
+witchery:cauldronbook.illfitting=[h1 药效: 装备脱落]带有此buff的生物在效果 结束后装备会脱落.等级 越高同时脱落更多装备的 几率越高.
 witchery:cauldronbook.leonard=[h1 半羊人]次元夹缝中的恶魔,可以 让仪式跨世界施放.召唤 出来后未被击败前不会消失.
 
 witchery:cauldronbook.durationboost=[h1 药效: 药效延长]延长当前作用中的药效, 呕吐时不能使用.
@@ -1367,7 +1367,7 @@ witchery:cauldronbook.brewgasimmunity=[h1 药效: 毒气免疫]免疫药水制�
 witchery:cauldronbook.drainmagic=[h1 药效: 汲取魔力]吸取目标对象的魔力.
 witchery:cauldronbook.keepinventory=[h1 药效: 物品保管]死亡时保存物品.
 witchery:cauldronbook.shiftingseasons=[h1 药效: 季节变迁]改变目标地点的生态.用 生态之书的书页来选择生 态.
-witchery:cauldronbook.keepeffects=[h1 药效: 效果维持]死亡时保存药效. 
+witchery:cauldronbook.keepeffects=[h1 药效: 效果维持]死亡时保存药效.
 witchery:cauldronbook.spreaddebuffs=[h1 药效: debuff扩散]大范围内扩散一切强度不 高于该效果强度的可治愈 负面效果.
 
 witchery:cauldronbook.brewbottling=[h1 药效: 专注装瓶]增强一个[i 熟练的]巫师每次 做药水时的产量.
@@ -1441,15 +1441,15 @@ witchery.werewolf.level2complete=一个声音低语道,"金子闪烁,魅影完�
 
 witchery.werewolf.level3begin=一个声音诉说道,"磨快你的爪子,撕裂%s只最弱的猎物,把他们的羊排带来给我!"
 witchery.werewolf.level3progress=一个声音回响起来,"屠杀%s只然后带给我它们的血肉,你还需要%s只!"
-witchery.werewolf.level3complete=一个声音响起,"弱者之肉,利爪钢铸,地血翻腾,兽饥难填!" 
+witchery.werewolf.level3complete=一个声音响起,"弱者之肉,利爪钢铸,地血翻腾,兽饥难填!"
 
 witchery.werewolf.level4begin=一个声音高傲的说,"先锐的牙齿必须要磨尖,刺穿%s只小狼然后把他们的舌头带给我"
 witchery.werewolf.level4progress=一个声音回响起来,"镇压%s只,还剩%s只"
-witchery.werewolf.level4complete=一个声音说道,"饥饿常伴,尖牙入骨,先锐崛起,嗜血夺魂!" 
+witchery.werewolf.level4complete=一个声音说道,"饥饿常伴,尖牙入骨,先锐崛起,嗜血夺魂!"
 
 witchery.werewolf.level5begin=一个声音回响起来,"狼与人必须要合体,抹杀掉角魔狩猎之王!用它的号角来召唤它然后给与他致命一击"
 witchery.werewolf.level5progress=一个声音回响起来,"狩猎者还活着!用它的号角来召唤它然后给与他致命一击!"
-witchery.werewolf.level5complete=一个声音低沉道,"英豪溃败,冠军傲立,兽性迸发,二四并行!" 
+witchery.werewolf.level5complete=一个声音低沉道,"英豪溃败,冠军傲立,兽性迸发,二四并行!"
 
 witchery.werewolf.level6begin=一个声音咆哮道,"锻炼强劲的肌肉来屠杀你的猎物,跃向%s只怪物,然后在空中击杀他们!"
 witchery.werewolf.level6progress=一个声音低语道,"在空中屠杀%s只了,还剩%s只"
@@ -1539,7 +1539,7 @@ item.witchery:glassgoblet.nothighenoughlevel=你的血液并没有强到可以�
 item.witchery:glassgoblet.nothinghappens=什么事都没有发生
 item.witchery:glassgoblet.seemswrong=这看起来有点问题
 item.witchery:glassgoblet.lilithquest=某个声音颂唱道:"将我的女儿送往炼狱烈火之湖泊"
-item.witchery:glassgoblet.lilithquestsummon= 你有资格成为我的主人么？！
+item.witchery:glassgoblet.lilithquestsummon=你有资格成为我的主人么？！
 item.witchery:glassgoblet.lilithquestsummon2=我的主人在这...
 item.witchery:glassgoblet.lilithquestcomplete=你证明了自己的价值，这次你选择魔法...还是死亡？
 item.witchery:glassgoblet.lilithquestcomplete2=如果你渴望魔法，给我一件要附魔的装备.
@@ -1606,7 +1606,7 @@ witchery:vampirebook.speed=[next=resistsun|4][br]...力量慢慢地流入他的�
 witchery:vampirebook.resistsun=[next=smashstone|5]...然而，太阳，他最惧怕的敌人， 永在的，折磨着他的，乃 至于让他即死的太阳...[br][br]...成为了他最大的噩梦... ...他发现了个方法收集阳光，然 后在夜里被燃烧十次...
 witchery:vampirebook.smashstone=[next=bats|6]...复活之后，首次行走在太阳底 下，让他七孔流血，他感 到他的血液在沸腾，但是 不再立即地...[br][br]...他需要更多的力量，扑灭纯火 之精是他能想到的办法...[br]...然后廿次死亡。
 witchery:vampirebook.bats=[next=mesmerize|7]...他终于能击碎顽石，然而还是 无法脱离大地，他还没 无敌...[br][br]...因此他再次召唤她，重复那次 重生的仪式...[br][br]...赠与她花卉，那她最喜爱的血 色花卉...
-witchery:vampirebook.mesmerize=[next=maker|8]...他露出了笑容，奇迹发生了，他 告诉我他的第一次飞行...[br][br]...他飞越一个又一个村落，直到 他完全熟知他的领地，那片 他无所不往的土地.. 
+witchery:vampirebook.mesmerize=[next=maker|8]...他露出了笑容，奇迹发生了，他 告诉我他的第一次飞行...[br][br]...他飞越一个又一个村落，直到 他完全熟知他的领地，那片 他无所不往的土地..
 witchery:vampirebook.maker=[next=maker2|8].. 如今，鶸不单无法抵抗他的喰 咽，而且还匍匐在他面前，如同 时(忠)雨(犬)...[br][br]...恐怖中的恐怖，他引诱其中的 五人到准备好的钢笼中， 钢笼上面是封好的木，前 面是留空的夹缝，然后他 把他们扔了进去...
 witchery:vampirebook.maker2=[next=finalpowers|9][img=witchery:textures/gui/vcage.png|center|middle|64|64][br][br]...他开始圈养他们。先是催眠， 然后饕餮地饮下血液但又 小心翼翼地不伤害他们...
 witchery:vampirebook.finalpowers=最后他知道他的血液已然强大 到可以和她对他所做的那样... ...放弃了救赎，剩下的是虚弱，但 我看着他倒满那玻璃的高 脚杯，然后递了给我... ...我们坐在棺木的一旁，远离那 该死的阳光，“喝！”，他举杯说道...

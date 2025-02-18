@@ -11,8 +11,8 @@ bdlib.multiblock.notconnected=未连接有效机器
 bdlib.multiblock.toomanyoutputs=连接的输出接口过多, 无法连接新的接口
 bdlib.multiblock.tip.module=可以安装在:
 bdlib.multiblock.tip.controller=可能的模块:
-bdlib.multiblock.tip.module.range= * %s (%s - %s)
-bdlib.multiblock.tip.module.max= * %s (最大 %s)
+bdlib.multiblock.tip.module.range=* %s (%s - %s)
+bdlib.multiblock.tip.module.max=* %s (最大 %s)
 
 bdlib.rsmode.always=一直启用
 bdlib.rsmode.never=一直停用

@@ -193,6 +193,32 @@ serverutilities_client.sidebar_placement=侧边栏放置
 serverutilities_client.notification_location=通知位置
 serverutilities_client.show_dotted_lines=在加载的区块上显示虚线
 
+# Notification Config
+serverutilities.notifications.config=Notification Config
+serverutilities.notifications.last_received=Last received notification:
+serverutilities.notifications.chunk_modified=Chunk Modified
+serverutilities.notifications.chunk_modified.desc=Notifies when claiming/loading a chunk
+serverutilities.notifications.chunk_changed=Chunk Changed
+serverutilities.notifications.chunk_changed.desc=Notifies when a entering a claimed chunk
+serverutilities.notifications.cant_modify_chunk=Can't Modify Chunk
+serverutilities.notifications.cant_modify_chunk.desc=Notifies when unable to modify a chunk
+serverutilities.notifications.teleport=Teleport
+serverutilities.notifications.teleport.desc=Notifies when teleporting to homes/warps
+serverutilities.notifications.teleport_warmup=Teleport Warmup
+serverutilities.notifications.teleport_warmup.desc=Counts down until teleport is complete
+serverutilities.notifications.backup=Backup
+serverutilities.notifications.backup.desc=Notifies when a backup is started/stopped
+serverutilities.notifications.config_changed=Config Changed
+serverutilities.notifications.config_changed.desc=Notifies when configs are changed via commands
+serverutilities.notifications.restart_timer=Restart Timer
+serverutilities.notifications.restart_timer.desc=Notifies when server is about to restart
+serverutilities.notifications.cleanup=Cleanup
+serverutilities.notifications.cleanup.desc=Notifies when entity cleanup is about to start or finish
+serverutilities.notifications.player_afk=Player AFK
+serverutilities.notifications.player_afk.desc=Notifies when a player goes AFK
+
+
+
 # Rank Config
 permission.serverutilities.badge=徽章
 permission.serverutilities.badge.tooltip=徽章（胸前的图标）。必须为 URL
@@ -254,6 +280,22 @@ player_config.serverutilities.nickname=昵称
 player_config.serverutilities.afk=AFK 通知位置
 player_config.serverutilities.show_team_prefix=在聊天中展示队伍前缀
 player_config.serverutilities.show_team_prefix.info=§r向你的聊天消息加入[%s]作为前缀
+
+player_config.vanish=Vanish Settings
+player_config.vanish.interaction=Interaction
+player_config.vanish.chat=Chat
+player_config.vanish.damageother=Damage Others
+player_config.vanish.collision=Collision
+player_config.vanish.sendconnectionmsg=Send connection message
+player_config.vanish.containerreadonly=Read-only Containers
+player_config.vanish.itemdropping=Item Dropping
+player_config.vanish.interaction.tooltip=Toggles block placing/breaking & Entity interactions while vanished
+player_config.vanish.chat.tooltip=Toggles chatting while vanished
+player_config.vanish.collision.tooltip=Toggles collisions with entities while vanished
+player_config.vanish.damageother.tooltip=Toggles damaging other entities while vanished
+player_config.vanish.sendconnectionmsg.tooltip=Toggles sending a fake connection message when vanishing/unvanishing
+player_config.vanish.containerreadonly.tooltip=Makes containers read-only while vanished & doesn't show other players that the container is opened
+player_config.vanish.itemdropping.tooltip=Toggles dropping items while vanished
 
 # Team Settings
 team_config.serverutilities.display=显示
@@ -418,6 +460,10 @@ commands.team.join.usage=/team join <team>
 commands.team.status.usage=/team status <player> [set_status]
 commands.team.status.set=%s的状态设置为%s
 commands.team.status.cant_set=状态不能被设置！
+commands.team.status_for.usage=/team status_for <team> <player> [set_status]
+commands.team.status.invalid=Couldn't find status %s! Available statuses: %s
+commands.team.status.success=Status for %s in team %s set to %s
+commands.team.status.failed=Failed to set status %s for %s in team %s
 commands.team.msg.usage=/team msg <message...>
 commands.team.delete.usage=/team delete <team>
 commands.team.request_invite.usage=/team request_invite <team>
@@ -435,6 +481,34 @@ commands.god.usage=/god <player>
 commands.rtp.usage=/rtp
 commands.dump_chunkloaders.usage=/dump_chunkloaders
 commands.dump_permissions.usage=/dump_permissions
+commands.vanish.usage=/vanish
+commands.vanish.toggle.usage=/vanish toggle <on|off>
+commands.vanish.fakequit.usage=/vanish fakequit - Send a fake disconnect message
+commands.vanish.fakejoin.usage=/vanish fakejoin - Send a fake connection message
+commands.vanish.interact.usage=/vanish interact
+commands.vanish.chat.usage=/vanish chat
+commands.vanish.chat.desc=Toggles chatting while vanished
+commands.vanish.collision.usage=/vanish collision
+commands.vanish.damage_other.usage=/vanish damage_other
+commands.vanish.send_connection_msg.usage=/vanish send_connection_msg
+commands.vanish.container_read_only.usage=/vanish container_read_only
+commands.vanish.item_dropping.usage=/vanish item_dropping
+commands.vanish.check.usage=/vanish check
+commands.vanish.check.true=You are currently vanished!
+commands.vanish.check.false=You are §sNOT§r vanished!
+commands.vanish.off=You are no longer hidden!
+commands.vanish.on=Poof! You are now hidden!
+commands.vanish.interact=Interacting while vanished
+commands.vanish.chat=Chatting while vanished
+commands.vanish.collision=Collision while vanished
+commands.vanish.damage_other=Damaging others while vanished
+commands.vanish.send_connection_msg=Send connection message on vanish
+commands.vanish.container_read_only=Container read-only
+commands.vanish.item_dropping=Item dropping while vanished
+commands.pregen.start.usage_server=/pregen start <x> <y> <radius>
+commands.pregen.start.usage_client=/pregen start <x> <y> <radius> or /pregen <radius>
+commands.pregen.stop.usage=/pregen stop
+commands.pregen.progress.usage=/pregen progress
 
 # Chunks
 serverutilities.lang.chunks.cant_modify_chunk=无法修改此区块！
@@ -468,6 +542,9 @@ serverutilities.lang.warps.cooldown=使用传送点传送还需 %s！
 serverutilities.lang.warps.tp=传送至 “%s”！
 serverutilities.lang.warps.no_dp=你只能使用一次 /back！
 serverutilities.lang.warps.no_pos_found=没有位置使用 /back！
+serverutilities.lang.warps.cross_dim=You can't teleport to another dimension!
+serverutilities.lang.warps.warmup=Please, stand still for %d seconds [%d].
+serverutilities.lang.warps.cancelled=You moved! Teleport cancelled.
 
 # Homes
 serverutilities.lang.homes.set=家“%s”已设置！
@@ -512,6 +589,12 @@ cmd.backup_manual_launch=%s 启动了手动备份！
 cmd.backup_already_running=正在备份中！
 cmd.backup_not_running=备份未在运行！
 cmd.backup_size=当前世界大小：%s，备份文件夹总大小：%s
+serverutilities.gui.backup.title=Restore Backup (%s)
+serverutilities.gui.backup.button=Backups
+serverutilities.gui.backup.restore=Restore
+serverutilities.gui.backup.error=An error occured while restoring backup!
+serverutilities.gui.backup.delete_confirm=Are you sure you want to §c§ldelete§r this backup?
+serverutilities.gui.backup.restore_confirm=Are you sure you want to §a§lrestore§r this backup?
 
 # Gui
 ## Buttons

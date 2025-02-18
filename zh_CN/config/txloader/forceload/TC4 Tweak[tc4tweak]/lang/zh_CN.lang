@@ -49,8 +49,8 @@ tc4tweaks.config.general.moreRandomizedLoot=更加随机化的奖励
 tc4tweaks.config.general.moreRandomizedLoot.tooltip=如果为true，附魔书将会有随机的附魔，而且即使没有重启服务器，魔力石也会存储不同的魔力值
 tc4tweaks.config.general.dispenserShootPrimalArrow=发射器发射元始之矢
 tc4tweaks.config.general.dispenserShootPrimalArrow.tooltip=如果为true，发射器可以发射元始之矢而不是掉落在世界里。
-tc4tweaks.config.general.infusionOreDictMode=注魔矿典模式
-tc4tweaks.config.general.infusionOreDictMode.tooltip=选择注魔矿典模式。Default：原版TC4行为。Strict：所有矿典名字必须都匹配才能作为替代物。Relaxed：矿典名字只需要有重叠的部分就能作为替代物。None：完全不支持矿典替代。
+tc4tweaks.config.general.infusionOreDictMode=注魔矿词模式
+tc4tweaks.config.general.infusionOreDictMode.tooltip=选择注魔矿词模式。Default：原版TC4行为。Strict：所有矿词名字必须都匹配才能作为替代物。Relaxed：矿词名字只需要有重叠的部分就能作为替代物。None：完全不支持矿词替代。
 
 nei.options.tools.dump.tc4tweaks=TC4Tweaks
 nei.options.tools.dump.tc4tweaks.tc4tags=已注册物品堆叠标签

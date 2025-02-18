@@ -1,6 +1,7 @@
 # Galacticraft Asteroids Language File = UNITED STATES ENGLISH
 
 # GENERAL ITEMS
+item.itemTier3Rocket.name=Tier 3 Rocket
 item.itemTier3Rocket.t3Rocket.name=3阶火箭
 item.itemAstroMiner.name=太空采矿机
 item.heavyNoseCone.name=重型前锥体
@@ -10,6 +11,7 @@ item.shardTitanium.name=钛碎片
 item.shardIron.name=铁碎片
 item.rocketFinsT2.name=重型火箭鳍
 item.engineT2.name=重型火箭引擎
+item.itemBasicAsteroids.name=Resource
 item.reinforcedPlateT3.name=重型装甲板
 item.grapple.name=吊钩
 item.atmosphericValve.name=气闸
@@ -22,10 +24,11 @@ item.tier3.desc=3阶
 item.titanium_pickaxe.name=钛镐
 item.titanium_axe.name=钛斧
 item.titanium_hoe.name=钛锄
-item.titanium_shovel.name=钛铲
+item.titanium_shovel.name=钛锹
 item.titanium_sword.name=钛剑
 
 # ARMOR
+item.thermalPadding.name=Thermal Padding Piece
 item.thermalHelm.name=隔热充能头盔
 item.thermalChestplate.name=隔热充能胸甲
 item.thermalLeggings.name=隔热充能护腿
@@ -39,9 +42,11 @@ item.titanium_boots.name=钛靴
 item.methaneCanisterPartial.name=甲烷气体罐
 item.methaneCanister.name=甲烷气体罐(满)
 item.canister.gas.name=甲烷
+item.canisterPartialLOX.name=Canister of Liquid Oxygen
 item.canister.LOX.partial.name=罐装液态氧
 item.canister.LOX.full.name=罐装液态氧(满)
 item.canister.LOX.name=氧
+item.canisterPartialLN2.name=Canister of Liquid Nitrogen
 item.canister.liquidNitrogen.partial.name=灌装液态氮
 item.canister.liquidNitrogen.full.name=灌装液态氮(满)
 item.canister.liquidNitrogen.name=氮
@@ -66,6 +71,7 @@ fluid.liquidargon=液态氩
 fluid.fuel=燃油
 
 # BLOCKS
+tile.asteroidsBlock.0.name=Asteroid Rock/Ore
 tile.asteroidsBlock.asteroid0.name=行星岩
 tile.asteroidsBlock.asteroid1.name=行星岩
 tile.asteroidsBlock.asteroid2.name=行星岩
@@ -74,12 +80,14 @@ tile.asteroidsBlock.oreIlmenite.name=钛铁矿石
 tile.asteroidsBlock.oreAluminum.name=铝矿石
 tile.beamReflector.name=能量射束反射器
 tile.beamReceiver.name=能量射束接收器
+tile.telepadFake.name=Short Range Telepad
 tile.telepadShort.name=短距离传送台
 tile.walkway.name=通道
 tile.walkwayWire.name=通道
 tile.walkwayOxygenPipe.name=通道
 tile.treasureT3.name=3阶宝箱
 tile.denseIce.name=坚冰
+tile.minerBaseFull.name=Astro Miner Base
 tile.minerBase.name=太空采矿机基地方块
 
 # GUI
@@ -103,19 +111,19 @@ gui.message.notEnoughEnergy.name=能量不足
 gui.message.targetNoEnergy.name=目标没有足够的能量
 gui.message.grapple.fail=如果我想将抓升钩抛出,我的物品栏中需要有足够的线!
 gui.message.astroMiner.fail=该基地已经绑定过太空采矿机
-gui.message.astroMiner1.fail=停泊区已经被占用: 
+gui.message.astroMiner1.fail=停泊区已经被占用:
 gui.message.astroMiner1A.fail=太空采矿机的行进路线被阻挡:
-gui.message.astroMiner2.fail=有一台太空采矿机是多余的! 
-gui.message.astroMiner3.fail=太空采矿机停泊区被移除! 
-gui.message.astroMiner4.fail=太空采矿机能源耗尽, 无法返回基地! 
-gui.message.astroMiner5.fail=太空采矿机返回基地的路线好像被方块挡住了! 
+gui.message.astroMiner2.fail=有一台太空采矿机是多余的!
+gui.message.astroMiner3.fail=太空采矿机停泊区被移除!
+gui.message.astroMiner4.fail=太空采矿机能源耗尽, 无法返回基地!
+gui.message.astroMiner5.fail=太空采矿机返回基地的路线好像被方块挡住了!
 gui.message.astroMiner6.fail=太空采矿机已经完成该区域的采矿任务, 即将停止工作!
-gui.message.astroMiner7.fail=空间站没有任何可供太空采矿机采集的东西! 
-gui.message.astroMiner8.fail=同一停泊区检测到第二台太空采矿机, 第一台将会被封存. 
+gui.message.astroMiner7.fail=空间站没有任何可供太空采矿机采集的东西!
+gui.message.astroMiner8.fail=同一停泊区检测到第二台太空采矿机, 第一台将会被封存.
 gui.button.recall.name=返回
 gui.miner.outOfRange=超出范围
 gui.miner.offline=待机
-gui.miner.stuck=被卡住位置:  
+gui.miner.stuck=被卡住位置:
 gui.miner.docked=已停泊
 gui.miner.travelling=行进中
 gui.miner.mining=正在采集

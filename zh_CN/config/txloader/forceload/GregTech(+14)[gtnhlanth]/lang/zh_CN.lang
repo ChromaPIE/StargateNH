@@ -5,7 +5,7 @@ gtnhlanth.recipe.tc=靶仓
 gtnhlanth.recipe.sc=源仓
 
 gtnhlanth.tt.beaminfo=用§b扫描仪§7右键来获取多方块输入输出信息
-gtnhlanth.tt.blueprint=请参考§9Structure§2Lib§7全息投影，构建主体结构
+gtnhlanth.tt.blueprint=请参考§9Structure§2Lib§7的全息投影来构建主体结构。
 gtnhlanth.tt.pc=§6部分消耗：§7在工作中损耗耐久
 
 gtnhlanth.tt.hintdot=提示方块：%s号
@@ -13,31 +13,31 @@ gtnhlanth.tt.hintdot=提示方块：%s号
 GT5U.gui.text.gtnhlanth.nocoolant=机器内没有冷却液！
 GT5U.gui.text.gtnhlanth.inscoolant=机器内冷却液不足！
 GT5U.gui.text.gtnhlanth.noaccel=该类型粒子无法被加速!
-GT5U.gui.text.gtnhlanth.low_input_rate=输入量太低！
+GT5U.gui.text.gtnhlanth.low_input_eut=Input EU/t too low to produce  photons!
 GT5U.gui.text.gtnhlanth.scerror=数学错误，配方损坏？
 
 # NEI
 value.disstank=比例: %s:1
 
-DissolutionTank.hint.0=提示方块：1号：洁净不锈钢机械方块
-DissolutionTank.hint.1=24x硼玻璃(任意等级)
-DissolutionTank.hint.2=9x隔热机械方块
+DissolutionTank.hint.0=提示方块：1号：洁净不锈钢机器外壳
+DissolutionTank.hint.1=24x硼硅玻璃(任意等级)
+DissolutionTank.hint.2=9x隔热机器外壳
 DissolutionTank.hint.3=输入总线、输出总线、输入仓、输出仓
-DissolutionTank.hint.4=能源仓、维护仓
+DissolutionTank.hint.4=能源仓、维修仓
 
-Digester.hint.0=提示方块：1号：强化钨钢机械方块
-Digester.hint.1=9x洁净不锈钢机械方块
-Digester.hint.2=16x隔热机械方块
+Digester.hint.0=提示方块：1号：坚实钨钢机器外壳
+Digester.hint.1=9x洁净不锈钢机器外壳
+Digester.hint.2=16x隔热机器外壳
 Digester.hint.3=16x线圈方块
 Digester.hint.4=输入总线、输出总线、输入仓、输出仓
-Digester.hint.5=能源仓、维护仓
+Digester.hint.5=能源仓、维修仓
 
 SourceChamber.hint.0=56x Shielded Accelerator Casing
 SourceChamber.hint.1=52x 加速器屏蔽玻璃
 SourceChamber.hint.2=16x 电极机械方块
 SourceChamber.hint.3=提示方块：1号：输入总线
 SourceChamber.hint.4=提示方块：2号：输出总线
-SourceChamber.hint.5=提示方块：3号：维护仓、能源仓
+SourceChamber.hint.5=提示方块：3号：维修仓、能源仓
 SourceChamber.hint.6=提示方块：4号：束流输出仓
 
 LINAC.hint.0=325-1285x 加速器屏蔽机械方块
@@ -46,8 +46,8 @@ LINAC.hint.2=127-703x 加速器屏蔽玻璃
 LINAC.hint.3=56-312x 超导线圈方块
 LINAC.hint.4=156-732x 电极机械方块
 LINAC.hint.5=47x 格栅机械方块
-LINAC.hint.6=48x 硼玻璃（LuV+）
-LINAC.hint.7=提示方块：1号：能源仓,维护仓
+LINAC.hint.6=48x 硼硅玻璃（LuV+）
+LINAC.hint.7=提示方块：1号：能源仓,维修仓
 LINAC.hint.8=提示方块：2号：输入仓,输出仓
 LINAC.hint.9=提示方块：3号：束流输入仓
 LINAC.hint.10=提示方块：4号：束流输出仓
@@ -56,25 +56,25 @@ Synchrotron.hint.0=676x 加速器屏蔽机械方块
 Synchrotron.hint.1=90x 超导线圈方块
 Synchrotron.hint.2=64x Niobium Cavity Machine Casing
 Synchrotron.hint.3=28x Coolant Delivery Casing
-Synchrotron.hint.4=16x 硼玻璃（LuV+）
+Synchrotron.hint.4=16x 硼硅玻璃（LuV+）
 Synchrotron.hint.5=4x 天线机械方块
 Synchrotron.hint.6=提示方块：1号：束流输入仓
 Synchrotron.hint.7=提示方块：2号：束流输出仓
-Synchrotron.hint.8=提示方块：3号：维护仓
+Synchrotron.hint.8=提示方块：3号：维修仓
 Synchrotron.hint.9=提示方块：4号：输入仓
 Synchrotron.hint.10=提示方块：5号：输出仓
 Synchrotron.hint.11=提示方块：6号：能源仓
 
 TargetChamber.hint.0=28x 加速器屏蔽机械方块
 TargetChamber.hint.1=34x 加速器屏蔽玻璃
-TargetChamber.hint.2=16x 硼玻璃（任意等级）
+TargetChamber.hint.2=16x 硼硅玻璃（任意等级）
 TargetChamber.hint.3=29x 格栅机械方块
 TargetChamber.hint.4=4x Focus Manipulation Casing
 TargetChamber.hint.5=4x 靶仓插槽
 TargetChamber.hint.6=1x 焦点物品支架
 TargetChamber.hint.7=1x 靶点物品支架
 TargetChamber.hint.8=提示方块：1号：靶仓输入总线
-TargetChamber.hint.9=提示方块：2号：能源仓、维护仓
+TargetChamber.hint.9=提示方块：2号：能源仓、维修仓
 TargetChamber.hint.10=提示方块：3号：输入总线
 TargetChamber.hint.11=提示方块：4号：输出总线
 TargetChamber.hint.12=提示方块：5号：束流输入仓
@@ -159,6 +159,7 @@ beamline.pipe.desc.1=请勿转弯
 tile.recipe.tc=靶仓
 tile.recipe.sc=源仓
 
+item.particle.name=Particle
 particle.electron=电子
 particle.photon=光子
 particle.alpha=α粒子

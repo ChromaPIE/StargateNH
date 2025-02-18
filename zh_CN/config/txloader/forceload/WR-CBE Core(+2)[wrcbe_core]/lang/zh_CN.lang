@@ -90,7 +90,7 @@ wrcbe_core.param.jam.opjammed=%s: %s 被频率 %d 屏蔽了
 wrcbe_core.param.jam.opjammed2=%s: %s 被频率 %s 屏蔽了
 
 wrcbe_core.param.open.usage=用法: freq open [playername] [frequency range | all | default]
-wrcbe_core.param.open.usage1=从 [frequency range] 解除屏蔽 [playername] 
+wrcbe_core.param.open.usage1=从 [frequency range] 解除屏蔽 [playername]
 wrcbe_core.param.open.jammed=你已被授予频率 %d 访问权限
 wrcbe_core.param.open.jammed2=你已被授予频率 %s 访问权限
 wrcbe_core.param.open.opjammed=%s: %s 被授予频率 %d 访问权限

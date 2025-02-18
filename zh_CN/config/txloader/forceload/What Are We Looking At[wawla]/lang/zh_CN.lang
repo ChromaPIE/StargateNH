@@ -26,14 +26,14 @@ tooltip.wawla.amount=数量
 tooltip.wawla.lightLevel=亮度等级
 tooltip.wawla.sit=待命
 tooltip.wawla.birth=产仔冷却时间
-tooltip.wawla.age=成年期	
-tooltip.wawla.tooltype.shovel=铲
+tooltip.wawla.age=成年期
+tooltip.wawla.tooltype.shovel=锹
 tooltip.wawla.tooltype.pickaxe=镐
 tooltip.wawla.tooltype.axe=斧
 tooltip.wawla.armorprot=保护
 tooltip.wawla.armor=护甲值
 tooltip.wawla.progress=工作时间
-tooltip.wawla.missingEnch=未找到这种附魔的描述. 
+tooltip.wawla.missingEnch=未找到这种附魔的描述.
 tooltip.wawla.tnt.fuse=爆炸时间
 tooltip.wawla.profession=职业
 tooltip.wawla.unknownplayer=未知玩家
@@ -92,10 +92,10 @@ description.enchantment.damage.arthropods=该附魔每级增加2.5对以蜘蛛�
 description.enchantment.knockback=该附魔使被击中的生物从玩家面前击退.仅用于剑.
 description.enchantment.fire=该附魔时会引燃被攻击的生物.初始3点火焰伤害,之后每级增加4点.仅用于剑.
 description.enchantment.lootBonus=该附魔使生物掉落更多物品.最多掉落数每级增加1个.稀有物掉落率增加3%,之后每级增加0.5%.仅用于剑.
-description.enchantment.digging=该附魔使方块被破坏的速度增加30%/69%/120%/186%/271%.加速效果只有在采集正确的方块时才有效.可用于镐,铲,斧和剪刀.
-description.enchantment.untouching=该附魔使原本不能获取的方块变得可以获取,如冰,草方块和原矿.可用于镐,铲,斧和剪刀.
+description.enchantment.digging=该附魔使方块被破坏的速度增加30%/69%/120%/186%/271%.加速效果只有在采集正确的方块时才有效.可用于镐,锹,斧和剪刀.
+description.enchantment.untouching=该附魔使原本不能获取的方块变得可以获取,如冰,草方块和原矿.可用于镐,锹,斧和剪刀.
 description.enchantment.durability=该附魔会增加工具或护甲的平均耐久.可用于游戏中几乎所有拥有耐久度的物品.如打火石,鱼竿,所有的护甲和工具.
-description.enchantment.lootBonusDigger=该附魔使特定方块有几率成倍掉落物品.成功率会降低而掉落量会增加.成功率33%/25%/20%同时掉落倍数2/3/4.对于掉落多物品的方块,如西瓜,最大掉落量每级增加1.砂砾掉落燧石的几率依次为14%/25/100%.可用于镐,铲和斧.
+description.enchantment.lootBonusDigger=该附魔使特定方块有几率成倍掉落物品.成功率会降低而掉落量会增加.成功率33%/25%/20%同时掉落倍数2/3/4.对于掉落多物品的方块,如西瓜,最大掉落量每级增加1.砂砾掉落燧石的几率依次为14%/25/100%.可用于镐,锹和斧.
 description.enchantment.arrowDamage=该附魔每级会提升25%弓箭造成的伤害.数值精度为半颗心.仅对弓有效.
 description.enchantment.arrowKnockback=该附魔会使怪物在被射中时击退一段距离.仅对弓有效.
 description.enchantment.arrowFire=该附魔会在箭发射时点燃它,同时引燃击中的目标.火箭只会影响到生物,玩家和tnt方块.仅对弓有效.
@@ -385,7 +385,7 @@ description.enchantment.nightVision=装备有夜视附魔的物品时,可获得�
 
 #EnderIO Enchantments
 description.enchantment.autosmelt=使用带有此附魔的物品开采方块时,会直接掉落该方块的熔炉产物.
-description.enchantment.xpboost=此附魔可按比例提升杀怪/玩家或开采方块掉落的经验. 
+description.enchantment.xpboost=此附魔可按比例提升杀怪/玩家或开采方块掉落的经验.
 description.enchantment.enderio.soulBound=附魔有灵魂绑定的物品/工具/装备在玩家死亡后仍然留在物品栏中,不会掉落.
 
 #EnderZoo Enchantments

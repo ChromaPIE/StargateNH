@@ -15,23 +15,23 @@ for.chat.memorizednote2=你对用%1$s和%2$s杂交出%3$s更有信心了！
 
 for.chat.command.aliases=可替代命令：%s
 for.chat.command.list=可用子命令：
-for.chat.command.permlevel=权限等级： %s
+for.chat.command.permlevel=权限等级：%s
 for.chat.command.noperms=你没有权限使用该命令。
 
 for.chat.command.forestry.help=林业模组可用的许多命令。
-for.chat.command.forestry.format=格式： /%s <sub-command>
+for.chat.command.forestry.format=格式：/%s <sub-command>
 
 for.chat.command.forestry.version.desc=- %s ：版本信息
 for.chat.command.forestry.version.help=显示当前版本
-for.chat.command.forestry.version.format=格式： /%s
+for.chat.command.forestry.version.format=格式：/%s
 
 for.chat.command.forestry.plugins.desc=- %s ：林业组件列表
 for.chat.command.forestry.plugins.help=列出当前的林业组件。绿色为已激活的，红色为禁用的。
-for.chat.command.forestry.plugins.format=格式： /%s
+for.chat.command.forestry.plugins.format=格式：/%s
 
 for.chat.command.forestry.plugins.info.desc=- %s ：林业组件信息
 for.chat.command.forestry.plugins.info.help=显示林业组件的信息
-for.chat.command.forestry.plugins.info.format=格式： /%s <plugin-name>
+for.chat.command.forestry.plugins.info.format=格式：/%s <plugin-name>
 
 
 for.chat.help=输入‘%s’查看帮助。
@@ -175,7 +175,7 @@ for.gui.normal=一般
 for.gui.jubilance=愉悦度:%s
 
 for.gui.escritoire.probe=检测样本
-for.gui.escritoire.instructions=将基因样本放在中央以开始。在左侧格子中放入更多样本，检测它们以寻求帮助。 
+for.gui.escritoire.instructions=将基因样本放在中央以开始。在左侧格子中放入更多样本，检测它们以寻求帮助。
 for.gui.escritoire.attempt.number=第%s次尝试
 
 # Write as many notes as you like, just set the count correctly.
@@ -406,11 +406,11 @@ for.hints.moistenerproducts.desc=在加湿器中加入合适的材料，能给�
 for.hints.moistenerproducts.tag=需要苔石？
 for.hints.nopowerrequired.desc=这种机器不需要供能。
 for.hints.nopowerrequired.tag=无需能量
-for.hints.peatharvest.desc=水附近的沼泽泥将会变成泥炭。用铲子来挖吧。
+for.hints.peatharvest.desc=水附近的沼泽泥将会变成泥炭。用锹来挖吧。
 for.hints.peatharvest.tag=收获泥炭！
 for.hints.pipette.desc=如果你曾经为某些机器的蓄水槽里总是残留着一些液体而苦恼，那么可以考虑用滴管来吸空它们(用滴管点击蓄水槽)。
 for.hints.pipette.tag=用滴管吸干蓄水槽
-for.hints.postage.desc=发送信件消耗消耗邮票。最简单的信件消耗1n的邮资，每个附件再额外增加1n。 
+for.hints.postage.desc=发送信件消耗消耗邮票。最简单的信件消耗1n的邮资，每个附件再额外增加1n。
 for.hints.postage.tag=支付邮资
 for.hints.powerraintank.desc=即使不供能集雨器也能收集雨水。但要将水装瓶则需要用引擎供能。
 for.hints.powerraintank.tag=装瓶需要耗能！
@@ -423,6 +423,122 @@ for.hints.usesofash.tag=善用你的灰烬哦！
 
 for.item.crated.grammar=装箱的%s
 for.item.crated.unknown=装箱的未知物品
+item.cratedAcaciaSapling.name=Crated Acacia Sapling
+item.cratedAcaciaWood.name=Crated Acacia Wood
+item.cratedApples.name=Crated Apple
+item.cratedAsh.name=Crated Ash
+item.cratedBeeswax.name=Crated Beeswax
+item.cratedBirchSapling.name=Crated Birch Sapling
+item.cratedBirchWood.name=Crated Birch Wood
+item.cratedBogearth.name=Crated Bog Earth
+item.cratedBrass.name=Crated Bronze Ingot
+item.cratedBrick.name=Crated Bricks
+item.cratedCacti.name=Crated Cactus
+item.cratedCarrots.name=Crated Carrot
+item.cratedCharcoal.name=Crated Charcoal
+item.cratedCherry.name=Crated Cherry
+item.cratedChestnut.name=Crated Chestnut
+item.cratedClay.name=Crated Clay
+item.cratedCoal.name=Crated Coal
+item.cratedCobblestone.name=Crated Cobblestone
+item.cratedCocoaComb.name=Crated Cocoa Comb
+item.cratedCookies.name=Crated Cookie
+item.cratedCrystallinePollen.name=Crated Crystalline Pollen Cluster
+item.cratedDarkOakSapling.name=Crated Dark Oak Sapling
+item.cratedDarkOakWood.name=Crated Dark Oak Wood
+item.cratedDates.name=Crated Date
+item.cratedDirt.name=Crated Dirt
+item.cratedDrippingCombs.name=Crated Dripping Comb
+item.cratedFertilizer.name=Crated Fertilizer
+item.cratedFrozenCombs.name=Crated Frozen Comb
+item.cratedGlowstone.name=Crated Glowstone Dust
+item.cratedGravel.name=Crated Gravel
+item.cratedHoneycombs.name=Crated Honey Comb
+item.cratedHoneydew.name=Crated Honeydew
+item.cratedHumus.name=Crated Humus
+item.cratedJungleSapling.name=Crated Jungle Sapling
+item.cratedJungleWood.name=Crated Jungle Wood
+item.cratedLapis.name=Crated Lapis Lazuli
+item.cratedLemon.name=Crated Lemon
+item.cratedMellowCombs.name=Crated Mellow Comb
+item.cratedMossyCombs.name=Crated Mossy Comb
+item.cratedMulch.name=Crated Mulch
+item.cratedMycelium.name=Crated Mycelium
+item.cratedMysteriousCombs.name=Crated Mysterious Comb
+item.cratedNaturaBarley.name=Crated Barley
+item.cratedNaturaBerryBlack.name=Crated Blackberry
+item.cratedNaturaBerryBlight.name=Crated Blightberry
+item.cratedNaturaBerryBlue.name=Crated Blueberry
+item.cratedNaturaBerryDusk.name=Crated Duskberry
+item.cratedNaturaBerryMalo.name=Crated Maloberry
+item.cratedNaturaBerryRasp.name=Crated Raspberry
+item.cratedNaturaBerrySky.name=Crated Skyberry
+item.cratedNaturaBerrySting.name=Crated Stingberry
+item.cratedNaturaBlockHeatsand.name=Crated Heat Sand
+item.cratedNaturaBlockTainted.name=Crated Tainted Soil
+item.cratedNaturaBlueGlowshroom.name=Crated Blue Glowshroom
+item.cratedNaturaGreenGlowshroom.name=Crated Green Glowshroom
+item.cratedNaturaLogBloodwood.name=Crated Bloodwood
+item.cratedNaturaLogDarkwood.name=Crated Darkwood
+item.cratedNaturaLogEucalyptus.name=Crated Eucalyptus Wood
+item.cratedNaturaLogFusewood.name=Crated Fusewood
+item.cratedNaturaLogGhostwood.name=Crated Ghostwood
+item.cratedNaturaLogHopseed.name=Crated Hopseed Wood
+item.cratedNaturaLogSakura.name=Crated Sakura Wood
+item.cratedNaturaLogWillow.name=Crated Willow Wood
+item.cratedNaturaPotashApple.name=Crated Potash Apple
+item.cratedNaturaPurpleGlowshroom.name=Crated Purple Glowshroom
+item.cratedNaturaSaplingBlood.name=Crated Blood Sapling
+item.cratedNaturaSaplingDarkwood.name=Crated Darkwood Sapling
+item.cratedNaturaSaplingEucalyptus.name=Crated Eucalyptus Sapling
+item.cratedNaturaSaplingFusewood.name=Crated Fusewood Sapling
+item.cratedNaturaSaplingGhostwood.name=Crated Ghostwood Sapling
+item.cratedNaturaSaplingHopseed.name=Crated Hopseed Sapling
+item.cratedNaturaSaplingMaple.name=Crated Maple Sapling
+item.cratedNaturaSaplingPurpleheart.name=Crated Amaranth Sapling
+item.cratedNaturaSaplingRedwood.name=Crated Redwood Sapling
+item.cratedNaturaSaplingSakura.name=Crated Sakura Sapling
+item.cratedNaturaSaplingSilverbell.name=Crated Silverbell Sapling
+item.cratedNaturaSaplingTiger.name=Crated Tigerwood Sapling
+item.cratedNaturaSaplingWillow.name=Crated Willow Sapling
+item.cratedNetherbrick.name=Crated Nether Brick
+item.cratedNetherrack.name=Crated Netherrack
+item.cratedNetherwart.name=Crated Nether Wart
+item.cratedObsidian.name=Crated Obsidian
+item.cratedPapaya.name=Crated Papaya
+item.cratedParchedCombs.name=Crated Parched Comb
+item.cratedPeat.name=Crated Peat
+item.cratedPhosphor.name=Crated Phosphor
+item.cratedPlum.name=Crated Plum
+item.cratedPodzol.name=Crated Podzol
+item.cratedPollen.name=Crated Pollen Cluster
+item.cratedPotatoes.name=Crated Potato
+item.cratedPowderyCombs.name=Crated Powdery Comb
+item.cratedPropolis.name=Crated Propolis
+item.cratedRedSand.name=Crated Red Sand
+item.cratedRedstone.name=Crated Redstone
+item.cratedReeds.name=Crated Sugar Canes
+item.cratedRefractoryWax.name=Crated Refractory Wax
+item.cratedResin.name=Crated Sticky Resin
+item.cratedRoyalJelly.name=Crated Royal Jelly
+item.cratedRubber.name=Crated Rubber
+item.cratedSand.name=Crated Sand
+item.cratedSandstone.name=Crated Sandstone
+item.cratedSaplings.name=Crated Oak Sapling
+item.cratedScrap.name=Crated Scrap
+item.cratedSeeds.name=Crated Seeds
+item.cratedSilkyCombs.name=Crated Silky Comb
+item.cratedSilver.name=Crated Silver Ingot
+item.cratedSimmeringCombs.name=Crated Simmering Comb
+item.cratedSoulsand.name=Crated Soul Sand
+item.cratedSpruceSapling.name=Crated Spruce Sapling
+item.cratedSpruceWood.name=Crated Spruce Wood
+item.cratedStone.name=Crated Stone
+item.cratedStringyCombs.name=Crated Stringy Comb
+item.cratedWalnut.name=Crated Walnut
+item.cratedWheat.name=Crated Wheat
+item.cratedWheatenCombs.name=Crated Wheaten Comb
+item.cratedWood.name=Crated Oak Wood
 
 for.no=否
 
@@ -452,9 +568,9 @@ for.mutation.condition.temperature.single=该突变仅在温度为%s时发生。
 for.mutation.condition.resource=该突变需要%s作为蜂箱的基石才可发生。
 for.mutation.condition.date=该突变只在%START到%END这段时间内发生。
 
-for.storage.backpack.mode.locked=(已锁定)
-for.storage.backpack.mode.receiving=(接收中)
-for.storage.backpack.mode.resupply=(再补给)
+for.storage.backpack.mode.locked=（锁定）
+for.storage.backpack.mode.receiving=（向内接收）
+for.storage.backpack.mode.resupply=（向外补给）
 
 for.trigger.hasMail=收到信件
 for.trigger.hasWork=正在工作
@@ -493,6 +609,7 @@ item.for.habitatLocator.name=栖息地定位仪
 item.for.cart.beehouse.name=蜂房车
 item.for.cart.apiary.name=蜂箱车
 
+item.for.beeCombs.name=Comb
 item.for.beeCombs.cocoa.name=可可蜂窝
 item.for.beeCombs.darkened.name=暗黑蜂窝
 item.for.beeCombs.dripping.name=滴水蜂窝
@@ -513,6 +630,7 @@ item.for.beeCombs.wheaten.name=麦香蜂窝
 
 item.for.beeswax.name=蜂蜡
 
+item.for.beverage.name=Mead
 item.for.beverage.meadCurative.name=蜂蜜药酒
 item.for.beverage.meadShort.name=蜂蜜酒
 item.for.beverage.mead.name=蜂蜜陈酿
@@ -520,9 +638,9 @@ item.for.beverage.mead.name=蜂蜜陈酿
 item.for.biomeFinder.name=栖息地定位仪
 item.for.bituminousPeat.name=沥青质泥炭
 item.for.brokenBronzePickaxe.name=损坏的镐
-item.for.brokenBronzeShovel.name=损坏的铲
+item.for.brokenBronzeShovel.name=损坏的锹
 item.for.bronzePickaxe.name=幸存者之镐
-item.for.bronzeShovel.name=幸存者之铲
+item.for.bronzeShovel.name=幸存者之锹
 item.for.builderBag.name=建筑师背包
 item.for.builderBagT2.name=建筑师编织背包
 
@@ -550,11 +668,13 @@ item.for.canSeedOil.name=种子油罐
 item.for.canShortMead.name=蜂蜜酒罐
 item.for.carton.name=纸板箱
 
+item.for.chipsets.name=Circuit Board
 item.for.circuitboard.basic.name=小型电子板
 item.for.circuitboard.enhanced.name=中型电子板
 item.for.circuitboard.intricate.name=先进电子板
 item.for.circuitboard.refined.name=大型电子板
 
+item.for.craftingMaterial.name=Crafting Material
 item.for.craftingMaterial.dissipationCharge.name=驱云电荷
 item.for.craftingMaterial.iceShard.name=碎冰
 item.for.craftingMaterial.pulsatingDust.name=脉动之尘
@@ -585,6 +705,7 @@ for.frame.tooltip.production=产物：
 for.frame.tooltip.flowering=授粉：
 for.frame.tooltip.geneticDecay=基因衰变：
 
+item.for.fruits.name=Fruit
 item.for.fruits.cherry.name=樱桃
 item.for.fruits.chestnut.name=栗树
 item.for.fruits.dates.name=枣椰
@@ -601,6 +722,7 @@ item.for.hardenedMachine.name=强化部件
 
 item.for.honeydew.name=蜂蜜汁
 
+item.for.honeyDrop.name=Drop
 item.for.honeyDrop.charged.name=带电蜂蜜滴
 item.for.honeyDrop.honey.name=蜂蜜滴
 item.for.honeyDrop.omega.name=终结蜂蜜滴
@@ -620,7 +742,7 @@ item.for.ingotTin.name=锡锭
 
 item.for.iodineCapsule.name=碘酒胶囊
 item.for.kitPickaxe.name=镐子应急袋
-item.for.kitShovel.name=铲子应急袋
+item.for.kitShovel.name=锹应急袋
 item.for.letters.name=信件
 
 item.for.minerBag.name=采矿者背包
@@ -634,9 +756,12 @@ item.for.peat.name=泥炭
 item.for.phosphor.name=荧光粉
 item.for.pipette.name=移液管
 
+item.for.pollenFertile.name=Fertile Pollen
+item.for.pollen.name=Pollen Cluster
 item.for.pollen.crystalline.name=水晶花粉
 item.for.pollen.normal.name=花粉
 
+item.for.propolis.name=Propolis
 item.for.propolis.normal.name=蜂胶
 item.for.propolis.pulsating.name=脉动蜂胶
 item.for.propolis.silky.name=丝滑蜂胶
@@ -674,6 +799,7 @@ item.for.stamps.name=邮票
 item.for.sturdyMachine.name=坚固部件
 item.for.tent.name=幸存者帐篷
 
+item.for.thermionicTubes.name=Electron Tube
 item.for.thermionicTubes.ex-0.name=铜电子管
 item.for.thermionicTubes.ex-1.name=锡电子管
 item.for.thermionicTubes.ex-2.name=青铜电子管
@@ -715,15 +841,18 @@ itemGroup.arboriculture=林业|植树
 itemGroup.forestry=林业
 itemGroup.lepidopterology=林业|蝴蝶
 
+tile.for.core.name=Analyzer / Escritoire
 tile.for.core.0.name=分析仪
 tile.for.core.1.name=写字台
 
+tile.for.engine.name=Engine
 tile.for.engine.0.name=电动引擎
 tile.for.engine.1.name=泥炭引擎
 tile.for.engine.2.name=生物燃油引擎
 tile.for.engine.3.name=生物质引擎
 tile.for.engine.4.name=发条引擎
 
+tile.for.factory.name=Machine
 tile.for.factory.0.name=装瓶机
 tile.for.factory.1.name=木工机
 tile.for.factory.2.name=离心机
@@ -732,23 +861,28 @@ tile.for.factory.4.name=加湿器
 tile.for.factory.5.name=榨汁机
 tile.for.factory.6.name=蒸馏器
 tile.for.factory.7.name=造雨机
+tile.for.factory2.name=Machine
 tile.for.factory2.0.name=热电子加工台
 tile.for.factory2.1.name=集雨蓄水槽
-tile.for.factory2.2.name=工作台
+tile.for.factory2.2.name=工作桌
 
+tile.for.mail.name=Mailbox
 tile.for.mail.0.name=信箱
 tile.for.mail.1.name=贸易站
 tile.for.mail.2.name=集邮箱
 
+tile.for.resources.name=Ore
 tile.for.resources.0.name=磷灰石矿石
 tile.for.resources.1.name=铜矿石
 tile.for.resources.2.name=锡矿石
 
+tile.for.resourceStorage.name=Block
 tile.for.resourceStorage.0.name=磷灰石块
 tile.for.resourceStorage.1.name=铜块
 tile.for.resourceStorage.2.name=锡块
 tile.for.resourceStorage.3.name=青铜块
 
+tile.for.soil.name=Soil
 tile.for.soil.0.name=腐殖土
 tile.for.soil.1.name=沼泽泥
 tile.for.soil.2.name=泥炭
@@ -915,6 +1049,8 @@ for.errors.wrongStacksize.help=这里只能放置单个物品。
 # APICULTURE
 ####################
 
+item.for.beeLarvaeGE.name=Larvae
+
 entity.Villager.apiarist=养蜂员
 
 death.bee.aggressive.player=%1$s遭遇蜂群。%2$s趁机偷走了他的养蜂套装。
@@ -1016,34 +1152,34 @@ for.bees.stock.pristine=始祖种
 
 for.chat.command.forestry.bee.desc=- %s ：养蜂命令
 for.chat.command.forestry.bee.help=与养蜂相关的命令。
-for.chat.command.forestry.bee.format=格式： /%s <sub-command>
+for.chat.command.forestry.bee.format=格式：/%s <sub-command>
 
 for.chat.command.forestry.bee.give.desc=- %s ：给予玩家蜜蜂
 for.chat.command.forestry.bee.give.help=给予玩家一只雄蜂，公主蜂，蜂后或幼蜂。
-for.chat.command.forestry.bee.give.format=格式： /%s <species-name> <bee-type> [<player-name>]
-for.chat.command.forestry.bee.give.available=可用蜜蜂类型： %s
+for.chat.command.forestry.bee.give.format=格式：/%s <species-name> <bee-type> [<player-name>]
+for.chat.command.forestry.bee.give.available=可用蜜蜂类型：%s
 for.chat.command.forestry.bee.give.given=给予%1$s一只%2$s%3$s。
 
 for.chat.command.forestry.bee.mode.desc=- %s ：养蜂模式相关命令
 for.chat.command.forestry.bee.mode.help=与养蜂模式有关的命令。
-for.chat.command.forestry.bee.mode.format=格式： /%s <sub-command>
+for.chat.command.forestry.bee.mode.format=格式：/%s <sub-command>
 
 for.chat.command.forestry.bee.mode.info.desc=- %s ：养蜂模式信息
 for.chat.command.forestry.bee.mode.info.help=有关当前和可用养蜂模式的信息。
-for.chat.command.forestry.bee.mode.info.format=格式： /%s <mode-name>
+for.chat.command.forestry.bee.mode.info.format=格式：/%s <mode-name>
 
 for.chat.command.forestry.bee.mode.set.desc=- %s ：设置养蜂模式
 for.chat.command.forestry.bee.mode.set.help=设置当前世界的养蜂模式。
-for.chat.command.forestry.bee.mode.set.format=格式： /%s [<world-#>] <mode-name>
+for.chat.command.forestry.bee.mode.set.format=格式：/%s [<world-#>] <mode-name>
 
 for.chat.command.forestry.bee.save.desc=- %s ：保存养蜂状态。
 for.chat.command.forestry.bee.save.help=将养蜂状态保存到文件中。
-for.chat.command.forestry.bee.save.format=格式： /%s [<player-name>]
+for.chat.command.forestry.bee.save.format=格式：/%s [<player-name>]
 for.chat.command.forestry.bee.save.stats=玩家%s的养蜂状态保存为%s：
 
 for.chat.command.forestry.mode.info.error=%s模式当前不可用。
-for.chat.command.forestry.mode.info.current=当前： %1$s （#%2$s）
-for.chat.command.forestry.mode.info.available=可用模式： %s
+for.chat.command.forestry.mode.info.current=当前：%1$s（#%2$s）
+for.chat.command.forestry.mode.info.available=可用模式：%s
 
 for.chat.command.forestry.mode.set.success=模式设为%s。
 for.chat.command.forestry.mode.set.error=%s模式当前不可用。
@@ -1059,7 +1195,7 @@ for.chat.command.forestry.stats.save.key.blacklisted=已屏蔽
 for.chat.command.forestry.stats.save.key.blacklisted.symbol=BL
 for.chat.command.forestry.stats.save.key.notCounted=不计总共品种
 for.chat.command.forestry.stats.save.key.notCounted.symbol=NC
-for.chat.command.forestry.stats.save.mode=模式： %s
+for.chat.command.forestry.stats.save.mode=模式：%s
 
 for.description.speciesAgrarian=“不像别的蜜蜂那样浑身臭烘烘，可照样还是能干好活儿，对吧？”|Myrathi，精明养蜂员
 for.description.speciesAustere=脾气火爆又危险；养蜂员靠近的时候要注意穿好全套专业护具。|养蜂员入门指南
@@ -1129,6 +1265,7 @@ item.for.beePrincessGE.name=未知公主蜂
 item.for.beeQueenGE.name=蜂后
 item.for.beeDroneGE.name=雄蜂
 
+tile.for.alveary.name=Alveary Part
 tile.for.alveary.0.name=蜂箱组
 tile.for.alveary.1.name=蜂箱组接口
 tile.for.alveary.2.name=蜂箱组克隆盒
@@ -1138,10 +1275,13 @@ tile.for.alveary.5.name=蜂箱组保湿器
 tile.for.alveary.6.name=蜂箱组稳定器
 tile.for.alveary.7.name=蜂箱组滤网
 
+tile.for.apiculture.name=Apiary
 tile.for.apiculture.0.name=蜂箱
+tile.for.apicultureChest.name=Apiarist's Chest
 tile.for.apicultureChest.0.name=养蜂员箱子
 tile.for.apiculture.2.name=简易蜂房
 
+tile.for.beehives.name=Hive
 tile.for.beehives.1.name=森林蜂巢
 tile.for.beehives.2.name=草地蜂巢
 tile.for.beehives.3.name=温和蜂巢
@@ -1151,11 +1291,13 @@ tile.for.beehives.6.name=凛冬蜂巢
 tile.for.beehives.7.name=沼泽蜂巢
 tile.for.beehives.8.name=迁居蜂巢
 
+tile.for.candle.name=Candle
 tile.for.candle.dyed.lit.name=染色蜡烛(发光)
 tile.for.candle.dyed.stump.name=染色蜡烛(熄灭)
 tile.for.candle.lit.name=蜡烛(发光)
 tile.for.candle.stump.name=蜡烛(熄灭)
 
+tile.for.stump.name=Candle Stump
 tile.for.stump.0.name=蜡烛
 
 ####################
@@ -1192,31 +1334,31 @@ for.arboriculture.effect.none=无
 
 for.chat.command.forestry.tree.desc=- %s ：林木命令。
 for.chat.command.forestry.tree.help=树木相关的命令。
-for.chat.command.forestry.tree.format=格式： /%s <sub-command>
+for.chat.command.forestry.tree.format=格式：/%s <sub-command>
 
 for.chat.command.forestry.tree.spawnTree.desc=- %s ：生成树木
 for.chat.command.forestry.tree.spawnTree.help=在玩家附近生成一棵树。
-for.chat.command.forestry.tree.spawnTree.format=格式： /%s <species-name> [<player-name>]
+for.chat.command.forestry.tree.spawnTree.format=格式：/%s <species-name> [<player-name>]
 
 for.chat.command.forestry.tree.spawnForest.desc=- %s ：生成树林
 for.chat.command.forestry.tree.spawnForest.help=在玩家附近生成一小片树林。
-for.chat.command.forestry.tree.spawnForest.format=格式： /%s <species-name> [<player-name>]
+for.chat.command.forestry.tree.spawnForest.format=格式：/%s <species-name> [<player-name>]
 
 for.chat.command.forestry.tree.mode.desc=- %s ：植树模式命令。
 for.chat.command.forestry.tree.mode.help=与植树模式相关的命令。
-for.chat.command.forestry.tree.mode.format=格式： /%s <sub-command>
+for.chat.command.forestry.tree.mode.format=格式：/%s <sub-command>
 
 for.chat.command.forestry.tree.mode.info.desc=- %s ：植树模式信息。
 for.chat.command.forestry.tree.mode.info.help=有关当前和可用植树模式的信息。
-for.chat.command.forestry.tree.mode.info.format=格式： /%s <mode-name>
+for.chat.command.forestry.tree.mode.info.format=格式：/%s <mode-name>
 
 for.chat.command.forestry.tree.mode.set.desc=- %s ：设置植树模式
 for.chat.command.forestry.tree.mode.set.help=设置当前世界的植树模式。
-for.chat.command.forestry.tree.mode.set.format=格式： /%s [<world-#>] <mode-name>
+for.chat.command.forestry.tree.mode.set.format=格式：/%s [<world-#>] <mode-name>
 
 for.chat.command.forestry.tree.save.desc=- %s ：保存当前植树状态。
 for.chat.command.forestry.tree.save.help=将当前植树状态保存至文件。
-for.chat.command.forestry.tree.save.format=格式： /%s [<player-name>]
+for.chat.command.forestry.tree.save.format=格式：/%s [<player-name>]
 
 for.chat.command.forestry.tree.save.stats=玩家%s的植树状态保存为%s：
 
@@ -1270,8 +1412,10 @@ for.trees.grammar.germling.type=幼苗
 for.trees.grammar.germling=%SPECIES%TYPE
 for.trees.grammar.pollen.type=花粉
 for.trees.grammar.pollen=%SPECIES%TYPE
+tile.for.saplingGE.name=Sapling
 for.trees.grammar.sapling.type=树苗
 for.trees.grammar.sapling=%SPECIES%TYPE
+tile.for.leaves.name=Leaves
 for.trees.grammar.leaves.type=树叶
 for.trees.grammar.leaves=%SPECIES%TYPE
 
@@ -1313,10 +1457,21 @@ for.trees.species.padauk=紫檀树
 for.trees.species.cocobolo=黄檀树
 for.trees.species.zebrawood=斑木树
 
+tile.for.fences.name=Fence
 for.fences.grammar=%TYPE栅栏
+tile.for.logs.name=Wood
+tile.for.logsFireproof.name=Wood (Fireproof)
 for.log.grammar=%TYPE原木
+tile.for.planks.name=Wood Planks
+tile.for.planksFireproof.name=Wood Planks (Fireproof)
 for.planks.grammar=%TYPE木板
+tile.for.slabs.name=Wood Slab
+tile.for.slabsFireproof.name=Wood Slab (Fireproof)
+tile.for.slabsDouble.name=Wood Slab
+tile.for.slabsDoubleFireproof.name=Wood Slab (Fireproof)
 for.slab.grammar=%TYPE台阶
+tile.for.stairs.name=Stairs
+tile.for.stairsFireproof.name=Stairs (Fireproof)
 for.stairs.grammar=%TYPE楼梯
 
 for.trees.woodType.larch=落叶树
@@ -1349,15 +1504,19 @@ for.trees.woodType.padauk=紫檀树
 for.trees.woodType.cocobolo=黄檀树
 for.trees.woodType.zebrawood=斑木树
 
+tile.for.fencesFireproof.name=Fence (Fireproof)
 tile.for.fireproof=抗燃%s
 
 item.for.grafter.name=剪枝器
 item.for.grafterProven.name=标定剪枝器
 
+tile.for.arboriculture.name=Arborist's Chest
 tile.for.arboriculture.0.name=林业员箱子
 
+item.for.sapling.name=Sapling
 tile.for.saplingGE.0.name=树苗
 tile.for.leaves.0.name=树叶
+tile.for.pods.name=Pod
 tile.for.pods.0.name=豆荚
 
 ####################
@@ -1411,12 +1570,14 @@ for.trigger.lowFertilizer=肥料
 for.trigger.lowLiquid=蓄水槽
 for.trigger.lowSoil=土壤
 
+tile.for.ffarm.name=Farm Block
 tile.for.ffarm.0.name=农场方块
 tile.for.ffarm.2.name=农场齿轮箱
 tile.for.ffarm.3.name=农场出货箱
 tile.for.ffarm.4.name=农场水阀
 tile.for.ffarm.5.name=农场控制盒
 
+tile.for.mushroom.name=Mushroom
 tile.for.mushroom.0.name=蘑菇
 tile.for.mushroom.1.name=蘑菇
 
@@ -1424,15 +1585,18 @@ tile.for.mushroom.1.name=蘑菇
 # LEPIDOPTEROLOGY
 ####################
 
+item.for.serumGE.name=Serum
+item.for.caterpillarGE.name=Caterpillar
+item.for.butterflyGE.name=Butterfly
 entity.Forestry.butterflyGE.name=蝴蝶
 
 for.chat.command.forestry.butterfly.desc=- %s ：蝴蝶命令
 for.chat.command.forestry.butterfly.help=和蝴蝶相关的一些命令。
-for.chat.command.forestry.butterfly.format=格式： /%s <sub-command>
+for.chat.command.forestry.butterfly.format=格式：/%s <sub-command>
 
 for.chat.command.forestry.butterfly.kill.desc=- %s ：杀死全部蝴蝶。
 for.chat.command.forestry.butterfly.kill.help=杀死已加载区块内的全部蝴蝶。
-for.chat.command.forestry.butterfly.kill.format=格式： /%s [<dimension#>]
+for.chat.command.forestry.butterfly.kill.format=格式：/%s [<dimension#>]
 
 for.butterflies.hybrid=混血蝶：%PRIMARY-%SECONDARY
 
@@ -1482,6 +1646,7 @@ item.for.butterfly.name=蝴蝶
 item.for.flutterlyzer.name=蝴蝶分析仪
 item.for.lepidopteristBag.name=鳞翅目昆虫学家背包
 item.for.moth.name=飞蛾
+tile.for.lepidopterology.name=Lepidopterist's Chest
 tile.for.lepidopterology.0.name=鳞翅目昆虫学家箱子
 
 ####################
@@ -1492,15 +1657,15 @@ for.chat.mail.already_mailed=信件无法重发。
 
 for.chat.command.forestry.mail.desc=- %s ：邮件系统命令
 for.chat.command.forestry.mail.help=与邮件系统相关的各种命令。
-for.chat.command.forestry.mail.format=格式： /%s <sub-command>
+for.chat.command.forestry.mail.format=格式：/%s <sub-command>
 
 for.chat.command.forestry.mail.trades.desc=- %s ：列出所有贸易站。
 for.chat.command.forestry.mail.trades.help=列出所有贸易站和它们的可用交易。
-for.chat.command.forestry.mail.trades.format=格式： /%s
+for.chat.command.forestry.mail.trades.format=格式：/%s
 
 for.chat.command.forestry.mail.virtualize.desc=- %s ：将指定贸易站设为虚拟模式。
 for.chat.command.forestry.mail.virtualize.help=激活指定贸易站的虚拟模式。该模式不会有任何消耗。
-for.chat.command.forestry.mail.virtualize.format=格式： /%s <trade-station-name>
+for.chat.command.forestry.mail.virtualize.format=格式：/%s <trade-station-name>
 for.chat.command.forestry.mail.virtualize.no_tradestation=没有发现名为‘%s’的贸易站。
 for.chat.command.forestry.mail.virtualize.set=将‘%s’的虚拟模式设为%s。
 

@@ -54,8 +54,8 @@ block.log.willow.name=柳树原木
 block.log.darkwood.name=黑暗树原木
 block.log.fusewood.name=熔融树原木
 
-item.bowl.mushroom.name=蘑菇茎
-item.bowl.glowshroom.name=荧光蘑菇茎
+item.bowl.mushroom.name=蘑菇煲
+item.bowl.glowshroom.name=荧光蘑菇煲
 
 block.leaves.darkwood.name=黑暗树树叶
 block.leaves.darkwood.flowering.name=黑暗树树叶
@@ -280,35 +280,35 @@ item.natura.stick.name=木棍
 
 item.natura.sword.ghostwood.name=幽魂树剑
 item.natura.pickaxe.ghostwood.name=幽魂树镐
-item.natura.shovel.ghostwood.name=幽魂树铲
+item.natura.shovel.ghostwood.name=幽魂树锹
 item.natura.axe.ghostwood.name=幽魂树手斧
 item.natura.kama.ghostwood.name=幽魂树镰刀
 item.natura.bow.ghostwood.name=幽魂树弓
 
 item.natura.sword.bloodwood.name=血树剑
 item.natura.pickaxe.bloodwood.name=血树镐
-item.natura.shovel.bloodwood.name=血树铲
+item.natura.shovel.bloodwood.name=血树锹
 item.natura.axe.bloodwood.name=血树手斧
 item.natura.kama.bloodwood.name=血树镰刀
 item.natura.bow.bloodwood.name=血树弓
 
 item.natura.sword.darkwood.name=黑暗树剑
 item.natura.pickaxe.darkwood.name=黑暗树镐
-item.natura.shovel.darkwood.name=黑暗树铲
+item.natura.shovel.darkwood.name=黑暗树锹
 item.natura.axe.darkwood.name=黑暗树手斧
 item.natura.kama.darkwood.name=黑暗树镰刀
 item.natura.bow.darkwood.name=黑暗树弓
 
 item.natura.sword.fusewood.name=熔融树剑
 item.natura.pickaxe.fusewood.name=熔融树镐
-item.natura.shovel.fusewood.name=熔融树铲
+item.natura.shovel.fusewood.name=熔融树锹
 item.natura.axe.fusewood.name=熔融树手斧
 item.natura.kama.fusewood.name=熔融树镰刀
 item.natura.bow.fusewood.name=熔融树弓
 
 item.natura.sword.netherquartz.name=石英剑
 item.natura.pickaxe.netherquartz.name=石英镐
-item.natura.shovel.netherquartz.name=石英铲
+item.natura.shovel.netherquartz.name=石英锹
 item.natura.axe.netherquartz.name=石英手斧
 item.natura.kama.netherquartz.name=石英镰刀
 
@@ -345,7 +345,7 @@ tooltip.barley=类似小麦,生长在野外
 tooltip.flour1=把我烤成面包吧
 tooltip.flour2=或者做成蛋糕
 tooltip.cotton=布匹和丝线的来源
-tooltip.sulfur=2x2合成可做成火药 
+tooltip.sulfur=2x2合成可做成火药
 tooltip.fletching=箭矢制作配方
 tooltip.imp=抵抗这下界的酷热
 tooltip.string=比丝线还更耐用

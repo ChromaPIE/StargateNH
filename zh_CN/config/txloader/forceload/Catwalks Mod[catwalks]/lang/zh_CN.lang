@@ -5,7 +5,7 @@ item.steel_grate.name=钢栅板
 
 tile.catwalk.name=栈桥
 tile.caged_ladder.name=笼式扶梯
-tile.scaffold.name= 脚手架
+tile.scaffold.name=脚手架
 tile.scaffold.builder.name=施工脚手架
 tile.support_column.name=支柱
 tile.sturdy_rail.name=坚实铁轨

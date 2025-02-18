@@ -168,13 +168,13 @@ jm.common.renderdistance_surface_max=地表的最大距离
 jm.common.renderdistance_surface_max.tooltip=以你为中心的半径区块最终绘制为地上。较低的值可以提高性能。如果输入数值要大于MC给予的距离的话将不会起作用。
 jm.common.renderdistance_surface_min=地表的最小距离
 jm.common.renderdistance_surface_min.tooltip=以你为中心的半径区块始终绘制为地上。较低的值可以提高性能。如果输入数值要大于MC给予的距离的话将不会起作用。
-jm.common.renderstats=最新的：%1$s （%2$s + %3$s） 区块在 %4$sms （平均 %5$sms）
+jm.common.renderstats=最新的：%1$s（%2$s + %3$s） 区块在 %4$sms（平均 %5$sms）
 jm.common.renderstats.title=统计最新渲染层
-jm.common.renderstats.tooltip=Total chunks = （所有最小距离区块 + 部分最大距离区块）。你选择的绘图选项和你周围的世界地形将明显地改变这些数字。
-jm.common.renderstats_debug_cave=洞穴：%1$s （%2$s） + %3$s （%4$s） = %5$s 区块在 %6$sms （平均 %7$sms）
-jm.common.renderstats_debug_cave_simple=洞穴：%1$s = %2$s 区块在 %3$sms （平均 %4$sms）
-jm.common.renderstats_debug_surface=地表：%1$s （%2$s） + %3$s （%4$s） = %5$s 区块在 %6$sms （平均 %7$sms）
-jm.common.renderstats_debug_surface_simple=地表：%1$s = %2$s 区块在 %3$sms （平均 %4$sms）
+jm.common.renderstats.tooltip=Total chunks =（所有最小距离区块 + 部分最大距离区块）。你选择的绘图选项和你周围的世界地形将明显地改变这些数字。
+jm.common.renderstats_debug_cave=洞穴：%1$s（%2$s） + %3$s（%4$s） = %5$s 区块在 %6$sms（平均 %7$sms）
+jm.common.renderstats_debug_cave_simple=洞穴：%1$s = %2$s 区块在 %3$sms（平均 %4$sms）
+jm.common.renderstats_debug_surface=地表：%1$s（%2$s） + %3$s（%4$s） = %5$s 区块在 %6$sms（平均 %7$sms）
+jm.common.renderstats_debug_surface_simple=地表：%1$s = %2$s 区块在 %3$sms（平均 %4$sms）
 jm.common.revealshape=显示形状
 jm.common.revealshape.tooltip=你周围地图区域的显示形状。圆形的区块比方形的少，并且圆形可以提高性能。
 jm.common.save_filename=正在保存地图到屏幕截图：%1$s
@@ -392,7 +392,7 @@ jm.waypoint.remove=移除
 jm.waypoint.reset=重置
 jm.waypoint.save=保存
 jm.waypoint.show_distance=显示距离
-jm.waypoint.show_distance.tooltip=在导航点标签上显示你与其相隔的距离（单位为方块数或米） 
+jm.waypoint.show_distance.tooltip=在导航点标签上显示你与其相隔的距离（单位为方块数或米）
 jm.waypoint.show_name=显示名称
 jm.waypoint.show_name.tooltip=在导航点标签上显示其名称
 jm.waypoint.show_rotating_beam=旋转的光束

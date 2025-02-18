@@ -17,9 +17,9 @@ gui.personalWorld.presets=预设
 gui.personalWorld.layers=层
 
 gui.personalWorld.skyColor=天空颜色
-gui.personalWorld.skyColor.red=红: 
-gui.personalWorld.skyColor.green=绿: 
-gui.personalWorld.skyColor.blue=蓝: 
+gui.personalWorld.skyColor.red=红:
+gui.personalWorld.skyColor.green=绿:
+gui.personalWorld.skyColor.blue=蓝:
 gui.personalWorld.starBrightness=星空亮度
 
 gui.personalWorld.vegetation=植被

@@ -1,15 +1,17 @@
 #
 # Items
+item.avaritia_resource.name=Resource
 item.avaritia_resource.diamond_lattice.name=钻石晶格
 item.avaritia_resource.crystal_matrix_ingot.name=水晶矩阵锭
-item.avaritia_resource.neutron_pile.name=宇宙中子态素尘埃
-item.avaritia_resource.neutron_nugget.name=宇宙中子态素粒
-item.avaritia_resource.neutronium_ingot.name=宇宙中子态素锭
+item.avaritia_resource.neutron_pile.name=宇宙中子素尘埃
+item.avaritia_resource.neutron_nugget.name=宇宙中子素粒
+item.avaritia_resource.neutronium_ingot.name=宇宙中子素锭
 item.avaritia_resource.infinity_catalyst.name=无尽催化剂
 item.avaritia_resource.infinity_ingot.name=无尽之锭
 item.avaritia_resource.record_fragment.name=唱片碎片
 item.avaritia_resource.starfuel.name=恒星燃料
 item.avaritia_resource.neutronium_gear.name=中子齿轮
+item.avaritia_singularity.name=Singularity
 item.singularity_iron.name=铁奇点
 item.singularity_gold.name=金奇点
 item.singularity_lapis.name=青金石奇点
@@ -24,7 +26,7 @@ item.singularity_enderium.name=末影锭奇点
 item.singularity_clay.name=粘土奇点
 item.infinity_pickaxe.name=世界崩解之镐
 item.infinity_sword.name=寰宇支配之剑
-item.infinity_shovel.name=星球吞噬之铲
+item.infinity_shovel.name=星球吞噬之锹
 item.infinity_axe.name=自然荒芜之斧
 item.infinity_bow.name=天堂陨落长弓
 item.skullfire_sword.name=炽焰之啄颅剑
@@ -51,13 +53,14 @@ item.extremely_primordial_pearl.name=极元始珍珠
 # Blocks
 tile.compressed_workbench.name=压缩工作台
 tile.very_compressed_workbench.name=二重压缩工作台
+tile.avaritia_resource.name=Resource Block
 tile.block_crystal_matrix.name=水晶矩阵
-tile.block_neutronium.name=宇宙中子态素块
+tile.block_neutronium.name=宇宙中子素块
 tile.block_infinity.name=无尽之块
 tile.block_gaia.name=盖亚块
 tile.dire_crafting.name=终极工作台
-tile.neutron_collector.name=中子态素收集器
-tile.neutronium_compressor.name=中子态素压缩机
+tile.neutron_collector.name=中子素收集器
+tile.neutronium_compressor.name=中子素压缩机
 tile.infinitato.name=无尽小土豆
 tile.alfheim_deadrock0.name=死岩
 tile.alfheim_deadrock1.name=死岩砖
@@ -91,9 +94,9 @@ achievement.avaritia:dire_crafting.desc=用普通工作台合成终极工作台
 achievement.avaritia:dire_uncrafting=别紧张!
 achievement.avaritia:dire_uncrafting.desc=终章之尾(于是又是一集Direwolf20结束了)
 achievement.avaritia:collector=然后就是挂机时代
-achievement.avaritia:collector.desc=制造一台中子态素收集器，然后准备好世界锚挂机吧
+achievement.avaritia:collector.desc=制造一台中子素收集器，然后准备好世界锚挂机吧
 achievement.avaritia:neutronium=去**的挂机
-achievement.avaritia:neutronium.desc=合成第一批中子态素锭
+achievement.avaritia:neutronium.desc=合成第一批中子素锭
 achievement.avaritia:singularity=事件视界
 achievement.avaritia:singularity.desc=制造你第一个奇点
 achievement.avaritia:catalyst=所有厨房的水池
@@ -107,12 +110,12 @@ achievement.avaritia:creative_kill.desc="因罪而堕落的天使"
 #
 # Misc
 itemGroup.avaritia=无尽贪婪
-container.neutron_collector=中子态素收集器
-container.neutronium_compressor=中子态素压缩机
+container.neutron_collector=中子素收集器
+container.neutronium_compressor=中子素压缩机
 tc.aspect.terminus=游戏之终结,启示录,天启,粉碎一切
 crafting.extreme=有序终极合成
 crafting.extreme.shapeless=无序终极合成
-crafting.extreme_compression=中子态素压缩机
+crafting.extreme_compression=中子素压缩机
 tip.infinity=Infinity
 death.attack.infinity=%1$s被%2$s彻底粉碎
 death.attack.infinity.item=%1$s被%2$s彻底粉碎
@@ -138,11 +141,11 @@ avaritia.lexicon.soarleander.0=如果你的鸡肉以及羽毛过剩,那么请不
 avaritia.lexicon.soarleander.1=&o任何随机的箱子都是意想不到的副作用.&r
 #
 # Thaumcraft
-item.Wand.infinity.rod=宇宙中子态素
+item.Wand.infinity.rod=宇宙中子素
 item.Wand.matrix.cap=水晶缠绕
 #
 # Tinkers Construct
-material.avaritia_neutronium=宇宙中子态素
+material.avaritia_neutronium=宇宙中子素
 material.avaritia_neutronium.ability=千斤坠沉
 material.avaritia_infinitymetal=无尽
 material.avaritia_infinitymetal.ability=寰宇

@@ -1,8 +1,8 @@
-visualprospecting.vein.prospected=你找到了一条 %s 矿脉 %s!
-visualprospecting.vein.contents=你会找到: %s
-visualprospecting.veins.prospected=你找到了 %s 条新矿脉!
-visualprospecting.undergroundfluid.prospected.onlynew=你找到了 %s 新流体井!
-visualprospecting.undergroundfluid.prospected.onlyupdated=你更新了 %s 流体井!
+visualprospecting.vein.prospected=你在%2$s找到了一条%1$s矿脉！
+visualprospecting.vein.contents=该矿脉包含：%s
+visualprospecting.veins.prospected=你找到了%s条新矿脉！
+visualprospecting.undergroundfluid.prospected.onlynew=你找到了 %s 新流体井！
+visualprospecting.undergroundfluid.prospected.onlyupdated=你更新了 %s 流体井！
 visualprospecting.undergroundfluid.prospected.newandupdated=你找到了 %s 新流体井并更新了 %s 流体井!
 visualprospecting.button.dirtychunk=显示未写盘区块(仅限开发者,单机游戏)
 visualprospecting.button.orevein=显示GT矿脉

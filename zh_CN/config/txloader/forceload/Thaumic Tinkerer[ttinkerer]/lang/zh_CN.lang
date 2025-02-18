@@ -126,11 +126,11 @@ item.ichorclothLegsGem.name=熔岩地幔之护腿
 item.ichorclothBootsGem.name=地平线盾牌之靴
 item.catAmulet.name=猫神护身符
 item.ichorPick.name=灵宝镐
-item.ichorShovel.name=灵宝铲
+item.ichorShovel.name=灵宝锹
 item.ichorAxe.name=灵宝斧
 item.ichorSword.name=灵宝剑
 item.ichorPickGem.name=觉醒灵宝镐
-item.ichorShovelGem.name=觉醒灵宝铲
+item.ichorShovelGem.name=觉醒灵宝锹
 item.ichorAxeGem.name=觉醒灵宝斧
 item.ichorSwordGem.name=觉醒灵宝剑
 item.ichorPouch.name=无底袋
@@ -208,7 +208,7 @@ item.Wand.ICHORCLOTH.rod=灵布包层银树杖柄
 
 # RESEARCH
 ttresearch.prefix=[TT]
-ttresearch.prefix.kami=[TT神道] 
+ttresearch.prefix.kami=[TT神道]
 tc.research_category.TT_ENCHANTING=[TT]附魔
 tc.research_category.TT_CATEGORY=神秘工匠
 
@@ -482,7 +482,7 @@ ttresearch.page.ICHORIUM.0=对灵液更加深入的研究揭示其具有与凡�
 # -- ICHORCLOTH STRAPPED SILVERWOOD WAND CORE
 ttresearch.name.ROD_ICHORCLOTH=灵布包层银树杖柄
 ttresearch.lore.ROD_ICHORCLOTH=塞满嘴
-ttresearch.page.ROD_ICHORCLOTH.0=干得漂亮.用灵布对银树杖芯注魔,你设法制造出了一支终极杖柄.<BR><BR>这支杖柄对各种魔力的容量都高达1000点.用于加工各种昂贵的奥术材料都绰绰有余,毫无压力.现在摆在你面前的问题反而是,上哪弄那么多魔力充满它呢? 
+ttresearch.page.ROD_ICHORCLOTH.0=干得漂亮.用灵布对银树杖芯注魔,你设法制造出了一支终极杖柄.<BR><BR>这支杖柄对各种魔力的容量都高达1000点.用于加工各种昂贵的奥术材料都绰绰有余,毫无压力.现在摆在你面前的问题反而是,上哪弄那么多魔力充满它呢?
 
 # -- ICHORIUM WAND CAPS
 ttresearch.name.CAP_ICHOR=灵宝杖端
@@ -533,9 +533,9 @@ ttresearch.page.ICHOR_PICK_GEM.1=它会从起始方块开始呈直线挖下10格
 
 
 # -- AWAKENED ICHORIUM SHOVEL
-ttresearch.name.ICHOR_SHOVEL_GEM=觉醒灵宝铲
+ttresearch.name.ICHOR_SHOVEL_GEM=觉醒灵宝锹
 ttresearch.lore.ICHOR_SHOVEL_GEM=再也不要沙砾!
-ttresearch.page.ICHOR_SHOVEL_GEM.0=你唤醒了灵宝铲真正的力量.这柄铲子不仅将保留沉睡状态下具有的一应能力,还获得了模式切换功能,只需要按住shift右击即可.<BR><BR>在方块模式(绿色)下它按正常方式挖掘.<BR><BR>在正方模式(红色)下它会在起始方块周围一次挖出5x5的区域.<BR><BR>在柱型模式(蓝色)下它会呈柱形在上下各8格的范围内挖掘与起始方块同类型的方块.
+ttresearch.page.ICHOR_SHOVEL_GEM.0=你唤醒了灵宝锹真正的力量.这柄锹不仅将保留沉睡状态下具有的一应能力,还获得了模式切换功能,只需要按住shift右击即可.<BR><BR>在方块模式(绿色)下它按正常方式挖掘.<BR><BR>在正方模式(红色)下它会在起始方块周围一次挖出5x5的区域.<BR><BR>在柱型模式(蓝色)下它会呈柱形在上下各8格的范围内挖掘与起始方块同类型的方块.
 
 # -- AWAKENED ICHORIUM AXE
 ttresearch.name.ICHOR_AXE_GEM=觉醒灵宝斧
@@ -576,7 +576,7 @@ ttresearch.page.FOCUS_XP_DRAIN.0=自从制造出蕴含着疯狂数量的魔力�
 # -- PROTOCLAY
 ttresearch.name.PROTOCLAY=息壤
 ttresearch.lore.PROTOCLAY=从造物主那偷来的
-ttresearch.page.PROTOCLAY.0=你厌倦了总是要轮换工具的日子.<BR><BR>这团混有灵宝的物质,能够在你使用错误工具进行操作时自动将手持工具切换为合适的觉醒灵宝工具.<BR><BR>例如,一旦你试图用觉醒灵宝镐挖土,而物品栏里却有觉醒灵宝铲时,手持工具会马上自动替换成觉醒灵宝铲,以便让你更快速地挖下泥土.
+ttresearch.page.PROTOCLAY.0=你厌倦了总是要轮换工具的日子.<BR><BR>这团混有灵宝的物质,能够在你使用错误工具进行操作时自动将手持工具切换为合适的觉醒灵宝工具.<BR><BR>例如,一旦你试图用觉醒灵宝镐挖土,而物品栏里却有觉醒灵宝锹时,手持工具会马上自动替换成觉醒灵宝锹,以便让你更快速地挖下泥土.
 
 # -- CELESTIAL GATEWAY
 ttresearch.name.WARP_GATE=仙域之门

@@ -33,11 +33,11 @@ item.barrelTierThree.name=炮管(三级)
 item.barrelTierFour.name=炮管(四级)
 item.barrelTierFive.name=炮管(五级)
 item.ioBus.name=IO总线
-tile.baseTierWood.name=炮塔基座(一级) 
-tile.baseTierOneBlock.name=炮塔基座(二级) 
-tile.baseTierTwoBlock.name=炮塔基座(三级) 
-tile.baseTierThreeBlock.name=炮塔基座(四级) 
-tile.baseTierFourBlock.name=炮塔基座(五级) 
+tile.baseTierWood.name=炮塔基座(一级)
+tile.baseTierOneBlock.name=炮塔基座(二级)
+tile.baseTierTwoBlock.name=炮塔基座(三级)
+tile.baseTierThreeBlock.name=炮塔基座(四级)
+tile.baseTierFourBlock.name=炮塔基座(五级)
 
 tile.disposeItemTurret.name=低级投射炮塔
 tile.potatoCannonTurret.name=土豆加农炮塔
@@ -206,7 +206,7 @@ turret.upgrade.acc.flavour.a=好眼力,狙击手
 turret.upgrade.acc.flavour.b=我会开枪将他们逐个击杀.
 
 turret.upgrade.scatter.a=每次射击增加两枚弹药,消耗额外+2
-turret.upgrade.scatter.b=弹药使用,降低精准度,并提升RF消耗. 
+turret.upgrade.scatter.b=弹药使用,降低精准度,并提升RF消耗.
 turret.upgrade.scatter.flavour=你只需倾泻更多弹药罢了.
 
 status.ownership=这架炮塔不属于你
