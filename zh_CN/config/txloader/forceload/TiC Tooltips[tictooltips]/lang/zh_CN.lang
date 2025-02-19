@@ -5,7 +5,7 @@ tictooltips.hold.key.for.bow.stats=按住%s箭矢数据
 tictooltips.hold.key.for.more=按住%s查看更多
 
 # material tooltips
-tictooltips.material.shoddiness.modifier=[升级槽：%s]
+tictooltips.material.shoddiness.modifier= [升级槽：%s]
 tictooltips.material.arrow.weight=箭重：
 tictooltips.material.durability.modifier=耐久升级槽：
 

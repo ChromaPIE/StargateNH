@@ -353,7 +353,7 @@ item.Wand.name=%CAP%ROD%OBJ
 item.Wand.wand.obj=法杖
 item.Wand.sceptre.obj=权杖
 item.Wand.staff.obj=手杖
-item.Wand.wood.rod=木质
+item.Wand.wood.rod=木制
 item.Wand.greatwood.rod=宏伟之木
 item.Wand.silverwood.rod=银树
 item.Wand.obsidian.rod=黑曜石
@@ -698,7 +698,7 @@ tc.key2=钥匙已经链接该奥术压力盘.
 tc.key3=你现在可以打开门了.
 tc.key4=你现在可以向别人分享开门的权限.
 tc.key5=只要你是它的主人你就能激活该压力盘.
-tc.key6=你现在可以分享其他权限以及更改设置.
+tc.key6= 你现在可以分享其他权限以及更改设置.
 tc.key7=不是该处的钥匙.
 tc.key8=你已经拥有权限.
 tc.key9=该钥匙分享权限:
@@ -1279,13 +1279,13 @@ tc.research_name.GOLEMSTONE=石头傀儡
 tc.research_text.GOLEMSTONE=壮硕而迟钝
 tc.research_page.GOLEMSTONE.1=石头傀儡结实抗用,还能高负重,但相比大多数其他类型的傀儡要更加迟钝缓慢.<BR>§l§n石头傀儡属性§r<BR>§l耐久:§r 高于均值<BR>§l力量:§r 高于均值<BR>§l回复:§r 缓慢<BR>§l运载量:§r 16<BR>§l速度:§r 缓慢<BR>§l升级:§r 1
 #
-tc.research_name.GOLEMIRON=铁质傀儡
+tc.research_name.GOLEMIRON=铁制傀儡
 tc.research_text.GOLEMIRON=肖似村庄铁傀儡,但更小也更好
-tc.research_page.GOLEMIRON.1=铁质傀儡极其坚韧强壮,且能够荷载巨大的负重,但受累于体重,它移动起来相当缓慢迟钝.<BR>§l§n铁质傀儡属性§r<BR>§l耐久:§r 高<BR>§l力量§r 高<BR>§l回复:§r 非常低<BR>§l运载量:§r 32<BR>§l速度:§r 非常缓慢<BR>§l升级:§r 1
+tc.research_page.GOLEMIRON.1=铁制傀儡极其坚韧强壮,且能够荷载巨大的负重,但受累于体重,它移动起来相当缓慢迟钝.<BR>§l§n铁制傀儡属性§r<BR>§l耐久:§r 高<BR>§l力量§r 高<BR>§l回复:§r 非常低<BR>§l运载量:§r 32<BR>§l速度:§r 非常缓慢<BR>§l升级:§r 1
 #
 tc.research_name.GOLEMTHAUMIUM=神秘傀儡
 tc.research_text.GOLEMTHAUMIUM=魔力工人
-tc.research_page.GOLEMTHAUMIUM.1=神秘傀儡尤胜于铁质傀儡,且能够进行两次升级.且这种傀儡对魔法伤害同样具有高抗性.<BR>§l§n神秘傀儡属性§r<BR>§l耐久:§r 极高<BR>§l力量:§r 高<BR>§l回复:§r 缓慢<BR>§l运载量:§r 32<BR>§l速度:§r 缓慢<BR>§l升级:§r 2
+tc.research_page.GOLEMTHAUMIUM.1=神秘傀儡尤胜于铁制傀儡,且能够进行两次升级.且这种傀儡对魔法伤害同样具有高抗性.<BR>§l§n神秘傀儡属性§r<BR>§l耐久:§r 极高<BR>§l力量:§r 高<BR>§l回复:§r 缓慢<BR>§l运载量:§r 32<BR>§l速度:§r 缓慢<BR>§l升级:§r 2
 #
 tc.research_name.GOLEMBELL=傀儡使铃铛
 tc.research_text.GOLEMBELL=投以目光
@@ -1305,7 +1305,7 @@ tc.research_name.COREUSE=傀儡核心:使用
 tc.research_text.COREUSE=嗒嗒点击
 tc.research_page.COREUSE.1=正如空置核心,安装这种核心的傀儡也能够从绑定容器中取出物品,但当它们到达目标位置后会尝试使用该物品而非将其放下.<BR>他们将类似玩家左击/右击那样对对指定的位置/方块使用物品—你可以指定是何种物品.<BR>你可以打开傀儡的界面,如愿地指定傀儡只取走你指定的物品而忽略其他物品.
 tc.research_page.COREUSE.2=如果该傀儡并未与任何容器绑定,它会试图模仿玩家空手点击对应目标的效果.<LINE>你可以在潜行时设定它使用左击还是右击.<BR>你还可以设定它仅仅对空气方块点击而非对方块.
-tc.research_page.COREUSE.3=§n风之升级解锁§r<IMG>thaumcraft:textures/items/golem_upgrade_air.png:0:0:255:255:0.0625</IMG>该升级会提示傀儡执行点击的速率.
+tc.research_page.COREUSE.3=      §n风之升级解锁§r<IMG>thaumcraft:textures/items/golem_upgrade_air.png:0:0:255:255:0.0625</IMG>该升级会提示傀儡执行点击的速率.
 #
 tc.research_name.COREFILL=傀儡核心:填充
 tc.research_text.COREFILL=肥水不流外人田
@@ -1314,7 +1314,7 @@ tc.research_page.COREFILL.1=安装这种核心的傀儡能够在标记的容器�
 tc.research_name.COREHARVEST=傀儡核心:收获
 tc.research_text.COREHARVEST=傀儡农夫
 tc.research_page.COREHARVEST.1=安装这种核心的傀儡并不需要与容器绑定.他们会搜寻可收获的小麦,甘蔗或者其他常见农作物并收获它们.收获后的作物会被扔在地上,因此必须使用其他方式收回这些收获后的作物.<BR>不幸的是它们还没聪明到学会自动冲洗播种收获过的作物,但你相信再经过一点儿调试工作,你最终能够修复这个bug.
-tc.research_page.COREHARVEST.2=§n秩序升级解锁特性§r<IMG>thaumcraft:textures/items/golem_upgrade_order.png:0:0:255:255:0.0625</IMG>安装秩序升级的收获傀儡将学会如何自动重新播种收获过的作物.如果收获作物时没有掉落可以播种的种子或者幼苗,则会播种失败.
+tc.research_page.COREHARVEST.2=     §n秩序升级解锁特性§r<IMG>thaumcraft:textures/items/golem_upgrade_order.png:0:0:255:255:0.0625</IMG>安装秩序升级的收获傀儡将学会如何自动重新播种收获过的作物.如果收获作物时没有掉落可以播种的种子或者幼苗,则会播种失败.
 #
 tc.research_name.CORELUMBER=傀儡核心:砍伐
 tc.research_text.CORELUMBER=傀儡樵夫
@@ -1323,7 +1323,7 @@ tc.research_page.CORELUMBER.1=类似收获傀儡,伐木傀儡也不需要与容�
 tc.research_name.COREGUARD=傀儡核心:守卫
 tc.research_text.COREGUARD=守卫主人的财富
 tc.research_page.COREGUARD.1=安装这种核心的傀儡就像守卫一样会攻击范围内的任何敌对生物.<BR>你认为再经过一些小的调修你就能够让这种傀儡能够对攻击目标更具选择性,但现在它会攻击除了爬行者外的一切敌对生物.
-tc.research_page.COREGUARD.2=§n秩序升级解锁特性§r<IMG>thaumcraft:textures/items/golem_upgrade_order.png:0:0:255:255:0.0625</IMG>安装这种升级的守卫傀儡能够设定特定的攻击目标.这种傀儡不仅仅只能攻击敌对生物,还能在更大类型范围的生物里更灵活地设定目标.
+tc.research_page.COREGUARD.2=     §n秩序升级解锁特性§r<IMG>thaumcraft:textures/items/golem_upgrade_order.png:0:0:255:255:0.0625</IMG>安装这种升级的守卫傀儡能够设定特定的攻击目标.这种傀儡不仅仅只能攻击敌对生物,还能在更大类型范围的生物里更灵活地设定目标.
 #
 tc.research_name.COREBUTCHER=傀儡核心:屠宰
 tc.research_text.COREBUTCHER=血腥旮旯
@@ -1341,10 +1341,10 @@ tc.research_page.CORESORTING.1=这种核心的效果类似空白核心,但有一
 tc.research_name.COREFISHING=傀儡核心:垂钓
 tc.research_text.COREFISHING=海屋独家销售
 tc.research_page.COREFISHING.1=这种核心让傀儡为你的晚餐而垂钓.<BR>为发挥最佳效果傀儡需要放在露天的深水边.<BR>傀儡的力量决定垂钓速度.<BR>
-tc.research_page.COREFISHING.2=§n傀儡升级:风解锁§r<IMG>thaumcraft:textures/items/golem_upgrade_air.png:0:0:255:255:0.0625</IMG>装有这种升级的傀儡有小几率能一次抓到不止一条鱼.
-tc.research_page.COREFISHING.3=§n傀儡升级:火解锁§r<IMG>thaumcraft:textures/items/golem_upgrade_fire.png:0:0:255:255:0.0625</IMG>安装这种升级的傀儡会自动烹饪它抓住的鱼.
-tc.research_page.COREFISHING.4=§n傀儡升级:秩序解锁§r<IMG>thaumcraft:textures/items/golem_upgrade_order.png:0:0:255:255:0.0625</IMG>秩序升级会提高钓到大鱼的概率.
-tc.research_page.COREFISHING.5=§n傀儡升级:混沌解锁§r<IMG>thaumcraft:textures/items/golem_upgrade_entropy.png:0:0:255:255:0.0625</IMG>混沌升级会减少钓到廉价物品的概率.
+tc.research_page.COREFISHING.2=      §n傀儡升级:风解锁§r<IMG>thaumcraft:textures/items/golem_upgrade_air.png:0:0:255:255:0.0625</IMG>装有这种升级的傀儡有小几率能一次抓到不止一条鱼.
+tc.research_page.COREFISHING.3=      §n傀儡升级:火解锁§r<IMG>thaumcraft:textures/items/golem_upgrade_fire.png:0:0:255:255:0.0625</IMG>安装这种升级的傀儡会自动烹饪它抓住的鱼.
+tc.research_page.COREFISHING.4=     §n傀儡升级:秩序解锁§r<IMG>thaumcraft:textures/items/golem_upgrade_order.png:0:0:255:255:0.0625</IMG>秩序升级会提高钓到大鱼的概率.
+tc.research_page.COREFISHING.5=    §n傀儡升级:混沌解锁§r<IMG>thaumcraft:textures/items/golem_upgrade_entropy.png:0:0:255:255:0.0625</IMG>混沌升级会减少钓到廉价物品的概率.
 #
 tc.research_name.COREALCHEMY=傀儡核心:炼金
 tc.research_text.COREALCHEMY=移动要素
@@ -1442,7 +1442,7 @@ tc.research_page.INFUSION.5=最后你可以环绕祭坛对称放置一些具有�
 #
 tc.research_name.JARBRAIN=缸中之脑
 tc.research_text.JARBRAIN=密封的纠缠
-tc.research_page.JARBRAIN.1=-  向罐子丢一个僵尸之脑.<BR> -  添加蜘蛛眼和水.<BR> -  回想那些邪恶的念头,然后对着它挥舞你的法杖.<BR>若你能遵循上述步骤就能得到一个会动的邪恶的缸中之脑.<BR>它保留了作为僵尸的饥饿欲望却无力享用那些“美味”的脑子.但它仍然会试图收集那些在其附近死亡的生灵的思想和经验(以经验球的实体形式出现).当你摇一摇容纳它的罐子,它会放弃部分不义之财将其交予你.<BR>罐子盛满后它的上方将显示粒子效果.
+tc.research_page.JARBRAIN.1= -  向罐子丢一个僵尸之脑.<BR> -  添加蜘蛛眼和水.<BR> -  回想那些邪恶的念头,然后对着它挥舞你的法杖.<BR>若你能遵循上述步骤就能得到一个会动的邪恶的缸中之脑.<BR>它保留了作为僵尸的饥饿欲望却无力享用那些“美味”的脑子.但它仍然会试图收集那些在其附近死亡的生灵的思想和经验(以经验球的实体形式出现).当你摇一摇容纳它的罐子,它会放弃部分不义之财将其交予你.<BR>罐子盛满后它的上方将显示粒子效果.
 #
 tc.research_name.HOVERHARNESS=奥法缰绳
 tc.research_text.HOVERHARNESS=它是一只鸟?
@@ -1522,7 +1522,7 @@ tc.research_page.INFUSIONENCHANTMENT.3=如若物品已包含你当前进行附�
 tc.research_name.ARCANELAMP=奥术灯
 tc.research_text.ARCANELAMP=大型光源
 tc.research_page.ARCANELAMP.1=这种神秘的灯具可以被安附在墙壁,地板以及天花板上用作强烈而稳定的光源.<BR>这种灯具会在16格范围内制造出额外的光源,保证亮度等级不低于可接受的安全亮度以下.记住,只有你才能阻止僵尸狂潮.<BR>这些伴生光源在拆卸掉神秘灯具后很快就会消失掉.<LINE>你确定这种灯具的应用将陆续呈现,因此拥有新的发现后请记得回来再查阅一遍这里.
-tc.research_page.ARCANELAMP.2=§n奥术钻探机§r<BR>依附在奥术钻探机上时,奥术灯将额外具有以下功能: 它能够照亮钻探机挖通的隧道.
+tc.research_page.ARCANELAMP.2=           §n奥术钻探机§r<BR>依附在奥术钻探机上时,奥术灯将额外具有以下功能: 它能够照亮钻探机挖通的隧道.
 #
 tc.research_name.BASICARTIFACE=基础炼化学
 tc.research_text.BASICARTIFACE=必需之物
@@ -1545,12 +1545,12 @@ tc.research_name.TRAVELTRUNK=箱子宝宝
 tc.research_text.TRAVELTRUNK=会走路的行李
 tc.research_page.TRAVELTRUNK.1=这是一项对所有四处奔忙的神秘使来说都非常有用的傀儡学研究衍生产品:箱子宝宝.<BR>这个木头做的箱子会开开心心,蹦蹦跳跳跟在主人身后,充当一个便携的储物空间,装下你拾取的任意物品.<BR>箱子宝宝做得非常结实坚韧,能够承受大量的攻击,而且不畏火焰,也不会受到掉落伤害.<BR>箱子宝宝将追随它的主人前往任何地方——哪怕是跨位面的旅行.
 tc.research_page.TRAVELTRUNK.2=但是如果你希望它不再跟着你,在它的界面里也有个很方便的按钮来让它留在原地.<BR>随着时间流逝箱子宝宝能够自己回复它受到的伤害,但你也可以喂给它任意食物来加快这个过程.<BR>用傀儡使铃铛能够像回收傀儡那样回收箱子宝宝.但这样做会让箱子宝宝装着的所有物品掉落在地上.按住潜行点击它会取下安装在它身上的升级,但有一定几率遗失.<BR>像普通的傀儡那样箱子宝宝能安装升级,但升级将对箱子宝宝起到独特的效果.如果你已经发现了相关升级可以阅读后面几页来查看详细信息.
-tc.research_page.TRAVELTRUNK.UAI=§n傀儡升级:风§r<BR>安装该升级让箱子宝宝移动更加迅捷.
-tc.research_page.TRAVELTRUNK.UEA=§n傀儡升级:地§r<BR>安装该升级将会为箱子宝宝额外增加一行物品空间来携运更多物品.
-tc.research_page.TRAVELTRUNK.UFI=§n傀儡升级:火§r<BR>安装该升级后箱子宝宝会在主人遭受攻击时挺身而出.
-tc.research_page.TRAVELTRUNK.UWA=§n傀儡升级:水§r<BR>安装该升级后箱子宝宝将不能被主人外的任何人开启.<BR>并且它还会对各种毁灭性的伤害具有更高的抵御能力.
-tc.research_page.TRAVELTRUNK.UOR=§n傀儡升级:秩序§r<BR>安装该升级后即使用用傀儡使铃铛回收,箱子宝宝也能保留住装在它体内的物品.当按住潜行键点击时它还会和平时一样掉落出物品.
-tc.research_page.TRAVELTRUNK.UEN=§n傀儡升级:混沌§r<BR>安装该升级后只要箱子宝宝没装满就会自己捡取附近的掉落物品.
+tc.research_page.TRAVELTRUNK.UAI=      §n傀儡升级:风§r<BR>安装该升级让箱子宝宝移动更加迅捷.
+tc.research_page.TRAVELTRUNK.UEA=     §n傀儡升级:地§r<BR>安装该升级将会为箱子宝宝额外增加一行物品空间来携运更多物品.
+tc.research_page.TRAVELTRUNK.UFI=     §n傀儡升级:火§r<BR>安装该升级后箱子宝宝会在主人遭受攻击时挺身而出.
+tc.research_page.TRAVELTRUNK.UWA=     §n傀儡升级:水§r<BR>安装该升级后箱子宝宝将不能被主人外的任何人开启.<BR>并且它还会对各种毁灭性的伤害具有更高的抵御能力.
+tc.research_page.TRAVELTRUNK.UOR=     §n傀儡升级:秩序§r<BR>安装该升级后即使用用傀儡使铃铛回收,箱子宝宝也能保留住装在它体内的物品.当按住潜行键点击时它还会和平时一样掉落出物品.
+tc.research_page.TRAVELTRUNK.UEN=    §n傀儡升级:混沌§r<BR>安装该升级后只要箱子宝宝没装满就会自己捡取附近的掉落物品.
 #
 tc.research_name.LAMPGROWTH=催生灯
 tc.research_text.LAMPGROWTH=催熟作物
@@ -1620,7 +1620,7 @@ tc.research_name.WARDEDARCANA=守护之奥术
 tc.research_text.WARDEDARCANA=门禁控制
 tc.research_page.WARDEDARCANA.1=一些实验产生了某个有趣的发现 - 即向没有生命的物品印刻记忆的技术.应用这项知识,你首先尝试着制造出能记住放置者的奥能之扉,奥术压力盘和守卫者方块.<BR>奥能之扉只能由放置者通过法杖移除.此外它默认会拒绝对主人外的任何人敞开.其主人可以通过配制铁钥匙或者金钥匙来分享进门的权限.<BR>合成出铁钥匙并拿着它点击奥能之扉,便能够将钥匙与门配对.
 tc.research_page.WARDEDARCANA.2=你可以将铁钥匙交给其他人,当他们对这扇门使用钥匙后便可以获得进门的永久权限.但他们并不能破坏这扇门,也无法向其他人分享进门权限.除非你制作一柄金钥匙.<BR>金钥匙大部分功能与铁钥匙类似,但使用它的其他人还会获得向其他玩家分享铁钥匙的权限.只有门的最初拥有者才有权限制作金钥匙.使用金钥匙的人也无法用法杖拆掉奥能之门,那也是最初拥有者的特权.
-tc.research_page.WARDEDARCANA.3=奥术压力盘有一些新奇的特性.<BR>首先通过右键点击可以切换它的三种设定:(像木质压力盘一样)什么都能触发它的模式,仅仅只有主人触发的模式,以及除了主人外均可以触发的模式.<BR>其次,类似其他守卫者系列的物品,只有主人才能移除它.<BR>最后,它也能够通过钥匙绑定到其他玩家身上.这些压力盘能够用来开启奥能之扉,只要踩上压力盘的人本身也有进入这扇门的权限.
+tc.research_page.WARDEDARCANA.3=奥术压力盘有一些新奇的特性.<BR>首先通过右键点击可以切换它的三种设定:(像木制压力板一样)什么都能触发它的模式,仅仅只有主人触发的模式,以及除了主人外均可以触发的模式.<BR>其次,类似其他守卫者系列的物品,只有主人才能移除它.<BR>最后,它也能够通过钥匙绑定到其他玩家身上.这些压力盘能够用来开启奥能之扉,只要踩上压力盘的人本身也有进入这扇门的权限.
 tc.research_page.WARDEDARCANA.4=守卫者玻璃并非单纯的装饰方块,类似其他守卫者系列物品,它也无法被放置者外的人破坏.<BR>亦无法用钥匙向他人分享破坏它的权限.
 #
 tc.research_name.VISAMULET=魔力存储
@@ -1655,7 +1655,7 @@ tc.research_page.VISCHARGERELAY.1=但凡神秘使都曾有过进行常规奥术�
 #
 tc.research_name.WARP=扭曲,咒波,所有那些坏东西
 tc.research_text.WARP=万物都有其价值所在
-tc.research_page.WARP.1=§n扭曲§r<BR>许多人认为人类不应当涉足魔法的领域,再没有什么比扭曲的存在更能支持这种观点了.<BR>从事禁忌的魔法研究或者制作那些有悖于自然的造物,都会让神秘使眼中的现实世界无论在精神上还是在肉体上都出现畸变.此种效果谓之扭曲.<BR>目前尚未有摆脱这种效果的方法,一旦选择不顾危险地追逐力量的神秘使身上出现扭曲现象,境况就会犹如滑坡效应般每况愈下.
+tc.research_page.WARP.1= §n扭曲§r<BR>许多人认为人类不应当涉足魔法的领域,再没有什么比扭曲的存在更能支持这种观点了.<BR>从事禁忌的魔法研究或者制作那些有悖于自然的造物,都会让神秘使眼中的现实世界无论在精神上还是在肉体上都出现畸变.此种效果谓之扭曲.<BR>目前尚未有摆脱这种效果的方法,一旦选择不顾危险地追逐力量的神秘使身上出现扭曲现象,境况就会犹如滑坡效应般每况愈下.
 tc.research_page.WARP.2=扭曲通常表现为心神恍惚,肉体疼痛或者出现幻觉.<BR>这些症状并不仅仅只是精神疾患,有时候视野中会涌现出有用的知识,而幻觉看上去骇人地真实.
 tc.research_page.WARP.3=§n咒波§r<BR>倘若说扭曲是魔力紊乱在精神上的表现,那么咒波就是其物理上的表现.<BR>咒波能够以三种形式表现出来:液态,气态,以及身体疾患的状态.前两种是令大多数神秘使都烦恼过的问题,它们通常是魔力滥用的后果,并不特别难以清除,但它们常常会导致第三种形式出现: 以身体疾患为表现的咒流.<BR>咒流并不特别危险,但一旦神秘使染上这种疾病,聚集魔力就会变得更加困难,导致他不得不得在同样的操作中耗费更多魔力.
 #

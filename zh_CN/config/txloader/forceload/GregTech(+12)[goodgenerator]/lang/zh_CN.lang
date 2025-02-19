@@ -457,7 +457,7 @@ CoolantTower.hint.1=28x Tungstencarbide Frame Boxes
 CoolantTower.hint.2=1 - Input/Output Hatch
 
 #Chat
-largeessentiagenerator.chat= Installed!
+largeessentiagenerator.chat= 已安装！
 essentiahatch.chat.0=Successfully locked to %s.
 essentiahatch.chat.1=Cleared.
 yothatch.chat.0=Set storage priority to %s.

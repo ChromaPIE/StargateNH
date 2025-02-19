@@ -100,7 +100,9 @@ achievement.item.dysonSwarmModule.desc=Pickup this item to see the recipe in NEI
 
 
 # Items
+item.SpaceElevatorParts.name=太空电梯组件
 item.nanotubeSpool.name=纳米管线轴
+item.MiningDrone.name=采矿无人机
 item.MiningDroneLV.name=采矿无人机MK-I
 item.MiningDroneMV.name=采矿无人机MK-II
 item.MiningDroneHV.name=采矿无人机MK-III
@@ -115,6 +117,7 @@ item.MiningDroneUIV.name=采矿无人机MK-XI
 item.MiningDroneUMV.name=采矿无人机MK-XII
 item.MiningDroneUXV.name=采矿无人机MK-XIII
 item.MiningDroneMAX.name=采矿无人机MK-XIV
+item.DysonSwarmParts.name=戴森球组件
 item.dysonSwarmModule.name=Dyson Swarm Module
 item.TaHfCNanofibers.name=Tantalum Hafnium Carbide Nanofibers
 item.NtNanofibers.name=Neutronium Nanofibers
@@ -123,6 +126,7 @@ item.TaHfNanoparticles.name=Tantalum Hafnium Carbide Nanoparticles
 item.NtNanoparticles.name=Neutronium Nanoparticles
 
 # Blocks
+gt.blockcasingsSE.name=太空电梯部件
 gt.blockcasings.ig.0.name=太空电梯基座机械方块
 gt.blockcasings.ig.0.desc0=强度足以支持太空电梯
 gt.blockcasings.ig.0.desc1=向月球出发!
@@ -132,9 +136,11 @@ gt.blockcasings.ig.1.desc1=我希望这些东西有足够的强度
 gt.blockcasings.ig.2.name=太空电梯内部结构方块
 gt.blockcasings.ig.2.desc0=强化太空电梯的结构
 gt.blockcasings.ig.2.desc1=外观看上去也不错!
+tile.SpaceElevatorCable.name=太空电梯线缆
 gt.blockcasings.ig.cable.name=太空电梯线缆
 gt.blockcasings.ig.cable.desc0=连接配重与基座
 gt.blockcasings.ig.cable.desc1=希望这东西不会断
+gt.blockcasingsSEMotor.name=Space Elevator Motor
 gt.blockcasings.ig.motor.t1.name=太空电梯加速轨道MK-I
 gt.blockcasings.ig.motor.t2.name=太空电梯加速轨道MK-II
 gt.blockcasings.ig.motor.t3.name=太空电梯加速轨道MK-III
@@ -147,6 +153,7 @@ gt.blockcasings.ig.motor.t3.desc1=Woooooo
 gt.blockcasings.ig.motor.t4.desc1=我 即 速 度
 gt.blockcasings.ig.motor.t5.desc1=哦耶！
 gt.blockcasings.ig.motor.desc2=为太空电梯解锁%s个模块槽位
+tile.DysonSwarmPart.name=Dyson Swarm Part
 tile.DysonSwarmReceiverCasing.name=Dyson Swarm Energy Receiver Base Casing
 tile.DysonSwarmReceiverDish.name=Dyson Swarm Energy Receiver Dish Block
 tile.DysonSwarmDeploymentUnitCasing.name=Dyson Swarm Module Deployment Unit Base Casing

@@ -82,10 +82,10 @@ nei.inventory.midnight.enable=激活午夜时间设置
 nei.inventory.midnight.disable=右键禁用午夜-破晓阶段
 nei.inventory.midnight.set=设置时间为午夜
 nei.inventory.heal=治愈玩家并回满饱食度
-nei.inventory.current.gamemode.0=当前游戏模式: 生存
-nei.inventory.current.gamemode.1=当前游戏模式: 创造
-nei.inventory.current.gamemode.2=当前游戏模式: 创造+
-nei.inventory.current.gamemode.3=当前游戏模式: 冒险
+nei.inventory.current.gamemode.0=当前游戏模式：生存
+nei.inventory.current.gamemode.1=当前游戏模式：创造
+nei.inventory.current.gamemode.2=当前游戏模式：创造+
+nei.inventory.current.gamemode.3=当前游戏模式：冒险
 nei.inventory.tooltip.page=第 %s / %s 页 [按下 %s 查看下一页]
 
 nei.inventory.gamemode.0=点击设置为生存模式

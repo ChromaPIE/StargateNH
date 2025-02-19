@@ -10,8 +10,8 @@ wailaharvestability.toolclass.sword=剑
 # tooltips
 wailaharvestability.effectivetool=所需工具 :
 wailaharvestability.harvestlevel=采掘等级:
-wailaharvestability.currentlyharvestable=目前能否挖掘
-wailaharvestability.harvestable=能否挖掘
+wailaharvestability.currentlyharvestable= 目前能否挖掘
+wailaharvestability.harvestable= 能否挖掘
 
 # options
 option.harvestability.harvestlevel=采掘等级

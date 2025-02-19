@@ -101,6 +101,7 @@ item.mobAspect.name=灵魂要素
 item.mobAspect.condensed.name=稠密灵魂要素
 item.mobAspect.infused.name=注魔灵魂要素
 item.infusedSeeds.name=蕴魔种子
+item.infusedPotion.name=Potion
 item.infusedPotion.Aer.name=风元药水
 item.infusedPotion.Ignis.name=火元药水
 item.infusedPotion.Terra.name=地元药水
@@ -152,7 +153,12 @@ tile.travelSlab.name=旅行者台阶
 tile.travelSlabFull.name=旅行者铺路石
 tile.travelStairs.name=旅行者楼梯
 tile.wardSlab.name=守卫者台阶
+tile.wardSlabFull.name=Paving Slab of Warding
 tile.infusedFarmland.name=蕴魔耕地
+tile.gaseousLight.name=Gaseous Light
+tile.gaseousShadow.name=Gaseous Shadow
+tile.infusedGrainBlock.name=Imbued Grain
+tile.nitorGas.name=Nitor Gas
 
 # Fire
 tile.fireWater.name=坎水之焰
@@ -340,7 +346,7 @@ ttresearch.page.TTENCH_SLOW_FALL.0=你研究出一种让自己可以像雪花那
 # -- ENCHANTMENT: FLAMING TOUCH
 ttresearch.name.TTENCH_AUTO_SMELT=附魔:燃烧之触
 ttresearch.lore.TTENCH_AUTO_SMELT=烈火神焰!
-ttresearch.page.TTENCH_AUTO_SMELT.0=你研究出一种凭空召唤火焰的附魔.<BR><BR>工具被施加该附魔后,能够通过火焰的力量软化木材结果从而轻易采伐任何木质品,且不会将其摧毁.然后,附魔后的工具将难以采集其他方块,且耐久会双倍地减少.
+ttresearch.page.TTENCH_AUTO_SMELT.0=你研究出一种凭空召唤火焰的附魔.<BR><BR>工具被施加该附魔后,能够通过火焰的力量软化木材结果从而轻易采伐任何木制品,且不会将其摧毁.然后,附魔后的工具将难以采集其他方块,且耐久会双倍地减少.
 
 # -- ENCHANTMENT: DISINTEGRATE
 ttresearch.name.TTENCH_DESINTEGRATE=附魔:解离

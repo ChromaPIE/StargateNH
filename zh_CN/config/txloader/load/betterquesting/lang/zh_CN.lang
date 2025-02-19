@@ -53,10 +53,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.desc=史诗级任务：屠杀绵羊�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADQ.name=§1§l好累……真得……睡觉了……
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADQ.desc=睡觉时间到,这也是这个初阶教程的终点.%n%n恭喜!你完成了新手任务!你已经独自建造了属于自己的第一个窝,现在应该也拥有了一个稳定的食物来源.%n%n期待在第0阶见到你!
 
-# Quest: What's That...?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAADg.name=§1§l这啥玩意儿？
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAADg.desc=你已经看过很多树了,而其中有几棵看起来很特殊,你很确信它们的功用绝对不只是拿来盖房子或是烧成木炭.你非常肯定,这些东西会非常重要,很快™.%n%n想要找到它们,最佳选择是魔法森林,要是你找不着的话,也可以试试花园或者樱桃树林.或是随意闲逛.%n%n要是这些都找不到的话,你可以去"硬币"任务栏买点.
-
 # Quest: Collecting Some Berries
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1Q.name=§1§l收集一些浆果
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1Q.desc=你还在等着胡萝卜长大么？出去找一些灌木和浆果吧!%n%n浆果是很好的食物来源. 并且你可以把这些灌木围在你的房子周围做一堵墙,这可以防止那些想进入你的房子并且想杀死你的怪物们.
@@ -249,7 +245,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJw.desc=这些标准的箱子拿来存�
 
 # Quest: You Shall Proceed
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKA.name=§2§l继续前进
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKA.desc=当你为你的基础蒸汽机搜集好所有材料、制作出所有工具后,你该准备前往下一阶段了.请记住,为了制作那些最简单的东西,你将需要如山的资源,所以在这个阶段你也许该准备好所有的矿石,但要不要这么做就看你自己决定了.%n%n作为特别的奖励,你将获得一副全息眼镜,可用于直接查看容器内物品. 将其置于面具(眼镜)装备栏,并使用快捷键(设置-控制里找到hologlasses)开启. 有时候它会莫名自己关闭,再次按下快捷键打开即可.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKA.desc=你已收集并制作了基础蒸汽机械所需的所有材料和工具，现可进入下一阶段。请注意，即使制造最简单的物品也将消耗海量资源，建议尽可能储备本阶段所有矿石，但决定权在你。%n%n作为特殊奖励，你将获得一副全息眼镜，将其置于面具槽位并使用快捷键激活后，即可一眼看穿任何容器，知晓其内部的存储情况。%n%n[note]提示：双击NEI搜索框时，高亮搜索结果将同步显示在全息眼镜的视野之中！[/note]
 
 # Quest: Don't Burn Your Fingers!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKQ.name=§2§l别烫到你的手指!
@@ -435,6 +431,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALPA.desc=看起来...你在不太深的�
 betterquesting.quest.bMKIeFhNQluRks9YzpqEGQ.name=§6§l勘探之力!
 betterquesting.quest.bMKIeFhNQluRks9YzpqEGQ.desc=在你的地图界面(默认按J)的顶上有多个标签页,其中一些十分有用,可以节省你大量的搜索时间!%n%nGT矿脉-此标签页会为你追踪矿脉,要保存矿脉到地图,右键一个自然生成的矿石(有些工具不能右键)%nGT地下流体-这会在之后（MV）帮助你%nTC节点-此标签页会为你追踪神秘时代节点(你得先扫描它们)%n%n[note]贫瘠矿石不是矿脉的一部份,因此无法在地图上显示为矿脉.然而矿脉会在它们的区块里生成额外的贫瘠矿石,因此它们对你的搜索仍然很有用(不是所有贫瘠矿石都生成在矿脉旁,不要被骗了)[/note]%n%n[note]另一个超棒的功能是,你可以在NEI搜索栏中使用高亮模式(双击它),然后转到地图界面,就可以突出显示匹配的未开采矿脉![/note]
 
+# Quest: Your First Flint Sword
+betterquesting.quest.h_PK8qnyR9CBUoOhT9nwzA.name=§2§l你的第一柄燧石剑
+betterquesting.quest.h_PK8qnyR9CBUoOhT9nwzA.desc=该给你的木剑升升级了。%n找几块燧石和一根木棍，简单拼凑即可制得。用坏了也可以拿燧石修。%n%n拿着它单挑凋灵确实有点异想天开，但你可以在往后给它来点升级，增强它的硬实力。
+
 # Quest: NEI is EVEN MORE POWERFUL NOW?
 betterquesting.quest.pl7uw8oSRhe6L4DmTRfrOQ.name=§2§lNEI再一次更强大了？
 betterquesting.quest.pl7uw8oSRhe6L4DmTRfrOQ.desc=NEI现在会自动将相似的物品折叠到一个槽位,使浏览速度更快!要折叠/展开一个物品组,请使用 ALT+LMB.%n您还可以使用自定义组创建自己的预设!%n%n[note]您可以在 NEI 设置中禁用此功能[/note]%n%n此外,NEI 现在具有类似 JEI 的高级搜索：%n%n@ - 按 mod 搜索 (@minecraft)%n%n[note]您可以使用更多特殊字符,但大多数特殊字符默认为关闭(例如,无需使用#在工具提示中搜索), 以下是所有特殊字符,请在 NEI 设置中检查哪些是打开/关闭的.%n%n空格用作不同条件之间的逻辑与%n# - 按工具提示搜索(#UV-Tier)%n& - 按 id 搜索：(&95：15 extratrees：door)%n$ - 按矿物词典搜索 ($ore)%n%% - 按子集搜索(%%block)%n| - 逻辑或.多项物品搜索：(wrench|hammer)%n--逻辑非.排除与以下表达式匹配的物品(-@minecraft)%n" - 用引号括起来的多个单词将被视为一个条件,而不是多个条件 ("White Stained Glass")%n%n搜索模式(应用于搜索部分,而不是完整字符串)：%n纯文本 - 简单字符串%n扩展 - 仅允许 ?,* 规则(默认)%n正则表达式 - 允许完整正则表达式%n%n在扩展搜索模式下：%n? - 任何一个字符 (@min?craft)%n* - 任意一个或多个字符 (@m*ft = @minecraft)%nr/.../ - 标准 java 正则表达式 (@r/m\w{6}ft/ = @minecraft)[/note]%n%n[note]您可以在 NEI 设置中禁用此功能.[/note]%n%n您可以将鼠标悬停在物品上时使用A键添加书签,也可以：%n按住 SHIFT 为整个配方添加书签%n按住 CTRL 为物品的数量添加书签%n按住 SHIFT + CTRL 为配方以及其所包含的所有物品的数量添加书签%n
@@ -450,7 +450,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEA.desc=想要在一个水槽中储存�
 
 # Quest: Welcome to Tier 0.5, Steam!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAALA.name=§3§l欢迎来到第0.5阶,蒸汽!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAALA.desc=欢迎,到目前为止做得很好!在本阶段你将拥有你的第一台机器,获得更多矿物产物,并且可以更有效率地制作青铜锭.%n%n至于水源问题,查看多方块栏中的"水源困境"任务.%n%n要用管道连接你的锅炉,请确保从底部供水,底部只会接收水,而不会输出蒸汽,这样就不用担心管道被融化了. 木质管道就能胜任此事.确保你的水源源不绝[warn]因为直接向炽热的干锅炉加水将导致爆炸![/warn]%n%n蒸汽会从侧面输出.记住,蒸汽是很烫的!它会摧毁木质管道,所以你得换成青铜管道,而且如果你碰到充满蒸汽的管道,将会被烫伤.用木板或纸盖住它们.或者不要在其上或周围行走.%n%n另外,这些蒸汽机器没有自带自动化输出,如果要GUI中的功能,你得做个用电的.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAALA.desc=欢迎,到目前为止做得很好!在本阶段你将拥有你的第一台机器,获得更多矿物产物,并且可以更有效率地制作青铜锭.%n%n至于水源问题,查看多方块栏中的"水源困境"任务.%n%n要用管道连接你的锅炉,请确保从底部供水,底部只会接收水,而不会输出蒸汽,这样就不用担心管道被融化了. 木制管道就能胜任此事.确保你的水源源不绝[warn]因为直接向炽热的干锅炉加水将导致爆炸![/warn]%n%n蒸汽会从侧面输出.记住,蒸汽是很烫的!它会摧毁木质管道,所以你得换成青铜管道,而且如果你碰到充满蒸汽的管道,将会被烫伤.用木板或纸盖住它们.或者不要在其上或周围行走.%n%n另外,这些蒸汽机器没有自带自动化输出,如果要GUI中的功能,你得做个用电的.
 
 # Quest: More Advanced Alloys
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAALg.name=§3§l更多高级合金
@@ -602,7 +602,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAC5g.desc=制作一柄大锤,你就可以
 
 # Quest: Cutting a Tree log by log is so Old School
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC5w.name=§3§l一次砍一个原木已经过气了
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC5w.desc=制作一把伐木斧,你就可以一次砍掉一整棵树.当你准备砍掉一棵神圣橡木时,别忘了带上你的背包.%n%n专业建议:用木质模具做出一个纯地狱岩材质的伐木斧,挖掘速度越慢,升级所需的经验越少.然后在升级后的槽位中打上耐久升级.等你等级刷够了(译者注：先来一个不毁),就可以更换更好(也更快)的材料了,例如钢,铝或者其他材料.记住,自动熔炼不会生效,别试着打上自动熔炼.%n%n本任务接受任意材料制成的伐木斧
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC5w.desc=制作一把伐木斧,你就可以一次砍掉一整棵树.当你准备砍掉一棵神圣橡木时,别忘了带上你的背包.%n%n专业建议:用木制模具做出一个纯地狱岩材质的伐木斧,挖掘速度越慢,升级所需的经验越少.然后在升级后的槽位中打上耐久升级.等你等级刷够了(译者注：先来一个不毁),就可以更换更好(也更快)的材料了,例如钢,铝或者其他材料.记住,自动熔炼不会生效,别试着打上自动熔炼.%n%n本任务接受任意材料制成的伐木斧
 
 # Quest: Mining Dirt Block by Block is so Old School
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6A.name=§3§l慢慢挖土已经过气了
@@ -839,7 +839,7 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAw.desc=第一个"电压"的阶段.
 
 # Quest: Handle Resources Like a Bo$$ #1
 betterquesting.quest.53iZp0DzRzidBo4-kUsWGg.name=§5§6§l§5§l处理资源就像个Bo$$ #1
-betterquesting.quest.53iZp0DzRzidBo4-kUsWGg.desc=人类工程学的一大巅峰已被你掌握!%n%n这台机器可以让你根据机器配方的类型来筛选物品,让你轻松地实现自动化.只需简单的将任意类型的一台机器放进GUI中便可创建一个过滤器,举个例子,研磨机会让过滤器只接受可以被研磨的物品.也可以用它来创建一个反转过滤名单(GUI中的一个按钮)来排除所有可被这台机器处理的物品.%n%n[note]是时候来点矿物处理自动化了么?[/note]
+betterquesting.quest.53iZp0DzRzidBo4-kUsWGg.desc=人类工程的伟大壮举，在此刻任您差遣！%n%n这台机器允许你按照机器配方类型进行过滤，使你能够轻而易举地设置自动化流程。使用方法很简单，只需将任意类型的机器放入界面中即可配置过滤，例如，放入一台粉碎机将使该机器只接受可粉碎处理的物品。同时，界面中还有一个可启用黑名单的按钮，在上述例子中，则可使机器将可粉碎物品排除在外。
 
 # Quest: Welcome to Tier 1, LV
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWA.name=§5§r§5§l欢迎来到第1阶段,LV
@@ -1175,7 +1175,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADog.desc=LV阶段的自动采矿设备.�
 
 # Quest: Automated Sticky Resin Farmer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADqg.name=§5§6§l§5§l电动树脂提取机
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADqg.desc=如果你厌倦了制作大量的木质龙头来提取树脂,那么一台使用电力永远不会损坏的工具一定十分和你心意.让我们来制作一个电动树脂提取机吧!%n%n(如果你在寻找更好的方法获取粘性树脂,可以考虑IC2作物中的粘性甘蔗(Stickreed).将作物架摆成X型,并在其上种植甘蔗,中间留有空位,然后在每个空位上摆放两个作物架. 如果想了解更多信息,请查看作物任务.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADqg.desc=如果你厌倦了制作大量的木龙头来提取树脂,那么一台使用电力永远不会损坏的工具一定十分和你心意.让我们来制作一个电动树脂提取机吧!%n%n(如果你在寻找更好的方法获取粘性树脂,可以考虑IC2作物中的粘性甘蔗(Stickreed).将作物架摆成X型,并在其上种植甘蔗,中间留有空位,然后在每个空位上摆放两个作物架. 如果想了解更多信息,请查看作物任务.
 
 # Quest: Automated Farmer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADqw.name=§6§l§d§5§l电动锄
@@ -1239,7 +1239,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAEjg.desc=下界有各种各样的石英.
 
 # Quest: Lithium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEjw.name=§5§l锂
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEjw.desc=锂粉可以通过洗矿厂洗涤锂云母矿石或者离心锂辉石矿石得到.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEjw.desc=可离心锂云母或锂辉石矿石，或是使用洗矿厂洗涤锂云母矿石来获取锂粉。在MV阶段，电解粘土粉也将成为可用来源之一。寻找峡谷，采掘陶瓦并粉碎即可获得大量的粘土粉。
 
 # Quest: Sodium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEkA.name=§5§l钠
@@ -1379,7 +1379,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALpw.desc=云母是非常稀有而又很�
 
 # Quest: Handle Resources Like a Bo$$ #2
 betterquesting.quest.JRrD8MoLRuCHCD-fFpeNvQ.name=§5§6§l§5§l处理资源就像个Bo$$ #2
-betterquesting.quest.JRrD8MoLRuCHCD-fFpeNvQ.desc=人类工程技术的巅峰之作,尽在掌握!%n%n这个机器允许你过滤九个物品,并只能按照设定好的方式输出.%n这台机器让你可以自动化类似电解配方这类需求物品数量不固定的配方,否则系统很容易被卡住%n%n[note]是时候做一些矿物处理自动化了?[/note]%n[note]当你进入MV阶段并解锁更多电解配方时这台机器会发挥巨大作用![/note]
+betterquesting.quest.JRrD8MoLRuCHCD-fFpeNvQ.desc=人类工程的伟大壮举，在此刻任您差遣！%n%n这个机器允许你过滤九个物品,并只能按照设定好的方式输出.%n这台机器让你可以自动化类似电解配方这类需求物品数量不固定的配方,否则系统很容易被卡住%n%n[note]当你进入MV阶段并解锁更多电解配方时这台机器会格外有用![/note]
 
 # Quest: Keeping things organized
 betterquesting.quest.b47jlBoHTFGGB3j7nq60Zw.name=§5§lKeeping things organized
@@ -5575,11 +5575,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHmA.desc=凿子还可以把混凝土和G
 
 # Quest: Basic Builder's Wand
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHmQ.name=基础建筑之杖
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHmQ.desc=石质建筑之杖的唯一优点就是便宜.它无法提供太多的模式,也不能用太久.但你可以成吨地制作它.%n%n至于使用,只需瞄准方块(物品栏中有更多同样的方块),就会显示出将会摆放的轮廓,右键即可实现摆放.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHmQ.desc=石制建筑之杖的唯一优点就是便宜.它无法提供太多的模式,也不能用太久.但你可以成吨地制作它.%n%n至于使用,只需瞄准方块(物品栏中有更多同样的方块),就会显示出将会摆放的轮廓,右键即可实现摆放.
 
 # Quest: Low-Tier Wand
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHmg.name=低阶建筑之杖
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHmg.desc=铁质建筑之杖比石质的能用更久,并有些不同模式.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHmg.desc=铁制建筑之杖比石制的能用更久,并有些不同模式.
 
 # Quest: Mid-Tier Wand
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHmw.name=中阶建筑之杖
@@ -5591,7 +5591,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHnA.desc=要是你机器发出的声音�
 
 # Quest: Botany
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHoA.name=植物学
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHoA.desc=植物学(Botany)这个mod为方块和玻璃提供了更多颜色,以及简单的瓷砖图案,或者用瓷砖作坊做出更复杂的图案.  现在,你需要做个铁质泥铲.%n%n这个mod会产生大量的蝴蝶,所以务必把你的花园放在地下或者玻璃房子里.蝴蝶会在你的领地周围扩散开来,感染树叶并产生更多的蝴蝶,造成延迟...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHoA.desc=植物学(Botany)这个mod为方块和玻璃提供了更多颜色,以及简单的瓷砖图案,或者用瓷砖作坊做出更复杂的图案.  现在,你需要做个铁制泥铲.%n%n这个mod会产生大量的蝴蝶,所以务必把你的花园放在地下或者玻璃房子里.蝴蝶会在你的领地周围扩散开来,感染树叶并产生更多的蝴蝶,造成延迟...
 
 # Quest: Finding Flowers
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHoQ.name=寻花
@@ -5968,7 +5968,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALKw.desc=燃油引擎通过燃烧物品�
 
 # Quest: Kinesis Pipes
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALLA.name=能量管道
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALLA.desc=想要将RF能量传输1格以上,你需要一些能量管道. 首先使用木质管道连接到管道网络,然后再通过其他种类的管道输送能量. 而且,其中的某些似乎是有损的,而更贵的管道一般更好. 另外,你需要电容库来存储RF.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALLA.desc=想要将RF能量传输1格以上,你需要一些能量管道. 首先使用木制管道连接到管道网络,然后再通过其他种类的管道输送能量. 而且,其中的某些似乎是有损的,而更贵的管道一般更好. 另外,你需要电容库来存储RF.
 
 # Quest: Coast Sequoia
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALLg.name=海岸红杉
@@ -6081,7 +6081,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVg.desc=要处理更高级的材料(比
 
 # Quest: Steel Multiblock Tanks
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVw.name=§6§l钢质蓄水器
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVw.desc=想要双倍容量的蓄水器？去做一个钢质蓄水器吧.除了容量更大,其余一切和铁质蓄水器完全相同.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVw.desc=想要双倍容量的蓄水器？去做一个钢质蓄水器吧.除了容量更大,其余一切和铁制蓄水器完全相同.
 
 # Quest: HSS-G Coil Upgrade
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2w.name=§6§l升级高速钢-G线圈
@@ -13882,6 +13882,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAABA.desc=现在,你可能会发现这两
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACw.name=§1§l锋利:超过...5...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACw.desc=该做些有用的东西了：一把剑!%n%n现在你有了一把剑,你将在“杀戮时刻”任务栏中获得杀死怪物的奖励.当心,这个世界上的怪物会把你咬碎然后再吐出来!%n%n如果忘记了任务所在的位置,可以在"游历四方"任务栏中找到别的武器任务.
 
+# Quest: What's That...?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAADg.name=§1§l这啥玩意儿？
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAADg.desc=你已经看过很多树了,而其中有几棵看起来很特殊,你很确信它们的功用绝对不只是拿来盖房子或是烧成木炭.你非常肯定,这些东西会非常重要,很快™.%n%n想要找到它们,最佳选择是魔法森林,要是你找不着的话,也可以试试花园或者樱桃树林.或是随意闲逛.%n%n要是这些都找不到的话,你可以去"硬币"任务栏买点.
+
 # Quest: Steam-a-licious!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAARg.name=§3§l更多蒸汽!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAARg.desc=你几乎完成它了!只需要最后一个制作步骤就可以到达第1阶的需求!继续前进吧!%n%n这种蒸汽轮机可以将蒸汽转化为EU.你之前使用的能源一成不变,但从此刻开始,你可以生产EU,并通过线缆将其输送到你的机器内,取代原先需要通过管道将蒸汽直接送到机器处.相比青铜机器,电力机器无需排气口,且更加高效.%n%n另外,之后你很可能还会从蒸汽转向另一种燃料.
@@ -14083,8 +14087,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAEgg.name=§5§l镁铝合金弩箭
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEgg.desc=镁铝合金制作的弹药要比过去的弹药好很多.%n%n你还可以使用下界石英强化弩箭,让弩箭变得更加锋利.不过前提是弩箭上有一个空闲的升级槽位.%n%n在NEI上查询材料的参数,找一种弩箭的好材料吧.%n%n制造大部分弩箭时,你得用流体固化器而不是匠魂的浇铸台.而且重点在于你需要通过匠魂冶炼炉来获取熔融铁并注入流体固化器,注意不能直接用GT的熔融铁.%n%n如果你想捡起你射出的弩箭,你需要把匠魂的弩箭放在物品栏中.如果放在战备双持的物品栏里,则无法捡起.
 
 # Quest: Wooden Bolts
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEhA.name=§3§l铁质弩箭
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEhA.desc=光有弩还不够,我们还需要一些弹药.让我们来制作一些木质弩箭.现在你可以用冶炼炉熔炼铁、耐酸铝或者钢装上你的箭头.%n更高阶的弩箭和箭头制造需要用到流体固化器,将你想要用的金属泵入流体固化器吧.%n%n[warn]升级[/warn]:%n[note]下界(赛特斯)石英-提高伤害%n苔藓球-自我修复(在魔导手册GTNH栏解锁)[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEhA.name=§3§l铁制弩箭
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEhA.desc=光有弩还不够,我们还需要一些弹药.让我们来做一些木制弩箭.现在你可以用冶炼炉熔炼铁、耐酸铝或者钢装上你的箭头.%n更高阶的弩箭和箭头制造需要用到流体固化器,将你想要用的金属泵入流体固化器吧.%n%n[warn]升级[/warn]:%n[note]下界(赛特斯)石英-提高伤害%n苔藓球-自我修复(在魔导手册GTNH栏解锁)[/note]
 
 # Quest: Making Power With Your Plasma
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEsA.name=§d§l§f§c§l利用等离子体发电

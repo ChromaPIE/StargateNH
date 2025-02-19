@@ -148,7 +148,7 @@ wp.hud.msg.incrAmnt=增量: %d
 wp.hud.msg.decrAmnt=减量: %d
 
 # Comparator
-wp.hud.msg.mode=模式: %s
+wp.hud.msg.mode=模式：%s
 wp.hud.msg.subtract=减法
 wp.hud.msg.compare=比较
 

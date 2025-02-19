@@ -271,11 +271,11 @@ binniecore.machine.error.tankFull=储罐已满
 binniecore.machine.error.insufficientLiquid=液体不足
 
 binniecore.machine.storage.compartment=组合箱
-binniecore.machine.storage.compartmentIron=铁质组合箱
+binniecore.machine.storage.compartmentIron=铁制组合箱
 binniecore.machine.storage.compartmentDiamond=钻石组合箱
 binniecore.machine.storage.compartmentCopper=铜质组合箱
 binniecore.machine.storage.compartmentBronze=青铜组合箱
-binniecore.machine.storage.compartmentGold=金质组合箱
+binniecore.machine.storage.compartmentGold=金制组合箱
 binniecore.machine.storage.tab=组合箱标签
 binniecore.machine.storage.tab.desc=标签用于将物品栏分割成若干部分。
 binniecore.machine.storage.tab.properties=标签属性

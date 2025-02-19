@@ -249,7 +249,7 @@ item.SC2:melter.name=熔化器
 item.SC2:standard_hull.name=标准车壳
 item.SC2:reinforced_hull.name=强化车壳
 item.SC2:invisibility_core.name=隐形核心
-item.SC2:wooden_hull.name=木质车壳
+item.SC2:wooden_hull.name=木制车壳
 item.SC2:iron_drill.name=铁制钻头
 item.SC2:hardened_drill.name=强化钻头
 item.SC2:note_sequencer.name=音符编曲器
@@ -412,11 +412,13 @@ tile.SC2:BlockDistributor.name=外部分配器
 tile.SC2:BlockLiquidManager.name=流体管理器
 
 # Storage
+tile.SC2:BlockMetalStorage.name=Resource Block
 item.SC2:BlockStorage0.name=强化金属块
 item.SC2:BlockStorage1.name=混合晶化金属块
 item.SC2:BlockStorage2.name=强化混合晶化金属块
 
 # Upgrades
+tile.SC2:upgrade.name=Upgrade
 item.SC2:batteries.name=升级：电池
 item.SC2:power_crystal.name=升级：能量水晶
 item.SC2:module_knowledge.name=升级：模块知识
@@ -439,6 +441,7 @@ item.SC2:solar_panel_upgrade.name=升级：太阳能板
 item.SC2:thermal_engine_upgrade.name=升级：热能引擎
 
 # Detector Units
+tile.SC2:BlockDetector.name=Detector
 item.SC2:BlockDetector0.name=探测管理器
 item.SC2:BlockDetector1.name=探测装置
 item.SC2:BlockDetector2.name=探测站

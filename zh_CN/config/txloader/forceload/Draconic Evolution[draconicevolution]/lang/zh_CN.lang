@@ -130,13 +130,13 @@ itemGroup.toolsAndWeapons=龙之研究工具和武器
 itemGroup.blocksAndItems=龙之研究方块和物品
 
 //Chat Messages ----------------------------------------------------------------------------------------------------------------------------------------
-msg.size0.txt=工具模式: 单个方块
-msg.size1.txt=工具模式: 3x3
-msg.size2.txt=工具模式: 5x5
-msg.size3.txt=工具模式: 7x7
-msg.size4.txt=工具模式: 9x9
-msg.oblittrue.txt=§a删除模式: §4激活
-msg.oblitfalse.txt=§a删除模式: §2未激活
+msg.size0.txt=工具模式：单个方块
+msg.size1.txt=工具模式：3x3
+msg.size2.txt=工具模式：5x5
+msg.size3.txt=工具模式：7x7
+msg.size4.txt=工具模式：9x9
+msg.oblittrue.txt=§a删除模式：§4激活
+msg.oblitfalse.txt=§a删除模式：§2未激活
 msg.bowmoderapidfire.txt=§3射击模式:§6扫射
 msg.bowmodesharpshooter.txt=§3射击模式:§6狙击
 msg.bowmodeexplosive.txt=§3射击模式:§6爆炸
@@ -144,7 +144,7 @@ msg.bowmodedevistation.txt=§3射击模式:§6崩坏！(仅创造模式)
 msg.bowoutofgunpowder.txt=§4你需要4个火药来使用爆炸模式
 msg.teleporterUnSet.txt=§c你在传送之前必须首先设置目的地(Shift +右键)
 msg.teleporterBound.txt=§a传送器绑定到:
-msg.teleporterLowHealth.txt=你生命值低
+msg.teleporterLowHealth.txt= §c你的生命值过低！
 msg.teleporterSentMob.txt=实体已被送到
 msg.teleporterEntityDimensional.txt=§c你不能把生物跨纬度传送!
 msg.teleporterAlreadySet.txt=§c[错误]传送石只能被绑定到一个位置!
@@ -206,14 +206,14 @@ msg.de.unLinked.txt=已移除设备
 msg.de.wrongSide.txt=无法连接到目标设备的另一侧
 
 //Reactor
-msg.de.reactorRSMode.0.txt=比较器模式: 温度
-msg.de.reactorRSMode.1.txt=比较器模式: 温度[反转]
-msg.de.reactorRSMode.2.txt=比较器模式: 密封
-msg.de.reactorRSMode.3.txt=比较器模式: 密封[反转]
-msg.de.reactorRSMode.4.txt=比较器模式: 能量饱和
-msg.de.reactorRSMode.5.txt=比较器模式: 能量饱和[反转]
-msg.de.reactorRSMode.6.txt=比较器模式: 燃料转换
-msg.de.reactorRSMode.7.txt=比较器模式: 燃料转换[反转]
+msg.de.reactorRSMode.0.txt=比较器模式：温度
+msg.de.reactorRSMode.1.txt=比较器模式：温度[反转]
+msg.de.reactorRSMode.2.txt=比较器模式：密封
+msg.de.reactorRSMode.3.txt=比较器模式：密封[反转]
+msg.de.reactorRSMode.4.txt=比较器模式：能量饱和
+msg.de.reactorRSMode.5.txt=比较器模式：能量饱和[反转]
+msg.de.reactorRSMode.6.txt=比较器模式：燃料转换
+msg.de.reactorRSMode.7.txt=比较器模式：燃料转换[反转]
 
 //Tool Tips/other localizations ----------------------------------------------------------------------------------------------------------------------------------------
 info.teleporterInfUnset1.txt=未绑定
@@ -299,7 +299,7 @@ info.de.manual.nav3.txt=按住Shift快速浏览
 //Energy Net
 info.de.modeIn.txt=模式：输入
 info.de.modeOut.txt=模式：输出
-info.de.5xTransfer.txt=(5x 转移)
+info.de.5xTransfer.txt=（5x 转移）
 info.de.connections.txt=连接
 info.de.wirelessConnections.txt=无线连接
 
@@ -576,15 +576,15 @@ gui.de.particleGenerator.enabled.name=启用：%s
 gui.de.particleGenerator.renderCore.name=渲染核心：%s
 gui.de.particleGenerator.saveSettings.name=记录数值
 
-gui.de.particleGenerator.info.1=粒子发生器是可以让你自由创建粒子特效的装饰性设备。\n  这个设备用起来非常简单，你只要修改界面上的一些字段(变量)就能改变生成的粒子的样式和行为。\n  这个方块仍在开发中，新的特性和粒子可能会在未来的版本中加入。\n  下面的列表包含了所有的字段以及它们的用途。
-gui.de.particleGenerator.info.2=首先需要关注的是大多数字段后都跟着一个随机值，可以给字段加上一个从0到最大(或者最小)的随机值。\n  -开头的三个字段(红，绿，蓝)控制粒子的颜色。大多数人应该都熟悉这套颜色系统，如果不熟悉的话就百度一下。注意：每个颜色的最大值不能超过255，因此颜色字段限制了随机值。例如如果颜色值被设置为255，而随机值被设置为20，那么实际值永远还是255。
-gui.de.particleGenerator.info.3=- 接下来的三个字段(移动X，Y，Z）控制粒子的方向和移动速度。\n  -“生存时间”字段设定粒子消失前能存在多久(单位tick)。\n  -“放缩”字段设定粒子的大小。\n  -接下来的三个字段(生成 X，Y，Z)控制粒子的生成位置(相对于粒子发生器的位置)。
-gui.de.particleGenerator.info.4=-“延迟”字段设定每个粒子生成的延迟时间(单位tick)，例如1=20/s，20=1/s，100=1/5s。\n  -“淡出”字段设定粒子消失时的淡出时间(单位tick)。注意：这会加到粒子的生存时间上。\n  -“重力”字段设定粒子如何被重力影响。\n  -“方块碰撞”决定粒子是否会与方块碰撞。\n  -“选择的粒子”可以在不同的可选的粒子间切换。
+gui.de.particleGenerator.info.1=  粒子发生器是可以让你自由创建粒子特效的装饰性设备。\n  这个设备用起来非常简单，你只要修改界面上的一些字段(变量)就能改变生成的粒子的样式和行为。\n  这个方块仍在开发中，新的特性和粒子可能会在未来的版本中加入。\n  下面的列表包含了所有的字段以及它们的用途。
+gui.de.particleGenerator.info.2=  首先需要关注的是大多数字段后都跟着一个随机值，可以给字段加上一个从0到最大(或者最小)的随机值。\n  -开头的三个字段(红，绿，蓝)控制粒子的颜色。大多数人应该都熟悉这套颜色系统，如果不熟悉的话就百度一下。注意：每个颜色的最大值不能超过255，因此颜色字段限制了随机值。例如如果颜色值被设置为255，而随机值被设置为20，那么实际值永远还是255。
+gui.de.particleGenerator.info.3=  - 接下来的三个字段(移动X，Y，Z）控制粒子的方向和移动速度。\n  -“生存时间”字段设定粒子消失前能存在多久(单位tick)。\n  -“放缩”字段设定粒子的大小。\n  -接下来的三个字段(生成 X，Y，Z)控制粒子的生成位置(相对于粒子发生器的位置)。
+gui.de.particleGenerator.info.4=  -“延迟”字段设定每个粒子生成的延迟时间(单位tick)，例如1=20/s，20=1/s，100=1/5s。\n  -“淡出”字段设定粒子消失时的淡出时间(单位tick)。注意：这会加到粒子的生存时间上。\n  -“重力”字段设定粒子如何被重力影响。\n  -“方块碰撞”决定粒子是否会与方块碰撞。\n  -“选择的粒子”可以在不同的可选的粒子间切换。
 gui.de.particleGenerator.info.5.title=红石控制\n\n
-gui.de.particleGenerator.info.5=默认情况下需要红石信号来让发生器工作。\n 然而如果你空手按住shift右击发生器，会让它进入反转模式。\n 发生器的8个角上的小方块表示了当前的红石模式。
+gui.de.particleGenerator.info.5=  默认情况下需要红石信号来让发生器工作。\n 然而如果你空手按住shift右击发生器，会让它进入反转模式。\n 发生器的8个角上的小方块表示了当前的红石模式。
 gui.de.particleGenerator.info.6.title=计算机控制\n\n
-gui.de.particleGenerator.info.6=发生器可以被计算机控制。\n  它提供了一些相对直白的API：\n\n  setGeneratorProperty(property, value)\n  getGeneratorState()\n  resetGeneratorState()
-gui.de.particleGenerator.info.7=发生器的整体状态可以通过getGeneratorState获得，使用setGeneratorProperty可以一次修改一个属性。属性名字是字符串，而且几乎都与英文版 GUI 上的标签相同。
+gui.de.particleGenerator.info.6=  发生器可以被计算机控制。\n  它提供了一些相对直白的API：\n\n  setGeneratorProperty(property, value)\n  getGeneratorState()\n  resetGeneratorState()
+gui.de.particleGenerator.info.7=  发生器的整体状态可以通过getGeneratorState获得，使用setGeneratorProperty可以一次修改一个属性。属性名字是字符串，而且几乎都与英文版 GUI 上的标签相同。
 
 gui.de.insert.txt=插入
 gui.de.extract.txt=提取

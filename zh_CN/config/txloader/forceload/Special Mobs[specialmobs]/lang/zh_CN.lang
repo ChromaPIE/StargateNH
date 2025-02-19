@@ -360,7 +360,7 @@ entity.SpecialMobs.GiantPigZombie.desc.1=增大体型，提升伤害
 entity.SpecialMobs.HungryPigZombie.desc.1=击中后偷取食物
 entity.SpecialMobs.PlaguePigZombie.desc.1=击中后施加随机debuff
 entity.SpecialMobs.VampirePigZombie.desc.1=免疫大部分伤害
-entity.SpecialMobs.VampirePigZombie.desc.2=弱点：木质武器
+entity.SpecialMobs.VampirePigZombie.desc.2=弱点：木制武器
 
 //Silverfish
 entity.SpecialMobs.BlindingSilverfish.desc.1=击中后致盲
