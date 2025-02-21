@@ -2215,7 +2215,6 @@ block.Tantalloy61.frame.name=Tantalloy-61 Frame Box
 block.Tantalloy61.standard.name=Block of Tantalloy-61
 block.TantalumCarbide.frame.name=Tantalum Carbide Frame Box
 block.TantalumCarbide.standard.name=Block of Tantalum Carbide
-block.Teflon.standard.name=Block of Teflon
 block.Thallium.frame.name=Thallium Frame Box
 block.Thallium.standard.name=Block of Thallium
 block.Titansteel.frame.name=Titansteel Frame Box
@@ -3104,15 +3103,6 @@ item.itemPlateNylon.name=尼龙板
 item.itemPlateDoubleNylon.name=双重尼龙板
 item.itemCellNylon.name=尼龙单元
 tile.Block of Nylon.name=尼龙块
-item.itemIngotTeflon.name=特氟龙锭
-item.itemDustTeflon.name=特氟龙粉
-item.itemDustTinyTeflon.name=小撮特氟龙粉
-item.itemDustSmallTeflon.name=小堆特氟龙粉
-item.itemNuggetTeflon.name=特氟龙粒
-item.itemPlateTeflon.name=特氟龙板
-item.itemPlateDoubleTeflon.name=双重特氟龙板
-item.itemCellTeflon.name=特氟龙单元
-tile.Block of Teflon.name=特氟龙块
 
 # Added 17/4/19
 # Spelling Corrections
@@ -3694,9 +3684,6 @@ item.BasicMetaFood.6.name=生猫肉
 item.BasicMetaFood.7.name=熟猫肉
 item.BasicMetaFood.8.name=烈焰人肉
 
-item.itemCellNaquadahFuel.name=硅岩燃料单元
-item.itemCellEnrichedNaquadahFuel.name=富集硅岩燃料单元
-item.itemCellNaquadriaFuel.name=超能硅岩燃料单元
 item.boricacid.name=硼酸单元
 item.hydrochloricacid.name=氢氯酸单元
 
@@ -3747,7 +3734,7 @@ item.FrothAlmandineflotation.name=铁铝榴石浮选泡沫单元
 item.FrothPyropeflotation.name=镁铝榴石浮选泡沫单元
 
 # Added 13/04/20
-item.T3RecipeSelector.name=突破编程电路
+item.T3RecipeSelector.name=编程突破电路
 
 # Added 03/05/20
 entity.miscutils.batKing.name=幽灵蝙蝠

@@ -50,6 +50,7 @@ tile.draconicevolution:energyCrystal2.name=能量收发器
 tile.draconicevolution:energyCrystal3.name=高级能量收发器
 tile.draconicevolution:energyCrystal4.name=无线能量收发器
 tile.draconicevolution:energyCrystal5.name=高级无线收发器
+tile.draconicevolution:dislocatorInhibitor.name=Dislocator Inhibitor
 
 
 //Item Information ----------------------------------------------------------------------------------------------------------------------------------------
@@ -508,6 +509,8 @@ button.de.BowExplosionPower.name=爆炸性的力量
 button.de.BowShockWavePower.name=激波力量
 button.de.BowEnergyBolt.name=龙火之矢
 button.de.BowZoomModifier.name=放大
+button.de.Enabled.name=Enabled
+button.de.MagnetSneak.name=Disabled while sneaking
 
 button.de.reactorCharge.txt=反应堆充能
 button.de.reactorStart.txt=激活

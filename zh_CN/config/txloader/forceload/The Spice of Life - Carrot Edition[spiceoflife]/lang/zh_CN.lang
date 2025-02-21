@@ -1,5 +1,5 @@
 # Tooltip strings
-spiceoflife.tooltip.nutritional.value=营养价值:
+spiceoflife.tooltip.nutritional.value=营养价值：
 spiceoflife.tooltip.eaten.recently=之前食用的%2$d次食物中,它占了%1$s
 spiceoflife.tooltip.eaten.recently.hunger=之前补充的%2$d点饥饿度中,它占了%1$s
 spiceoflife.tooltip.eaten.recently.time=之前%2$d天内,它占了%1$s

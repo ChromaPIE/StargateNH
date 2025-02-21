@@ -37,6 +37,10 @@ GT5U.gui.text.EIG_seedOverflow=存储了太多种子!
 GT5U.gui.text.EIG_missingwater=没有水!
 GT5U.gui.text.EIG_ic2glass=玻璃等级不足!
 
+#Waila
+kubatech.waila.eec.mob_type=Mob Type: %s
+kubatech.waila.eec.no_mob=None
+
 #Blocks
 kubablock.tea_acceptor.name=§4§l茶接收器
 kubablock.tea_storage.name=§4§l茶叶存储扩展器

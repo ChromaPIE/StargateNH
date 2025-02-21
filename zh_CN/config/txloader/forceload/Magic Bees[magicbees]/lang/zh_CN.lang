@@ -40,7 +40,7 @@ tile.magicApiary.name=魔法蜂箱
 tile.visAuraProvider.name=灵气蜂箱加速器
 tile.apimancersDrainer.name=Apimancer的沥水器
 tile.manaAuraProvider.name=魔力蜂箱加速器
-tile.hive.name=Hive
+tile.hive.name=蜂巢
 tile.hive.curious.name=好奇蜂巢
 tile.hive.unusual.name=非凡蜂巢
 tile.hive.deep.name=深度蜂巢
@@ -50,7 +50,7 @@ tile.hive.oblivion.name=湮没蜂巢
 tile.enchantedEarth.name=魔法泥土
 
 #Combs
-item.comb.name=Comb
+item.comb.name=蜂窝
 comb.mundane=平凡蜂窝
 comb.molten=熔融蜂窝
 comb.occult=神秘蜂窝
@@ -80,7 +80,7 @@ comb.TElux=流明蜂窝
 comb.TEendearing=可爱蜂窝
 
 #Waxes
-item.wax.name=Wax
+item.wax.name=蜜蜡
 wax.magic=魔力蜜蜡
 wax.soul=灵魂蜜蜡
 wax.amnesic=遗忘蜜蜡
@@ -95,7 +95,7 @@ drop.lux=流明液滴
 drop.endearing=可爱液滴
 
 #Pollens
-item.pollen.name=Pollen
+item.pollen.name=花粉
 pollen.unusual=罕见花粉
 pollen.phased=相位花粉
 
@@ -112,7 +112,7 @@ nugget.emerald=绿宝石碎片
 nugget.apatite=磷灰石碎片
 
 #Propolises
-item.propolis.name=Propolis
+item.propolis.name=蜂胶
 propolis.dull=秩序蜂胶
 propolis.air=和风蜂胶
 propolis.fire=炽热蜂胶
@@ -159,9 +159,9 @@ item.frenziedFrame.name=狂热框架
 item.bloodSoakedFrame.name=浸血框架
 
 #Capsules
-item.capsule.magic.name=Magic Capsule
+item.capsule.magic.name=魔力胶囊
 capsule.magic=%s魔力胶囊
-item.capsule.void.name=Void Capsule
+item.capsule.void.name=虚空胶囊
 capsule.void=%s虚空胶囊
 
 #Liquids
@@ -213,8 +213,8 @@ moon.new=新月
 #moon.alt.new=
 
 #Backpack
-item.backpack.thaumaturgeT1.name=Thaumaturge's Backpack
-item.backpack.thaumaturgeT2.name=Thaumaturge's Backpack
+item.backpack.thaumaturgeT1.name=神秘使背包
+item.backpack.thaumaturgeT2.name=神秘使背包
 backpack.thaumaturge=神秘使背包
 
 #Itemgroups

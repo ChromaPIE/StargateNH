@@ -220,7 +220,7 @@ item.bucketVapor_of_levity.name=桶装轻盈之气
 
 fluid.eio.xpjuice=液态XP
 tile.fluid.eio.xpjuice.name=液态XP
-item.bucketXpjuice.name=桶装液态XP
+item.bucketXpjuice.name=液态经验桶
 
 enderio.fluid.millibucket.abr=L
 

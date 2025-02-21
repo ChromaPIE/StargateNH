@@ -169,6 +169,7 @@ tile.GasSiphonCasing.name=Planetary Siphon Casing
 # GUI
 GT5U.gui.text.no_space_station=§7不在空间站
 GT5U.gui.text.invalid_depth=§7无效深度
+GT5U.gui.text.siphoning=§aExtracting from the planet
 GT5U.gui.text.missing_project=§7缺少§b%s于§b%s
 GT5U.gui.text.no_plasma=§7缺少等离子体
 GT5U.gui.text.invalid_overdrive=§7无效过载设置
@@ -277,6 +278,7 @@ gt.blockmachines.multimachine.project.ig.miner.t3.desc1=这绝对侵害了无人
 gt.blockmachines.multimachine.project.ig.miner.desc3=运行需要等离子体(1000L氦/500L铋/300L氡).
 gt.blockmachines.multimachine.project.ig.miner.desc4=使用更高级的等离子体可获得增产.
 gt.blockmachines.multimachine.project.ig.miner.desc5=Needs to be fed with computation to work.
+gt.blockmachines.multimachine.project.ig.miner.desc5.1=Mining Drones must be placed in a regular input bus (neither linked nor stocking bus).
 gt.blockmachines.multimachine.project.ig.miner.t1.desc5=运行电压：UV，最大并行：2
 gt.blockmachines.multimachine.project.ig.miner.t2.desc5=运行电压：UHV，最大并行：4
 gt.blockmachines.multimachine.project.ig.miner.t3.desc5=运行电压：UEV，最大并行：8

@@ -113,3 +113,5 @@ achievement.tile.kekztech_lapotronicenergyunit_block.10=太·终极电容（UMV�
 # -------- GUI
 gui.kekztech_lapotronicenergyunit.wireless=无线模式
 gui.kekztech_lapotronicenergyunit.wireless_rebalance=重新平衡无线电网(只能使用一次)
+gui.kekztech_lapotronicenergyunit.warning.header=Warning!
+gui.kekztech_lapotronicenergyunit.warning.text=Make sure to carefully read and understand the tooltip before activating wireless mode, it can potentially brick your base. This warning won't appear again.

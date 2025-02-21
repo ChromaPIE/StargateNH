@@ -60,11 +60,11 @@ tile.appliedenergistics2.BlockCraftingAccelerator256x.name=256核并行处理单
 tile.appliedenergistics2.BlockCraftingAccelerator1024x.name=1024核并行处理单元
 tile.appliedenergistics2.BlockCraftingAccelerator4096x.name=4096核并行处理单元
 tile.appliedenergistics2.BlockCraftingUnit.name=合成单元
-tile.appliedenergistics2.BlockAdvancedCraftingStorage.name=Crafting Storage
-tile.appliedenergistics2.BlockAdvancedCraftingUnit.name=Crafting Unit
+tile.appliedenergistics2.BlockAdvancedCraftingStorage.name=合成存储器
+tile.appliedenergistics2.BlockAdvancedCraftingUnit.name=合成单元
 tile.appliedenergistics2.BlockMolecularAssembler.name=分子装配室
 tile.appliedenergistics2.BlockPatternOptimizationMatrix.name=样板优化矩阵
-tile.appliedenergistics2.BlockSingularityCraftingStorage.name=Singularity Crafting Storage
+tile.appliedenergistics2.BlockSingularityCraftingStorage.name=奇点合成存储器
 tile.appliedenergistics2.BlockPaint.name=Paint
 
 # Stairs
@@ -81,19 +81,19 @@ tile.appliedenergistics2.SkyStoneStairBlock.name=陨石楼梯
 tile.appliedenergistics2.ChiseledQuartzSlabBlock.name=錾制赛特斯石英台阶
 tile.appliedenergistics2.ChiseledQuartzSlabBlock.double.name=Chiseled Certus Quartz Slabs
 tile.appliedenergistics2.FluixSlabBlock.name=福鲁伊克斯台阶
-tile.appliedenergistics2.FluixSlabBlock.double.name=Fluix Slabs
+tile.appliedenergistics2.FluixSlabBlock.double.name=福鲁伊克斯台阶
 tile.appliedenergistics2.QuartzPillarSlabBlock.name=竖纹赛特斯石英台阶
-tile.appliedenergistics2.QuartzPillarSlabBlock.double.name=Certus Quartz Pillar Slabs
+tile.appliedenergistics2.QuartzPillarSlabBlock.double.name=竖纹赛特斯石英台阶
 tile.appliedenergistics2.QuartzSlabBlock.name=赛特斯石英台阶
-tile.appliedenergistics2.QuartzSlabBlock.double.name=Certus Quartz Slabs
+tile.appliedenergistics2.QuartzSlabBlock.double.name=赛特斯石英台阶
 tile.appliedenergistics2.SkyStoneBlockSlabBlock.name=陨石块台阶
-tile.appliedenergistics2.SkyStoneBlockSlabBlock.double.name=Sky Stone Block Slabs
+tile.appliedenergistics2.SkyStoneBlockSlabBlock.double.name=陨石块台阶
 tile.appliedenergistics2.SkyStoneBrickSlabBlock.name=陨石石砖台阶
-tile.appliedenergistics2.SkyStoneBrickSlabBlock.double.name=Sky Stone Brick Slabs
+tile.appliedenergistics2.SkyStoneBrickSlabBlock.double.name=陨石石砖台阶
 tile.appliedenergistics2.SkyStoneSmallBrickSlabBlock.name=陨石砖块台阶
-tile.appliedenergistics2.SkyStoneSmallBrickSlabBlock.double.name=Sky Stone Small Brick Slabs
+tile.appliedenergistics2.SkyStoneSmallBrickSlabBlock.double.name=陨石砖块台阶
 tile.appliedenergistics2.SkyStoneSlabBlock.name=陨石台阶
-tile.appliedenergistics2.SkyStoneSlabBlock.double.name=Sky Stone Slabs
+tile.appliedenergistics2.SkyStoneSlabBlock.double.name=陨石台阶
 
 # Chat Messages
 chat.appliedenergistics2.ChestCannotReadStorageCell=ME箱子无法读取存储元件.
@@ -335,6 +335,17 @@ gui.appliedenergistics2.TypesInfo=种类
 gui.appliedenergistics2.BytesInfo=字节
 gui.appliedenergistics2.ToFollow=跟踪
 gui.appliedenergistics2.ToUnfollow=取消跟踪
+gui.appliedenergistics2.CellRestriction=Cell Restriction
+gui.appliedenergistics2.Restricted=Restricted
+gui.appliedenergistics2.CellRestrictionTips=0 for default
+gui.appliedenergistics2.MaxItems=Max Items:
+gui.appliedenergistics2.MaxFluid=Max Fluids:
+gui.appliedenergistics2.MaxTypes=Max Types:
+gui.appliedenergistics2.NumberOfItems=Number of items
+gui.appliedenergistics2.NumberOfFluids=Number of fluids
+gui.appliedenergistics2.ItemsPerByte=Items per byte:
+gui.appliedenergistics2.FluidsPerByte=Fluids per byte:
+gui.appliedenergistics2.BytesPerType=Bytes per type:
 
 # GUI Colors - ARGB
 gui.color.appliedenergistics2.SearchboxFocused=6E000000
@@ -431,7 +442,7 @@ gui.tooltips.appliedenergistics2.LevelType=检测类型
 gui.tooltips.appliedenergistics2.LevelType_Energy=能源(ae)
 gui.tooltips.appliedenergistics2.LevelType_Item=物品
 gui.tooltips.appliedenergistics2.InventoryTweaks=InventoryTweak(R键整理)
-gui.tooltips.appliedenergistics2.Mod=Mod
+gui.tooltips.appliedenergistics2.Mod=模组
 gui.tooltips.appliedenergistics2.UsedPercent=占比
 gui.tooltips.appliedenergistics2.TerminalStyle=终端风格
 gui.tooltips.appliedenergistics2.TerminalStyle_Full=全屏
@@ -547,7 +558,8 @@ gui.tooltips.appliedenergistics2.ToUnfollow=点击以停止跟踪此次合成\n�
 gui.tooltips.appliedenergistics2.StringOrder=排序方式
 gui.tooltips.appliedenergistics2.StringOrderNatural=默认排序
 gui.tooltips.appliedenergistics2.StringOrderAlphanum=自然数序
-
+gui.tooltips.appliedenergistics2.CellRestrictionLabel=Cell Restriction
+gui.tooltips.appliedenergistics2.CellRestrictionHint=Setup Cell Restriction
 # Units
 gui.appliedenergistics2.units.appliedenergstics=AE
 gui.appliedenergistics2.units.ic2=EU
@@ -643,6 +655,8 @@ item.appliedenergistics2.ItemMaterial.CardPatternRefiller.name=空白样板重�
 item.appliedenergistics2.ItemMaterial.CardAdvancedBlocking.name=高级阻挡卡
 item.appliedenergistics2.ItemMaterial.CardLockCrafting.name=锁定卡
 item.appliedenergistics2.ItemMaterial.CardSticky.name=粘性卡
+item.appliedenergistics2.ItemMaterial.CardVoidOverflow.name=Overflow Void Card
+item.appliedenergistics2.ItemMaterial.CardDistribution.name=Equal Distribution Card
 item.appliedenergistics2.ItemMaterial.CardFakeCrafting.name=Fake Crafting Card
 item.appliedenergistics2.ItemMaterial.CardSuperluminalSpeed.name=Superluminal Acceleration Card
 

@@ -139,14 +139,14 @@ GT5U.coil.ZPM=硅岩
 GT5U.coil.UV=硅岩合金
 GT5U.coil.UHV=凯金
 GT5U.coil.UEV=通流琥珀金
-GT5U.coil.UIV=觉醒龙锭
+GT5U.coil.UIV=觉醒龙
 GT5U.coil.UMV=无尽
 GT5U.coil.UXV=海珀珍
 GT5U.coil.MAX=永恒
 
 GT5U.MS.multismelting=同时熔炼
 
-gt.casing.tiertooltip=Casing Tier: %s
+gt.casing.tiertooltip=外壳等级：%s
 
 # Machine types
 gt.recipe.alloysmelter=合金炉
@@ -263,6 +263,7 @@ gt.recipe.largechemicalreactor=大型化学反应釜
 gt.recipe.distillationtower=蒸馏塔
 gt.recipe.craker=石油裂化机
 gt.recipe.pyro=热解炉
+gt.recipe.solarfactory=Solar Factory
 gt.recipe.dieselgeneratorfuel=内燃发电机燃料
 gt.recipe.extremedieselgeneratorfuel=极限内燃引擎燃料
 gt.recipe.gasturbinefuel=燃气轮机燃料
@@ -376,6 +377,10 @@ GT5U.machines.stalled_vent.tooltip=§4故障：无法排出蒸汽！
 GT5U.machines.stalled_vent.tooltip.1=§7请手持扳手右击机器
 GT5U.machines.stalled_vent.tooltip.2=§7来调整蒸汽输出口
 GT5U.machines.stalled_vent.tooltip.3=§7至没有遮挡的方向。
+GT5U.machines.perfectoc.tooltip=Performs perfect overclocks
+GT5U.machines.solarindicator1=Is Daytime
+GT5U.machines.solarindicator2=Not Raining
+GT5U.machines.solarindicator3=Can See Sky
 GT5U.GTPP_MULTI_ARC_FURNACE.mode.0=电力电弧炉
 GT5U.GTPP_MULTI_ARC_FURNACE.mode.1=等离子电弧炉
 GT5U.GTPP_MULTI_CUTTING_MACHINE.mode.0=切割机
@@ -631,6 +636,9 @@ GT5U.gui.text.missing_item=§7缺少必要物品：§b%s§f
 GT5U.gui.text.ph_sensor=pH阈值
 GT5U.gui.text.critical_ph_value=pH超出临界值。
 GT5U.gui.text.heat_sensor=热阈值
+GT5U.gui.text.no_wafer=No wafer was found
+GT5U.gui.text.low_wafer_tier=Found wafer is too low tier for the recipe
+GT5U.gui.text.not_enough_wafer=Found wafer but recipe requires more than given
 GT5U.item.programmed_circuit.select.header=再编程电路
 
 GT5U.gui.config.client=客户端
@@ -675,7 +683,17 @@ GT5U.item.cable.max_voltage=最大电压
 GT5U.item.cable.max_amperage=最大电流
 GT5U.item.cable.loss=线损/米/安
 GT5U.item.cable.eu_volt=伏
+GT5U.item.cable.swapped=Cable swapped:
 GT5U.item.tank.locked_to=内容物已锁定为%s
+
+GT5U.item.pipe.capacity=Capacity
+GT5U.item.pipe.heat_resistance=Heat Resistance
+GT5U.item.pipe.gas_proof=Gas Proof
+GT5U.item.pipe.gas_proof.yes=Yes
+GT5U.item.pipe.gas_proof.no=No
+GT5U.item.pipe.amount=Pipe Amount
+GT5U.item.pipe.empty=Empty
+GT5U.item.pipe.swap=Pipe Swapped:
 
 gt.behaviour.paintspray.infinite.gui.header=选择一种颜色
 gt.behaviour.paintspray.infinite.gui.lock_error=§e喷漆罐已被§锁定§e！§b潜行并鼠标中键单击以解锁。
@@ -709,6 +727,10 @@ GT5U.hatch.infiniteCacheFluid.true=ME输出仓将无限缓存流体，直到连�
 GT5U.hatch.infiniteCacheFluid.false=ME输出仓离线超过2秒后将停止接收流体
 GT5U.hatch.additionalConnection.true=ME网络可与任意面连接
 GT5U.hatch.additionalConnection.false=ME网络仅与正面连接
+GT5U.hatch.fluid.filter.enable=Fluid output filter set to: %s
+GT5U.hatch.item.filter.enable=Item output filter set to: %s
+GT5U.hatch.fluid.filter.disable=Fluid output filtering disabled
+GT5U.hatch.item.filter.disable=Item output filtering disabled
 
 GT5U.bus.filterTooltip.empty=§a从NEI拖拽物品以设置输出过滤
 GT5U.bus.filterTooltip.full=§a点击以清空输出过滤
@@ -840,6 +862,10 @@ GT5U.waila.drone_downlink.connectionCount=连接数量：
 GT5U.waila.drone_downlink.droneLevel=无人机等级：
 GT5U.waila.producing=Producing:
 GT5U.waila.producing.andmore=  And %d More...
+GT5U.waila.generating.on=Generating Energy
+GT5U.waila.generating.off=Not Generating
+GT5U.waila.status.insufficient_energy=Status: Insufficient energy
+GT5U.waila.status.obstructed_steam_vent=Status: Obstructed steam vent
 
 
 achievement.flintpick=第一把工具

@@ -361,7 +361,7 @@ gui.AntimatterForge.2=结构的主动电力消耗
 gui.AntimatterForge.3=结构内变换的反物质
 gui.AntimatterGenerator.0=已生产的EU
 gui.AntimatterGenerator.1=效率
-gt.blockmachines.LargeFusionComputerPP.cfgi.0=批处理大小
+batch_mode.cfgi.0=Batch Size
 gt.blockmachines.YottaFluidTank.cfgi.0=更新速度(每x个tick更新一次I/O)
 
 # RecipeMaps
@@ -382,7 +382,7 @@ value.extreme_heat_exchanger.0=最大热流体输入：
 value.extreme_heat_exchanger.1=最大蒸馏水输入(常规):
 value.extreme_heat_exchanger.4=阈值：
 value.precise_assembler=需要MK-%s机械方块
-value.component_assembly_line=外壳等级: %s
+value.component_assembly_line=外壳等级：%s
 
 #TecTech Structure Info
 FuelRefineFactory.hint.0=8x力场约束玻璃

@@ -280,6 +280,7 @@ nei.recipe.meteor.radius=半径: %s
 nei.recipe.meteor.chance=几率: %s%%
 nei.recipe.meteor.amount=期望数量: %s
 nei.recipe.meteor.filler=§7Filler block
+nei.recipe.meteor.reagent=§nRequired reagent§r: %s
 
 #Rituals
 ritual.AW001Water.name=涌泉仪式

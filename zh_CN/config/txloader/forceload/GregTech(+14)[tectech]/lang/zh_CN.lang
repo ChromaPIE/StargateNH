@@ -785,6 +785,8 @@ gt.blockmachines.multimachine.em.research.desc.1=用于扫描物品, 生成装�
 gt.blockmachines.multimachine.em.research.desc.2=需要为其提供算力
 gt.blockmachines.multimachine.em.research.desc.3=在完成闪存写入之前不会消耗物品
 gt.blockmachines.multimachine.em.research.desc.4=使用螺丝刀切换模式.
+gt.blockmachines.multimachine.em.research.desc.5=Computation required in scanner mode follows the formula:
+gt.blockmachines.multimachine.em.research.desc.6=(Recipe duration in seconds * Recipe voltage) / 30
 gt.blockmachines.multimachine.em.research.mode.Assembly_line=模式：研究站
 gt.blockmachines.multimachine.em.research.mode.Scanner=模式：扫描仪
 

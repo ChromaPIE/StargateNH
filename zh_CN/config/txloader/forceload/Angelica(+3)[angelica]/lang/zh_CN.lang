@@ -2,8 +2,8 @@ options.button.shader=光影包……
 
 options.chunks=%s 区块
 options.entityShadows=实体阴影
-options.droppedItems=%s items
-options.droppedItems.max=Unlimited
+options.droppedItems=%s件物品
+options.droppedItems.max=无限制
 sodium.option_impact.low=低
 sodium.option_impact.medium=中
 sodium.option_impact.high=高
