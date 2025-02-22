@@ -10,7 +10,7 @@ neiintegration.chance.lessThan1=<1%
 
 neiintegration.ticks=ticks
 
-neiintegration.tooltip.internalName=ID:
+neiintegration.tooltip.internalName=ID：
 neiintegration.tooltip.unlocalizedName=未本地化名称:
 neiintegration.tooltip.maxstack=最大堆叠数:
 neiintegration.tooltip.burntime=燃烧时间:
@@ -50,7 +50,7 @@ nei.options.tools.dump.neiintegration.tileentitys=方块实体
 
 # Forge
 neiintegration.handler.fluidRegistry=流体注册表
-neiintegration.handler.fluidRegistry.id=ID:
+neiintegration.handler.fluidRegistry.id=ID：
 neiintegration.handler.fluidRegistry.state=状态:
 neiintegration.handler.fluidRegistry.state.gaseous=气态
 neiintegration.handler.fluidRegistry.state.liquid=液态
@@ -64,7 +64,7 @@ neiintegration.handler.oreDictionary=矿物词典
 neiintegration.handler.oreDictionary.warning=需要一段时间加载!
 
 # BuildCraft
-neiintegration.handler.refinery.energyRate=%d RF at %d RF/t
+neiintegration.handler.refinery.energyRate=%d RF，功率为%d RF/t
 
 # Electrical Age
 neiintegration.handler.electricalage.compressor=压缩机(ELN)

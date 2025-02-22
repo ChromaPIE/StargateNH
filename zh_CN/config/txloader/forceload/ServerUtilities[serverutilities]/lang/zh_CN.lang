@@ -178,8 +178,8 @@ serverutilities.debugging.log_events=记录事件
 serverutilities_client=客户端配置
 serverutilities_client.render_badges=显示徽章
 serverutilities_client.journeymap_overlay=启用旅行地图集成功能
-serverutilities_client.scan_items_whitelist=/scan_items Whitelist
-serverutilities_client.scan_items_blacklist=/scan_items Blacklist
+serverutilities_client.scan_items_whitelist=/scan_items白名单
+serverutilities_client.scan_items_blacklist=/scan_items黑名单
 serverutilities_client.show_shutdown_timer=显示关机定时器
 serverutilities_client.shutdown_timer_start=关机定时器启动
 serverutilities_client.button_daytime=设置时间为白天
@@ -194,7 +194,7 @@ serverutilities_client.notification_location=通知位置
 serverutilities_client.show_dotted_lines=在加载的区块上显示虚线
 
 # Notification Config
-serverutilities.notifications.config=Notification Config
+serverutilities.notifications.config=通知配置
 serverutilities.notifications.last_received=Last received notification:
 serverutilities.notifications.chunk_modified=Chunk Modified
 serverutilities.notifications.chunk_modified.desc=Notifies when claiming/loading a chunk
@@ -211,11 +211,11 @@ serverutilities.notifications.backup.desc=Notifies when a backup is started/stop
 serverutilities.notifications.config_changed=Config Changed
 serverutilities.notifications.config_changed.desc=Notifies when configs are changed via commands
 serverutilities.notifications.restart_timer=Restart Timer
-serverutilities.notifications.restart_timer.desc=Notifies when server is about to restart
+serverutilities.notifications.restart_timer.desc=服务器即将重启时显示通知
 serverutilities.notifications.cleanup=Cleanup
-serverutilities.notifications.cleanup.desc=Notifies when entity cleanup is about to start or finish
-serverutilities.notifications.player_afk=Player AFK
-serverutilities.notifications.player_afk.desc=Notifies when a player goes AFK
+serverutilities.notifications.cleanup.desc=实体清理即将开始及已完成时显示通知
+serverutilities.notifications.player_afk=玩家挂机
+serverutilities.notifications.player_afk.desc=玩家挂机时显示通知
 
 
 
@@ -591,9 +591,13 @@ cmd.backup_size=当前世界大小：%s，备份文件夹总大小：%s
 serverutilities.gui.backup.title=Restore Backup (%s)
 serverutilities.gui.backup.button=Backups
 serverutilities.gui.backup.restore=Restore
+serverutilities.gui.backup.restore_global=Restore (with global data)
 serverutilities.gui.backup.error=An error occured while restoring backup!
 serverutilities.gui.backup.delete_confirm=Are you sure you want to §c§ldelete§r this backup?
 serverutilities.gui.backup.restore_confirm=Are you sure you want to §a§lrestore§r this backup?
+serverutilities.gui.backup.restore_global_confirm=Are you sure you want to §a§lrestore (global)§r this backup?
+serverutilities.gui.backup.restore_confirm_desc=This will also restore global world related data. The previous data will be moved into ".minecraft/backups_before_restore"
+serverutilities.gui.backup.restore_global_confirm_desc=This will also restore global world related data, and will overwrite global settings with those included in the backup. The previous data will be moved into ".minecraft/backups_before_restore"
 
 # Pause When Empty
 cmd.pause_when_empty_updated=Server property 'pause-when-empty-seconds' set to %d

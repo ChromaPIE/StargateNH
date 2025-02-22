@@ -1,14 +1,14 @@
 key.categories.craftingtweaks=Gregory Tweaks For Crafting
-key.craftingtweaks.rotate=Rotate Grid
-key.craftingtweaks.clear=Clear Grid
-key.craftingtweaks.balance=Balance Grid
-key.craftingtweaks.toggleButtons=Toggle Buttons
+key.craftingtweaks.rotate=旋转合成格
+key.craftingtweaks.clear=清空合成格
+key.craftingtweaks.balance=均分合成格
+key.craftingtweaks.toggleButtons=开关按钮
 key.craftingtweaks.compress=Compress Item
 key.craftingtweaks.decompress=Decompress Item
 
-tooltip.craftingtweaks.rotate=Rotate Grid
-tooltip.craftingtweaks.balance=Balance Grid
-tooltip.craftingtweaks.spread=Spread Grid
-tooltip.craftingtweaks.clear=Clear Grid
-tooltip.craftingtweaks.forceClear=Force Clear Grid
-tooltip.craftingtweaks.forceClearInfo=Drops items if necessary
+tooltip.craftingtweaks.rotate=旋转合成格
+tooltip.craftingtweaks.balance=均分合成格
+tooltip.craftingtweaks.spread=平铺合成格
+tooltip.craftingtweaks.clear=清空合成格
+tooltip.craftingtweaks.forceClear=强制清空合成格
+tooltip.craftingtweaks.forceClearInfo=若无空间则丢弃至世界

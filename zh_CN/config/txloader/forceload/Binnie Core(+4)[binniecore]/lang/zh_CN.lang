@@ -196,17 +196,17 @@ binniecore.gui.breedingmessage.epithet=已获得称号
 binniecore.item.genesis.name=Genesis
 binniecore.item.fluidContainer.missed=丢失液体
 
-item.containerCapsule.name=Capsule
+item.containerCapsule.name=胶囊
 binniecore.item.container.capsule=胶囊
-item.containerRefractory.name=Capsule
+item.containerRefractory.name=胶囊
 binniecore.item.container.refractory=耐火胶囊
 item.containerCan.name=Can
 binniecore.item.container.can=罐
-item.containerBucket.name=Bucket
+item.containerBucket.name=桶
 binniecore.item.container.bucket=桶
-item.containerGlass.name=Bottle
+item.containerGlass.name=瓶
 binniecore.item.container.glass=瓶
-item.containerCylinder.name=Cylinder
+item.containerCylinder.name=玻璃罐
 binniecore.item.container.cylinder=玻璃罐
 
 binniecore.item.container.capsule.acid=酸液胶囊
