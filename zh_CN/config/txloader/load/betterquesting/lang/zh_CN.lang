@@ -15,7 +15,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAQ.desc=挖了一大片沙砾，身上�
 
 # Quest: Sticks 'n Stones
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAg.name=§1§l木棍与石头
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAg.desc=你真幸运!这本书有内置的阅读灯光. 这样你就能在漫漫长夜里静静阅读,但现在你还需要完成一些基础工作. 当黑夜结束,你就能离开避难所了,去收集一些沙砾和木材吧. %n%n记住,你需要食物. 去寻找潘马斯的菜园,记得留下种子.另外,通过右键点击可以得到菜园本身. 如果你把它种在别的什么地方,它将会自我增殖出同样的菜园,直到达到这片区域内的数量上限为止.%n%n§3请确保认真阅读第一个任务引出的信息任务,它们非常重要!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAg.desc=这本书内置深夜读书小夜灯，你可以在熬夜的时候翻翻任务解闷儿，真不错！但眼下趁着外面还没黑透，还得完成一些基础工作。出去找点沙砾和木头吧。%n%n时刻记住别把自己饿着，所以四处看看有没有潘马斯的菜园，破坏后会掉落各式果蔬，记得留点种子。或者你可以空手右击菜园，直接把它整片带回家并找个空地放下来。它会在一定区域内慢慢蔓延增殖出同样的菜园，直至达到数量上限。%n%n§3请务必阅读第一个任务引出的信息任务，内含重要信息！
 
 # Quest: Storage For Days
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAw.name=§1§l仓储大扩建
@@ -404,8 +404,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHSA.name=§2§l工具无法自我修复.
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHSA.desc=新玩家可能会惊讶,为什么在NEI查匠魂的苔藓球,看不到实际配方.%n%n在这个整合包中,你得先研究神秘时代,才能制造苔藓球.去成为一名危险的神秘使吧,你将获得制造苔藓球的力量,使工具可以自我修复. 当然,在开始制造前,你需要先到暮色森林收集材料,还得准备铝锭. 苔藓球在魔导手册的GTNH栏,需要先研究"注魔". 魔导手册中还有很多其他很棒的东西, 但是你要小心扭曲. %n%n喝杯啤酒,为你的长途旅行做好准备吧.
 
 # Quest: Options For Finding Zinc in This Tier
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHSg.name=§2§l在这个阶段找到铝
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHSg.desc=在旧的服务器或是非洲人的世界种子里,可能很难找到铝矿砂砾.%n%n铝矿砂砾的替代品是%n- 种植铝矿莓(冶炼炉任务的奖励)%n- 在宝箱中寻找铝锭%n- 经验桶合成%n%n等你到达LV阶段之后,就可以在处理多种矿石的过程中或者在电力高炉中冶炼蓝宝石以获取铝,%n等到你进入MV阶段后,你可以电解粘土粉或红色花岗岩粉获取铝. 查查NEI吧.%n%n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHSg.name=§2§l本阶段的寻锌途径若干
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHSg.desc=在老字号服务器或某些穷酸的地图种子里，寻找锌矿砂砾可能相当困难。%n%n除了满世界找，这里还有一些别的途径：%n- 在“硬币，硬币，硬币”任务线中直接购买；%n- 在主世界中寻找小型锌矿石；%n- 用液态经验桶合成。%n%n一旦进入LV等级，你便可以在辉锑矿、闪锌矿、黝铜矿和锡矿石的处理中获得锌。%n更多途径请查阅NEI。
 
 # Quest: How to Open Your Wooden Doors?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJHQ.name=§2§l如何打开木门?
@@ -837,7 +837,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALYA.name=§3§l桶升级 T5
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALYA.desc=什么？你的桶又满了？ 不要紧,继续升级!
 
 # Quest: The one book to rule them all
-betterquesting.quest.XuZpnhWZRou46kensglZ6g.name=§3§lThe one book to rule them all
+betterquesting.quest.XuZpnhWZRou46kensglZ6g.name=§3§l一簿纳千卷
 betterquesting.quest.XuZpnhWZRou46kensglZ6g.desc=This Tome can store multiple documentation books from other mods. It will be empty when crafted, but you can add books by combining it with the desired book in a crafting grid.%n%nRight-clicking with the Tome in hand will open an interface showing all the added books; clicking on a book will transform the tome into the selected book. To revert it back to the Tome, left-click while sneaking.%n%nTo retrieve a stored book, transform the Tome into the desired book and throw it away while sneaking - this will drop the selected book and leave the tome in your inventory.%n%n[warn]Some warnings:%n%nThe extended version of the Book of Biomes from Witchery is not compatible with this tome.%n%nYou should not throw it through the Botania portal. The elves might steal your Tome and return only their own copy of the Lexica Botania.[/warn]
 
 
@@ -1090,7 +1090,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACcA.name=§5§l基础装罐机
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACcA.desc=装罐机主要用来装填电池,为单元装填固体(通常装粉,不太常用),或是用任意食物装填锡罐(HV+).%n%nLV-HV阶段,你可以用它装填出钠、镉和锂电池.
 
 # Quest: Portable Mob Spawners...? Cool!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACcg.name=§5§l便携式刷怪笼...？酷!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACcg.name=§5§l便携式刷怪笼……？酷！
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACcg.desc=你想移动刷怪笼,并建造一个怪物农场吗？只要有钻石手推车就办得到. 在耐久耗尽前,你可以搬动6个刷怪笼,就目前而言已经完全足够.
 
 # Quest: Sulfuric Naphtha
@@ -3785,7 +3785,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKSQ.name=量子功率IC
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKSQ.desc=量子功率IC用于制造UEV->UIV和UIV->UMV变压器,以及UHV能源仓和发电仓.%n%n[note]你需要一台UHV切割机或是合适电压的多方块机器(工业切割机)来切割晶圆.[/note]
 
 # Quest: Circuits, Assemble!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKSw.name=电路,组装!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKSw.name=电路，集结！
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKSw.desc=想要制造湿件系列电路板(UHV等级的电路板),你需要制造ZPM电路组装机.%n%n什么? 你觉得有了多方块就可以跳过这些单方块的升级? 好吧,太遗憾了! 用于铭刻的第一块电路板必须使用单方块电路组装机才能做出来...
 
 # Quest: Cheaper IV Circuits
@@ -4426,7 +4426,7 @@ betterquesting.quest.k0ryGOkkSBOgYUcVY-J4rw.desc=与它的前身一样,它可以
 
 # Quest: An Eye at the End of Time
 betterquesting.quest.kazCPEWoSmiZhR4bkHlEBQ.name=一只位于时间尽头的眼睛
-betterquesting.quest.kazCPEWoSmiZhR4bkHlEBQ.desc=那么你已经制作了一些永恒线圈的超维度等离子锻炉（DTPF），现在是时候迈向下一个等级，UXV了。%n%n介绍下游戏中的最终多方块结构，也是迄今为止最昂贵的。%n它引入了4种新材料：原始恒星等离子体、白矮星物质和黑矮星物质，最后是宇宙素。%n%n它有3种不同等级的外壳，每种有9个等级：%n%n压缩时空场发生器：%n- 确定可以运行的行星方块的等级，同时每级减少3%%的处理时间。%n%n时间膨胀场发生器：%n- 每级减少50%%的配方时间，同时每级减少9.25%%的配方成功率。%n%n稳定力场发生器：%n- 每级增加5%%的配方成功率，同时每级减少5%%的配方产出量。%n%n较低等级的稳定力场生成器有能量输出的惩罚。%n%n找到不同外壳等级的最佳配置可能是一项艰巨的任务，因此已经有人创建了一个可视化所有掉落和配置的计算器：[url]https://docs.google.com/spreadsheets/d/15j30mNnFIWBhwpJGuDrKTfiHBXNEEqyvB_r7ztFWlyQ[/url]%n%n[note]请务必阅读鸿蒙之眼控制器的tooltip，它详细解释了所有内容！根据你的GUI缩放比例，它可能有多个页面。[/note]
+betterquesting.quest.kazCPEWoSmiZhR4bkHlEBQ.desc=那么你已经制作了一些永恒线圈的超维度等离子锻炉（DTPF），现在是时候迈向下一个等级，UXV了。%n%n介绍下游戏中的最终多方块结构，也是迄今为止最昂贵的。%n它引入了4种新材料：原始恒星等离子体、白矮星物质和黑矮星物质，最后是宇宙素。%n%n它有3种不同等级的外壳，每种有9个等级：%n%n时空压缩场发生器：%n- 确定可以运行的行星方块的等级，同时每级减少3%%的处理时间。%n%n时间膨胀场发生器：%n- 每级减少50%%的配方时间，同时每级减少9.25%%的配方成功率。%n%n稳定场发生器：%n- 每级增加5%%的配方成功率，同时每级减少5%%的配方产出量。%n%n较低等级的稳定力场生成器有能量输出的惩罚。%n%n找到不同外壳等级的最佳配置可能是一项艰巨的任务，因此已经有人创建了一个可视化所有掉落和配置的计算器：[url]https://docs.google.com/spreadsheets/d/15j30mNnFIWBhwpJGuDrKTfiHBXNEEqyvB_r7ztFWlyQ[/url]%n%n[note]请务必阅读鸿蒙之眼控制器的tooltip，它详细解释了所有内容！根据你的GUI缩放比例，它可能有多个页面。[/note]
 
 # Quest: Storing Computation in the Cloud
 betterquesting.quest.lBuQcNYjQ8-YsMFqW6U1tQ.name=Storing Computation in the Cloud
@@ -4507,7 +4507,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAM4A.desc=愿梦想大师垂怜于你的�
 
 # Quest: Fabricating Solar Systems... in Parallel
 betterquesting.quest.IGVryoMbRu28q08v4uwSuw.name=制造太阳系...但是并行化!
-betterquesting.quest.IGVryoMbRu28q08v4uwSuw.desc=你可能已经注意到了,UXV部件与你目前能生产的宇宙素数量相比非常昂贵.%n%n使用星阵将允许你并行运行鸿蒙之眼配方.你可以查看tooltip第二页中的数学公式计算.%n%n如果想直接得到答案,你可以使用这个表格来计算：[url]https://docs.google.com/spreadsheets/d/15j30mNnFIWBhwpJGuDrKTfiHBXNEEqyvB_r7ztFWlyQ[/url]%n%n[warn]注意,如果使用星阵,鸿蒙之眼将使用原始恒星等离子体,而不是氢气和氦气.[/warn]%n%n[note]确保你已经发了足够多的电.[/note]
+betterquesting.quest.IGVryoMbRu28q08v4uwSuw.desc=你可能已经注意到了,UXV部件与你目前能生产的宇宙素数量相比非常昂贵.%n%n使用星阵织造器将允许你并行运行鸿蒙之眼配方.你可以查看tooltip第二页中的数学公式计算.%n%n如果想直接得到答案,你可以使用这个表格来计算：[url]https://docs.google.com/spreadsheets/d/15j30mNnFIWBhwpJGuDrKTfiHBXNEEqyvB_r7ztFWlyQ[/url]%n%n[warn]注意,如果使用星阵织造器,鸿蒙之眼将使用原始恒星等离子体,而不是氢气和氦气.[/warn]%n%n[note]确保你已经发了足够多的电.[/note]
 
 # Quest: Assembling on Space Steroids
 betterquesting.quest.UVG21mYSQJex90gQWdkpIw.name=在宇宙星辰间组装

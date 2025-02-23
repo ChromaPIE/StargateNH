@@ -106,15 +106,15 @@ tile.oreTitanium.name=钛铁矿石
 tile.oreUranium.name=铀矿石
 tile.oreSteel.name=钢矿石
 tile.oreBone.name=化石矿石
-tile.asteroidMultiOre1.0.name=Ore
-tile.basaltMultiOre.0.name=Ore
-tile.hardClayMultiOre.0.name=Ore
-tile.obsidianMultiOre.0.name=Ore
+tile.asteroidMultiOre1.0.name=矿石
+tile.basaltMultiOre.0.name=矿石
+tile.hardClayMultiOre.0.name=矿石
+tile.obsidianMultiOre.0.name=矿石
 
 tile.basePlant.0.name=Tall Redgrass
 tile.methaneTallGrass.name=高红草
 
-tile.blockFake.0.name=Fake Block
+tile.blockFake.0.name=伪方块
 
 tile.bossSpawner.0.name=Boss Spawner
 

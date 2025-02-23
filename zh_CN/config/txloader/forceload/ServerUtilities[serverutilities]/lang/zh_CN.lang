@@ -496,17 +496,17 @@ commands.vanish.item_dropping.usage=/vanish item_dropping
 commands.vanish.check.usage=/vanish check
 commands.vanish.check.true=You are currently vanished!
 commands.vanish.check.false=You are §sNOT§r vanished!
-commands.vanish.off=You are no longer hidden!
-commands.vanish.on=Poof! You are now hidden!
+commands.vanish.off=你已现身！
+commands.vanish.on=砰！你隐身了！
 commands.vanish.interact=Interacting while vanished
 commands.vanish.chat=Chatting while vanished
 commands.vanish.collision=Collision while vanished
 commands.vanish.damage_other=Damaging others while vanished
 commands.vanish.send_connection_msg=Send connection message on vanish
-commands.vanish.container_read_only=Container read-only
+commands.vanish.container_read_only=容器仅供阅览
 commands.vanish.item_dropping=Item dropping while vanished
-commands.pregen.start.usage_server=/pregen start <x> <y> <radius>
-commands.pregen.start.usage_client=/pregen start <x> <y> <radius> or /pregen <radius>
+commands.pregen.start.usage_server=/pregen start <x> <y> <半径>
+commands.pregen.start.usage_client=/pregen start <x> <y> <半径> 或 /pregen <半径>
 commands.pregen.stop.usage=/pregen stop
 commands.pregen.progress.usage=/pregen progress
 
@@ -542,9 +542,9 @@ serverutilities.lang.warps.cooldown=使用传送点传送还需 %s！
 serverutilities.lang.warps.tp=传送至 “%s”！
 serverutilities.lang.warps.no_dp=你只能使用一次 /back！
 serverutilities.lang.warps.no_pos_found=没有位置使用 /back！
-serverutilities.lang.warps.cross_dim=You can't teleport to another dimension!
-serverutilities.lang.warps.warmup=Please, stand still for %d seconds [%d].
-serverutilities.lang.warps.cancelled=You moved! Teleport cancelled.
+serverutilities.lang.warps.cross_dim=你无法传送至另一维度！
+serverutilities.lang.warps.warmup=请在%d秒内保持不动 [%d]。
+serverutilities.lang.warps.cancelled=你移动了！已取消传送。
 
 # Homes
 serverutilities.lang.homes.set=家“%s”已设置！
@@ -568,7 +568,7 @@ serverutilities.lang.rtp.fail=找不到有效的传送地点！
 
 # Client Commands
 commands.client_config.usage=/client_config
-commands.shrug.usage=/shrug [text...]
+commands.shrug.usage=/shrug [文本……]
 commands.scan_items.usage=/scan_items
 commands.print_item.usage=/print_item
 
@@ -588,13 +588,13 @@ cmd.backup_manual_launch=%s 启动了手动备份！
 cmd.backup_already_running=正在备份中！
 cmd.backup_not_running=备份未在运行！
 cmd.backup_size=当前世界大小：%s，备份文件夹总大小：%s
-serverutilities.gui.backup.title=Restore Backup (%s)
-serverutilities.gui.backup.button=Backups
-serverutilities.gui.backup.restore=Restore
-serverutilities.gui.backup.restore_global=Restore (with global data)
-serverutilities.gui.backup.error=An error occured while restoring backup!
-serverutilities.gui.backup.delete_confirm=Are you sure you want to §c§ldelete§r this backup?
-serverutilities.gui.backup.restore_confirm=Are you sure you want to §a§lrestore§r this backup?
+serverutilities.gui.backup.title=恢复备份（%s）
+serverutilities.gui.backup.button=备份
+serverutilities.gui.backup.restore=恢复
+serverutilities.gui.backup.restore_global=恢复（带有全局数据）
+serverutilities.gui.backup.error=恢复备份时发生了错误！
+serverutilities.gui.backup.delete_confirm=你确定要§c§l删除§r该备份吗？
+serverutilities.gui.backup.restore_confirm=你确定要§a§l恢复§r该备份吗？
 serverutilities.gui.backup.restore_global_confirm=Are you sure you want to §a§lrestore (global)§r this backup?
 serverutilities.gui.backup.restore_confirm_desc=This will also restore global world related data. The previous data will be moved into ".minecraft/backups_before_restore"
 serverutilities.gui.backup.restore_global_confirm_desc=This will also restore global world related data, and will overwrite global settings with those included in the backup. The previous data will be moved into ".minecraft/backups_before_restore"
