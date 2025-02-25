@@ -331,7 +331,7 @@ forestry.allele.lifespan.longer=较长寿
 forestry.allele.lifespan.longest=最长寿
 
 for.gui.size=大小
-for.gui.slots=%USED/%SIZE格子
+for.gui.slots=已占用%USED/%SIZE个槽位
 for.gui.species=种族
 for.gui.speciescount=种族
 for.gui.speed=工作速度

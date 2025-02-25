@@ -453,7 +453,7 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.name=第0.5阶-蒸汽时代
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.desc=此章节的主题是从蒸汽走向电力.同时这个阶段制造的大部分机器,会随着升压陪你走过整个游戏.
 
 # Quest: Better Tank... Iron Tank
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEA.name=§3§l更好的水槽...铁储罐
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEA.name=§3§l更好的储罐……铁储罐
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEA.desc=想要在一个水槽中储存超过16桶液体？那就做一个铁储罐或升级你的小水槽.%n%n钻石储罐可以储存64桶,而黑曜石储罐则可以防爆.后面还有更大的储罐,不过你可能更喜欢GT的超级缸或是大型流体单元.
 
 # Quest: Welcome to Tier 0.5, Steam!
@@ -626,7 +626,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACGA.desc=让我们来做一个板模具,
 
 # Quest: How Can I Carry All These Items?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACLg.name=§3§l这么多东西往哪放？
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACLg.desc=在你烧炼第一块钢后,你就能制作一个小背包.它有36个格子,比一个小箱子多一点.稍后你还能扩大它.%n%n你最多可以在物品栏内同时拥有四个背包.%n%n你可以背上一个并将其设置为自动捡拾模式.检查"控制"中的"打开背包(Open-Backpacks)"快捷键是否已绑定并且没有冲突.绑定的快捷键仅在背包放入其GUI槽位(Shift+<打开背包快捷键>)后方可生效.%n§r%n当在手上拿着背包的时候,你可以通过 Shift+鼠标右键 重命名你的背包.%n%n译者注:通过腰带或背包切换物品栏即可携带更多背包.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACLg.desc=在你烧炼第一块钢后,你就能制作一个小背包.它有36个槽位,比一个小箱子多一点.稍后你还能扩大它.%n%n你最多可以在物品栏内同时拥有四个背包.%n%n你可以背上一个并将其设置为自动捡拾模式.检查"控制"中的"打开背包(Open-Backpacks)"快捷键是否已绑定并且没有冲突.绑定的快捷键仅在背包放入其GUI槽位(Shift+<Open Backpacks Key>)后方可生效.%n§r%n当在手上拿着背包的时候,你可以通过 Shift+鼠标右键 重命名你的背包.%n%n译者注:通过腰带或背包切换物品栏即可携带更多背包.
 
 # Quest: Upgrade of the Upgrade of the...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACVA.name=§3§l升级!升级!升级!
@@ -670,7 +670,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADZw.desc=在你可以制作钢铁和拥�
 
 # Quest: Slime Island Journey
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADaw.name=§3§l史莱姆空岛之旅
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADaw.desc=橡胶树不是生橡胶的唯一来源,去找找悬在空中的史莱姆岛.岛上凝固的史莱姆块和史莱姆树叶都可以通过提取或者离心的方式得到生橡胶.%n你可以在你的橡胶树林场旁边规划一块区域来种植一些史莱姆树苗.这样就可以源源不断的生产生橡胶了.%n%n§3液态的史莱姆无法放置,因为它类似于刷怪笼,会造成延迟.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADaw.desc=生橡胶的来源可不止橡胶树一种。去找找高高悬在天上的史莱姆空岛吧。岛上的凝固史莱姆块和史莱姆树叶经过处理都能转化为生橡胶。%n不妨在你的人工橡胶树林旁再开辟一块史莱姆树场吧。%n%n§3液态史莱姆一经舀起便不允许放置，因为它生成蓝色史莱姆的方式类似于刷怪笼，会造成延迟。
 
 # Quest: The GT Tank, ULV Version
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeg.name=§3§lGT储罐,ULV版
@@ -986,8 +986,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACHg.name=§5§l电离粉末
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACHg.desc=使用电解机的力量,你可以好好对付那些在矿物处理过程中留下来的一些粉末了. 不管怎么说.没有催化剂,没有电解质,电解机在啥都没有的情况下可以完全电离,别问我它是怎么做到的,§o它就是强!§r%n%n除此之外,这是非常重要的机器,它可以把一些物品和流体处理出更有用的成分.一个基本的例子是电解水,这对你来说完全是免费的,可以得到两种在游戏过程中非常有用的流体——氢气和氧气.
 
 # Quest: C9H8O4...NaCl...H2O...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACHw.name=§5§l乙酰水杨酸(C9H8O4)...氯化钠(NaCl)...水(H2O)...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACHw.desc=想制造高十六烷值柴油、塑料或者一些化学染料么？如果想的话就制造一台化学反应釜.%n%n你可以在GUI中的电池槽或其他额外槽内放置物品.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACHw.name=§5§l科技与狠活
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACHw.desc=想做点高十六烷值柴油、塑料，或者来些化学染料吗？如果点头，就造一台化学反应釜吧。%n%n界面中的电池槽等空槽位均可用于存储物品。
 
 # Quest: Compact? Or is it?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACIA.name=§5§l压缩机
@@ -1359,7 +1359,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKiQ.desc=氯是一种在整个游戏过�
 
 # Quest: Faster Steam Transportation
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALIQ.name=§5§l更快地传输蒸汽
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALIQ.desc=你是否觉得蒸汽传输速度太慢了?LV电动泵每秒只能传输640mB蒸汽,太让你失望了?%n是时候制造一种比电动泵快32倍的特殊模块了,LV蒸汽阀!%n%n蒸汽阀只对蒸汽有效,且与RC蓄水器阀门(底部)速度一致.%n%n还有MV、HV、EV和IV版本.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALIQ.desc=你是否觉得蒸汽传输速度太慢了?LV电动泵每秒只能传输640mB蒸汽,太让你失望了?%n是时候制造一种比电动泵快32倍的特殊模块了,LV蒸汽阀!%n%n蒸汽阀只对蒸汽有效,且与RC储液缸阀门(底部)速度一致.%n%n还有MV、HV、EV和IV版本.
 
 # Quest: Long Distance Item Pipeline
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALIg.name=§5§l长距离物品管道
@@ -1868,7 +1868,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHTA.desc=MV能源仓需要超低功率IC
 
 # Quest: Vinyl Chloride
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHUA.name=§6§l氯乙烯
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHUA.desc=氯乙烯是制作先进的PVC物品管道的基础产品.PVC物品管道用于合成LuV机器或超级缸II的密封机械方块.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHUA.desc=氯乙烯是制作先进的PVC物品管道的基础产品.PVC物品管道用于合成LuV机器或超级缸II的密闭外壳.
 
 # Quest: Polyvinyl Chloride
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHUQ.name=§6§l聚氯乙烯
@@ -3746,7 +3746,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAH1w.desc=量子计算机(QC)是一种极
 
 # Quest: Research Station
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH2A.name=研究站
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAH2A.desc=既然你已经开始构建你珍贵的量子计算机了,再加上研究站怎么样?同样的步骤,让全息投影仪告诉你如何构建这台多方块机器(主方块下方至少要有3格空间,这样你才能看到完整的结构显示).结构快要完成时,在背部放下一个能源仓、一个副光学接口和一个维修仓.%n%n结构彻底完成后,只要量子计算机开着,你就可以随时扫描(当然需要正确连接).你需要将被扫描物品放进物品固定容器中,然后将一个闪存放入主方块右下角的槽位中.当运算全部结束后,装有被扫描物品所有数据的闪存就会出现在主方块里.%n%n还听不明白?很好,这就是探究精神!  如果你想获得精确的测量结果,一定要在单机测试这些危险的东西.%n%n不要忘了为你的光纤涂色,否则它将不会连接!%n%n译者注:运行过程中不要拆掉任何方块,否则就会爆炸!%n%n[note]请注意,有些研究需要非常夸张的电流.[/note]%n%n WIKI 研究站：§9gtnh.huijiwiki.com/p/527§r
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAH2A.desc=既然你已经开始构建你珍贵的量子计算机了,再加上研究站怎么样?同样的步骤,让全息投影仪告诉你如何构建这台多方块机器(主方块下方至少要有3格空间,这样你才能看到完整的结构显示).结构快要完成时,在背部放下一个能源仓、一个光学接收连接器和一个维修仓.%n%n结构彻底完成后,只要量子计算机开着,你就可以随时扫描(当然需要正确连接).你需要将被扫描物品放进物品固定容器中,然后将一个闪存放入主方块右下角的槽位中.当运算全部结束后,装有被扫描物品所有数据的闪存就会出现在主方块里.%n%n还听不明白?很好,这就是探究精神!  如果你想获得精确的测量结果,一定要在单机测试这些危险的东西.%n%n不要忘了为你的光纤涂色,否则它将不会连接!%n%n译者注:运行过程中不要拆掉任何方块,否则就会爆炸!%n%n[note]请注意,有些研究需要非常夸张的电流.[/note]%n%n WIKI 研究站：§9gtnh.huijiwiki.com/p/527§r
 
 # Quest: Maintenance Free At Last!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHMA.name=终于不需要修机器了!
@@ -6052,8 +6052,8 @@ betterquesting.quest.9Pc7p99ASnybsIbWmmg0LQ.name=警告：可能发生撞击（C
 betterquesting.quest.9Pc7p99ASnybsIbWmmg0LQ.desc=最后，要实际获得一些 IC，请在靶仓中使用你的光子。%n%n请注意，靶仓配方中列出的 EU/t 值只是一个最小值，因为配方时间完全由你提供给多方块的光子数量决定。%n%n更具体地说，你可以通过将配方所需数量除以输入粒子束的数量，然后乘以 5 秒来获得配方时间。
 
 # Quest: Multiblock Tanks... Railcraft Tanks
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAALQ.name=§6§l多方块储罐...RC蓄水器
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAALQ.desc=576桶的容量,这应该够你储存你截至目前为止所获得的杂酚油了吧! 如果不够的话,你可以让这个蓄水器更大!最小的蓄水器大小是3x4x3,而最大的则是9x8x9(x,y,z)(x和z必须是相同的奇数).%n%n如果你把阀门放在蓄水器底部的话,只需要连接一根流体管道就可以自动输出蓄水器里面的液体,不需要任何泵.输出速率为1000L/t,是GT电动泵（HV）的两倍.你可以使用BC的颜料刷和GT的喷漆罐来给蓄水器上色.%n%n如果稍后阶段你还在用RC蓄水器,可以使用电动泵等方式通过阀门主动抽取蓄水器内部的流体,抽取速率无上限.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAALQ.name=§6§l多方块储罐……RC储液缸
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAALQ.desc=576桶的容量,这应该够你储存你截至目前为止所获得的杂酚油了吧! 如果不够的话,你可以让这个蓄水器更大!最小的蓄水器大小是3x4x3,而最大的则是9x8x9(x,y,z)(x和z必须是相同的奇数).%n%n如果你把阀门放在蓄水器底部的话,只需要连接一根流体管道就可以自动输出蓄水器里面的液体,不需要任何泵.输出速率为1000L/t,是GT电动泵（HV）的两倍.你可以使用BC的颜料刷和GT的喷漆罐来给蓄水器上色.%n%n如果稍后阶段你还在用RC储液缸,可以使用电动泵等方式通过阀门主动抽取蓄水器内部的流体,抽取速率无上限.
 
 # Quest: You Are Now Prepared, Hopefully!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAASg.name=§f§k§f§l§6§l希望你已经准备好了!
@@ -6478,7 +6478,7 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEQ.desc=任务书的这一页展示
 
 # Quest: A steam-powered whirl!
 betterquesting.quest.0rUmaWIPQPaL93q-_pgKXw.name=一台蒸汽驱动的离心机!
-betterquesting.quest.0rUmaWIPQPaL93q-_pgKXw.desc=在蒸汽时代,如何对稀有材料进行离心分离?答案当然是制造和使用大型蒸汽离心机!通过使用蒸汽产生旋转力,这个多方块机器可以快速且轻松地离心不同的材料.%n%n如果你觉得离心需要很长时间,那么蒸汽分离器会加快速度!%n%n§3§3这个多方块机器可以处理最高 LV 级别的配方,并且处理需要输出仓的配方.但如果你想处理需要流体输入的配方,你将来可能需要建造一台 LV 离心机.
+betterquesting.quest.0rUmaWIPQPaL93q-_pgKXw.desc=在蒸汽时代,如何对稀有材料进行离心分离?答案当然是建造和使用蒸汽分离机!通过使用蒸汽产生旋转力,这个多方块机器可以快速且轻松地离心不同的材料.%n%n如果你觉得离心需要很长时间,那么蒸汽分离器会加快速度!%n%n§3§3这个多方块机器可以处理最高 LV 级别的配方,并且处理需要输出仓的配方.但如果你想处理需要流体输入的配方,你将来可能需要建造一台 LV 离心机.
 
 # Quest: Fits The Mold
 betterquesting.quest.6glle46JSyuwR6O4x7mLYA.name=适合不同模具
@@ -14292,7 +14292,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKqw.desc=有源变压器可以进行任�
 
 # Quest: Dyson Swarm Ground Unit
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL3w.name=戴森球地面单元
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAL3w.desc=从本质上来说,戴森球地面单元这台多方块机器就是一大块太阳能板,稍微有点不同的是,你需要插入戴森球模块(数量取决于你想要多高的功率输出),才能获得能量产出.不过它并非一劳永逸：%n-每小时m个戴森球模块中有n个会被损耗,公式：n=m(2*0.066)/(exp(-0.00005*(m-1))+exp(0.00003*cps)),cps为每秒算力.%n-每小时消耗3.6M升极寒之凛冰.%n-每台戴森球最多可插入10,000个模块.%n-接受算力上限为100k.%n%n[note]提示：已支持TecTech的多A发电仓和激光源仓.[/note]%n%n右侧所列的每个部分只是最低要求,基于使用的发电仓、输入总线、输入仓和副光学接口数量,你可能需要更多能量接收基座机械方块、模块部署单元基座机械方块或控制中心基座机械方块.%n%n[warn]当发电仓满溢时这台机器会爆炸！[/warn]%n%n有趣的事实：最大输出为337B-EU/t(10,000模块上限以及在荷鲁斯最高3.37倍的维度加成系数)%n%n(如果你懒得计算每小时需要多少模块,统计下来最大为64)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAL3w.desc=从本质上来说,戴森球地面单元这台多方块机器就是一大块太阳能板,稍微有点不同的是,你需要插入戴森球模块(数量取决于你想要多高的功率输出),才能获得能量产出.不过它并非一劳永逸：%n-每小时m个戴森球模块中有n个会被损耗,公式：n=m(2*0.066)/(exp(-0.00005*(m-1))+exp(0.00003*cps)),cps为每秒算力.%n-每小时消耗3.6M升极寒之凛冰.%n-每台戴森球最多可插入10,000个模块.%n-接受算力上限为100k.%n%n[note]提示：已支持TecTech的多A发电仓和激光源仓.[/note]%n%n右侧所列的每个部分只是最低要求,基于使用的发电仓、输入总线、输入仓和光学接收连接器数量,你可能需要更多能量接收基座外壳、模块部署单元基座外壳或控制中心基座外壳.%n%n[warn]当发电仓满溢时这台机器会爆炸！[/warn]%n%n有趣的事实：最大输出为337B-EU/t(10,000模块上限以及在荷鲁斯最高3.37倍的维度加成系数)%n%n(如果你懒得计算每小时需要多少模块,统计下来最大为64)
 
 # Quest: Where Do I Build the Dyson Swarm?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL4A.name=我应该在哪建造戴森球?

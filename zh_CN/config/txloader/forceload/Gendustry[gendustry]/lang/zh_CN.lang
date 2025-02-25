@@ -84,7 +84,7 @@ gendustry.label.template.crafting=基因样本可以被添加到模板中. 在�
 
 gendustry.label.charges=充能: %s
 gendustry.label.select=选择品种:
-gendustry.label.status=状态: %s
+gendustry.label.status=状态：%s
 gendustry.label.control=控制: %s
 
 gendustry.label.breeding=饲育中

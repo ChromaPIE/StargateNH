@@ -566,7 +566,7 @@ railcraft.gui.surveyor.wrong=并非有效信号盒
 railcraft.gui.switch.motor.action=对应信号域来转辙轨道
 railcraft.gui.switch.motor.redstone=忽略红石信号
 
-railcraft.gui.tank.iron=铁制蓄水罐
+railcraft.gui.tank.iron=铁制储液缸
 railcraft.gui.tank.steel=钢质蓄水罐
 railcraft.gui.tank.water=集水器
 
@@ -794,11 +794,11 @@ tile.railcraft.machine.beta.engine.steam.hobby.name=民科蒸汽引擎
 tile.railcraft.machine.beta.engine.steam.hobby.tip=输出为20 RF/t\n 每tick消耗10升蒸汽
 tile.railcraft.machine.beta.engine.steam.low.name=商用蒸汽引擎
 tile.railcraft.machine.beta.engine.steam.low.tip=输出为40 RF/t\n 每tick消耗20升蒸汽
-tile.railcraft.machine.beta.tank.iron.gauge.name=铁制蓄水器量计
+tile.railcraft.machine.beta.tank.iron.gauge.name=透明铁制储液缸壁板
 tile.railcraft.machine.beta.tank.iron.gauge.tip=多方块结构:尺寸可变\n必须在底部两层输出液体.
-tile.railcraft.machine.beta.tank.iron.valve.name=铁制蓄水器阀门
+tile.railcraft.machine.beta.tank.iron.valve.name=铁制储液缸阀门
 tile.railcraft.machine.beta.tank.iron.valve.tip=多方块结构:尺寸可变,中空\n高度可选: 4, 5, 6, 7, 8\n长宽可选: 3, 5, 7, 9
-tile.railcraft.machine.beta.tank.iron.wall.name=铁制蓄水器壁板
+tile.railcraft.machine.beta.tank.iron.wall.name=铁制储液缸壁板
 tile.railcraft.machine.beta.tank.iron.wall.tip=多方块结构:尺寸可变,中空\n高度可选: 4, 5, 6, 7, 8\n长宽可选: 3, 5, 7, 9
 tile.railcraft.machine.beta.tank.steel.gauge.name=钢质蓄水器量计
 tile.railcraft.machine.beta.tank.steel.gauge.tip=多方块结构:尺寸可变\n必须在底部两层输出液体.

@@ -106,7 +106,7 @@ openblocks.misc.invalid_sub_inventory=无法恢复子物品栏 %s
 openblocks.misc.stored_inventory=已储存玩家 %s 的物品栏
 openblocks.misc.restored_inventory=已还原玩家 %s 的物品栏
 openblocks.misc.invalid_index=无效索引
-openblocks.misc.empty_slot=对应格子无物品
+openblocks.misc.empty_slot=对应槽位无物品
 
 openblocks.misc.pedometer.tracking_reset=重新计步
 openblocks.misc.pedometer.tracking_started=开始计步

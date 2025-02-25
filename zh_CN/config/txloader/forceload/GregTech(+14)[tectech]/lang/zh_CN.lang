@@ -518,12 +518,12 @@ gt.blockmachines.hatch.certain.desc.0=你真的很确定吗？
 gt.blockmachines.hatch.certain.desc.1=盒子里的薛定谔方程
 gt.blockmachines.hatch.certain.desc.2=Deprecated! Use Uncertainty Resolver X
 
-gt.blockmachines.hatch.datain.tier.07.name=副光学接口
+gt.blockmachines.hatch.datain.tier.07.name=光学接收连接器
 gt.blockmachines.hatch.datain.desc.0=多方块机器的数据输入
 gt.blockmachines.hatch.datain.desc.1=高速光纤接口
 gt.blockmachines.hatch.datain.desc.2=启用前必须涂色
 
-gt.blockmachines.hatch.dataout.tier.07.name=主光学接口
+gt.blockmachines.hatch.dataout.tier.07.name=光学传输连接器
 gt.blockmachines.hatch.dataout.desc.0=多方块机器的数据输出
 gt.blockmachines.hatch.dataout.desc.1=高速光纤接口
 gt.blockmachines.hatch.dataout.desc.2=启用前必须涂色

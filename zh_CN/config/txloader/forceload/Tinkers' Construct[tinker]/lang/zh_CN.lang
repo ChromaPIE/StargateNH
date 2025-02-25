@@ -1052,7 +1052,7 @@ tool.javelin=标枪
 # Customization of default tool names based on tool and material
 #tool.shovel.wood=Wooden Shovel
 
-tool.nameformat=%s %s
+tool.nameformat=%s%s
 # Customization of the format for default tool names
 # %s %s -> Iron Pickaxe
 # %2$s of %1$s -> Pickaxe of Iron

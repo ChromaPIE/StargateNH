@@ -44,7 +44,7 @@ tile.WG_CustomAir.name=微光
 
 #
 # -- Items --
-item.WG_Material.name=Material
+item.WG_Material.name=材料
 item.WG_Material.threadSimple.name=纱线
 item.WG_Material.threadGold.name=金丝线
 item.WG_Material.threadThaumium.name=神秘丝线
@@ -83,14 +83,14 @@ item.WG_AdvancedRobeLegs.name=秘法护腿
 
 item.WG_AdvancedScribingTools.name=发光笔与墨
 
-item.WG_Cloak.name=Cloak
+item.WG_Cloak.name=披风
 item.WG_Cloak.standard.name=斗篷
 item.WG_Cloak.storage.name=奇术斗篷
 item.WG_Cloak.raven.name=乌鸦斗篷
 item.WG_Cloak.spectral.name=幽灵斗篷
 item.WG_Cloak.wolf.name=野狼斗篷
 
-item.WG_Kama.name=Kama
+item.WG_Kama.name=卡玛短袍
 item.WG_Kama.standard.name=卡玛短袍
 item.WG_Kama.storage.name=奇术短袍
 item.WG_Kama.raven.name=乌鸦短袍
