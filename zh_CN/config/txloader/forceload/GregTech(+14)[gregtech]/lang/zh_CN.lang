@@ -329,7 +329,7 @@ gt.recipe.largechemicalreactor=大型化学反应釜
 gt.recipe.distillationtower=蒸馏塔
 gt.recipe.craker=石油裂化机
 gt.recipe.pyro=热解炉
-gt.recipe.solarfactory=Solar Factory
+gt.recipe.solarfactory=日光工厂
 gt.recipe.dieselgeneratorfuel=内燃发电机燃料
 gt.recipe.extremedieselgeneratorfuel=极限内燃引擎燃料
 gt.recipe.gasturbinefuel=燃气轮机燃料
@@ -777,11 +777,11 @@ GT5U.item.cable.eu_volt=伏
 GT5U.item.cable.swapped=Cable swapped:
 GT5U.item.tank.locked_to=内容物已锁定为%s
 
-GT5U.item.pipe.capacity=Capacity
-GT5U.item.pipe.heat_resistance=Heat Resistance
-GT5U.item.pipe.gas_proof=Gas Proof
-GT5U.item.pipe.gas_proof.yes=Yes
-GT5U.item.pipe.gas_proof.no=No
+GT5U.item.pipe.capacity=容量
+GT5U.item.pipe.heat_resistance=最高耐温
+GT5U.item.pipe.gas_proof=气密
+GT5U.item.pipe.gas_proof.yes=是
+GT5U.item.pipe.gas_proof.no=否
 GT5U.item.pipe.amount=Pipe Amount
 GT5U.item.pipe.empty=Empty
 GT5U.item.pipe.swap=Pipe Swapped:
@@ -1492,7 +1492,7 @@ achievement.gt.blockmachines.wireless.transmitter.tier.13.desc=捡起此物品�
 achievement.gt.blockmachines.wireless.transmitter.tier.14=MAX无线发电仓
 achievement.gt.blockmachines.wireless.transmitter.tier.14.desc=捡起此物品以在NEI内解锁该合成表
 
-achievement.gt.blockmachines.multimachine.oildrillinfinite=无尽油气流体钻机
+achievement.gt.blockmachines.multimachine.oildrillinfinite=无尽油/气/流体钻井平台
 achievement.gt.blockmachines.multimachine.oildrillinfinite.desc=捡起此物品以在NEI内解锁该合成表
 achievement.gt.blockmachines.multimachine.oreprocessor=集成矿石处理厂
 achievement.gt.blockmachines.multimachine.oreprocessor.desc=正在处理所有矿石.
@@ -2018,7 +2018,7 @@ GTPP.MBTT.SteamInputBus=蒸汽级输入总线
 GTPP.MBTT.SteamOutputBus=蒸汽级输出总线
 
 # Item Tooltips
-GTPP.tooltip.hold_ctrl=Hold Ctrl to show additional info.
+GTPP.tooltip.hold_ctrl=按住Ctrl显示更多信息。
 GTPP.tooltip.material.type=材料类型：%s。
 GTPP.tooltip.material.state=材料状态：%s。
 GTPP.tooltip.material.radioactivity=辐射等级：%s。

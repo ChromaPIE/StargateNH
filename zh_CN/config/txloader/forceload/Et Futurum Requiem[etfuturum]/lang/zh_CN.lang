@@ -5,22 +5,22 @@ itemGroup.etfuturum.blocks=Et Futurum - 方块
 # Enchantments
 enchantment.frost_walker=冰霜行者
 enchantment.mending=经验修补
-enchantment.waterWalker=Depth Strider
+enchantment.waterWalker=深海探索者
 enchantment.binding_curse=§c绑定诅咒
 enchantment.vanishing_curse=§c消失诅咒
-enchantment.swift_sneak=Swift Sneak
+enchantment.swift_sneak=迅捷潜行
 
 # Potions
-potion.levitation=Levitation
-potion.levitation.postfix=Potion of Levitation
+potion.levitation=飘浮
+potion.levitation.postfix=飘浮药水
 
 # Gamemode selector
 
-debug.gamemodes.select_next=%s Next
+debug.gamemodes.select_next=%s 下一个
 debug.gamemodes.press_f4=[ F4 ]
 
 # Gamemodes
-gameMode.Spectator=Spectator Mode
+gameMode.Spectator=旁观模式
 
 # Commands
 commands.etfuturum.fill.usage=/fill <from> <to> <block>
@@ -456,15 +456,15 @@ tile.etfuturum.lily_of_the_valley.name=Lily of the Valley
 tile.etfuturum.cornflower.name=Cornflower
 tile.etfuturum.wither_rose.name=Wither Rose
 tile.etfuturum.copper_ore.name=Copper Ore
-tile.etfuturum.deepslate_copper_ore.name=Deepslate Copper Ore
-tile.etfuturum.deepslate_coal_ore.name=Deepslate Coal Ore
-tile.etfuturum.deepslate_iron_ore.name=Deepslate Iron Ore
-tile.etfuturum.deepslate_gold_ore.name=Deepslate Gold Ore
-tile.etfuturum.deepslate_redstone_ore.name=Deepslate Redstone Ore
-tile.etfuturum.deepslate_lit_redstone_ore.name=Deepslate Redstone Ore
-tile.etfuturum.deepslate_lapis_ore.name=Deepslate Lapis Lazuli Ore
-tile.etfuturum.deepslate_diamond_ore.name=Deepslate Diamond Ore
-tile.etfuturum.deepslate_emerald_ore.name=Deepslate Emerald Ore
+tile.etfuturum.deepslate_copper_ore.name=深层铜矿石
+tile.etfuturum.deepslate_coal_ore.name=深层煤矿石
+tile.etfuturum.deepslate_iron_ore.name=深层铁矿石
+tile.etfuturum.deepslate_gold_ore.name=深层金矿石
+tile.etfuturum.deepslate_redstone_ore.name=深层红石矿石
+tile.etfuturum.deepslate_lit_redstone_ore.name=深层红石矿石
+tile.etfuturum.deepslate_lapis_ore.name=深层青金石矿石
+tile.etfuturum.deepslate_diamond_ore.name=深层钻石矿石
+tile.etfuturum.deepslate_emerald_ore.name=深层绿宝石矿石
 tile.etfuturum.copper_block.name=Block of Copper
 tile.etfuturum.exposed_copper.name=Exposed Copper
 tile.etfuturum.weathered_copper.name=Weathered Copper
@@ -537,16 +537,16 @@ tile.etfuturum.waxed_copper_trapdoor.name=Waxed Copper Trapdoor
 tile.etfuturum.waxed_exposed_copper_trapdoor.name=Waxed Exposed Copper Trapdoor
 tile.etfuturum.waxed_weathered_copper_trapdoor.name=Waxed Weathered Copper Trapdoor
 tile.etfuturum.waxed_oxidized_copper_trapdoor.name=Waxed Oxidized Copper Trapdoor
-tile.etfuturum.deepslate.name=Deepslate
-tile.etfuturum.cobbled_deepslate.name=Cobbled Deepslate
-tile.etfuturum.cobbled_deepslate_slab.name=Cobbled Deepslate Slab
-tile.etfuturum.cobbled_deepslate_stairs.name=Cobbled Deepslate Stairs
-tile.etfuturum.cobbled_deepslate_wall.name=Cobbled Deepslate Wall
-tile.etfuturum.chiseled_deepslate.name=Chiseled Deepslate
-tile.etfuturum.polished_deepslate.name=Polished Deepslate
-tile.etfuturum.polished_deepslate_slab.name=Polished Deepslate Slab
-tile.etfuturum.polished_deepslate_stairs.name=Polished Deepslate Stairs
-tile.etfuturum.polished_deepslate_wall.name=Polished Deepslate Wall
+tile.etfuturum.deepslate.name=深板岩
+tile.etfuturum.cobbled_deepslate.name=深板岩圆石
+tile.etfuturum.cobbled_deepslate_slab.name=深板岩圆石台阶
+tile.etfuturum.cobbled_deepslate_stairs.name=深板岩圆石楼梯
+tile.etfuturum.cobbled_deepslate_wall.name=深板岩圆石墙
+tile.etfuturum.chiseled_deepslate.name=雕纹深板岩
+tile.etfuturum.polished_deepslate.name=磨制深板岩
+tile.etfuturum.polished_deepslate_slab.name=磨制深板岩台阶
+tile.etfuturum.polished_deepslate_stairs.name=磨制深板岩楼梯
+tile.etfuturum.polished_deepslate_wall.name=磨制深板岩墙
 tile.etfuturum.deepslate_bricks.name=Deepslate Bricks
 tile.etfuturum.deepslate_brick_slab.name=Deepslate Brick Slab
 tile.etfuturum.deepslate_brick_stairs.name=Deepslate Brick Stairs
@@ -558,20 +558,20 @@ tile.etfuturum.deepslate_tile_wall.name=Deepslate Tile Wall
 tile.etfuturum.cracked_deepslate_bricks.name=Cracked Deepslate Bricks
 tile.etfuturum.cracked_deepslate_tiles.name=Cracked Deepslate Tiles
 tile.etfuturum.infested_deepslate.name=Infested Deepslate
-tile.etfuturum.tuff.name=Tuff
-tile.etfuturum.polished_tuff.name=Polished Tuff
-tile.etfuturum.tuff_bricks.name=Tuff Bricks
-tile.etfuturum.chiseled_tuff.name=Chiseled Tuff
-tile.etfuturum.chiseled_tuff_bricks.name=Chiseled Tuff Bricks
-tile.etfuturum.tuff_stairs.name=Tuff Stairs
-tile.etfuturum.polished_tuff_stairs.name=Polished Tuff Stairs
-tile.etfuturum.tuff_brick_stairs.name=Tuff Brick Stairs
-tile.etfuturum.tuff_wall.name=Tuff Wall
-tile.etfuturum.polished_tuff_wall.name=Polished Tuff Wall
-tile.etfuturum.tuff_brick_wall.name=Tuff Brick Wall
-tile.etfuturum.tuff_slab.name=Tuff Slab
-tile.etfuturum.polished_tuff_slab.name=Polished Tuff Slab
-tile.etfuturum.tuff_brick_slab.name=Tuff Brick Slab
+tile.etfuturum.tuff.name=凝灰岩
+tile.etfuturum.polished_tuff.name=磨制凝灰岩
+tile.etfuturum.tuff_bricks.name=凝灰岩砖
+tile.etfuturum.chiseled_tuff.name=雕纹凝灰岩
+tile.etfuturum.chiseled_tuff_bricks.name=雕纹凝灰岩砖
+tile.etfuturum.tuff_stairs.name=凝灰岩楼梯
+tile.etfuturum.polished_tuff_stairs.name=磨制凝灰岩楼梯
+tile.etfuturum.tuff_brick_stairs.name=凝灰岩砖楼梯
+tile.etfuturum.tuff_wall.name=凝灰岩墙
+tile.etfuturum.polished_tuff_wall.name=磨制凝灰岩墙
+tile.etfuturum.tuff_brick_wall.name=凝灰岩砖墙
+tile.etfuturum.tuff_slab.name=凝灰岩台阶
+tile.etfuturum.polished_tuff_slab.name=磨制凝灰岩台阶
+tile.etfuturum.tuff_brick_slab.name=凝灰岩砖台阶
 tile.etfuturum.raw_copper_block.name=Raw Copper Block
 tile.etfuturum.raw_iron_block.name=Raw Iron Block
 tile.etfuturum.raw_gold_block.name=Raw Gold Block
@@ -616,7 +616,7 @@ tile.etfuturum.beehive.name=Beehive
 tile.etfuturum.honey_block.name=Honey Block
 tile.etfuturum.honeycomb_block.name=Honeycomb Block
 
-tile.etfuturum.barrel.name=Barrel
+tile.etfuturum.barrel.name=桶
 tile.etfuturum.blast_furnace.name=Blast Furnace
 tile.etfuturum.smoker.name=Smoker
 tile.etfuturum.stonecutter.name=Stonecutter
@@ -1809,25 +1809,25 @@ tile.etfuturum.raw_boron_block.name=Raw Boron Block
 
 tile.etfuturum.simpleores.raw_adamantium_block.name=Raw Adamantium Block
 
-tile.etfuturum.deepslate_aluminum_ore.name=Deepslate Aluminum Ore
-tile.etfuturum.deepslate_tin_ore.name=Deepslate Tin Ore
-tile.etfuturum.deepslate_silver_ore.name=Deepslate Silver Ore
-tile.etfuturum.deepslate_lead_ore.name=Deepslate Lead Ore
-tile.etfuturum.deepslate_nickel_ore.name=Deepslate Nickel Ore
-tile.etfuturum.deepslate_platinum_ore.name=Deepslate Platinum Ore
-tile.etfuturum.deepslate_mythril_ore.name=Deepslate Mythril Ore
-tile.etfuturum.deepslate_uranium_ore.name=Deepslate Uranium Ore
-tile.etfuturum.deepslate_thorium_ore.name=Deepslate Thorium Ore
-tile.etfuturum.deepslate_tungsten_ore.name=Deepslate Tungsten Ore
-tile.etfuturum.deepslate_titanium_ore.name=Deepslate Titanium Ore
-tile.etfuturum.deepslate_zinc_ore.name=Deepslate Zinc Ore
-tile.etfuturum.deepslate_magnesium_ore.name=Deepslate Magnesium Ore
-tile.etfuturum.deepslate_boron_ore.name=Deepslate Boron Ore
+tile.etfuturum.deepslate_aluminum_ore.name=深层铝矿石
+tile.etfuturum.deepslate_tin_ore.name=深层锡矿石
+tile.etfuturum.deepslate_silver_ore.name=深层银矿石
+tile.etfuturum.deepslate_lead_ore.name=深层铅矿石
+tile.etfuturum.deepslate_nickel_ore.name=深层镍矿石
+tile.etfuturum.deepslate_platinum_ore.name=深层铂矿石
+tile.etfuturum.deepslate_mythril_ore.name=深层秘银矿石
+tile.etfuturum.deepslate_uranium_ore.name=深层铀矿石
+tile.etfuturum.deepslate_thorium_ore.name=深层钍矿石
+tile.etfuturum.deepslate_tungsten_ore.name=深层钨矿石
+tile.etfuturum.deepslate_titanium_ore.name=深层钛矿石
+tile.etfuturum.deepslate_zinc_ore.name=深层锌矿石
+tile.etfuturum.deepslate_magnesium_ore.name=深层镁矿石
+tile.etfuturum.deepslate_boron_ore.name=深层硼矿石
 
-tile.etfuturum.ae2.deepslate_certus_quartz_ore.name=Deepslate Certus Quartz Ore
-tile.etfuturum.ae2.deepslate_charged_certus_quartz_ore.name=Deepslate Charged Certus Quartz Ore
+tile.etfuturum.ae2.deepslate_certus_quartz_ore.name=深层赛特斯石英矿石
+tile.etfuturum.ae2.deepslate_charged_certus_quartz_ore.name=深层充能赛特斯石英矿石
 
-tile.etfuturum.draconic.deepslate_draconium_ore.name=Deepslate Draconium Ore
+tile.etfuturum.draconic.deepslate_draconium_ore.name=深层龙矿石
 
 tile.etfuturum.simpleores.deepslate_adamantium_ore.name=Deepslate Adamantium Ore
 

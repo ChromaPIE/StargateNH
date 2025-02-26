@@ -602,11 +602,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8Q.desc=你已经找到了另外一种�
 
 # Quest: Tool Forge
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC5Q.name=§3§l工具装配台
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC5Q.desc=制造出耐酸铝后,为了制造更大(并且更好)的匠魂工具了,是时候制作一个工具装配台了.%n%n§Y§3现在铸模不一定需要使用铁来制作;您还可以使用其他材料,例如锡或铜等.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC5Q.desc=制造出曜锌钢后,为了制造更大(并且更好)的匠魂工具了,是时候制作一个工具装配台了.%n%n§Y§3现在铸模不一定需要使用铁来制作;您还可以使用其他材料,例如锡或铜等.
 
 # Quest: One Block Mining is so Old School
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC5g.name=§3§l一格一格挖矿已经过气了
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC5g.desc=制作一柄大锤,你就可以一次挖3x3范围的矿.你可以使用各种材料,如铁、钢或冶炼炉生产的耐酸铝,不用局限于钢.更高阶的材料需要MV压模机.  你需要一个锤头、两个大板、一个坚韧手柄来制造一柄大锤.  在下界小心点,因为一不小心你就会被岩浆煮熟.%n%n§6本任务接受任意材料制成的相应工具.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC5g.desc=制作一柄大锤,你就可以一次挖3x3范围的矿.你可以使用各种材料,如铁、钢或冶炼炉生产的曜锌钢,不用局限于钢.更高阶的材料需要MV压模机.  你需要一个锤头、两个大板、一个坚韧手柄来制造一柄大锤.  在下界小心点,因为一不小心你就会被岩浆煮熟.%n%n§6本任务接受任意材料制成的相应工具.
 
 # Quest: Cutting a Tree log by log is so Old School
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC5w.name=§3§l一次砍一个原木已经过气了
@@ -1010,7 +1010,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACJQ.name=§5§l轻燃油
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACJQ.desc=在化学反应釜中通过氢气将硫化轻燃油转化成不含硫的轻燃油,这是一种燃烧值很高的燃料. 1单位的轻燃油(1000mB)理论燃烧值有305KEU.%n%n而剩下的硫化氢可以通过加水反应得到稀硫酸,稀硫酸在蒸馏得到硫酸.这可是很重要的化工原料,你可以使用硫酸来制备TNT或者灌装到电池内制作一次性电池,还有许许多多用途,硫酸永远不嫌多!%n%n在MV阶段,你可以通过搅拌重燃油和轻燃油来制作柴油.%n%n你可以在化学反应釜中用蒸汽将其裂化,然后蒸馏以获取乙烯,进一步加工得到聚乙烯.但是制取乙烯的话,炼油气更棒.
 
 # Quest: H for Hydrogen... the Rest of the Alphabet is Too Complicated...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJg.name=§5§lH代表氢...字母表的其余部分太复杂了!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJg.name=§5§lH代表氢……顶不住了，太难记了……
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACJg.desc=用离心机处理黄褐铁矿石或者棕褐铁矿石,即可获得一些氢气,或者在电解机里面电解水也可以,不过可能比较费电.%n%n你可能想寻找更多其他获取氢气的方法.不过其中部分得在很久之后才能解锁.%n%n例如：水化或电解甲烷(生物来源)、电解水或盐水、将钠与水混合,或是后期直接从气态巨行星抽取氢气.
 
 # Quest: Heavy Sulfuric Fuel
@@ -1026,7 +1026,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.name=§5§l嘿,DJ,搅起来!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.desc=搅拌机是非常有用的设备,他可以搅拌各种各样的液体或者固体(有助于防止在合成时粉末掉到地上),而且大多数搅拌配方都比手动配方划算!%n%nEV+的版本会多3个槽,这种只有6个槽.%n%n[note]你可以在GUI中的电池槽或其他额外槽内放置任何你想放的东西.[/note]
 
 # Quest: N Like Nitrogen... Hide, the Alphabet Strikes Again!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKw.name=§5§lN代表氮...字母表又罢工了!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKw.name=§5§lN代表氮……躲好，字母表又来搞事儿了！
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACKw.desc=你可以通过离心压缩空气单元来获得一些氮气. 因为这个过程涉及到将空气压缩到空单元中,再离心空气单元.因此生产氮气的速度特别慢,尤其在低压阶段. 由于在中压阶段你需要很多的铝.所以记得没事的时候多囤积一些氮气.%n%n将空单元放入压缩机,即可获得压缩空气单元,它含有2000L空气,不像普通单元只装1000L.
 
 # Quest: Molten Redstone?
@@ -3637,7 +3637,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKbQ.desc=UV阶段你需要用到中子�
 
 # Quest: Data Bank
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKbw.name=数据库
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKbw.desc=你可能已经对装配线需要的闪存数量感到不知所措了. TecTech提供了一个解决方式: 数据库. 它最高能存储15x16个闪存(不装输出的话),而目前装配线一共才100出头的合成表. 另外数据库还可以同时为多条装配线提供数据支持.%n%n将控制器方块放置在离地至少1格高的位置,然后对其使用多方块机器全息投影仪以查看结构. 数据库需要维修仓和一个至少EV的能源仓,不过如果你添加了很多数据访问仓和数据库主接口的话,耗能会远超EV,所以现在用LuV能源仓作为出发点是不错的选择. 运行数据库,然后使用三录仪扫描主方块即可获知其具体耗能.%n译者注: 耗电=2048x数据仓数量x数据库主接口数量%n%n此任务要求的方块数量低于你实际需要的数量,因为这取决于你会用多少数据访问仓.%n%n用装配线数据库接口替换掉你原来的数据访问仓. 使用光缆将其连接到数据库上的主接口,并为仓室和光缆涂上相同颜色.%n%n[note]如果你不太清楚各种仓室该放在哪里,请在使用投影仪后留意左下角的聊天栏. 填充方块为电子计算机械方块.[/note]%n%n WIKI 数据库：§9gtnh.huijiwiki.com/p/411§r
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKbw.desc=你可能已经对装配线需要的闪存数量感到不知所措了. TecTech提供了一个解决方式: 数据库. 它最高能存储15x16个闪存(不装输出的话),而目前装配线一共才100出头的合成表. 另外数据库还可以同时为多条装配线提供数据支持.%n%n将控制器方块放置在离地至少1格高的位置,然后对其使用多方块结构全息投影仪以查看结构. 数据库需要维修仓和一个至少EV的能源仓,不过如果你添加了很多数据访问仓和数据库主接口的话,耗能会远超EV,所以现在用LuV能源仓作为出发点是不错的选择. 运行数据库,然后使用三录仪扫描主方块即可获知其具体耗能.%n译者注: 耗电=2048x数据仓数量x数据库主接口数量%n%n此任务要求的方块数量低于你实际需要的数量,因为这取决于你会用多少数据访问仓.%n%n用装配线数据库接口替换掉你原来的数据访问仓. 使用光缆将其连接到数据库上的主接口,并为仓室和光缆涂上相同颜色.%n%n[note]如果你不太清楚各种仓室该放在哪里,请在使用投影仪后留意左下角的聊天栏. 填充方块为电子计算机械方块.[/note]%n%n WIKI 数据库：§9gtnh.huijiwiki.com/p/411§r
 
 # Quest: Paint-by-Numbers
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKdg.name=填色游戏
@@ -3645,7 +3645,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKdg.desc=你需要用颜料刷才能把�
 
 # Quest: TecTech Multiblocks
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKeg.name=TecTech多方块机器
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKeg.desc=TecTech多方块机器的一般功能%n%n多安能源仓/发电仓和激光仓-使能量分配更便捷..%n%n导能-允许连接到的发电仓从控制器获得能量并输出,就像有源变压器一样(这也是为什么那些有此功能的控制器方块的合成表中总有个有源变压器的原因...).[warn]拆卸多方块机器时,请确保关闭了导能按钮,不然BOOM![/warn]%n%n可构造界面-使用多方块机器全息投影仪显示结构(*有一个API可以让任何方块都实现此功能,但目前几乎没有任何作用).%n%n%n在TecTech多方块机器的GUI中,从左向右为1,剩余部分按顺时针排序.%n%n1) 各项参数-它们是控制器与玩家、参数舱口进行通信的方式. 指示灯指示状态,而将鼠标悬停在上方时可以看到更多详细信息. tooltip包含ID形式为仓室ID:参数编号:指向,当前状态,当前值,以及简短说明.%n%n2) 不确定度状态-这9个方块指示机器的不确定度状态(未定元). 如果指示灯亮起,代表这台机器需要未定元解析器. 红色=坏,绿色=好. 在使用机器之前,你需要先解决这个小游戏.%n%n控制按键-这些按键可能会根据机器而改变其功能和外观,但通常它们的工作方式如下: 从上到下:%n%n3) 导能-切换导能状态.%n%n4) 安全销毁-切换安全销毁.%n%n5) 电源开关-相当于软槌的功能...%n%n6) 输入插槽-标准功能.%n%n%n*正面旋转-允许旋转机器的正面以获得更大的结构定向自由度(也可以在API中使用). 这种旋转不会改变控制器的正面,仅仅改变方向. 因此,如果从正面看,它可以顺时针或逆时针旋转. 你需要正面旋转扳手才能做到这些. §3如果你没看懂,可以试着放下一个控制器方块,使用正面旋转扳手,然后使用蓝图看看结构变化.§r%n%n*多方块机器蓝图-此蓝图可以显示出完整多方块机器的全息图,左下角的聊天栏会显示自定义的方块.如果你堆叠越多张蓝图一起使用,看到的就是多方块机器越大的版本(如果有的话).
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKeg.desc=TecTech多方块机器的一般功能%n%n多安能源仓/发电仓和激光仓-使能量分配更便捷..%n%n导能-允许连接到的发电仓从控制器获得能量并输出,就像有源变压器一样(这也是为什么那些有此功能的控制器方块的合成表中总有个有源变压器的原因...).[warn]拆卸多方块机器时,请确保关闭了导能按钮,不然BOOM![/warn]%n%n可构造界面-使用多方块结构全息投影仪显示结构(*有一个API可以让任何方块都实现此功能,但目前几乎没有任何作用).%n%n%n在TecTech多方块机器的GUI中,从左向右为1,剩余部分按顺时针排序.%n%n1) 各项参数-它们是控制器与玩家、参数舱口进行通信的方式. 指示灯指示状态,而将鼠标悬停在上方时可以看到更多详细信息. tooltip包含ID形式为仓室ID:参数编号:指向,当前状态,当前值,以及简短说明.%n%n2) 不确定度状态-这9个方块指示机器的不确定度状态(未定元). 如果指示灯亮起,代表这台机器需要未定元解析器. 红色=坏,绿色=好. 在使用机器之前,你需要先解决这个小游戏.%n%n控制按键-这些按键可能会根据机器而改变其功能和外观,但通常它们的工作方式如下: 从上到下:%n%n3) 导能-切换导能状态.%n%n4) 安全销毁-切换安全销毁.%n%n5) 电源开关-相当于软槌的功能...%n%n6) 输入插槽-标准功能.%n%n%n*正面旋转-允许旋转机器的正面以获得更大的结构定向自由度(也可以在API中使用). 这种旋转不会改变控制器的正面,仅仅改变方向. 因此,如果从正面看,它可以顺时针或逆时针旋转. 你需要正面旋转扳手才能做到这些. §3如果你没看懂,可以试着放下一个控制器方块,使用正面旋转扳手,然后使用蓝图看看结构变化.§r%n%n*多方块机器蓝图-此蓝图可以显示出完整多方块机器的全息图,左下角的聊天栏会显示自定义的方块.如果你堆叠越多张蓝图一起使用,看到的就是多方块机器越大的版本(如果有的话).
 
 # Quest: Configuring TecTech Multiblocks
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKew.name=配置TecTech多方块机器
@@ -4124,7 +4124,7 @@ betterquesting.quest.AzTPKiXuRWaBTOFhTeV83Q.desc=配得上神的盔甲.这双靴
 
 # Quest: Something From Nothing, Part 3?
 betterquesting.quest.BFpBG-zDQSCr3DieB6Cw5g.name=无中生有,3?
-betterquesting.quest.BFpBG-zDQSCr3DieB6Cw5g.desc=以前所未有的方式抽取流体!这个模块代替了无尽油气流体钻机,但只能塞进你的太空电梯里.去NEI页面查看这个模块能抽哪些流体吧.
+betterquesting.quest.BFpBG-zDQSCr3DieB6Cw5g.desc=以前所未有的方式抽取流体!这个模块代替了无尽油/气/流体钻井平台,但只能塞进你的太空电梯里.去NEI页面查看这个模块能抽哪些流体吧.
 
 # Quest: Infinity Pants
 betterquesting.quest.E851J_UMQl6d9EwLLLg6AQ.name=无尽护腿
@@ -6045,7 +6045,7 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAADA.desc=这里有所有的多方块
 
 # Quest: Something From Nothing pt 2
 betterquesting.quest.-1GoIXIXR029oc0Ge6sRGg.name=无中生有2
-betterquesting.quest.-1GoIXIXR029oc0Ge6sRGg.desc=这台机器就像普通油气流体钻机一样工作，但受益于§5§l§o科技进步§r，它在产出时不会导致地下油田储量降低。无限的稳定的输出！
+betterquesting.quest.-1GoIXIXR029oc0Ge6sRGg.desc=这台机器就像普通油/气/流体钻井平台一样工作，但受益于§5§l§o科技进步§r，它在产出时不会导致地下油田储量降低。无限的稳定的输出！
 
 # Quest: Collision Course
 betterquesting.quest.9Pc7p99ASnybsIbWmmg0LQ.name=警告：可能发生撞击（Collision Course）
@@ -6341,7 +6341,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAL4g.desc=专为稀释而设计的一种�
 
 # Quest: Advanced MB Construction
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALKA.name=§6§l多方块机器结构-进阶
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALKA.desc=旋转多方块机器、显示其全息图的功能是从§9Tec§1Tech§r§o借(嫖)来的§r,这赋予了你更大的建造自由度! §5(至少等我们nerf了多方块共用墙壁/仓室)§r%n%n你可以用普通扳手做到这一点,只需要瞄准控制器正面中心(或是其他的某一面.你只需要瞄准网格的相应部分),然后右键或Shift+右键.前者会将其顺时针旋转,而后者会把它翻转.至于正常旋转控制器的朝向,还是以前的操作方式.%n%n使用多方块机器全息投影仪(MSHP),以可视化多方块机器结构,请注意左下角聊天栏显示的结构细节.对于支持多种等级机械方块或者可变体积的多方块结构,你手中拿着的投影仪数量决定了全息投影显示的等级.%n%n[note]如果这么讲太抽象了,你可以试着放置一个控制器,用扳手转转,然后对它使用全息投影仪.[/note]%n%n现在电力高炉已经支持旋转-你可以搭一个躺着的高炉,甚至把高炉埋到地板里,但不是所有机器都支持旋转. 不支持的包括:非GT系多方块机器(显然);兰波顿超级电容库、木炭堆、砖砌高炉、蒸馏塔、采矿场、虚空采矿场、工业洗矿厂、藻类农场、细菌培养缸、深地热泵.巨型真空冷冻机支持旋转,但巨型电力高炉不行.%n%n[note]PS：我们确实得到了授权,那只是个小玩笑.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALKA.desc=旋转多方块机器、显示其全息图的功能是从§9Tec§1Tech§r§o借(嫖)来的§r,这赋予了你更大的建造自由度! §5(至少等我们nerf了多方块共用墙壁/仓室)§r%n%n你可以用普通扳手做到这一点,只需要瞄准控制器正面中心(或是其他的某一面.你只需要瞄准网格的相应部分),然后右键或Shift+右键.前者会将其顺时针旋转,而后者会把它翻转.至于正常旋转控制器的朝向,还是以前的操作方式.%n%n使用多方块结构全息投影仪(MSHP),以可视化多方块机器结构,请注意左下角聊天栏显示的结构细节.对于支持多种等级机械方块或者可变体积的多方块结构,你手中拿着的投影仪数量决定了全息投影显示的等级.%n%n[note]如果这么讲太抽象了,你可以试着放置一个控制器,用扳手转转,然后对它使用全息投影仪.[/note]%n%n现在电力高炉已经支持旋转-你可以搭一个躺着的高炉,甚至把高炉埋到地板里,但不是所有机器都支持旋转. 不支持的包括:非GT系多方块机器(显然);兰波顿超级电容库、木炭堆、砖砌高炉、蒸馏塔、采矿场、虚空采矿场、工业洗矿厂、藻类农场、细菌培养缸、深地热泵.巨型真空冷冻机支持旋转,但巨型电力高炉不行.%n%n[note]PS：我们确实得到了授权,那只是个小玩笑.[/note]
 
 # Quest: HSS-S Coil Upgrade
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALTA.name=§6§l升级高速钢-S线圈
@@ -6670,7 +6670,7 @@ betterquesting.quest.fLH_QDPRR6mgCK0PL5iWmA.desc=这台多方块机器是获取�
 
 # Quest: Can it!
 betterquesting.quest.gMRufFtRRRa30LE21boFNQ.name=把它装进罐子里！(Can it!)
-betterquesting.quest.gMRufFtRRRa30LE21boFNQ.desc=如果您曾经需要等待装罐机来装满锡罐,或者等待流体灌装机来制造成吨的冷却剂单元,那么请考虑下涡轮装罐机Pro.当您决定需要它时,这台多方块机器可以同时充当这两种机器,并具有显著的优势!
+betterquesting.quest.gMRufFtRRRa30LE21boFNQ.desc=如果您曾经需要等待装罐机来装满锡罐,或者等待流体灌装机来制造成吨的冷却剂单元,那么请考虑下特宝灌 Pro.当您决定需要它时,这台多方块机器可以同时充当这两种机器,并具有显著的优势!
 
 # Quest: High Voltage Multiblocks
 betterquesting.quest.pKSx6HEUS0WkL6qkwo742g.name=高压阶段的多方块结构
@@ -7504,8 +7504,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALqA.name=蒸馏概论
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALqA.desc=虽然石油资源丰富,但如果不经过处理,它几乎无法使用.处理线中最重要的环节之一就是蒸馏,这一处理可以利用各组分的沸点差异,将这种黑色流体分馏.从LV阶段开始,你就能在蒸馏室中完成这一处理,但此时只能选择一种组分出产:你得慎重选择自己所需的部分.%n%n较轻的组分通常比重的更有用,但这并不意味着最轻的就是最好的.在现阶段,含硫轻燃油是最优选择,只需要经过简单的脱硫处理,它就能成为相当优秀的能源. 请勿使用未处理的石油直接为这些机器供能,在你搞到更好的能源之前坚持用蒸汽吧.%n%n[note]你可以在LV章节中找到有关其他组分的相关信息！[/note]
 
 # Quest: Oil Drilling Rig
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALqw.name=油气流体钻机
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALqw.desc=在MV阶段,将蒸汽作为唯一能源已经举步维艰,所以你需要寻找更可靠的能源.而石油效率获得了极大提升,这使其成为了一种替代蒸汽的优质能源选择.%n%n当然,你可能已经用上了轻燃油,但你可能也想过：有没有更好的获取石油的方式?可能只是一闪念,也有可能没想过.不过这都不重要,在此阶段会解锁一种多方块机器,它可以让获取石油喂给蒸馏室变得轻松愉快. 这种多方块机器就是油气流体钻机,它可以从基岩下方抽取生成的虚拟油田(以及之后各种流体田),为了判断下方的流体田分布,你需要先扫描区块.%n%n在多方块结构任务栏有钻机的相关任务.去看看它吧!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALqw.name=钻油平台
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALqw.desc=在MV阶段,将蒸汽作为唯一能源已经举步维艰,所以你需要寻找更可靠的能源.而石油效率获得了极大提升,这使其成为了一种替代蒸汽的优质能源选择.%n%n当然,你可能已经用上了轻燃油,但你可能也想过：有没有更好的获取石油的方式?可能只是一闪念,也有可能没想过.不过这都不重要,在此阶段会解锁一种多方块机器,它可以让获取石油喂给蒸馏室变得轻松愉快. 这种多方块机器就是油/气/流体钻井平台,它可以从基岩下方抽取生成的虚拟油田(以及之后各种流体田),为了判断下方的流体田分布,你需要先扫描区块.%n%n在多方块结构任务栏有钻机的相关任务.去看看它吧!
 
 # Quest: Distillation Tower
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALrA.name=蒸馏塔
@@ -7557,7 +7557,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALtw.desc=最后是柴油,我愿称之为
 
 # Quest: More Oil Options
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALuA.name=更多油源
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALuA.desc=除了油气流体钻机之外,还有一些其他的油来源. 对于重油,油砂就是一种不错的来源,它可以在高海拔地区的稀有矿脉中找到.要是你不小心找到了一条油砂矿脉,也就意味着你拥有了大量的重燃油,只要简单处理后就能拿来制造柴油了.%n%n其实石油也是一种可再生资源---IC2杂交作物和蜜蜂. 石油浆果(Oilberry)作物可以无限生产石油,虽然速度非常慢;而石油蜂的速度就要快多了,特别是专门育种过的石油蜂,不过从蜜蜂产物中提取石油不太容易.%n%n另外,通过特定的裂化路线,从相同数量的石油中可以有更多的目标产物产出.比如,轻度加氢裂化重燃油60％可以转化为轻燃油,这种裂化路线在你拥有大量额外重燃油,但缺少轻燃油合成柴油时相当有用.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALuA.desc=除了油/气/流体钻井平台之外,还有一些其他的油来源. 对于重油,油砂就是一种不错的来源,它可以在高海拔地区的稀有矿脉中找到.要是你不小心找到了一条油砂矿脉,也就意味着你拥有了大量的重燃油,只要简单处理后就能拿来制造柴油了.%n%n其实石油也是一种可再生资源---IC2杂交作物和蜜蜂. 石油浆果(Oilberry)作物可以无限生产石油,虽然速度非常慢;而石油蜂的速度就要快多了,特别是专门育种过的石油蜂,不过从蜜蜂产物中提取石油不太容易.%n%n另外,通过特定的裂化路线,从相同数量的石油中可以有更多的目标产物产出.比如,轻度加氢裂化重燃油60％可以转化为轻燃油,这种裂化路线在你拥有大量额外重燃油,但缺少轻燃油合成柴油时相当有用.
 
 # Quest: Using All the Fractions
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALuQ.name=利用所有组分
@@ -7637,7 +7637,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALyw.desc=众所周知,汽油是一种常
 
 # Quest: Largest Oil Drain
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALzA.name=最大出油口
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALzA.desc=无论如何,你的石油需求都会越来越大.虚拟流体田可能非常大,但低阶油气流体钻机只能抽取其中的一部分...但现在,有了几组钨钢之后,你就可以建造4阶油气流体钻机,并一次抽取整个虚拟流体田中所有区块的流体(任意位置即可覆盖整个8x8区块范围). %n%n如果一台钻机不够快,那就再造几台!它们会从同一个油田中抽取,并一起输出.如果你把它们放在相邻的虚拟流体田上,你就可以一次抽取多个完整的虚拟流体田,并把它们输出到一个中心位置.在本阶段解锁末影储罐之后,运输会变得更加容易.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALzA.desc=无论如何,你的石油需求都会越来越大.虚拟流体田可能非常大,但低阶油/气/流体钻井平台只能抽取其中的一部分...但现在,有了几组钨钢之后,你就可以建造4阶油/气/流体钻井平台,并一次抽取整个虚拟流体田中所有区块的流体(任意位置即可覆盖整个8x8区块范围). %n%n如果一台钻机不够快,那就再造几台!它们会从同一个油田中抽取,并一起输出.如果你把它们放在相邻的虚拟流体田上,你就可以一次抽取多个完整的虚拟流体田,并把它们输出到一个中心位置.在本阶段解锁末影储罐之后,运输会变得更加容易.
 
 # Quest: Buffered Dynamo
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALzQ.name=发电仓[缓冲]
@@ -7887,7 +7887,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMUA.desc=核科学在本整合包中应�
 
 # Quest: Building the Reactor
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMUQ.name=建造反应堆
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMUQ.desc=所有常规核聚变反应堆的结构都是相同的.其等级由材料决定,逐级变贵.MK-I对应LuV,MK-II对应ZPM,MK-III对应UV,MK-IV另算. 整体结构呈环状,刚好可以在一个区块中放下,而控制器方块在环的内侧,而非外侧.%n%n作为搭建指导,控制器方块的GUI中显示了一张示意图,指出每种方块所在的位置. 而想要在世界中直接看到3D全息影像,请对控制器方块使用<多方块机器全息投影仪>. 如果你还需要更多帮助,网络上可以找到大量搭建指南,因为核聚变反应堆是GT的大型多方块机器,在许多整合包内都有涉及,并且构建方式都大同小异.%n%n每个等级的核聚变反应堆对应的任务都写进来了,它们会在你爬科技线的时候提供大量信息,并且保持更新.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMUQ.desc=所有常规核聚变反应堆的结构都是相同的.其等级由材料决定,逐级变贵.MK-I对应LuV,MK-II对应ZPM,MK-III对应UV,MK-IV另算. 整体结构呈环状,刚好可以在一个区块中放下,而控制器方块在环的内侧,而非外侧.%n%n作为搭建指导,控制器方块的GUI中显示了一张示意图,指出每种方块所在的位置. 而想要在世界中直接看到3D全息影像,请对控制器方块使用<多方块结构全息投影仪>. 如果你还需要更多帮助,网络上可以找到大量搭建指南,因为核聚变反应堆是GT的大型多方块机器,在许多整合包内都有涉及,并且构建方式都大同小异.%n%n每个等级的核聚变反应堆对应的任务都写进来了,它们会在你爬科技线的时候提供大量信息,并且保持更新.
 
 # Quest: Fluid Nukes
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMUg.name=流体核弹
@@ -13956,7 +13956,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABgw.desc=需要大量的凿制方块?这
 
 # Quest: Draconic Evolution
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABhA.name=§6§l龙之进化
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABhA.desc=你反反复复摆弄了很久,试图将魔法和科技结合起来.看来你终于找到了方法!你将神秘使和血魔法师的力量与UHV科技结合,找到了一种将龙的力量精炼成一个小核心的方式.你确信这台机器就可以做这件事--只要你知道如何准确地组装这个核心.%n%n%n[note]使用多方块机器全息投影仪了解其搭建方式.你也可以升级龙芯,不过这需要更高等级的图纸,同时还得升级多方块机器.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABhA.desc=你反反复复摆弄了很久,试图将魔法和科技结合起来.看来你终于找到了方法!你将神秘使和血魔法师的力量与UHV科技结合,找到了一种将龙的力量精炼成一个小核心的方式.你确信这台机器就可以做这件事--只要你知道如何准确地组装这个核心.%n%n%n[note]使用多方块结构全息投影仪了解其搭建方式.你也可以升级龙芯,不过这需要更高等级的图纸,同时还得升级多方块机器.[/note]
 
 # Quest: Shields UP
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABvg.name=§1§l举起盾牌
