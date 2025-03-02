@@ -79,7 +79,7 @@ tile.appliedenergistics2.SkyStoneStairBlock.name=陨石楼梯
 
 # Slabs
 tile.appliedenergistics2.ChiseledQuartzSlabBlock.name=錾制赛特斯石英台阶
-tile.appliedenergistics2.ChiseledQuartzSlabBlock.double.name=Chiseled Certus Quartz Slabs
+tile.appliedenergistics2.ChiseledQuartzSlabBlock.double.name=錾制赛特斯石英台阶
 tile.appliedenergistics2.FluixSlabBlock.name=福鲁伊克斯台阶
 tile.appliedenergistics2.FluixSlabBlock.double.name=福鲁伊克斯台阶
 tile.appliedenergistics2.QuartzPillarSlabBlock.name=竖纹赛特斯石英台阶
@@ -403,7 +403,7 @@ gui.tooltips.appliedenergistics2.Clear=清除
 gui.tooltips.appliedenergistics2.TrashController=按下Shift/空格+左键以删除.
 
 gui.tooltips.appliedenergistics2.InterfaceBlockingMode=阻挡模式
-gui.tooltips.appliedenergistics2.InterfaceSmartBlockingMode=Smart Blocking Mode
+gui.tooltips.appliedenergistics2.InterfaceSmartBlockingMode=智能阻挡模式
 gui.tooltips.appliedenergistics2.InterfaceCraftingMode=合成模式
 gui.tooltips.appliedenergistics2.Trash=销毁物品
 gui.tooltips.appliedenergistics2.MatterBalls=每%s个物品\n聚合为一个物质球
@@ -435,8 +435,8 @@ gui.tooltips.appliedenergistics2.Disabled=禁用
 gui.tooltips.appliedenergistics2.Enable=启用
 gui.tooltips.appliedenergistics2.Blocking=当容器内有物品时不传送物品.
 gui.tooltips.appliedenergistics2.NonBlocking=忽略目标容器的内容.
-gui.tooltips.appliedenergistics2.SmartBlocking=Allow insert same recipe.
-gui.tooltips.appliedenergistics2.NonSmartBlocking=Regular blocking mode behavior.
+gui.tooltips.appliedenergistics2.SmartBlocking=允许输入相同配方。
+gui.tooltips.appliedenergistics2.NonSmartBlocking=常规的阻挡模式行为。
 gui.tooltips.appliedenergistics2.Craft=输出时若有需要则合成物品.
 gui.tooltips.appliedenergistics2.CraftOnly=不使用已存储物品,只使用合成物品.
 gui.tooltips.appliedenergistics2.CraftEither=输出时使用已存储物品或合成物品.
@@ -636,7 +636,7 @@ item.appliedenergistics2.ItemPart.InvalidType.name=已禁用
 item.appliedenergistics2.ItemMaterial.InvalidType.name=该物品被禁用.
 
 item.appliedenergistics2.ItemMaterial.name=ME Component
-item.appliedenergistics2.ItemPart.name=ME Cable and/or Bus
+item.appliedenergistics2.ItemPart.name=ME线缆和/或总线
 
 item.appliedenergistics2.ItemMaterial.BlankPattern.name=空白样板
 item.appliedenergistics2.ItemMaterial.FormationCore.name=成型核心
@@ -660,7 +660,7 @@ item.appliedenergistics2.ItemMaterial.CardSticky.name=粘性卡
 item.appliedenergistics2.ItemMaterial.CardVoidOverflow.name=Overflow Void Card
 item.appliedenergistics2.ItemMaterial.CardDistribution.name=Equal Distribution Card
 item.appliedenergistics2.ItemMaterial.CardFakeCrafting.name=Fake Crafting Card
-item.appliedenergistics2.ItemMaterial.CardSuperluminalSpeed.name=Superluminal Acceleration Card
+item.appliedenergistics2.ItemMaterial.CardSuperluminalSpeed.name=超光速卡
 
 item.appliedenergistics2.ItemMaterial.Cell2SpatialPart.name=2³-空间组件
 item.appliedenergistics2.ItemMaterial.Cell16SpatialPart.name=16³-空间组件

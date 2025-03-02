@@ -776,7 +776,7 @@ tile.railcraft.machine.alpha.turbine.tip=多方块结构:3x2x2\n用蒸汽发电\
 
 tile.railcraft.machine.beta.name=机器
 tile.railcraft.machine.beta.anchor.sentinel.name=拱卫之锚
-tile.railcraft.machine.beta.boiler.firebox.liquid.name=液态燃料燃烧室
+tile.railcraft.machine.beta.boiler.firebox.liquid.name=液态燃料锅炉燃烧室
 tile.railcraft.machine.beta.boiler.firebox.liquid.tip=多方块结构:尺寸可变\n底座规格可选:1x1, 2x2, 3x3
 tile.railcraft.machine.beta.boiler.firebox.solid.name=固态燃料燃烧室
 tile.railcraft.machine.beta.boiler.firebox.solid.tip=多方块结构:尺寸可变\n底座规格可选:1x1, 2x2, 3x3

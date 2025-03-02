@@ -10,10 +10,10 @@ modularui2.fluid.phantom.control=§7向上滚动鼠标滚轮增加数量，向�
 modularui2.fluid.phantom.clear=§8left click to remove
 modularui2.fluid.registry=§7Registry: %s
 modularui2.fluid.unique_registry=§7Unique registry key: %s
-modularui2.fluid.temperature=§cTemperature: %,d K
-modularui2.fluid.state=§aState: %s
-modularui2.fluid.gas=Gas
-modularui2.fluid.liquid=Liquid
+modularui2.fluid.temperature=§c温度：%,d K
+modularui2.fluid.state=§a状态：%s
+modularui2.fluid.gas=气态
+modularui2.fluid.liquid=液态
 modularui2.item.phantom.control=§7向上滚动鼠标滚轮增加数量，向下减少。\n§7Shift[§6x8§7],Ctrl[§ex64§7],Alt[§ax512§7]\n§7右键增加数量，左键减少.\n§7Shift + 左键清空。
 
 modularui2.fluid.click_to_fill=§7手持流体容器§b左键§7单击流体槽以§b填入§7流体 (Shift+单击以用整组容器中的流体填入).

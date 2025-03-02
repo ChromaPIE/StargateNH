@@ -994,8 +994,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACIA.name=§5§l压缩机
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACIA.desc=这是一台压缩机但这并不意味着它的材质紧凑...%n%n强烈建议入手一台,因为电动压缩机的效率要比老式的蒸汽压缩机效率高太多了.[note]如果你想要的话,也可以考虑蒸汽多方块机器.[/note]
 
 # Quest: Suction Device... Nice
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACIQ.name=§3§5§l提取装置...不错
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACIQ.desc=我希望你不要想我现在正在想你在想什么...%n%n强烈建议入手一台,因为电力提取机的效率要比老式的蒸汽提取机效率高太多了.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACIQ.name=§3§5§l榨干……
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACIQ.desc=我没想歪，你想歪了。%n%n在煤炭或蒸汽的能量转化率方面，电力驱动的提取机比蒸汽提取机高了不止一点，强烈建议入手一台。
 
 # Quest: Your Oil is Too Crude? Refine it!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACIw.name=§5§l石油提纯
@@ -1223,7 +1223,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAE_w.desc=Firestone ore is used to make s
 
 # Quest: Ardite and Cobalt
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEaw.name=§5§l熔焱和钴
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEaw.desc=如果你比较闲的话,可以试试在下界找一些熔焱和钴矿石.%n%n你听说一种只有在另一片土地上(暮色森林)才能找到的特殊木材,这种木材制造的工具非常坚固,足以开采熔焱和钴矿石.%n%n请记住,你需要用电力高炉来加工这些矿物,然后才能用它们来制作工具.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEaw.desc=有空的时候可以去下界找点熔焱和钴矿石。%n%n有传言说，在另一片大地——暮色森林之上，生长着一种奇特的木材，坚硬无比，足以开采这两种矿石。%n%n请记住，使用电力高炉才能将这些矿石处理成能够制造工具部件的材料。
 
 # Quest: LV Advanced Steam Boiler
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEbg.name=§5§l进阶锅炉[LV]
@@ -1612,7 +1612,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADFw.desc=制造高级电路需要一台M
 
 # Quest: Silicon Wafer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADGA.name=§6§l硅晶圆
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADGA.desc=将单晶硅放入板材切割机处理,可以获得硅晶圆. 你最好赶紧制作一台MV切割机,之后制作RAM、IC,及其它芯片时都会用到它.%n%n如果你手上已经有了聚乙烯的话,使用晶圆制造二极管的产率会更高.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADGA.desc=将单晶硅放入切割机处理,可以获得硅晶圆. 你最好赶紧制作一台MV切割机,之后制作RAM、IC,及其它芯片时都会用到它.%n%n如果你手上已经有了聚乙烯的话,使用晶圆制造二极管的产率会更高.
 
 # Quest: Good Integrated Circuits
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADGQ.name=§6§l不错的集成电路
@@ -2148,7 +2148,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAE0w.name=§9§lLV级微型处理器
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAE0w.desc=微型处理器是制造LV电路最高等级的方法,此合成每次运行可以产出2个.%n%n除了列出的东西以外,你还需要2电阻、晶体管和电容,贴片或非贴片都可以.%n%n这种先进的电路板需要超净间环境.
 
 # Quest: HV Cutting Machine
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE1A.name=§9§lHV板材切割机
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE1A.name=§9§lHV切割机
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAE1A.desc=生产NOR、NAND和其他的高端芯片都需要用到HV级别的切割机.你还需要这台机器切割磷掺杂的单晶硅.%n%n[note]很快你就会发现,每种切割配方都需要超净间环境了,所以记得仔细查看NEI.[/note]
 
 # Quest: Phosphorus Doped Monocrystalline Silicon
@@ -6153,11 +6153,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACMA.desc=RC的锅炉是另一种产生�
 
 # Quest: Liquid-Fuelled Firebox
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACMQ.name=§6§l液态燃料燃烧室
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACMQ.desc=可以烧杂酚油来生产蒸汽了! 在有了钢之后,你就可以制作一个液态燃料燃烧室了.%n%n柴油、乙醇、杂酚油和生物柴油都可以作为燃料.它也需要配备锅炉-见此任务线下一个任务.%n%nWIKI 蒸汽机：§9gtnh.huijiwiki.com/p/875§r
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACMQ.desc=可以烧杂酚油来生产蒸汽了! 在有了钢之后,你就可以制作一个液态燃料锅炉燃烧室了.%n%n柴油、乙醇、杂酚油和生物柴油都可以作为燃料.它也需要配备锅炉-见此任务线下一个任务.%n%nWIKI 蒸汽机：§9gtnh.huijiwiki.com/p/875§r
 
 # Quest: High-Pressure Boiler Tank
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACMg.name=§6§l高压锅炉
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACMg.desc=当你有了钢之后你就可以制作高压锅炉方块了. 高压锅炉比低压锅炉的温度更高,产生蒸汽的速度更快.同时存储的蒸汽量也是低压锅炉的4倍. 高压锅炉需要更长时间预热,所以确保你可以喂饱它!%n%n将管道连接到锅炉以输出蒸汽.%n%n记住,加热锅炉消耗的燃料是保持锅炉最高温的数倍.%n%n注意只有在长时间持续工作的情况下高压锅炉比低压的好,如果经常开关的话会浪费非常多燃料.如果高压锅炉一直保持最高功率工作的话,它会消耗低压版本两倍的燃料,但是产出4倍的蒸汽.两倍的效率!如果你没办法持续的提供燃料或者想要一个更灵活的产能方式,就使用低压锅炉.%n%注意燃料消耗速度会根据锅炉尺寸以及当前温度等因素改变,如果你想要知道具体的消耗速度的话,就自己尝试一下吧.%n%译者注: WIKI 蒸汽机：§1§n[url]https://gtnh.huijiwiki.com/p/875[/url]§r
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACMg.desc=当你有了钢之后你就可以制作高压锅炉方块了. 高压锅炉比低压锅炉的温度更高,产生蒸汽的速度更快.同时存储的蒸汽量也是低压锅炉的4倍. 高压锅炉需要更长时间预热,所以确保你可以喂饱它!%n%n将管道连接到锅炉以输出蒸汽.%n%n记住,加热锅炉消耗的燃料是保持锅炉最高温的数倍.%n%n注意只有在长时间持续工作的情况下高压锅炉比低压的好,如果经常开关的话会浪费非常多燃料.如果高压锅炉一直保持最高功率工作的话,它会消耗低压版本两倍的燃料,但是产出4倍的蒸汽.两倍的效率!如果你没办法持续的提供燃料或者想要一个更灵活的产能方式,就使用低压锅炉.%n%n注意燃料消耗速度会根据锅炉尺寸以及当前温度等因素改变,如果你想要知道具体的消耗速度的话,就自己尝试一下吧.%n%n译者注: WIKI 蒸汽机：§1§n[url]https://gtnh.huijiwiki.com/p/875[/url]§r
 
 # Quest: Dynamite
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_A.name=§6§l炸药
@@ -6197,7 +6197,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADDQ.desc=这是获取木炭和杂酚油(
 
 # Quest: It's Time to Get More Steam
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADEA.name=§6§l该制造更多蒸汽了
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADEA.desc=在你有能力储存大量的能源后,寻找生产大量能源方法的必要性就开始显现出来了. 你需要一台大型青铜锅炉.但为了制造这个锅炉,你需要像山一样多的青铜.这个锅炉每tick能产生800L的蒸汽,这足以供应十台基础蒸汽轮机运作了.%n%n大型锅炉既可以用水也可以用蒸馏水. 每产生150L蒸汽,会消耗1L水.%n%n大型锅炉的结构都是类似的,以大型青铜锅炉为例. 整体尺寸为3x5x3,最下层为3x1x3的青铜燃烧室,包含1-2个输入仓、1-2个输入总线、1个隔音排气仓和一个维修仓. 所有仓室的背面都需要接触到燃烧室.%n燃烧室中央上方需要搭建1x3x1的青铜管道外壳柱,周围是3x4x3的镀铜砖块.输出仓可以替换任意的镀铜砖块.%n%n§c§c警告: 不同于其他锅炉,大型锅炉在运行时必须全程保持有水. 运行中任意时刻缺水,都会导致爆炸.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADEA.desc=在你有能力储存大量的能源后,寻找生产大量能源方法的必要性就开始显现出来了. 你需要一台大型青铜锅炉.但为了制造这个锅炉,你需要像山一样多的青铜.这个锅炉每tick能产生800L的蒸汽,这足以供应十台基础蒸汽轮机运作了.%n%n大型锅炉既可以用水也可以用蒸馏水. 每产生150L蒸汽,会消耗1L水.%n%n大型锅炉的结构都是类似的,以大型青铜锅炉为例. 整体尺寸为3x5x3,最下层为3x1x3的青铜燃烧室,包含1-2个输入仓、1-2个输入总线、1个隔音排气仓和一个维修仓. 所有仓室的背面都需要接触到燃烧室.%n燃烧室中央上方需要搭建1x3x1的青铜管道外壳柱,周围是3x4x3的镀青铜砖块.输出仓可以替换任意的镀青铜砖块.%n%n§c§c警告: 不同于其他锅炉,大型锅炉在运行时必须全程保持有水. 运行中任意时刻缺水,都会导致爆炸.
 
 # Quest: Steam is Never Enough
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADEg.name=§6§l蒸汽永远不够
@@ -6313,7 +6313,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKcA.desc=你可以升级精密电子单�
 
 # Quest: What Even is This?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKyA.name=这到底是啥?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKyA.desc=它不单是台脱水机,也是台真空炉,不过真空炉没有单方块机器. 它应该配合艾萨研磨机和工业浮选机这两台多方块机器,用于矿物处理,这是一套新的矿物处理系统,它需要一系列的配套机器,不过对于支持的矿石也可以提供更多的产出.%n%n[note]这台多方块机器现在可以在LuV阶段制造.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKyA.desc=它不单是台脱水机,也是台真空炉,不过真空炉没有单方块机器. 它应该配合艾萨磨机和工业浮选机这两台多方块机器,用于矿物处理,这是一套新的矿物处理系统,它需要一系列的配套机器,不过对于支持的矿石也可以提供更多的产出.%n%n[note]这台多方块机器现在可以在LuV阶段制造.[/note]
 
 # Quest: Do I Really Need to Make This?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKyQ.name=我真的需要做这个吗?
@@ -6538,7 +6538,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAH7w.desc=我不想长大,我想跟大压
 
 # Quest: Best thing since sliced bread
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH8A.name=最好的切面包机
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAH8A.desc=当你有了一台装满了小刀的机器,你看啥都像面包了. 使用螺丝刀可切换板材切割机模式和食材切片机模式.%n%nBluebine-2019!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAH8A.desc=当你有了一台装满了小刀的机器,你看啥都像面包了. 使用螺丝刀可切换切割机模式和食材切片机模式.%n%nBluebine-2019!
 
 # Quest: ZzzZZZzzzZtt
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH8g.name=嗞...嗞...嗞...
@@ -13623,8 +13623,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHWw.name=目光呆滞
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHWw.desc=...制作玻璃粉太费力了?跟我交换点吧,价格公道.
 
 # Quest: Shhh, Don't Tell 0lafe...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHXA.name=嘘,别告诉0lafe...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHXA.desc=这里的捕鱼者便宜卖啦!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHXA.name=嘘，别告诉0lafe……
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHXA.desc=捕鱼笼低价出售喽！
 
 # Quest: Wood for Sheep?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHXQ.name=木头换羊?

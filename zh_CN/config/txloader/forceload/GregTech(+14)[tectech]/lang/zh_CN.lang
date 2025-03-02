@@ -1076,11 +1076,11 @@ fog.text.tooltip.ocdivisor=Divisor for recipe time reduction per overclock (does
 
 
 achievement.gt.blockmachines.multimachine.em.forge_of_gods=诸神之锻炉
-achievement.gt.godforgecasing.0=奇点强化恒星屏蔽机械方块
-achievement.gt.godforgecasing.1=天体物质引导机械方块
-achievement.gt.godforgecasing.2=无界引力隔绝结构方块
+achievement.gt.godforgecasing.0=奇点强化星盾外壳
+achievement.gt.godforgecasing.1=天体物质引导外壳
+achievement.gt.godforgecasing.2=引力割离无羁结构外壳
 achievement.gt.godforgecasing.3=超时空强化磁约束机械方块
-achievement.gt.godforgecasing.4=恒星能量抽取机械方块
+achievement.gt.godforgecasing.4=恒星能量虹吸外壳
 achievement.gt.godforgecasing.5=远程引力子流动调节器
 achievement.gt.godforgecasing.6=中介引力子流动调节器
 achievement.gt.godforgecasing.7=中央引力子流动调节器
@@ -1357,7 +1357,7 @@ gt.recipe.eyeofharmony=鸿蒙之眼
 gt.recipe.researchStation=研究站
 gt.recipe.fog_plasma=太阳热能等离子制造机
 gt.recipe.fog_exotic=太阳聚变异化器
-gt.recipe.fog_molten=太阳射流融化核心
+gt.recipe.fog_molten=阳炎熔核
 gt.recipe.upgrade_costs=Godforge Upgrades
 
 
