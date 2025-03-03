@@ -52,6 +52,10 @@ item.gt.pollen.name=Pollen
 item.gt.propolis.name=Propolis
 tile.gt.dronerender.name=Drone Renderer
 
+# GT++ items
+item.GTPP.air_intake_hatch.name=抽气仓
+item.GTPP.catalyst_housing.name=催化剂室
+
 # Air Filter
 item.GTPP.air_filter.name=Air Filter
 item.GTPP.air_filter.name.t1=Air Filter [Tier 1]
@@ -89,6 +93,10 @@ GTPP.tooltip.volumetric_flask_setter.1=Configure default input slot with a screw
 GTPP.tooltip.tin_foil_hat=DoomSquirter's protection against cosmic radiation!\nGeneral paranoia makes the wearer unable to collect xp\nMovement speed is also reduced, to keep you safe\nThis hat may also have other strange powers
 
 GTPP.tooltip.bad_tooltip_id=Bad Tooltip ID - %d
+
+# GT++ chem
+GTPP.tooltip.catalyst.active_reaction_agent=Active Reaction Agent
+GTPP.tooltip.milling_ball.tumble=Tumble Tumble Tumble
 
 # Infinite Spray Can
 
@@ -403,11 +411,13 @@ GT5U.machines.digitaltank.voidoverflow.tooltip.1=§7当容器满溢时，销毁�
 GT5U.machines.digitaltank.voidfull.tooltip=完全销毁模式
 GT5U.machines.digitaltank.voidfull.tooltip.1=§7销毁所有进入容器的流体
 GT5U.machines.digitaltank.inputfromoutput.tooltip=从输出面输入流体
-GT5U.machines.select_circuit=选择机器模式
-GT5U.machines.select_circuit.tooltip=虚拟电路板槽
-GT5U.machines.select_circuit.tooltip.1=§7左键/右键/滚轮以切换编程电路
-GT5U.machines.select_circuit.tooltip.2=§7Shift+左键打开GUI
-GT5U.machines.select_circuit.tooltip.3=§7Shift+右键清空
+GT5U.machines.select_circuit=配置电路
+GT5U.machines.select_circuit.tooltip=虚拟电路槽位
+GT5U.machines.select_circuit.tooltip.configuration=§a配置值：§f%s§r
+GT5U.machines.select_circuit.tooltip.configuration.none=无
+GT5U.machines.select_circuit.tooltip.1=§7左击/右击/滑动滚轮来调整配置值
+GT5U.machines.select_circuit.tooltip.2=§7Shift+左击打开界面
+GT5U.machines.select_circuit.tooltip.3=§7Shift+右击清除虚拟电路
 GT5U.machines.extra_tooltips_toggle.tooltip=补充信息
 GT5U.machines.fluid_transfer.tooltip=流体自动输出
 GT5U.machines.fluid_transfer.tooltip.extended=§6螺丝刀：§7右键机器以
@@ -630,9 +640,9 @@ GT5U.gui.button.drone_error=按§3停机状态§r排序
 GT5U.gui.button.drone_showLocalName=显示本地化名称
 GT5U.gui.button.toggle_output_slot_lock=Toggle output slot
 GT5U.gui.button.power_panel=打开能量面板
-GT5U.gui.button.max_parallel=Always use maximum
-GT5U.gui.text.rangedvalue=Range: %s-%s
-GT5U.gui.text.lockedvalue=Locked: %s
+GT5U.gui.button.max_parallel=总是使用最大值
+GT5U.gui.text.rangedvalue=设定区间：%s-%s
+GT5U.gui.text.lockedvalue=锁定为：%s
 GT5U.gui.text.success=§a配方处理中
 GT5U.gui.text.generating=§a发电中
 GT5U.gui.text.no_recipe=§7未找到可用合成表
@@ -717,11 +727,10 @@ GT5U.gui.text.heat_sensor=热阈值
 GT5U.gui.text.no_maintenance=缺少维修仓
 GT5U.gui.text.no_muffler=缺少隔音排气仓
 GT5U.gui.text.pulse_mode=Pulse Mode
-GT5U.gui.text.static_mode=Static Mode
-GT5U.gui.text.pulse_mode=Pulse Mode
 GT5U.gui.text.no_wafer=No wafer was found
 GT5U.gui.text.low_wafer_tier=Found wafer is too low tier for the recipe
 GT5U.gui.text.not_enough_wafer=Found wafer but recipe requires more than given
+GT5U.gui.text.static_mode=Static Mode
 GT5U.gui.text.unneeded_muffler=Does not accept Muffler Hatches
 GT5U.gui.missing_casings=Too few casings: needs %s but has %s
 GT5U.gui.missing_hatch=缺少%s
@@ -808,6 +817,8 @@ gt.behaviour.paintspray.infinite.tooltip.ctrl_mac=Command
 
 gt.behaviour.trowel.tooltip1=Places a random block from your hotbar
 gt.behaviour.trowel.tooltip2=§o"Don't forget to bring a trowel!"§r -§cQuerns§r
+
+gt.behaviour.switch_mode.tooltip=Shift+Rclick to change mode
 
 GT5U.hatch.disableFilter.true=输入过滤：§c关闭§r
 GT5U.hatch.disableFilter.false=输入过滤：§a开启§r
@@ -1162,7 +1173,7 @@ achievement.electricproblems.desc=因为超过电压损失一台机器
 achievement.ebf=电力高炉
 achievement.ebf.desc=制造一台电力高炉
 achievement.energyhatch=你需要三个(要是你没能完全修复它的话)
-achievement.energyhatch.desc=制造一个LV级能源输入舱
+achievement.energyhatch.desc=制造一个LV能源仓
 achievement.gtaluminium=铝
 achievement.gtaluminium.desc=制作一块铝锭
 achievement.highpowersmelt=高功率冶炼厂
@@ -1172,7 +1183,7 @@ achievement.oilplant.desc=启动一台蒸馏塔
 achievement.factory=工厂
 achievement.factory.desc=制造一台处理阵列
 achievement.upgradeebf=升级你的能量网
-achievement.upgradeebf.desc=制造一个MV级能源输入舱
+achievement.upgradeebf.desc=制造一个MV能源仓
 achievement.maintainance=维护
 achievement.maintainance.desc=维修一台机器的所有故障
 achievement.upgrade=升级你的线圈
@@ -1891,7 +1902,6 @@ gt.wrench.mode.1=线模式
 
 
 # GT++
-# Shit I stole from GTNH~
 
 GT5U.gui.text.no_water=§7缺少 水
 GT5U.gui.text.no_lava=§7缺少 岩浆
@@ -2028,7 +2038,14 @@ GTPP.tooltip.ore.found=Found:
 GTPP.tooltip.ore.unknown=- Unknown
 GTPP.tooltip.block.mining_level=采掘等级：%d
 GTPP.tooltip.block.contains=Contains:
+GTPP.tooltip.meta_special.quantum_stability=Provides quantum stability
+GTPP.tooltip.meta_special.quantum_modulation=Provides quantum modulation
 
+# GTPP structure hints
+GTPP.tooltip.structure.anvil=Anvil
+GTPP.tooltip.structure.data_orb_repository=Data Orb Repository
+GTPP.tooltip.structure.many_bus_hatch=Input Bus, Output Bus, Input Hatch, Output Bus, Energy Hatch
+GTPP.tooltip.structure.rotor_assembly=Rotor Assembly
 
 GT5U.tooltip.pollution.produces=每秒造成%d点污染
 GT5U.tooltip.pollution.produces.multiblock=完整的多方块结构每秒造成%d点污染
@@ -2036,6 +2053,32 @@ GT5U.tooltip.pollution.produces.firebox=每个燃烧室每秒造成%d点污染
 GT5U.tooltip.pollution.produces.rocket.ignited=点燃后每秒造成%d点污染
 GT5U.tooltip.pollution.produces.rocket.flying=飞行时每秒造成%d点污染
 
+# GT structure hints
+GT5U.tooltip.structure.data_access_hatch=Data Access Hatch
+GT5U.tooltip.structure.electromagnet_housing=Electromagnet Housing
+GT5U.tooltip.structure.laser_source_hatch=Laser Source Hatch
+GT5U.tooltip.structure.heating_coil=Heating Coil
+GT5U.tooltip.structure.four_item_pipe_casings=4 Item Pipe Casings
+GT5U.tooltip.structure.heat_sensor_hatch=Heat Sensor Hatch
+GT5U.tooltip.structure.degasser_control_hatch=Degasser Control Hatch
+GT5U.tooltip.structure.input_hatch_ozone=Input Hatch (Ozone)
+GT5U.tooltip.structure.input_hatch_water=Input Hatch (Water)
+GT5U.tooltip.structure.output_hatch=Output Hatch
+GT5U.tooltip.structure.ph_sensor_hatch=pH Sensor Hatch
+GT5U.tooltip.structure.input_bus_sodium_hydroxide=Input Bus (Sodium Hydroxide)
+GT5U.tooltip.structure.input_hatch_hydrochloric_acid=Input Hatch (Hydrochloric Acid)
+GT5U.tooltip.structure.input_hatch_coolant=Input Hatch (Coolant)
+GT5U.tooltip.structure.input_hatch_plasma=Input Hatch (Plasma)
+GT5U.tooltip.structure.input_hatch_output_hatch=Input Hatch, Output Hatch
+GT5U.tooltip.structure.lens_housing=Lens Housing
+GT5U.tooltip.structure.lens_indicator=Lens Indicator
+
+GT5U.tooltip.fluid.registry=Registry: %s
+GT5U.tooltip.fluid.amount=数量：%s L
+GT5U.tooltip.fluid.temperature=温度：%s K
+GT5U.tooltip.fluid.stat=状态：%s
+GT5U.tooltip.fluid.stat.gas=气态
+GT5U.tooltip.fluid.stat.liquid=液态
 
 # Achievements
 

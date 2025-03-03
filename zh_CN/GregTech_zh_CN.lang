@@ -13542,8 +13542,8 @@ languagefile {
     S:TileEntity_DESCRIPTION_15413_Secondary_Index_02=   §620x§7 奇点强化星盾外壳
     S:TileEntity_DESCRIPTION_15413_Secondary_Index_03=   §620x§7 引力割离无羁结构外壳
     S:TileEntity_DESCRIPTION_15413_Secondary_Index_04=   §65x§7 谐波声子传输导管
-    S:TileEntity_DESCRIPTION_15413_Secondary_Index_05=   §65§7 天体物质引导外壳
-    S:TileEntity_DESCRIPTION_15413_Secondary_Index_06=   §61§7 恒星能量虹吸外壳
+    S:TileEntity_DESCRIPTION_15413_Secondary_Index_05=   §65x§7 天体物质引导外壳
+    S:TileEntity_DESCRIPTION_15413_Secondary_Index_06=   §61x§7 恒星能量虹吸外壳
     S:TileEntity_DESCRIPTION_15413_Secondary_Index_07=   §7§m------------------------------
     S:TileEntity_DESCRIPTION_15413_Secondary_Index_08=§f结构过于复杂！
     S:TileEntity_DESCRIPTION_15413_Secondary_Index_09=§f对控制器方块使用§9Structure§1Lib§r的§f全息投影仪§f来查看结构！
@@ -21046,8 +21046,8 @@ languagefile {
     S:gt.blockmachines.gtpp.multimachine.steam.macerator.name=蒸汽碾磨机
     S:gt.blockmachines.gtpp.multimachine.steam.mixer.name=大型蒸汽搅拌机
     S:gt.blockmachines.gtpp.multimachine.steam.washer.name=大型蒸汽洗矿厂
-    S:gt.blockmachines.hatch.air.intake.tier.00.name=进气仓
-    S:gt.blockmachines.hatch.air.intake.tier.01.name=超级进气仓
+    S:gt.blockmachines.hatch.air.intake.tier.00.name=抽气仓
+    S:gt.blockmachines.hatch.air.intake.tier.01.name=极限抽气仓
     S:gt.blockmachines.hatch.blackholeutility.name=Black Hole Utility Hatch
     S:gt.blockmachines.hatch.capacitor.tier.03.name=电容仓
     S:gt.blockmachines.hatch.catalystbulk.name=Bulk Catalyst Housing

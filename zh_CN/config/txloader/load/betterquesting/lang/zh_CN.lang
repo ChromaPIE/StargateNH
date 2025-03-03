@@ -2710,7 +2710,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMAg.desc=你的老伙计单方块分子�
 
 # Quest: Four fluids in the one Hatch!
 betterquesting.quest.JkWQZxq_TECWjHhjywrZZA.name=§a§l四种流体在一个仓里!
-betterquesting.quest.JkWQZxq_TECWjHhjywrZZA.desc=现在您已经进入了EV级别,可以使用四重输入舱.这些舱室可以在一个舱室中容纳四种不同的液体,从而节省了多方块机器中的宝贵空间.%n%n非常适合放在您的电力高炉中.%n
+betterquesting.quest.JkWQZxq_TECWjHhjywrZZA.desc=现在您已经进入了EV级别,可以使用四重能源仓.这些仓室可以在一个舱室中容纳四种不同的液体,从而节省了多方块机器中的宝贵空间.%n%n非常适合放在您的电力高炉中.%n
 
 # Quest: EV Field Generators
 betterquesting.quest.Jna1jgAySNSs8nS0YMXpLw.name=§a§lEV力场发生器
@@ -2775,7 +2775,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAGgQ.desc=现在你有了HSS-G,是时候�
 
 # Quest: Argon
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGgg.name=§c§b§l氩
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGgg.desc=要处理一些你以后会发现的新锭,你需要氩气. 氩气第一个来源来自空气中的少量存在(稀有气体). 不同于直接离心压缩空气单元,你需要先将其在真空冷冻机内转化成液态空气单元,这样才能更有效地离心.%n%n你还可以制造进气仓替代压缩机,效果碾压.%n%n除非你对某些稀有气体感兴趣,不然的话不用在意蒸馏塔的配方,它比不上离心配方. 蒸馏塔蒸馏液态空气还要求液态空气仓(只对液态空气有效)和巨型输出仓.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGgg.desc=要处理一些你以后会发现的新锭,你需要氩气. 氩气第一个来源来自空气中的少量存在(稀有气体). 不同于直接离心压缩空气单元,你需要先将其在真空冷冻机内转化成液态空气单元,这样才能更有效地离心.%n%n你还可以制造抽气仓 - 比狂堆压缩机数量要好得多！%n%n除非你对某些稀有气体感兴趣,不然的话不用在意蒸馏塔的配方,它比不上离心配方. 蒸馏塔蒸馏液态空气还要求液态空气仓(只对液态空气有效)和巨型输出仓.
 
 # Quest: Your First Naquadah Ingot
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGgw.name=§b§l你的第一块硅岩锭
