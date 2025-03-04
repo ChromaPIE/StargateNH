@@ -61,8 +61,8 @@ item.GTPP.air_filter.name=Air Filter
 item.GTPP.air_filter.name.t1=Air Filter [Tier 1]
 item.GTPP.air_filter.name.t2=Air Filter [Tier 2]
 
-GTPP.tooltip.air_filter.0=An Air filter for Atmospheric Reconditioning.
-GTPP.tooltip.air_filter.1=%d/%d uses left.
+GTPP.tooltip.air_filter.0=用于改善大气质量的空气过滤器。
+GTPP.tooltip.air_filter.1=剩余使用次数：%d/%d
 
 # Fish trap
 GTPP.tooltip.fish_trap.0=周围的水源方块越多，捕鱼速度越快
@@ -476,7 +476,7 @@ GT5U.MULTI_CANNER.mode.0=装罐机
 GT5U.MULTI_CANNER.mode.1=流体灌装机
 GT5U.BLACKHOLE.mode.0=压缩机
 GT5U.BLACKHOLE.mode.1=奇点压缩机
-GT5U.GTPP_MULTI_INDUSTRIAL_DEHYDRATOR.mode.0=真空干燥炉
+GT5U.GTPP_MULTI_INDUSTRIAL_DEHYDRATOR.mode.0=真空炉
 GT5U.GTPP_MULTI_INDUSTRIAL_DEHYDRATOR.mode.1=脱水机
 GT5U.GTPP_MULTI_MASS_FABRICATOR.mode.0=质量发生器
 GT5U.GTPP_MULTI_MASS_FABRICATOR.mode.1=回收机
@@ -594,7 +594,7 @@ GT5U.machines.computation_hatch.computation=Computation
 GT5U.machines.laser_hatch.amperage=电流
 GT5U.machines.hatch_output.lockfluid.label=Locked Fluid
 GT5U.machines.hatch_output.lockfluid.empty=None
-GT5U.machines.basic_tank.liquid_amount=Liquid Amount
+GT5U.machines.basic_tank.liquid_amount=流体量
 
 GT5U.recipe_filter.empty_representation_slot.tooltip=§7用一个机器点击以设置过滤名单
 GT5U.recipe_filter.representation_slot.tooltip=§7点击清空
@@ -645,7 +645,7 @@ GT5U.gui.text.rangedvalue=设定区间：%s-%s
 GT5U.gui.text.lockedvalue=锁定为：%s
 GT5U.gui.text.success=§a配方处理中
 GT5U.gui.text.generating=§a发电中
-GT5U.gui.text.no_recipe=§7未找到可用合成表
+GT5U.gui.text.no_recipe=§7缺少有效配方
 GT5U.gui.text.item_output_full=§7物品输出空间不足
 GT5U.gui.text.fluid_output_full=§7流体输出空间不足
 GT5U.gui.text.none=
@@ -738,6 +738,8 @@ GT5U.gui.too_many_hatches=Too many %ses (max %s)
 GT5U.gui.text.power_panel=能量控制面板
 GT5U.gui.text.too_uncertain=Too Uncertain.
 GT5U.gui.text.invalid_parameters=Invalid Parameters.
+GT5U.gui.text.enabled=§aEnabled§f
+GT5U.gui.text.disabled=§cDisabled§f
 
 
 GT5U.gui.config.client=客户端
@@ -2032,7 +2034,7 @@ GTPP.tooltip.hold_ctrl=按住Ctrl显示更多信息。
 GTPP.tooltip.material.type=材料类型：%s。
 GTPP.tooltip.material.state=材料状态：%s。
 GTPP.tooltip.material.radioactivity=辐射等级：%s。
-GTPP.tooltip.ore.contains=Ore contains:
+GTPP.tooltip.ore.contains=矿石包含：
 GTPP.tooltip.ore.mining_level=采掘等级：%d
 GTPP.tooltip.ore.found=Found:
 GTPP.tooltip.ore.unknown=- Unknown
@@ -2040,6 +2042,9 @@ GTPP.tooltip.block.mining_level=采掘等级：%d
 GTPP.tooltip.block.contains=Contains:
 GTPP.tooltip.meta_special.quantum_stability=Provides quantum stability
 GTPP.tooltip.meta_special.quantum_modulation=Provides quantum modulation
+GTPP.tooltip.meta_food.unless_starving=I wouldn't eat this unless I was starving
+GTPP.tooltip.meta_food.better_cooked=Doesn't look any better cooked
+GTPP.tooltip.meta_food.warm_touch=Warm to the touch
 
 # GTPP structure hints
 GTPP.tooltip.structure.anvil=Anvil
@@ -2079,6 +2084,9 @@ GT5U.tooltip.fluid.temperature=温度：%s K
 GT5U.tooltip.fluid.stat=状态：%s
 GT5U.tooltip.fluid.stat.gas=气态
 GT5U.tooltip.fluid.stat.liquid=液态
+
+GT5U.tooltip.comb.ban_forestry=Forestry can't process it
+GT5U.tooltip.mega_apiary.only_producer=Will only be produced in mega Apiary
 
 # Achievements
 

@@ -57,7 +57,7 @@ neicustomdiagram.generators.forge.oredictionary.groupname=Forge矿物词典
 neicustomdiagram.generators.forge.oredictionary.orenamelabel=矿词名
 
 neicustomdiagram.generators.gregtech5.circuits.groupname=GT电路板
-neicustomdiagram.generators.gregtech5.circuits.tierlabel=%s 等级
+neicustomdiagram.generators.gregtech5.circuits.tierlabel=%s级
 neicustomdiagram.generators.gregtech5.circuits.circuitboardsslot=电路基板
 neicustomdiagram.generators.gregtech5.circuits.circuitlinesslot=电路板系列
 neicustomdiagram.generators.gregtech5.circuits.individualcircuitsslot=独立电路板

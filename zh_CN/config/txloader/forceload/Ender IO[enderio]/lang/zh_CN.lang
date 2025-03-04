@@ -218,8 +218,8 @@ fluid.vapor_of_levity=轻盈之气
 tile.fluid.vapor_of_levity.name=轻盈之气
 item.bucketVapor_of_levity.name=桶装轻盈之气
 
-fluid.eio.xpjuice=液态XP
-tile.fluid.eio.xpjuice.name=液态XP
+fluid.eio.xpjuice=液态经验
+tile.fluid.eio.xpjuice.name=液态经验
 item.bucketXpjuice.name=液态经验桶
 
 enderio.fluid.millibucket.abr=L
@@ -549,7 +549,7 @@ tile.blockKillerJoe.name=杀手乔
 tile.blockKillerJoe.tooltip.detailed.line1=当你提供一把剑和营养精华
 tile.blockKillerJoe.tooltip.detailed.line2=液时,这台机器就会自动攻
 tile.blockKillerJoe.tooltip.detailed.line3=击附近的生物
-tile.blockKillerJoe.tooltip.detailed.line4=经验能以液态XP的形式
+tile.blockKillerJoe.tooltip.detailed.line4=经验能以液态形式
 tile.blockKillerJoe.tooltip.detailed.line5=用流体管道抽出
 
 enderio.killerJoe.fuelTank=营养液槽
@@ -576,12 +576,12 @@ enderio.farm.note.noHoe=无锄头
 enderio.farm.note.noPower=能量不足
 enderio.farm.gui.baseUse=基础消耗:
 
-tile.blockTank.name=流体箱
-tile.blockTank.advanced.name=高压流体箱
-tile.blockTank.tooltip.detailed.line1=便携式流体箱
+tile.blockTank.name=流体储罐
+tile.blockTank.advanced.name=加压流体储罐
+tile.blockTank.tooltip.detailed.line1=便携流体储罐
 tile.blockTank.tooltip.detailed.line2=可用于清空或
 tile.blockTank.tooltip.detailed.line3=注满流体容器
-enderio.tank.tank=流体箱
+enderio.tank.tank=储罐
 enderio.tooltip.none=空
 enderio.tooltip.fluidStored=存有流体
 
@@ -637,7 +637,7 @@ tile.blockSpawnGuard.tooltip.detailed.line2=阻止生物的刷出
 
 tile.blockExperienceObelisk.name=经验交换方尖碑
 tile.blockExperienceObelisk.tooltip.detailed.line1=用于储存经验
-tile.blockExperienceObelisk.tooltip.detailed.line2=可将液态XP输出
+tile.blockExperienceObelisk.tooltip.detailed.line2=可将液态经验输出
 tile.blockExperienceObelisk.tooltip.detailed.line3=至相邻的储罐中
 
 tile.blockWeatherObelisk.name=气象方尖碑
@@ -831,8 +831,8 @@ item.itemSoulVessel.tooltip.detailed.line2=可捕获其灵魂
 item.itemSoulVessel.tooltip.detailed.line3=再次右击则释放
 
 item.itemXpTransfer.name=经验棒
-item.itemXpTransfer.tooltip.detailed.line1=右击装有液态XP的
-item.itemXpTransfer.tooltip.detailed.line2=流体箱获取经验
+item.itemXpTransfer.tooltip.detailed.line1=右击装有液态经验的
+item.itemXpTransfer.tooltip.detailed.line2=流体储罐来获取经验
 item.itemXpTransfer.tooltip.detailed.line3=Shift右击将经验
 item.itemXpTransfer.tooltip.detailed.line4=灌入其中
 
@@ -1200,7 +1200,7 @@ enderio.gui.travelAccessable.skipObstructed=跳过不通畅锚.
 enderio.gui.travelAccessable.skipPrivate=跳过私有锚.
 enderio.gui.travelAccessable.tooltip.visible=可见性
 enderio.gui.travelAccessable.tooltip.visible.desc1=关闭时,无法透过其他方块看到此方块.
-enderio.gui.travelAccessable.tooltip.visible.desc2=用作电梯时比较实用.
+enderio.gui.travelAccessable.tooltip.visible.desc2=用作升降台时比较实用.
 
 enderio.gui.telepad.configure.travel=旅行设置
 enderio.gui.telepad.configure.telepad=传送台设置

@@ -45,7 +45,7 @@ openblocks.gui.max_level=最高附魔等级: %d
 openblocks.gui.save_folder=打开存档文件夹
 
 openblocks.gui.welcome.title=欢迎!
-openblocks.gui.welcome.content=开放式方块是一个全新的开源模组,它将大量创意引入Minecraft世界,包括但不限于滑翔翼,电梯,蓄水槽,墓碑,雕像等!
+openblocks.gui.welcome.content=开放式方块是一个全新的开源模组,它将大量创意引入Minecraft世界,包括但不限于滑翔翼,升降台,蓄水槽,墓碑,雕像等!
 
 openblocks.gui.credits.title=致谢表
 openblocks.gui.credits.content=§LBoq, Mikee 和 NeverCast§R\n  - 开放式方块的主要开发者\n§LSinZ 和 Yoshi2§R\n  - 开放式方块团队的元老成员.\n§LVexatos 和 crafteverywhere§R\n  - 日常翻译人员.\n§LDirewolf20 和 ForgeCraft 的成员§R\n  - 感谢帮助寻找Bug和测试稳定性.\n\n以及所有那些过去两年来对模组代码有所贡献的人们,和那些制作模组解说,实况视频和最初起就一直支持我们的朋友!
@@ -174,10 +174,10 @@ openblocks.flim_flammed=你周围发生了一些诡异的事.
 
 openblocks.turtle.magnet=磁铁
 
-tile.openblocks.elevator.name=电梯
-tile.openblocks.elevator.description=将一个电梯方块在另一个电梯方块正上方三格或以上的位置,中间不能有障碍物.玩家在电梯上跳跃时就会向上传送,蹲下时就向下传送.电梯可以用染料右键染色,相同颜色的电梯才能互相传送玩家.
+tile.openblocks.elevator.name=升降台
+tile.openblocks.elevator.description=将一个升降台方块在另一个升降台方块正上方三格或以上的位置,中间不能有障碍物.玩家在升降台上跳跃时就会向上传送,蹲下时就向下传送.升降台可以用染料右键染色,相同颜色的升降台才能互相传送玩家.
 
-tile.openblocks.elevator_rotating.name=旋转电梯
+tile.openblocks.elevator_rotating.name=旋转升降台
 
 tile.openblocks.heal.name=治愈方块
 tile.openblocks.heal.description=只有在创造模式下才能得到治愈方块,它会为站在上方的玩家提供轻微的治疗效果.

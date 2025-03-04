@@ -223,7 +223,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIA.desc=在你找到方法运水后,你
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.name=§2§l匠魂时间
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.desc=用燧石玩意去烧猪猪或牛群确实挺有趣的,但它们并不耐用,何况还不能修.再加上它这点伤害会让精英怪嘲笑你的. 不过,你发现了一种新的工具不仅可以被修复还可以升级!但你绝对需要更进阶的制作技术.  如果你想要使用橡木以外的其他木材来制作台子,可以将它们转换为默认的橡木样式以完成此任务.
 
-# Quest: Zinc Gravel
+# Quest: Aluminini...um...?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIg.name=§2§l锌矿砂砾
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIg.desc=你可以在地表的沙砾堆中发现这种矿物砂砾的存在。%n%n尽可能省着用。等到踏入蒸汽时代，便可利用粉碎机获取双倍的产出。%n%n如果实在找不到，可以在任务书的硬币区买一些。%n%n等到进入了LV阶段，手上有了足够的锌矿石，且有条件进行完整的矿物处理，还可从中获取镓来合成砷化镓。
 
@@ -1203,7 +1203,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAE-g.desc=还有什么比迟缓药水更�
 
 # Quest: Be Sure to Get Your Armpits
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAECw.name=§5§l经验!经验!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAECw.desc=想要用美味的XP来提高你的等级？ 将存储液态XP的水槽置于你的上方,并安装这个方便的经验莲蓬头,从水槽中取出XP.%n%n这会造成延迟,请勿让太多的经验球掉落. 使用红石信号来关闭它.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAECw.desc=想要用美味的经验来提高你的等级？ 将存储液态经验的储罐置于你的上方,并安装这个方便的经验莲蓬头,从储罐中取出经验.%n%n这会造成延迟,请勿让太多的经验球掉落. 使用红石信号来关闭它.
 
 # Quest: Lubricant
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEPA.name=§5§l润滑油
@@ -1217,9 +1217,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAEQg.desc=泵不仅仅能抽石油和水.
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEQw.name=§5§l钻石储罐...哦,闪闪发亮
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEQw.desc=在你制造了一台切割机之后,就可以切割一些钻石板来制作容量为64,000L的储罐了.
 
-# Quest: Firestone Ore
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE_w.name=§5§lFirestone Ore
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE_w.desc=Firestone ore is used to make some BC machines like the filler, and heats your Railcraft boiler much faster and more effectively than conventional fuels. %nUnforunately, it's in the nether...at the bottom of the lava ocean!%n%nHere are some tips for finding it:%n%n-Firestone only spawns in deep lava, at least 6 blocks deep. It will only replace Netherrack, so a fjord filled with Soul Sand won't have any. Can you think of ways to check the lava depth, and what's down there?%n-Alternatively, if you keep your head at just the correct height above the lava and at the correct angle, you'll be able to see underneath it - surely there must be a hovering jetpack?%n-...or just look for the biome when your cursor is over the JM map. Hell is the default one that has Netherrack.%n%nFirestone can be mined with the GT miners, if you place it within horizontal range. Firestone ore and products will cause random fires to start nearby, so get it into a backpack quickly!
+# Quest: Firestone Ore/Dust
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE_w.name=§6§lFirestone Ore/Dust
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE_w.desc=Firestone ore is used to make some BC machines like the filler, and some other stuff. Unforunately, it's in the nether...at the bottom of the lava ocean!%n%nHere are some tips for finding it:%n%n-Firestone only spawns in deep lava, at least 6 deep. It will only replace netherrack, so a fjord filled with soulsand won't have any. Can you think of ways to check the lava depth, and what's down there?%n-Alternatively, if you keep your head at just the correct height above the lava and at the correct angle, you'll be able to see underneath it - surely there must be a hovering jetpack?%n-...or just look for the biome when your cursor is over the JM map. Hell is the default one that has netherrack.%n%nFirestone can be mined with the GT miners, if you place it within horizontal range. Firestone ore and products will cause random fires to start nearby, so get it into a backpack quickly!
 
 # Quest: Ardite and Cobalt
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEaw.name=§5§l熔焱和钴
@@ -1424,7 +1424,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgQ.desc=所有末影接口的机器都�
 
 # Quest: Portable Tanks
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgg.name=§6§l便携式储罐
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgg.desc=在此之前,你还要用手推车带着BC储罐来携带液体到处跑,这事干起来真叫一个痛苦,还慢. 而这些EIO的流体箱能够自己输出/抽进流体,因为它们内置了一些由魔法能源驱动的泵,真方便.%n%n高压流体箱具有两倍的容积.%n%n[note]但是要小心,它会吞掉水单元,不会返还空单元.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgg.desc=在此之前,你还要用手推车带着BC储罐来携带液体到处跑,这事干起来真叫一个痛苦,还慢. 而这些末影接口的流体储罐能够自己输出/抽进流体,因为它们内置了一些由魔法能源驱动的泵,真方便.%n%n高压流体储罐具有两倍的容积.%n%n[note]但是要小心,它会吞掉水单元,不会返还空单元.[/note]
 
 # Quest: Simple RF power: Solid
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgw.name=§6§l简易RF能源:固体
@@ -1722,7 +1722,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAEOQ.desc=有了进阶卷板机,你可以
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAERQ.name=§6§l你用完了黄金或者红石？
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAERQ.desc=你已经用完了你的黄金或者红石储备？如果你已经建设好了辉光花农场的话.你可以通过离心萤石粉来获得小堆的红石和金粉. 红石也是获得铝和铬的很好途径. 在HV阶段,你会用到成吨的金,在此之前早做储备是个好主意.%n%n[note]其实有许多植物都可以出产萤石,挑一种你喜欢的吧![/note]
 
-# Quest: Firestone Ore
+# Quest: Firestone Ore/Dust
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAE_w.name=§6§l火石矿/粉
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAE_w.desc=BC里面的建筑机和填充机都要用到火石.不幸的是火石只会在下界岩浆湖的底部生成...%n%n不过这里有一些提示可能会帮助到你:%n%n-火石只会在6格深以上的岩浆湖中生成,并且它只会取代地狱岩,所以一个充满了灵魂沙的峡谷是绝对不会产生火石的.你能想到检查岩浆深度,并获知底部有什么的方法吗?%n-或者,如果你可以让自己的脑袋保持在岩浆上方正确的高度,并找到一个正确的角度,你就能直接看到岩浆湖的底部-当然,一个可以悬停的背包是必不可少的.%n-...或者直接把鼠标移到旅行者地图上查看生物群系. 地狱(Hell)就是默认的地狱岩地形.%n%n只要在GT采矿机的工作范围内,火石也可以直接被挖出来.%n%n火石矿石或火石都会不断点燃身边的方块,因此找到后马上将它们收纳到背包里.
 
@@ -3245,7 +3245,7 @@ betterquesting.quest.nNTmwkdsQgyE6QAfmIwcvg.desc=所以你正在查看钍 232，
 betterquesting.quest.tu5Lk_jKQR-qgTYD1o3sLg.name=§b§l在LuV阶段获取钐
 betterquesting.quest.tu5Lk_jKQR-qgTYD1o3sLg.desc=如果你搞定了ZPM能源（或者LuV能源仓双仓升压），这个方法应该会更好。%n%n熔融氯化钐，再用镧在蒸馏塔中还原氯化钐。然后电解回收氯化镧。
 
-# Quest: More Samarium !
+# Quest: More Samarium!
 betterquesting.quest.u_-8t2IvRnydvmUx_qdYuA.name=§b§l更多钐 !
 betterquesting.quest.u_-8t2IvRnydvmUx_qdYuA.desc=如果你搞到了稳定的钐矿来源，精处理这些钐矿资源应该是获取钐的最好方式。%n%n第一步先准备钐精粉或粉碎钐矿石（现在你应该还得不到钐矿石），用在煮解池里硝酸煮溶这些矿资源，得到钐稀土浊溶液。钍和磷则以固体渣粉的形式保留下来。%n%n然后转移到溶解罐中继续用硝酸浸泡，将不溶的粉末仔细过滤出来，主要是铈。%n%n然后加水调节pH值。
 
@@ -4953,7 +4953,7 @@ betterquesting.quest.8QSORTVOSOaUXC6mQurMgA.desc=定位器允许你传送到已�
 
 # Quest: The Power of Endermen
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.name=末影人的力量
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.desc=电梯很棒,但它们仅限于垂直传送,作用范围也很有限. 旅行锚没有角度上的限制.你可以从一个锚传送到128格内的任何其他锚. 只需站在一个锚上,看向你希望传送到的锚,再按下Shift,即可完成传送. 你可以命名它们,甚至把它们设为私人的.它们有2秒的传送冷却时间.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.desc=升降台很棒,但它们仅限于垂直传送,作用范围也很有限. 旅行锚没有角度上的限制.你可以从一个锚传送到128格内的任何其他锚. 只需站在一个锚上,看向你希望传送到的锚,再按下Shift,即可完成传送. 你可以命名它们,甚至把它们设为私人的.它们有2秒的传送冷却时间.
 
 # Quest: Glider Wings
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAChQ.name=滑翔翼
@@ -5113,7 +5113,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHEg.desc=高速过渡轨道和推进轨�
 
 # Quest: So Much Nicer Than Ladders
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHwQ.name=比梯子好多了
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHwQ.desc=电梯非常适合在你的基地用于快速垂直运输.离开有色电梯将停在同一颜色的电梯上.用一些更多门(Malisis-doors)mod的门来做出"真正"电梯的效果. 旋转电梯会根据玩家面朝的方向将玩家向下或向上传送.很适合于你的电梯井位于某一层的一侧,而另一侧是另外一层.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHwQ.desc=升降台非常适合在你的基地用于快速垂直运输.离开有色升降台将停在同一颜色的升降台上.用一些更多门(Malisis-doors)mod的门来做出"真正"升降机的效果. 旋转升降台会根据玩家面朝的方向将玩家向下或向上传送.很适合于你的升降台井位于某一层的一侧,而另一侧是另外一层.
 
 # Quest: Better Boots with a little pizzazz
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAI1A.name=更炫酷的靴子
@@ -6144,8 +6144,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACLA.name=§6§l硝化甘油
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACLA.desc=孩子们,今天我们将使用甘油来制作一些硝化甘油.%n    - 化学101
 
 # Quest: Low-Pressure Boiler Tank
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACLw.name=§6§l低压锅炉
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACLw.desc=利用低压锅炉方块配合燃烧室可以说是获取蒸汽最容易的方式了. 低压锅炉需要安装在燃烧室的顶部. 锅炉的体积越大预热越慢,但是之后产生的蒸汽会越多.%n%n将管道连接到低压锅炉以输出蒸汽.%n%n记住,加热锅炉消耗的燃料是保持锅炉最高温的数倍.%n%n注意,低压锅炉在断断续续的工作场景中比较好用.低压锅炉效率更低,但升温速度远远高于高压锅炉,这意味着在刚开机的阶段低压锅炉的效率更高,但缺点在于在最高温度的情况下,低压锅炉的效率只有高压版本的50%%.如果你想要一个持续不断的大量蒸汽产能,就用高压锅炉.%n%n%注意燃料消耗速度会根据锅炉尺寸以及当前温度等因素改变,如果你想要知道具体的消耗速度的话,就自己尝试一下吧.n%n%n%n译者注: WIKI 蒸汽机：§1§n[url]https://gtnh.huijiwiki.com/p/875[/url]§r
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACLw.name=§6§l低压锅炉缸
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACLw.desc=利用低压锅炉缸配合燃烧室可以说是获取蒸汽最容易的方式了. 锅炉缸需要安装在燃烧室的顶部. 锅炉的体积越大预热越慢,但是之后产生的蒸汽会越多.%n%n将管道连接到锅炉缸以输出蒸汽.%n%n记住,加热锅炉消耗的燃料是保持锅炉最高温的数倍.%n%n注意,低压锅炉在断断续续的工作场景中比较好用.低压锅炉效率更低,但升温速度远远高于高压锅炉,这意味着在刚开机的阶段低压锅炉的效率更高,但缺点在于在最高温度的情况下,低压锅炉的效率只有高压版本的50%%.如果你想要一个持续不断的大量蒸汽产能,就用高压锅炉.%n%n%注意燃料消耗速度会根据锅炉尺寸以及当前温度等因素改变,如果你想要知道具体的消耗速度的话,就自己尝试一下吧.n%n%n%n译者注: WIKI 蒸汽机：§1§n[url]https://gtnh.huijiwiki.com/p/875[/url]§r
 
 # Quest: Railcraft Steam Power
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACMA.name=§6§l用RC制造蒸汽
@@ -6156,8 +6156,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACMQ.name=§6§l液态燃料燃烧室
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACMQ.desc=可以烧杂酚油来生产蒸汽了! 在有了钢之后,你就可以制作一个液态燃料锅炉燃烧室了.%n%n柴油、乙醇、杂酚油和生物柴油都可以作为燃料.它也需要配备锅炉-见此任务线下一个任务.%n%nWIKI 蒸汽机：§9gtnh.huijiwiki.com/p/875§r
 
 # Quest: High-Pressure Boiler Tank
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACMg.name=§6§l高压锅炉
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACMg.desc=当你有了钢之后你就可以制作高压锅炉方块了. 高压锅炉比低压锅炉的温度更高,产生蒸汽的速度更快.同时存储的蒸汽量也是低压锅炉的4倍. 高压锅炉需要更长时间预热,所以确保你可以喂饱它!%n%n将管道连接到锅炉以输出蒸汽.%n%n记住,加热锅炉消耗的燃料是保持锅炉最高温的数倍.%n%n注意只有在长时间持续工作的情况下高压锅炉比低压的好,如果经常开关的话会浪费非常多燃料.如果高压锅炉一直保持最高功率工作的话,它会消耗低压版本两倍的燃料,但是产出4倍的蒸汽.两倍的效率!如果你没办法持续的提供燃料或者想要一个更灵活的产能方式,就使用低压锅炉.%n%n注意燃料消耗速度会根据锅炉尺寸以及当前温度等因素改变,如果你想要知道具体的消耗速度的话,就自己尝试一下吧.%n%n译者注: WIKI 蒸汽机：§1§n[url]https://gtnh.huijiwiki.com/p/875[/url]§r
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACMg.name=§6§l高压锅炉缸
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACMg.desc=当你有了钢之后你就可以制作高压锅炉缸了. 高压锅炉比低压锅炉的温度更高,产生蒸汽的速度更快.同时存储的蒸汽量也是低压锅炉的4倍. 高压锅炉需要更长时间预热,所以确保你可以喂饱它!%n%n将管道连接到锅炉以输出蒸汽.%n%n记住,加热锅炉消耗的燃料是保持锅炉最高温的数倍.%n%n注意只有在长时间持续工作的情况下高压锅炉比低压的好,如果经常开关的话会浪费非常多燃料.如果高压锅炉一直保持最高功率工作的话,它会消耗低压版本两倍的燃料,但是产出4倍的蒸汽.两倍的效率!如果你没办法持续的提供燃料或者想要一个更灵活的产能方式,就使用低压锅炉.%n%n注意燃料消耗速度会根据锅炉尺寸以及当前温度等因素改变,如果你想要知道具体的消耗速度的话,就自己尝试一下吧.%n%n译者注: WIKI 蒸汽机：§1§n[url]https://gtnh.huijiwiki.com/p/875[/url]§r
 
 # Quest: Dynamite
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_A.name=§6§l炸药
@@ -6217,7 +6217,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADZg.desc=一次熔炼多达九件物品�
 
 # Quest: Cleanroom
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADrA.name=§6§l超净间
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADrA.desc=更加先进(也更加洁净!)的电路板需要在无尘环境下才能制作.为了得到无尘环境我们需要超净间. 超净间是整体大小在3x4x3到15x15x15之间的中空多方块结构. 多方块结构并不需要搭成正方形, 一个对中心点对称的长方形也是可以的 (长宽为奇数). 超净间的地板和墙壁需要使用塑料固实建材来搭建,超净间控制器位于天花板的中央位置,天花板除边框的其他位置使用过滤机械方块搭建,除此之外你还需要在底层和墙壁方块中放置1个能源仓和1个维修仓.你还需要1扇IC2的防爆门用于进出超净间(防爆门可以通过压力板来控制开关),或者你可以通过其他方式进出超净间.另外,如果你想要自动化超净间中的机器,可以使用机身或线缆二极管替换塑料固实建材,用于能量输入和物品的输入/输出.机身的等级不会影响物品传输的速度,所以用最便宜的就好了.防爆门,机身和线缆二极管都是可选的.%n%n让我们来搭建一个5x5x5的超净间.垂直方向的扩展很容易,只要不超过最大高度即可,而水平方向的扩展,需要注意让X和Z即长宽为奇数.防爆玻璃可以替换不超过约5％的塑料固实建材,这样超净间就可以有窗户了,可以在外面就能看到内部机器状态.如果使用硼硅酸盐玻璃或守卫者玻璃,可以替换更多方块.%n%n你可以通过超净间墙壁上的机身与内部交互,传送材料,输送1A的电力.你还可以用线缆二极管来输送多A电力.%n%n但是在为你的内部机器更新换代时你要万分小心.务必拆下旧的机身和线缆二级管然后用新的更高电压的替换,否则你一定会很伤心的.如果只是用于传输物品,那就不用管等级的事.%n%n如果超净间有故障，它就有几率吞掉在其中制作的物品(每处故障增加10％几率!).用便携式扫描仪、工业信息屏或维修提示覆盖板来监控你的超净间.%n%n另外,门开的时间越长或超净间停机,洁净度就越低,而这与是否吞东西直接相关.所以尽可能少开门并保持超净间正常运行!而且有些方法比如,电梯或旅行锚,完全不需要开门就能进出!你甚至可以将电梯或旅行锚嵌入地板来优雅的集成到超净间结构中.%n%n超净间的耗能不同于普通多方块机器.它的启动电压为40EU/t,然后再逐渐下降.而就算在启动阶段,40EU/t(超过1A-MV)的功率,一个LV能源仓也足够了.但是请注意,只适用于超净间,并不是普世规则.%n%n[note]多方块机器如大型化学反应釜、大型加工厂或是处理阵列都可以提供超净环境,所以这些机器无需放入超净间.你无法在处理阵列中使用生物实验室,所以在后期你还是会需要超净间的.[/note]%n%n[note]其他有用的提示: 直接在超净间内发电(清洁能源)、使用AE的无线接入器或矢量变换接口跳过机身、而且你可以升级能源仓以更快地达到100％效率(达到满效率的耗能不变).[/note]%n%n[warn]请注意：现在超净间内任何会产生污染的机器,都会导致洁净度清零.[/warn]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADrA.desc=更加先进(也更加洁净!)的电路板需要在无尘环境下才能制作.为了得到无尘环境我们需要超净间. 超净间是整体大小在3x4x3到15x15x15之间的中空多方块结构. 多方块结构并不需要搭成正方形, 一个对中心点对称的长方形也是可以的 (长宽为奇数). 超净间的地板和墙壁需要使用塑料固实建材来搭建,超净间控制器位于天花板的中央位置,天花板除边框的其他位置使用过滤机械方块搭建,除此之外你还需要在底层和墙壁方块中放置1个能源仓和1个维修仓.你还需要1扇IC2的防爆门用于进出超净间(防爆门可以通过压力板来控制开关),或者你可以通过其他方式进出超净间.另外,如果你想要自动化超净间中的机器,可以使用机身或线缆二极管替换塑料固实建材,用于能量输入和物品的输入/输出.机身的等级不会影响物品传输的速度,所以用最便宜的就好了.防爆门,机身和线缆二极管都是可选的.%n%n让我们来搭建一个5x5x5的超净间.垂直方向的扩展很容易,只要不超过最大高度即可,而水平方向的扩展,需要注意让X和Z即长宽为奇数.防爆玻璃可以替换不超过约5％的塑料固实建材,这样超净间就可以有窗户了,可以在外面就能看到内部机器状态.如果使用硼硅酸盐玻璃或守卫者玻璃,可以替换更多方块.%n%n你可以通过超净间墙壁上的机身与内部交互,传送材料,输送1A的电力.你还可以用线缆二极管来输送多A电力.%n%n但是在为你的内部机器更新换代时你要万分小心.务必拆下旧的机身和线缆二级管然后用新的更高电压的替换,否则你一定会很伤心的.如果只是用于传输物品,那就不用管等级的事.%n%n如果超净间有故障，它就有几率吞掉在其中制作的物品(每处故障增加10％几率!).用便携式扫描仪、工业信息屏或维修提示覆盖板来监控你的超净间.%n%n另外,门开的时间越长或超净间停机,洁净度就越低,而这与是否吞东西直接相关.所以尽可能少开门并保持超净间正常运行!而且有些方法比如,升降台或旅行锚,完全不需要开门就能进出!你甚至可以将升降台或旅行锚嵌入地板来优雅的集成到超净间结构中.%n%n超净间的耗能不同于普通多方块机器.它的启动电压为40EU/t,然后再逐渐下降.而就算在启动阶段,40EU/t(超过1A-MV)的功率,一个LV能源仓也足够了.但是请注意,只适用于超净间,并不是普世规则.%n%n[note]多方块机器如大型化学反应釜、大型加工厂或是处理阵列都可以提供超净环境,所以这些机器无需放入超净间.你无法在处理阵列中使用生物实验室,所以在后期你还是会需要超净间的.[/note]%n%n[note]其他有用的提示: 直接在超净间内发电(清洁能源)、使用AE的无线接入器或矢量变换接口跳过机身、而且你可以升级能源仓以更快地达到100％效率(达到满效率的耗能不变).[/note]%n%n[warn]请注意：现在超净间内任何会产生污染的机器,都会导致洁净度清零.[/warn]
 
 # Quest: A Very Useful Scanner
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADrQ.name=§6§l一个非常有用的扫描仪

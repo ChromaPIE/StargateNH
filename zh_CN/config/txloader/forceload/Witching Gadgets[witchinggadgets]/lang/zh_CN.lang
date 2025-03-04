@@ -172,7 +172,9 @@ wg.gui.buttonMigrate=回到巢穴
 wg.gui.noFeathersToMigrate=你没有回到巢穴需要的物品
 
 wg.desc.noGlide=无法滑翔
-wg.desc.enableCloak=§7Enable or disable by Holding §a%s1§7 and pressing §a%s2§7.
+wg.desc.glide=Gliding enabled
+wg.desc.enableCloak=§7Enable or disable by pressing §a%s1§7.
+wg.desc.cycleArmor=§7Cycle this item by Holding §a%s1§7 and pressing §a%s2§7.
 
 wg.gui.visSize=Vis容量
 wg.gui.shiftForAspectList=§7按住§aShift§7查看要素列表§r
