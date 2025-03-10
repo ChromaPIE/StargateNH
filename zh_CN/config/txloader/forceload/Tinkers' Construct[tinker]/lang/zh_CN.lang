@@ -6,8 +6,8 @@ itemGroup.TConstructEquipables=匠魂|装备
 itemGroup.TConstructWeaponry=匠魂|武器
 itemGroup.TConstructGadgets=匠魂小工具
 
-crafters.ToolStation=工具组装台
-crafters.ToolForge=工具装配台
+crafters.ToolStation=工具装配台
+crafters.ToolForge=工具锻造台
 crafters.TinkerTable=工匠工作台
 crafters.PartBuilder=部件加工台
 crafters.PatternShaper=模具加工台
@@ -19,15 +19,15 @@ inventory.knapsack=背包
 
 nei.options.keys.gui.tinkers_belt=切换旅行者腰带
 
-tile.ToolStation.name=工具组装台
-ToolStation.Crafter.name=工具组装台
+tile.ToolStation.name=工具装配台
+ToolStation.Crafter.name=工具装配台
 ToolStation.Parts.name=部件加工台
 ToolStation.PatternChest.name=模具箱
 ToolStation.PatternShaper.name=模具加工台
 ToolStation.CastingTable.name=浇铸台
 tile.FurnaceSlab.name=半砖熔炉
 
-tile.ToolForge.name=工具装配台
+tile.ToolForge.name=工具锻造台
 tile.TinkerTable.name=工匠工作台
 tile.Armor.DryingRack.name=晾干架
 tile.TConstruct.Soil.name=Soil
@@ -1080,7 +1080,7 @@ manual.page.material.rod=棍
 manual.page.material.shard=碎片
 manual.page.material.speed=挖掘速度
 
-manual.page.modifier1=工具组装台
+manual.page.modifier1=工具装配台
 manual.page.modifier2=工具站
 manual.page.modifier3=工匠工作台
 
@@ -1094,9 +1094,9 @@ tool.boneana.lore=在当时这听起来是个好注意
 tool.baneofpigs=猪的克星
 tool.infiminer=矿工
 
-tool.core.broken=损坏的
+tool.core.broken=损坏
 
-armor.core.broken=损坏的
+armor.core.broken=损坏
 armor.core.protection=保护：
 armor.travelbelt.ability=能力：切换工具栏
 armor.travelbelt.control=控制：
@@ -1118,8 +1118,8 @@ gadgets.slime_boots.tooltip3=以停止弹跳.
 tool.reinforced=耐久
 tool.unbreakable=不毁
 
-modifier.tool.diamond=耐久 +500
-modifier.tool.emerald=耐久 +50%
+modifier.tool.diamond=耐久+500
+modifier.tool.emerald=耐久+50%
 modifier.tool.haste=急速
 modifier.tool.lava=自动冶炼
 modifier.tool.moss=自动修复

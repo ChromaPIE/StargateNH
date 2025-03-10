@@ -14,7 +14,7 @@ nutrient.nutrition:protein=肉类
 nutrient.nutrition:dairy=乳制品
 
 # Tooltips
-tooltip.nutrition:nutrients=营养物：
+tooltip.nutrition:nutrients=营养成分：
 
 # Potions
 potion.nutrition:toughness=强壮

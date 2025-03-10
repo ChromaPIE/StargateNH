@@ -166,3 +166,8 @@ particle.alpha=α粒子
 particle.neutron=中子
 particle.proton=质子
 GT5U.gui.text.dissolution_ratio=§7流体输入比例错误
+
+tooltip.gtnhlanth.particle.rest_mass=Rest Mass: %f MeV
+tooltip.gtnhlanth.particle.charge=Charge: %s e
+tooltip.gtnhlanth.photomask.desc_spectrum=Suitable for the %s segment of the electromagnetic spectrum and lower
+tooltip.gtnhlanth.photomask.max_uses=Max Uses: %d

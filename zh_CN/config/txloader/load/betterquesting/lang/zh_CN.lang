@@ -601,8 +601,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8Q.name=§3§l点燃制炭之路
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8Q.desc=你已经找到了另外一种生产大量木炭的工艺--使用木炭堆点火器. %n%n现在应该去生产大量的木炭去了!%n%n如果这是你的第一个多方块结构,按住shift查看扩展tooltip,或者访问[url]https://wiki.gtnewhorizons.com/wiki/Charcoal_Pile_Igniter[/url]获知如何让它工作.
 
 # Quest: Tool Forge
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC5Q.name=§3§l工具装配台
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC5Q.desc=制造出曜锌钢后,为了制造更大(并且更好)的匠魂工具了,是时候制作一个工具装配台了.%n%n§Y§3现在铸模不一定需要使用铁来制作;您还可以使用其他材料,例如锡或铜等.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC5Q.name=§3§l工具锻造台
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC5Q.desc=制造出曜锌钢后,为了制造更大(并且更好)的匠魂工具了,是时候制作一个工具锻造台了.%n%n§Y§3现在铸模不一定需要使用铁来制作;您还可以使用其他材料,例如锡或铜等.
 
 # Quest: One Block Mining is so Old School
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC5g.name=§3§l一格一格挖矿已经过气了
@@ -614,7 +614,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAC5w.desc=制作一把伐木斧,你就可
 
 # Quest: Mining Dirt Block by Block is so Old School
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6A.name=§3§l慢慢挖土已经过气了
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6A.desc=制作一把挖掘铲,你就可以一次挖3x3范围的土.你可以使用各种材料,如铁、钢或冶炼炉生产的耐酸铝,不用局限于钢.%n%n更高阶的材料需要MV压模机.  别不小心毁了你的整个花园.%n%n§6本任务接受任意材料制成的相应工具.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6A.desc=制作一把挖掘铲,你就可以一次挖3x3范围的土.你可以使用各种材料,如铁、钢或冶炼炉生产的曜锌钢,不用局限于钢.%n%n更高阶的材料需要MV压模机.  别不小心毁了你的整个花园.%n%n§6本任务接受任意材料制成的相应工具.
 
 # Quest: Pollution What....?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACFg.name=§3§l什么？污染!
@@ -714,7 +714,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAEZw.desc=钢铁铸造的工具已经可�
 
 # Quest: Lapis? Lucky!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEaA.name=§3§l青金石代表的是幸运？
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEaA.desc=也许你很幸运,在使用你的匠魂镐子的时候获得了时运附魔.如果没有获得也不需要太过于沮丧,你可以通过向匠魂工具上添加青金石来获得时运效果. 如果你的工具还没有获得额外的强化次数你可以通过钻石和金块来添加一次,然后再使用青金石来强化.%n%n你可以将青金石放入装配台的多个格子中,或是用青金石块来更快地提升时运等级,甚至你可以将青金石块放入合成站来最快地提升时运等级.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEaA.desc=也许你很幸运,在使用你的匠魂镐子的时候获得了时运附魔.如果没有获得也不需要太过于沮丧,你可以通过向匠魂工具上添加青金石来获得时运效果. 如果你的工具还没有获得额外的强化次数你可以通过钻石和金块来添加一次,然后再使用青金石来强化.%n%n你可以将青金石放入工具装配台的多个格子中,或是用青金石块来更快地提升时运等级,甚至你可以将青金石块放入合成站来最快地提升时运等级.
 
 # Quest: Extra Modifier
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEag.name=§3§l额外的强化
@@ -3573,7 +3573,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAH1Q.desc=只有悬崖和万丈深渊,稍
 
 # Quest: The Beginning of the End Game
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH1g.name=毕业之路的开端
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAH1g.desc=欢迎来到TecTech!这里有你毕业所需的真正的巅峰科技.但是,学习TecTech常常让人摸不着头脑,所以仔细听.%n%n首先你需要制造所需机器的多种机械方块:超能机械方块,电子计算机机械方块,高级计算机方块和计算机散热器.你需要大量这些机械方块才能继续前进.%n%n我们列举出来的只是举个例子,实际需要的只会更多、更多、更多.%n%n使用光缆将机器连接起来. 确保它们已被涂色,同时光缆连接到的方块也要被涂色.%n%n*投影仪将会显示完整机器的全息图像,左下角的聊天栏会显示可变方块的注释. 如果堆叠更多投影仪的话,你就可以看到较大版本的全息图(比如量子计算机).%n%n§4译者注:§lTecTech多方块机器的控制器GUI界面的闪电或是电源图标亮起时,不要破坏任何结构方块,否则会引发爆炸!运行过程中更不能破坏结构方块!§r
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAH1g.desc=欢迎来到TecTech!这里有你毕业所需的真正的巅峰科技.但是,学习TecTech常常让人摸不着头脑,所以仔细听.%n%n首先你需要制造所需机器的多种机械方块:高能外壳,电子计算机机械方块,高级计算机方块和计算机散热器.你需要大量这些机械方块才能继续前进.%n%n我们列举出来的只是举个例子,实际需要的只会更多、更多、更多.%n%n使用光缆将机器连接起来. 确保它们已被涂色,同时光缆连接到的方块也要被涂色.%n%n*投影仪将会显示完整机器的全息图像,左下角的聊天栏会显示可变方块的注释. 如果堆叠更多投影仪的话,你就可以看到较大版本的全息图(比如量子计算机).%n%n§4译者注:§lTecTech多方块机器的控制器GUI界面的闪电或是电源图标亮起时,不要破坏任何结构方块,否则会引发爆炸!运行过程中更不能破坏结构方块!§r
 
 # Quest: Tier 7 (ZPM)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKMg.name=第7阶段（ZPM）
@@ -9823,16 +9823,16 @@ betterquesting.quest.pDcGv1OwTsueRoVXFZ6wHw.name=瓶中海洋
 betterquesting.quest.pDcGv1OwTsueRoVXFZ6wHw.desc=在成功创造了一个能够存储近乎无限量物品的人工宇宙之后,你又将同样的技术应用到ME流体数字奇点元件上来创造出了这项真正的伟大技术.它可以让你储存多达 5 种不同类型的流体,而不会让宇宙自我坍塌。
 
 # Quest: Adv. Stocking Bus
-betterquesting.quest.qvZq59qRQ2C5Uzm7J7B4UA.name=进阶存储输入总线
-betterquesting.quest.qvZq59qRQ2C5Uzm7J7B4UA.desc=更好的存储输入总线!%n%n这个总线可从 ME 网络中自动拉取前16种物品,这对某些自动化来说非常有用.最小堆叠数和刷新时间可在UI中配置.%n%n[note]在主网络上使用此功能可能不是一个好主意.[/note]
+betterquesting.quest.qvZq59qRQ2C5Uzm7J7B4UA.name=进阶储备输入总线
+betterquesting.quest.qvZq59qRQ2C5Uzm7J7B4UA.desc=更好的储备输入总线!%n%n这个总线可从 ME 网络中自动拉取前16种物品,这对某些自动化来说非常有用.最小堆叠数和刷新时间可在UI中配置.%n%n[note]在主网络上使用此功能可能不是一个好主意.[/note]
 
 # Quest: 256k Essentia Storage Cell
 betterquesting.quest.s2TL3i06Tb2WvPvdt1utyg.name=256k-ME源质存储元件
 betterquesting.quest.s2TL3i06Tb2WvPvdt1utyg.desc="它们"可以存储 524,288 点源质。%n%n以及24个种类。
 
 # Quest: Stocking Fluids
-betterquesting.quest.soyN9ODlQmmjrKEyKBNENA.name=存储输入仓(ME)
-betterquesting.quest.soyN9ODlQmmjrKEyKBNENA.desc=就像存储输入总线一样工作,但用于流体.%n%n[note]你只需要其中一个来完成任务.[/note]
+betterquesting.quest.soyN9ODlQmmjrKEyKBNENA.name=储备流体
+betterquesting.quest.soyN9ODlQmmjrKEyKBNENA.desc=就像储备输入总线一样工作,但用于流体.%n%n[note]你只需要其中一个来完成任务.[/note]
 
 # Quest: 1024k Essentia Storage Cell
 betterquesting.quest.tUJaqz9uSwajByFi4gNHzQ.name=1024k-ME源质存储元件
@@ -14096,7 +14096,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAEfg.desc=是时候用你的镁铝合金�
 
 # Quest: Wooden Crossbow
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEfw.name=§3§l木弩
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEfw.desc=现在你可以制作更好的远程武器了. 使用木制的弩身和弩臂,并使用黑曜石坚韧绑定结(耐久III)来让弩更加坚固. 弩弦用用普通的材料制作就可以.%n%n在你的工具装配台上将这些部件组装起来.%n%n[warn]升级:[/warn]%n[note]红石-拉弓速度%n青金石-抢夺%n苔藓球-自我修复(这个在NEI中不会显示合成表,除非你解锁了魔导手册GTNH栏的相应研究)[/note]%n%n§6注意:某些怪物需要使用特定工具才能产生伤害.如果你怎么打它都不掉血,赶紧跑!!!然后找出哪种武器最适合杀死它.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEfw.desc=现在你可以制作更好的远程武器了. 使用木制的弩身和弩臂,并使用黑曜石坚韧绑定结(耐久III)来让弩更加坚固. 弩弦用用普通的材料制作就可以.%n%n在你的工具锻造台上将这些部件组装起来.%n%n[warn]升级:[/warn]%n[note]红石-拉弓速度%n青金石-抢夺%n苔藓球-自我修复(这个在NEI中不会显示合成表,除非你解锁了魔导手册GTNH栏的相应研究)[/note]%n%n§6注意:某些怪物需要使用特定工具才能产生伤害.如果你怎么打它都不掉血,赶紧跑!!!然后找出哪种武器最适合杀死它.
 
 # Quest: Fiery Bowstring
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEgA.name=§5§l火焰弓弦
