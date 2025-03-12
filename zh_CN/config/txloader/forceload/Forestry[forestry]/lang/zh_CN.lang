@@ -171,6 +171,7 @@ for.gui.imprinter.name=染色体变换仪
 for.gui.inactive=隐性
 for.gui.life=生命
 for.gui.lifespan=寿命
+for.gui.none=None
 for.gui.normal=一般
 for.gui.jubilance=愉悦度:%s
 
@@ -1724,7 +1725,7 @@ for.plugin.ee3.description=等价交换3兼容组件。
 for.plugin.farmcraftory.description=牧场物语(FarmCraftory)兼容组件。添加作物和蔬菜的自动化农场支持。
 for.plugin.biomesoplenty.description=更多生物群系(Biomes O' Plenty)兼容组件。激活后农场能够支持BoP的树苗。
 for.plugin.extrautilities.description=更多实用设备(Extra Utilities)兼容组件。激活后农场能够支持末影百合。
-for.plugin.harvestcraft.description=潘马斯的丰收(HarvestCraft)兼容组件。激活后农场能够支持HarvestCraft的植物和树苗。
+for.plugin.harvestcraft.description=潘姆的丰收工艺（HarvestCraft）的兼容插件。启用后，农场将支持HarvestCraft的植物和树苗。
 for.plugin.magicalcrops.description=魔法作物(Magical Crops)兼容组件。
 for.plugin.chisel.description=凿子(Chisel)兼容组件。添加背包对其方块的支持。
 for.plugin.plantmegapack.description=Plant Mega Pack兼容组件。

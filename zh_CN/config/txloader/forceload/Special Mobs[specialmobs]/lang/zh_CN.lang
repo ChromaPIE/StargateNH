@@ -295,7 +295,7 @@ entity.SpecialMobs.LavaMonster.desc.2=在岩浆湖中生成
 
 //Blazes
 entity.SpecialMobs.CinderBlaze.desc.1=近战烈焰人
-entity.SpecialMobs.CinderBlaze.desc.2=击中后点燃
+entity.SpecialMobs.CinderBlaze.desc.2=点燃攻击目标
 entity.SpecialMobs.ConflagrationBlaze.desc.1=不灭之火
 entity.SpecialMobs.ConflagrationBlaze.desc.2=只对雪或水敏感
 entity.SpecialMobs.EmberBlaze.desc.1=近战烈焰人
@@ -371,7 +371,7 @@ entity.SpecialMobs.ToughSilverfish.desc.1=甲壳更厚，防护更强
 
 //Skeletons
 entity.SpecialMobs.BrutishSkeleton.desc.1=造成穿甲伤害
-entity.SpecialMobs.FireSkeleton.desc.1=击中后点燃
+entity.SpecialMobs.FireSkeleton.desc.1=点燃攻击目标
 entity.SpecialMobs.GatlingSkeleton.desc.1=快速连续射击
 entity.SpecialMobs.GiantSkeleton.desc.1=增大体型，提升伤害
 entity.SpecialMobs.NinjaSkeleton.desc.1=伪装融入附近方块
@@ -389,8 +389,8 @@ entity.SpecialMobs.GrapeSlime.desc.1=弹跳高度提升
 entity.SpecialMobs.GrapeSlime.desc.2=免疫坠落伤害
 entity.SpecialMobs.LemonSlime.desc.1=击中后召唤闪电
 entity.SpecialMobs.LemonSlime.desc.2=击中后传送走
-entity.SpecialMobs.StrawberrySlime.desc.1=击中后点燃
-entity.SpecialMobs.StrawberrySlime.desc.2=火焰免疫
+entity.SpecialMobs.StrawberrySlime.desc.1=点燃攻击目标
+entity.SpecialMobs.StrawberrySlime.desc.2=免疫火焰
 entity.SpecialMobs.WatermelonSlime.desc.1=扑向目标
 entity.SpecialMobs.WatermelonSlime.desc.2=击退提升
 
@@ -427,8 +427,8 @@ entity.SpecialMobs.WindWitch.desc.3=击中后传送
 
 //Zombies
 entity.SpecialMobs.BrutishZombie.desc.1=造成穿甲伤害
-entity.SpecialMobs.FireZombie.desc.1=击中后点燃
-entity.SpecialMobs.FireZombie.desc.2=火焰免疫
+entity.SpecialMobs.FireZombie.desc.1=点燃攻击目标
+entity.SpecialMobs.FireZombie.desc.2=免疫火焰
 entity.SpecialMobs.FishingZombie.desc.1=用鱼竿钩住目标
 entity.SpecialMobs.GiantZombie.desc.1=增大体型，提升伤害
 entity.SpecialMobs.HungryZombie.desc.1=击中后偷取食物

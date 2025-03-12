@@ -1,6 +1,6 @@
-itemGroup.tabHarvestCraft=潘马斯农场|杂项
-itemGroup.tabHarvestCraft2=潘马斯农场|作物
-itemGroup.tabHarvestCraft3=潘马斯农场|食物
+itemGroup.tabHarvestCraft=丰收工艺 | 杂项
+itemGroup.tabHarvestCraft2=丰收工艺 | 作物
+itemGroup.tabHarvestCraft3=丰收工艺 | 食物
 
 # Tooltips
 tooltip.harvestcraft.item.queenbeeItem=蜂房: 蜂窝, 蜂窝蜡, 蜜蜂幼虫\n合成栏: 0耐久的蜂王浆

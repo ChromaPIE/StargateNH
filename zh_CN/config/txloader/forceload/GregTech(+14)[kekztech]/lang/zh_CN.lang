@@ -115,3 +115,13 @@ gui.kekztech_lapotronicenergyunit.wireless=无线模式
 gui.kekztech_lapotronicenergyunit.wireless_rebalance=重新平衡无线电网(只能使用一次)
 gui.kekztech_lapotronicenergyunit.warning.header=Warning!
 gui.kekztech_lapotronicenergyunit.warning.text=Make sure to carefully read and understand the tooltip before activating wireless mode, it can potentially brick your base. This warning won't appear again.
+
+# -------- Tooltips
+tooltip.kekztech.crafting_component=KekzTech物品的合成组件
+tooltip.kekztech.lapotronic_energy_unit.capacity=Capacity: §c%s§7 EU
+tooltip.kekztech.lapotronic_energy_unit.wire_less_transfer=Supports up to §c%s§7 EU/t of wireless transfer per %s§7 capacitor.
+tooltip.kekztech.lapotronic_energy_unit.capacity.none=Capacity: None
+tooltip.kekztech.tfft.capacity=Capacity: §9%s§7 L
+tooltip.kekztech.tfft.capacity.per_fluid=Per Fluid Capacity: §9%s§7 L
+tooltip.kekztech.tfft.power_draw=Power Draw: §9%d§7 EU/t
+tooltip.kekztech.wrong=提醒：KekzTech的合成配方仅在GTNH中测试有效！\n用于错误识别的占位物品\n若本物品出现于GTNH，可前往以下链接进行汇报：\nhttps://github.com/kekzdealer/KekzTech

@@ -5,6 +5,7 @@ tile.appliedenergistics2.BlockCharger.name=充能器
 tile.appliedenergistics2.BlockChest.name=ME箱子
 tile.appliedenergistics2.BlockCondenser.name=物质聚合器
 tile.appliedenergistics2.BlockController.name=ME控制器
+tile.appliedenergistics2.BlockCreativeEnergyController.name=ME自供能控制器
 tile.appliedenergistics2.BlockCrank.name=木制曲柄
 tile.appliedenergistics2.BlockCreativeEnergyCell.name=创造能源元件
 tile.appliedenergistics2.BlockDenseEnergyCell.name=致密能源元件

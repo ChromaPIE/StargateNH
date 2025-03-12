@@ -1648,9 +1648,9 @@ efr.nei.weight=Weight
 
 efr.decoration.only=Decoration only
 
-efr.warn.experimental=§e§l[WARN]: §rThe following §bEt §bFuturum §bRequiem§r experimental features are enabled: §6[%s§6]
-efr.warn.experimental.bugs=These features may not be stable, click here to report any issues!
-efr.log.experimental=WARNING: The following experimental features are enabled: [%s]
+efr.warn.experimental=§e§l【警告】§r§bEt §bFuturum §bRequiem§r的以下实验性特性已启用：§6[%s§6]
+efr.warn.experimental.bugs=这些特性可能不稳定，若有任何问题，请点击此处进行汇报！
+efr.log.experimental=警告：以下实验性特性已启用：[%s]
 efr.log.experimental.bugs=Be sure to report bugs at https://github.com/Roadhog360/Et-Futurum-Requiem/issues
 efr.critical.badbetterfpsalgorithm1=§4§l[CRITICAL]: §bBetterFPS §ris configured with a bad math algorithm.
 efr.critical.badbetterfpsalgorithm2="rivens-half" or "taylors" should not be used to prevent damage to your world. It is highly advised that you go into its config and change "algorithm" to something else, preferably "vanilla".

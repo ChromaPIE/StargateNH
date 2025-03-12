@@ -1692,9 +1692,9 @@ item.itemGregtechPump.tooltip.1=不能通过右键排空容器,在GUI内使用�
 item.itemGregtechPump.tooltip.2=从技术上讲, 这只是另一种花哨的流体单元
 item.itemGregtechPump.tooltip.3=不含流体
 item.itemBaseEuItem.tooltip.0=§e电动的
-item.itemBaseEuItem.tooltip.1=含有 %d EU 等级: %d
+item.itemBaseEuItem.tooltip.1=存有 %d EU   等级：%d
 item.itemBaseEuItem.tooltip.2=空的.你应该好好循环利用它.
-item.itemBaseEuItem.tooltip.3=%d / %d EU - 电压: %d
+item.itemBaseEuItem.tooltip.3=%s / %s EU - 电压：%d
 item.itemDebugClearing.name=调试方块[%d]
 item.itemDebugClearing.0.tooltip=模式:清理
 item.itemDebugClearing.1.tooltip=模式:填充
@@ -3990,7 +3990,7 @@ gtpp.gui.config.asm.debug=调试
 gtpp.gui.config.asm.general=通用
 
 # item tooltips
-gtpp.tooltip.ignot.very_hot=§7Warning: §cVery hot! §7Avoid direct handling..
+gtpp.tooltip.ignot.very_hot=§7警告：§c非常烫！§7请勿直接抓握……
 gtpp.tooltip.tickable.decay_seconds=%d§7 seconds until decay
 gtpp.tooltip.ion_particles.state_not_set=A %s Ion with an §eUnknown§7 charge state
 gtpp.tooltip.ion_particles.charge_positive=A %s Ion with a §aPositive§7 charge state of %d
@@ -4001,15 +4001,15 @@ gtpp.tooltip.base_particles.type.lepton=Lepton
 gtpp.tooltip.base_particles.type.boson=Boson
 gtpp.tooltip.base_particles.type.baryon=Baryon
 gtpp.tooltip.base_particles.type.meson=Meson
-gtpp.tooltip.base_particles.type.unknown=Unknown
-gtpp.tooltip.integrated_circuit.configuration=Configuration == %d
+gtpp.tooltip.base_particles.type.unknown=未知
+gtpp.tooltip.integrated_circuit.configuration=配置值 == %d
 gtpp.tooltip.scrubber_turbine.early_tier=An early tier Turbine for Atmospheric Reconditioning.
-gtpp.tooltip.scrubber_turbine.uses_left=%d/%d uses left.
+gtpp.tooltip.scrubber_turbine.uses_left=剩余使用次数：%d/%d。
 gtpp.tooltip.buffer_core.key_crafting_component=A key crafting component for %s Applicances
 gtpp.tooltip.magic_feather.0=Does not need to be the item held in your hand to work
 gtpp.tooltip.magic_feather.1=Needs to be within beacon range
 gtpp.tooltip.magic_feather.2=Range is beacon level * 10 + 10
-gtpp.tooltip.book.author=Author: %s
+gtpp.tooltip.book.author=作者：%s
 gtpp.tooltip.book.pages.s=Pages: %s
 gtpp.tooltip.book.pages.d=Pages: %d
 gtpp.tooltip.meta_casing.energy_storage=Energy Storage: %s

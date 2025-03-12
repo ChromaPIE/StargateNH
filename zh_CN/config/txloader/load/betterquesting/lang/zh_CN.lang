@@ -3,7 +3,7 @@
 
 ## Quest Line: And So, It Begins
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAA.name=幕启，开篇
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAA.desc=第一层：0阶. 本章节将介绍GTNH整合包的基本机制,包含：原版、潘马斯农场.
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAA.desc=最初的阶段，0阶。本章节将介绍本整合包的基础机制，主要围绕原版与潘姆的农场的内容展开。
 
 # Quest: Your First Night
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAA.name=§d§3§2§1§l夜的第一章
@@ -43,7 +43,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.desc=是不是该整点东西烧一�
 
 # Quest: Rest in Pieces
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACg.name=§1§l眼泪从嘴角流了下来
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACg.desc=杀几只猪，取几片肉，我要看到血流成河！燧石工具自带火焰附加，只要不是一击毙命，即可直接把猪烤成熟猪排。怎么样，是不是很有用？
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACg.desc=杀几只猪，取几片肉，我要看到血流成河！
 
 # Quest: Fluffy and Red
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.name=§1§l血染白羊
@@ -13164,7 +13164,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADeA.desc=你空虚寂寞觉得冷.让我
 
 # Quest: Garden Bags
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADtQ.name=果园/菜园袋
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADtQ.desc=寻找一些特殊的潘马斯果园十分困难,不过你可以用农民币来购买一些果园/菜园袋!%n%n[note]对了,这个里头同样包含下界的菜园.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADtQ.desc=寻找来自“潘姆的丰收工艺”的特殊果园可能会十分困难,不过你可以用农民币来购买一些果园/菜园袋!%n%n[note]对了,这个里头同样包含下界的菜园.[/note]
 
 # Quest: XP Berries
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADtg.name=经验浆果
@@ -13984,7 +13984,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACIg.desc=在你的旅程中看过些庞�
 
 # Quest: Working Table 2.0
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACQA.name=工作台2.0
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACQA.desc=一个强化的手动工作台,但是这个工作台可以记住之前的9个合成表. 左键点击右侧的合成表可以提取合成配方. 右键点击可以锁定合成表.%n%n合成所使用的物品可以放置到GUI下方的物品缓存区内. 工作台上面的制作矩阵仅仅是视觉效果,并没有实际用途.%n%n这种林业工作台非常有用,可以大大简化合成工作,它还会自动使用缓存区中的工具参与合成.%n%n特别的:%n用<一桶Y>合成<物品X>时-将所有原料放入工作台,选择好合成表,Shift+左键点击成品就可以全部合成完毕(耗尽库存内原料)%n合成潘马斯的淡水-与上面类似,但没有第二物品%n合成粘土砖-木模具会自动重复使用%n合成任意使用工具的物品-工具也会自动重复使用并消耗耐久.%n%n[warn]警告：工作台被破坏时,存储的合成表将会丢失!为了避免这种情况,请用手推车搬动它.[/warn]%n%n[note]更多林业mod的任务请看专门的任务栏.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACQA.desc=A manual crafting table which remembers the last nine used recipes. Left-click one of the recipes shown in the right-hand side to automatically fill in the crafting grid. Right-click to lock a memorized recipe and prevent a newer recipe from bumping it off.%n%nResources need to go into the internal inventory. The crafting matrix is only a visual representation.%n%nThe Forestry worktable is super-useful, and can reduce the tedium of many common jobs because you can click-drag across a row of items, and it will use tools in its own inventory to continue crafting.%n%nSpecifically:%nMaking <Item X> with <Bucket of Y> - Put all the ingredients into the table, and if the recipe is selected, shift-click the result to craft them all at once (until you run out)%nMaking fresh water for Pam's - Same as above, but no second item%nMaking clay bricks - The wooden form is automatically reused%nMaking anything that uses a tool - Also automatically reused, while consuming durability%n%n[warn]Warning: Stored recipes will be lost if the worktable is broken! To avoid this, move it using a dolly.[/warn]%n%n[note]For more forestry quests you need to go to the dedicated tab.[/note]
 
 # Quest: Welcome to Forestry
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACSg.name=§3§l欢迎来玩林业MOD

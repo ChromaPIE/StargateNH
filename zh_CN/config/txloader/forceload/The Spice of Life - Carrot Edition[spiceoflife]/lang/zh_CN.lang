@@ -9,8 +9,8 @@ spiceoflife.tooltip.not.eaten.ever=从未食用! 味道如何?
 spiceoflife.tooltip.eaten.ever=食用过: 帮助提高生命上限
 spiceoflife.tooltip.eaten.cheap=食用过: 无明显效果
 
-spiceoflife.tooltip.food.until.enabled.1=食物恢复的饥饿值递减开始在
-spiceoflife.tooltip.food.until.enabled.2=食用任何食物超过 %d%s 之后
+spiceoflife.tooltip.food.until.enabled.1=饥饿值恢复递减将在
+spiceoflife.tooltip.food.until.enabled.2=食用任何食物%d%s后开始
 spiceoflife.tooltip.times.singular=次
 spiceoflife.tooltip.times.plural=次
 spiceoflife.tooltip.hunger=饥饿度

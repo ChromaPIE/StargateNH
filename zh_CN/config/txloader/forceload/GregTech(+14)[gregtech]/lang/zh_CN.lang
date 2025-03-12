@@ -78,7 +78,7 @@ GTPP.tooltip.circuit_table.2=Default is used to select slot for auto-insertion
 # Decayables Chest
 GTPP.tooltip.decayables_chest.0=Chest which holds radioactive materials
 GTPP.tooltip.decayables_chest.1=Items which decay will tick while inside
-GTPP.tooltip.decayables_chest.2=Place with right-click
+GTPP.tooltip.decayables_chest.2=右击以放置
 
 # Butterfly Killer
 GTPP.tooltip.butterfly_killer.0=Kills Forestry Butterflies, Bats and other pests
@@ -96,7 +96,7 @@ GTPP.tooltip.bad_tooltip_id=Bad Tooltip ID - %d
 
 # GT++ chem
 GTPP.tooltip.catalyst.active_reaction_agent=Active Reaction Agent
-GTPP.tooltip.milling_ball.tumble=Tumble Tumble Tumble
+GTPP.tooltip.milling_ball.tumble=骨碌碌 骨碌碌
 
 # Infinite Spray Can
 
@@ -645,7 +645,7 @@ GT5U.gui.button.max_parallel=总是使用最大值
 GT5U.gui.text.rangedvalue=设定区间：%s-%s
 GT5U.gui.text.lockedvalue=锁定为：%s
 GT5U.gui.text.success=§a配方处理中
-GT5U.gui.text.progress=§fProgress:
+GT5U.gui.text.progress=§f处理进度 :
 GT5U.gui.text.generating=§a发电中
 GT5U.gui.text.no_recipe=§7缺少有效配方
 GT5U.gui.text.item_output_full=§7物品输出空间不足
@@ -2039,12 +2039,12 @@ GTPP.tooltip.material.radioactivity=辐射等级：%s。
 GTPP.tooltip.ore.contains=矿石包含：
 GTPP.tooltip.ore.mining_level=采掘等级：%d
 GTPP.tooltip.ore.found=Found:
-GTPP.tooltip.ore.unknown=- Unknown
+GTPP.tooltip.ore.unknown=- 未知
 GTPP.tooltip.block.mining_level=采掘等级：%d
-GTPP.tooltip.block.contains=Contains:
+GTPP.tooltip.block.contains=内含：
 GTPP.tooltip.meta_special.quantum_stability=Provides quantum stability
 GTPP.tooltip.meta_special.quantum_modulation=Provides quantum modulation
-GTPP.tooltip.meta_food.unless_starving=I wouldn't eat this unless I was starving
+GTPP.tooltip.meta_food.unless_starving=不吃。除非快饿死了。
 GTPP.tooltip.meta_food.better_cooked=Doesn't look any better cooked
 GTPP.tooltip.meta_food.warm_touch=Warm to the touch
 
@@ -2095,7 +2095,6 @@ GT5U.tooltip.electric.tier.s=Tier: %s
 
 gt.coilheattooltip=Base Heating Capacity =
 gt.coilunittooltip= Kelvin
-
 
 # Achievements
 
@@ -2164,7 +2163,7 @@ achievement.dust.quantum.desc=原始材料
 achievement.dust.hypogen=海珀珍！
 achievement.dust.hypogen.desc=这到底是什么材料？
 achievement.block.fishtrap=免费的鱼
-achievement.block.fishtrap.desc=比潘马斯农场好.
+achievement.block.fishtrap.desc=比丰收工艺的好。
 achievement.block.withercage=监狱
 achievement.block.withercage.desc=用此捕捉凋灵/末影龙.
 achievement.rtg=放射性同位素热电发电！

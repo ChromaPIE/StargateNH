@@ -1752,14 +1752,14 @@ block.ore.gravel.zinc.name=锌矿砂砾
 dreamcraft.mobsinfocompat.limitedropcount=每人仅掉落%s次
 dreamcraft.gui.quitmessage=确认退出游戏?
 
-dreamcraft.welcome.welcome=Welcome to Gregtech: New Horizons
-dreamcraft.welcome.questbook=The Quest Book has a shortcut key, check your keybindings.
-dreamcraft.welcome.gtnh_wiki=GTNH WIKI link :
-dreamcraft.welcome.click_wiki=Click to open the wiki!
-dreamcraft.welcome.report_bug=Please report bugs on Github :
-dreamcraft.welcome.click_github=Click to open the Github!
-dreamcraft.welcome.visitdiscord=Visit our discord at
-dreamcraft.welcome.click_discord=Click to open discord!
+dreamcraft.welcome.welcome=欢迎来到格雷科技：新视野
+dreamcraft.welcome.questbook=可通过快捷键打开任务书，请在按键控制中查看或更改。
+dreamcraft.welcome.gtnh_wiki=GTNH百科链接：
+dreamcraft.welcome.click_wiki=点击打开百科！
+dreamcraft.welcome.report_bug=请前往Github汇报问题：
+dreamcraft.welcome.click_github=点击打开Github！
+dreamcraft.welcome.visitdiscord=我们的Discord：
+dreamcraft.welcome.click_discord=点击打开Discord！
 
 dreamcraft.pausemenu.bug=汇报问题
 dreamcraft.pausemenu.wiki=打开百科

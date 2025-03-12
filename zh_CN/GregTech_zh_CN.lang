@@ -373,8 +373,8 @@ languagefile {
     S:Interaction_DESCRIPTION_Index_269=完全销毁模式已关闭
     S:Interaction_DESCRIPTION_Index_270=完全销毁模式已开启
     S:Interaction_DESCRIPTION_Index_271=未指定
-    S:Interaction_DESCRIPTION_Index_272=合成表来源：
-    S:Interaction_DESCRIPTION_Index_273=原始合成表来源：
+    S:Interaction_DESCRIPTION_Index_272=配方来自：
+    S:Interaction_DESCRIPTION_Index_273=原配方来自：
     S:Interaction_DESCRIPTION_Index_274=合成表修改者：
     S:Interaction_DESCRIPTION_Index_275=原始电压：
     S:Interaction_DESCRIPTION_Index_299=物品过滤：
@@ -18431,9 +18431,9 @@ languagefile {
     S:gt.blockcasings8.0.name=化学惰性机器外壳
     S:gt.blockcasings8.1.name=聚四氟乙烯管道外壳
     S:gt.blockcasings8.10.name=放射硅岩合金外壳
-    S:gt.blockcasings8.11.name=基础光刻框架方块
-    S:gt.blockcasings8.12.name=强化光刻框架方块
-    S:gt.blockcasings8.13.name=防辐射光刻框架方块
+    S:gt.blockcasings8.11.name=基础光刻架构外壳
+    S:gt.blockcasings8.12.name=强化光刻架构外壳
+    S:gt.blockcasings8.13.name=防辐射光刻架构外壳
     S:gt.blockcasings8.14.name=无尽冷却机械方块
     S:gt.blockcasings8.2.name=中子采矿机械方块
     S:gt.blockcasings8.3.name=黑钚采矿机械方块
