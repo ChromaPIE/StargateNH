@@ -5,7 +5,7 @@ enhancedlootbags.string.sorry_damaged=这个战利品袋看起来损坏了, 抱�
 itemGroup.ELBTab=增强战利品袋
 
 enhancedlootbags.nei.category=战利品袋
-enhancedlootbags.nei.recipe.contains_trash=%s包含垃圾
+enhancedlootbags.nei.recipe.contains_trash=%s垃圾
 enhancedlootbags.nei.recipe.is_trash=这是一个垃圾奖励袋
 enhancedlootbags.nei.recipe.drop_id=掉落ID：%s
 enhancedlootbags.nei.recipe.drop_group=掉落组：%s
@@ -16,5 +16,5 @@ enhancedlootbags.nei.recipe.limit_reached=(达到上限)
 enhancedlootbags.nei.recipe.weight=权重：%s
 enhancedlootbags.nei.recipe.weight_accumulated=累积权重：%s
 enhancedlootbags.nei.recipe.chance=掉落几率（时运0/I/II/III）%s | %s | %s | %s
-enhancedlootbags.nei.recipe.true=yes
-enhancedlootbags.nei.recipe.false=不
+enhancedlootbags.nei.recipe.true=包含
+enhancedlootbags.nei.recipe.false=不包含

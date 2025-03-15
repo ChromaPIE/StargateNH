@@ -133,9 +133,9 @@ gtpp.nei.tgs.tooltip.needsShears=需要剪刀才能收割
 gtpp.nei.tgs.tooltip.knife=放入输入总线以收获果实
 gtpp.nei.tgs.tooltip.needsKnife=需要小刀才能收割
 gtpp.nei.tgs.tooltip.multiplier=输出倍数:
-gtpp.nei.tgs.info-1=进一步促进产出
-gtpp.nei.tgs.info-2=按机器电压等级
-gtpp.nei.tgs.info-3=和工具类型
+gtpp.nei.tgs.info-1=机器的电压等级
+gtpp.nei.tgs.info-2=和工具类型
+gtpp.nei.tgs.info-3=会进一步提升产量
 
 
 # Thermal Foundation Stuff
@@ -3990,7 +3990,7 @@ gtpp.gui.config.asm.debug=调试
 gtpp.gui.config.asm.general=通用
 
 # item tooltips
-gtpp.tooltip.ignot.very_hot=§7警告：§c非常烫！§7请勿直接抓握……
+gtpp.tooltip.ingot.very_hot=§7Warning: §cVery hot! §7Avoid direct handling..
 gtpp.tooltip.tickable.decay_seconds=%d§7 seconds until decay
 gtpp.tooltip.ion_particles.state_not_set=A %s Ion with an §eUnknown§7 charge state
 gtpp.tooltip.ion_particles.charge_positive=A %s Ion with a §aPositive§7 charge state of %d

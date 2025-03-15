@@ -491,8 +491,8 @@ entity.witchery.corpse.name=行尸
 entity.witchery.nightmare.name=梦魇
 
 tile.witchery:somniancotton.name=纤细棉花
-tile.witchery:spiritflowing.name=水心
-tile.witchery:spiritportal.name=精神之门
+tile.witchery:spiritflowing.name=流逸魂灵
+tile.witchery:spiritportal.name=魂灵之门
 tile.witchery:spinningwheel.name=转轮
 
 item.witchery:ingredient.brewSleep.name=沉睡之酿
@@ -503,15 +503,15 @@ item.witchery:ingredient.fancifulThread.name=幻想线团
 item.witchery:ingredient.tormentedTwine.name=折磨线团
 item.witchery:ingredient.goldenThread.name=黄金线团
 item.witchery:ingredient.mellifluousHunger.name=甜蜜饥饿
-item.witchery:ingredient.brewFlowingSpirit.name=水心之酿
+item.witchery:ingredient.brewFlowingSpirit.name=流魂之酿
 item.witchery:ingredient.weaveIntensity.name=炽烈之织梦者
-item.witchery:bucketspirit.name=精神桶
+item.witchery:bucketspirit.name=魂灵桶
 item.witchery:bitingbelt.name=咬人带
 item.witchery:bitingbelt.tip=当心...它会咬人||{5与最多两个药水合成,被攻击{0|{5时可以触发药效.{0
 
-witchery.brew.flowingspirit=只能在精神世界酿造
+witchery.brew.flowingspirit=只能在魂灵世界酿造
 
-witchery.rite.manifest=显灵仪式{r||允许从精神世界显灵进入主世界.
+witchery.rite.manifest=显灵仪式{r||允许从魂灵世界显灵进入主世界.
 
 witchery.book.herbology.somniancotton=一个仅仅生长在梦境肆虐的睡眠深处的假想植物。
 
@@ -640,8 +640,8 @@ item.witchery:ingredient.brewSoaring.name=注魔翱翔之酿
 item.witchery:ingredient.infusionBase.name=注魔基础之酿
 item.witchery:ingredient.brewRevealing.name=揭示之酿
 item.witchery:ingredient.wormwood.name=苦艾
-item.witchery:ingredient.subduedSpirit.name=抑制之精神
-item.witchery:ingredient.brewCongealedSpirit.name=冻结之精神
+item.witchery:ingredient.subduedSpirit.name=压抑魂灵
+item.witchery:ingredient.brewCongealedSpirit.name=冻结魂灵
 item.witchery:seedswormwood.name=苦艾种子
 item.witchery:spectralstone.name=幽魂石
 
@@ -654,7 +654,7 @@ tile.witchery:wormwood.name=苦艾
 entity.witchery.spectre.name=幽魂
 entity.witchery.poltergeist.name=整蛊幽灵
 entity.witchery.banshee.name=报死女妖
-entity.witchery.spirit.name=精神体
+entity.witchery.spirit.name=魂灵
 entity.witchery.death.name=死神
 
 tile.witchery:brazier.name=火盆
@@ -678,7 +678,7 @@ witchery.fetish.sentinal.desc=放出幽魂袭击不需要的家伙.
 witchery.fetish.twister.name=迷惑
 witchery.fetish.twister.desc=迷惑逼近的家伙.
 witchery.fetish.ghostwalker.name=幽灵漫步者
-witchery.fetish.ghostwalker.desc=维持从幽灵世界来的灵体生物.
+witchery.fetish.ghostwalker.desc=维持从魂灵世界来的灵体生物.
 
 item.witchery:ingredient.seerstone.manifestationtime=可以显灵%s秒.
 item.witchery:ingredient.seerstone.nomanifestationtime=无法显灵.
@@ -758,7 +758,7 @@ item.witchery:deathshand.tip={9幽魂之触，忽略护甲防护.{0|{9死神套�
 witchery.rite.blackmagicdampening=有什么在驱散魔法.
 
 fluid.witchery:hollowtears=虚伪泪水
-fluid.witchery:flowingspirit=水心
+fluid.witchery:flowingspirit=流逸魂灵
 
 tile.witchery:hollowtears.name=虚伪泪水
 
@@ -1098,7 +1098,7 @@ item.witchery:leonardsurn.tip=在罐子中放上药水来汇聚它的力量然�
 item.witchery:earmuffs.name=静音耳罩
 item.witchery:earmuffs.tip=带上它让曼德拉草见鬼去吧
 item.witchery:playercompass.name=玩家指南针
-item.witchery:ingredient.subduedSpiritVillage.name=抑制村庄之灵魂
+item.witchery:ingredient.subduedSpiritVillage.name=压抑村庄魂灵
 
 fluid.witchery:disease=瘟疫
 tile.witchery:disease.name=瘟疫
@@ -1208,7 +1208,7 @@ witchery:cauldronbook.otherrituals=[h1 其他仪式]不需要祭坛的新仪式:
 witchery:cauldronbook.ritualwaystone=[h1 仪式: 绑定寻路石]绑定最多8块寻路石, 绘制一个3x3的他处 圆环:[br][img=witchery:textures/gui/circles_tinypurple.png|center|top|32|32][br]在中心放上寻路石然后站开等着.
 witchery:cauldronbook.ritualwaystoneblooded=[h1 仪式: 绑定血腥路碑]绘制一个3x3的他处 圆环来绑定血腥路碑到 玩家位置:[br][img=witchery:textures/gui/circles_tinypurple.png|center|top|32|32][br]目标在附近的话放下寻路石然后等着.
 witchery:cauldronbook.ritualtranspose=[h1 仪式: 传送]绘制一个5*5的他处 圆环来传送到寻路石绑定 地点:[br][img=witchery:textures/gui/circles_spurple.png|center|top|32|32][br]站在圈内放下寻路石然后等着.
-witchery:cauldronbook.ritualfind=[h1 仪式: 搜寻建筑]召唤幽灵来寻找最近的村 庄或下界要塞.需要绘制 3x3的仪式圆环:[br][img=witchery:textures/gui/circles_tinywhite.png|center|top|32|32][br]在中心放上抑制之精神或者调谐之石然后等着.
+witchery:cauldronbook.ritualfind=[h1 仪式: 搜寻建筑]召唤魂灵来寻找最近的村 庄或下界要塞.需要绘制 3x3的仪式圆环:[br][img=witchery:textures/gui/circles_tinywhite.png|center|top|32|32][br]在中心放上压抑魂灵或者调谐之石然后等着.
 
 witchery:cauldronbook.capacity=[i 容量] - 每个[url=toc/effects 药效]都需要分配容量, 按顺序加入这些材料来扩容.[br][br][stack=witchery:ingredient|22 +1][tab][stack=nether_wart +2][br][stack=witchery:ingredient|37 +2][tab][stack=witchery:ingredient|29 +2][br][stack=diamond +2][tab][stack=nether_star|29 +4]
 witchery:cauldronbook.power=[i 强度] - 在指定[url=toc/effects 药效]前按顺序添加 材料来指定强度.[br][br][stack=glowstone_dust +1 (等级II)][br][stack=blaze_rod +1 (to 等级III)][br][stack=witchery:ingredient|11 +1 (等级IV)]
