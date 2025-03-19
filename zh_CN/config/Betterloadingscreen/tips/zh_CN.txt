@@ -35,12 +35,12 @@ Forestry Worktables are your friend
 试试任务书的Midnight主题
 试试Realistic Sky资源包
 Literally flint and steel!
-Tinker's Tools can levelup: more modifiers and mining level bonus!
+匠魂工具可随使用而升级，提供更多强化槽并增益采掘等级！
 Farm Glowflowers for Glowstone
 Making Steel armour? Check out the Composite Chestplate
 Adventurer's Backpack: integrated crafting grid, bed and fluid storage
 注意线缆的能量损耗！
-Machines that get a higher Voltage than they can handle go BOOM!
+供给的电压超过机器等级会导致爆炸！
 Loss on uninsulated cables is twice as big as on insulated ones
 Power requirements are based solely on the recipes
 A machine draws electricity from its internal buffer first
@@ -50,7 +50,7 @@ Tinker's Faucets can pour fluids and also gasses(!) into containers
 匠魂的冶炼炉无法倍产矿物
 记得来本整合包的百科看看：wiki.gtnewhorizons.com
 Perditio and Vanadiumsteel Pickaxes and Hammers are really fast
-Look for ore chunks by pressing F9 three times
+按F9三次，开启矿石区块模式辅助寻矿！
 下个版本削点啥呢？
 You can plant Oreberries on Cropsticks, but mind the light level
 IC2 Crops can receive bonus environmental statistics based on biome
@@ -87,11 +87,11 @@ I've jabbed my screwdriver and my fist into it every way I can think of. - Axifl
 流体单元不起作用？试试流体装罐机
 使用/xu_tps命令查看TPS。20正常，越低越卡
 Use an Elevator to get into your Cleanroom, so you won't lose cleanliness!
-Only getting bad drops? Try enchanting your Lootbags with Fortune III!
+战利品袋出不了好货？给它附上时运 III！
 You can't enter the Twilight Forest without a Quick And Dirty Portal Generator
 Press T while hovering on an item in NEI to see where it is in your world.
-Using a Circuit Assembler will make circuits cheaper!
-Using a Cleanroom will make circuits even cheaper!
+用电路装配线制造电路，造价更低！
+在超净间里制造电路，造价折上加折！
 GT stands for Grind and Tedium
 Don't go out at night! Mobs can have up to 300 HP
 Steam is hot! It will burn Wooden Fluid Pipes
@@ -113,13 +113,13 @@ Nuclear Reactor configs give 10x the energy they give in IC2!
 Remember to plant Cotton - you'll need a ton of it
 铝。了-雨-，铝。
 #Sometimes it's better to buy than to craft
-Many ingots can only be smelted in the Electric Blast Furnace
-Use F7 to see spots where mobs can spawn!
-Use F9 to see chunk borders!
-Need seed oil for Forestry? Plant some peanuts
+很多锭只能用电力高炉烧
+按下F7查看可能生成怪物的区域！
+按下F9查看区块边界！
+需要林业的种子油吗？种点花生吧
 Microcrafting is love, microcrafting is life
-Meta-Tip! You can see the list of loading screen tips in the config
-Hahahaha, coin quests go brrrrrrr
+终极提示！你可以在配置文件中查看所有加载界面提示
+哈哈哈哈，拿上硬币去消费喽
 If you're making a Project Red system, make sure to use a wall of drawers!
 How many circuits have you crafted in your life?
 JourneyMap: Press [J]
@@ -138,7 +138,7 @@ Cables are | || || |_ y
 你用微波炉热菜的时候也眼巴巴盯着炉子看吗？
 别坐这儿干等，找点别的事做
 我的世界没有声音？按下F3 + S来重新加载
-Life's all about opening issues, not closing them - Rongmario
+生命的意义在于开issue，而非关issue - Rongmario
 Batteries can be charged and discharged in the same slot
 3D-printed Lave 12 is the future - Sampsa
 Don't hold machines in your hotbar when playing with cables
@@ -146,12 +146,12 @@ Was making HV connection. Missclicked and placed MV engraver - LewisSaber
 Destroyed once a Tier 1 rocket by accidentally pressing shift - Regian
 去r/feedthememes看看！
 我 要 大 火 箭 ！我 要 去 月 球 ！ - St4o
-Shift-right click on a GregTech Cover to open the menu
+对格雷科技覆盖板潜行右击即可打开其界面
 Looking for Infused Stones? Try putting Amber in an Ore Finder Wand
 Remove plates and covers from machines using a Crowbar
 To divide items with a ratio, use the Distributor. Configure with a screwdriver
 Stay one tier ahead of DreamMasterXXL!
-What's a "Fabric Loader"?
+“Fabric模组加载器”？有这个东西吗？
 You can power machines by putting Redstone in their energy slots
 UwU
 HV升MV，嗯对 - Threefold
