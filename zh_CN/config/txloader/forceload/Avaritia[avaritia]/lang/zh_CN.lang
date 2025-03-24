@@ -52,7 +52,7 @@ item.extremely_primordial_pearl.name=极元始珍珠
 #
 # Blocks
 tile.compressed_workbench.name=压缩工作台
-tile.very_compressed_workbench.name=二重压缩工作台
+tile.very_compressed_workbench.name=双重压缩工作台
 tile.avaritia_resource.name=Resource Block
 tile.block_crystal_matrix.name=水晶矩阵
 tile.block_neutronium.name=宇宙中子素块

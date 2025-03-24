@@ -206,19 +206,19 @@ item.MiscUtils.material.name=Material
 # Misc Blocks
 tile.blockCompressedObsidian.name=Compressed Obsidian
 tile.blockCompressedObsidian.0.name=压缩黑曜石(9)
-tile.blockCompressedObsidian.1.name=二重压缩黑曜石(81)
+tile.blockCompressedObsidian.1.name=双重压缩黑曜石（81）
 tile.blockCompressedObsidian.2.name=三重压缩黑曜石(729)
 tile.blockCompressedObsidian.3.name=四重压缩黑曜石(6561)
 tile.blockCompressedObsidian.4.name=五重压缩黑曜石(59049)
 tile.blockCompressedObsidian.5.name=反转黑曜石
 tile.blockCompressedObsidian.6.name=压缩萤石
-tile.blockCompressedObsidian.7.name=二重压缩萤石
+tile.blockCompressedObsidian.7.name=双重压缩荧石（81）
 tile.blockCompressedObsidian.8.name=三重压缩萤石
 tile.blockCompressedObsidian.9.name=四重压缩萤石
 tile.blockCompressedObsidian.10.name=五重压缩萤石
-tile.blockCompressedObsidian.11.name=Compressed Netherrack
-tile.blockCompressedObsidian.12.name=Double Compressed Netherrack
-tile.blockCompressedObsidian.13.name=Triple Compressed Netherrack
+tile.blockCompressedObsidian.11.name=压缩下界岩
+tile.blockCompressedObsidian.12.name=双重压缩下界岩
+tile.blockCompressedObsidian.13.name=三重压缩下界岩
 tile.blockNet.name=网
 gtplusplus.blockcasings.2.name=Machine Casing
 gtplusplus.blockcasings.3.name=Machine Casing
@@ -3625,7 +3625,7 @@ item.BasicAgrichemItem.9.name=木颗粒
 item.BasicAgrichemItem.10.name=木砖
 item.BasicAgrichemItem.11.name=纤维素浆
 item.BasicAgrichemItem.12.name=粗制生物树脂
-item.BasicAgrichemItem.13.name=催化剂载体
+item.BasicAgrichemItem.13.name=催化剂装载器
 item.BasicAgrichemItem.14.name=绿色金属催化剂
 item.BasicAgrichemItem.15.name=藻酸
 item.BasicAgrichemItem.16.name=氧化铝
@@ -3662,18 +3662,18 @@ item.BasicAgrichemItem.23.name=洁净铝混合物
 
 # Added 12/12/19
 
-item.BasicGenericChemItem.name=Metal Catalyst
-item.BasicGenericChemItem.0.name=红色金属催化剂
-item.BasicGenericChemItem.1.name=黄色金属催化剂
-item.BasicGenericChemItem.2.name=蓝色金属催化剂
-item.BasicGenericChemItem.3.name=橙色金属催化剂
-item.BasicGenericChemItem.4.name=紫色金属催化剂
-item.BasicGenericChemItem.5.name=棕色金属催化剂
+item.BasicGenericChemItem.name=金属催化装置
+item.BasicGenericChemItem.0.name=红色金属催化装置
+item.BasicGenericChemItem.1.name=黄色金属催化装置
+item.BasicGenericChemItem.2.name=蓝色金属催化装置
+item.BasicGenericChemItem.3.name=橙色金属催化装置
+item.BasicGenericChemItem.4.name=紫色金属催化装置
+item.BasicGenericChemItem.5.name=棕色金属催化装置
 item.MudRedSlurry.name=赤泥浆单元
 item.liquid_toluene.name=甲苯单元
 
 # Added 17/01/20
-item.BasicGenericChemItem.6.name=粉红色金属催化剂
+item.BasicGenericChemItem.6.name=粉红色金属催化装置
 
 # Added 23/03/20
 item.BasicMetaFood.name=Meat
@@ -3926,7 +3926,7 @@ item.FrothMonaziteflotation.name=独居石浮选泡沫单元
 item.milledNetherrack.name=Milled Netherrack
 
 # Added 18/12/21
-item.BasicGenericChemItem.13.name=甲醛催化剂
+item.BasicGenericChemItem.13.name=甲醛催化装置
 item.hydrogenchloridemix.name=氢氯混合物
 
 # Added 19/01/22
@@ -3940,28 +3940,28 @@ sleep.event.downsides=你摆脱了负面效果的困扰。
 item.miscutils:magicfeather.name=魔法羽毛
 
 # Added 10/02/22
-item.BasicGenericChemItem.14.name=固体酸催化剂
+item.BasicGenericChemItem.14.name=固体酸催化装置
 
 # Added 30/05/22
-item.BasicGenericChemItem.15.name=无尽突变催化剂
+item.BasicGenericChemItem.15.name=无尽突变催化装置
 
 # Added 23/10/22
 miscutils.machines.QFTFluidMode=量子操纵者流体输出模式
 
 # Added 16/11/22
-item.BasicGenericChemItem.16.name=铂系金属催化剂
-item.BasicGenericChemItem.17.name=塑料聚合物催化剂
-item.BasicGenericChemItem.18.name=橡胶聚合物催化剂
-item.BasicGenericChemItem.19.name=粘合促进催化剂
-item.BasicGenericChemItem.20.name=钛钨铟催化剂
-item.BasicGenericChemItem.21.name=放射催化剂
-item.BasicGenericChemItem.22.name=稀土金属催化剂
-item.BasicGenericChemItem.23.name=普通硅岩催化剂
-item.BasicGenericChemItem.24.name=高级硅岩催化剂
-item.BasicGenericChemItem.25.name=原生智能催化剂
-item.BasicGenericChemItem.26.name=终极增塑催化剂
-item.BasicGenericChemItem.27.name=生物智能催化剂
-item.BasicGenericChemItem.28.name=时间谐波催化剂
+item.BasicGenericChemItem.16.name=铂系金属催化装置
+item.BasicGenericChemItem.17.name=塑料聚合物催化装置
+item.BasicGenericChemItem.18.name=橡胶聚合物催化装置
+item.BasicGenericChemItem.19.name=粘合促进催化装置
+item.BasicGenericChemItem.20.name=钛钨铟催化装置
+item.BasicGenericChemItem.21.name=放射催化装置
+item.BasicGenericChemItem.22.name=稀土金属催化装置
+item.BasicGenericChemItem.23.name=普通硅岩催化装置
+item.BasicGenericChemItem.24.name=高级硅岩催化装置
+item.BasicGenericChemItem.25.name=原生智能催化装置
+item.BasicGenericChemItem.26.name=终极增塑催化装置
+item.BasicGenericChemItem.27.name=生物智能催化装置
+item.BasicGenericChemItem.28.name=时间谐波催化装置
 
 item.ItemCustomSpawnEgg.name=生成%s
 item.itemSimpleFiremaker.message.0=你点燃了火坑.
@@ -3970,18 +3970,18 @@ item.itemSimpleFiremaker.message.2=你燃起了火焰！
 item.itemSimpleFiremaker.message.3=你的尝试毫无效果.
 
 # Added 17/07/23
-item.BasicGenericChemItem.29.name=净水催化剂
-item.BasicGenericChemItem.30.name=超净水催化剂
+item.BasicGenericChemItem.29.name=净水催化装置
+item.BasicGenericChemItem.30.name=超净水催化装置
 
 # Added 18/07/23
-item.BasicGenericChemItem.31.name=粒子加速催化剂
-item.BasicGenericChemItem.32.name=同步加速催化剂
+item.BasicGenericChemItem.31.name=粒子加速催化装置
+item.BasicGenericChemItem.32.name=同步加速催化装置
 
 # Added 19/09/23
-item.BasicGenericChemItem.33.name=海藻基质催化剂
+item.BasicGenericChemItem.33.name=海藻基质催化装置
 
 # Added 13/03/25
-item.BasicGenericChemItem.34.name=Hellish Force Catalyst
+item.BasicGenericChemItem.34.name=地狱场催化装置
 
 # config gui
 gtpp.gui.config.general=通用

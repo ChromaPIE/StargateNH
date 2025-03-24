@@ -297,9 +297,9 @@ binniecore.machine.storage.filterBlocks=包括方块
 < %1$s is the name of the pattern >
 binniecore.gui.designer.pattern=%1$s样板
 
-item.fieldKit.name=Field Kit
-binniecore.gui.fieldKit=实地考察工具包
-binniecore.gui.fieldKit.info=用于在野外分析蜜蜂、树、花和蝴蝶的工具包。记得带上纸来记笔记。
+item.fieldKit.name=实地考察工具组
+binniecore.gui.fieldKit=实地考察工具组
+binniecore.gui.fieldKit.info=用于在野外分析蜜蜂、树、花和蝴蝶的工具套组。记得带上纸来记笔记。
 
 binniecore.gui.genesis=Genesis
 binniecore.gui.database.nodescription=未提供说明。
