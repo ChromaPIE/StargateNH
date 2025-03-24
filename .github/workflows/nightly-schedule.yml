@@ -16,7 +16,7 @@ jobs:
     secrets: inherit
   publish-nightly-lang-pack:
     needs: conditional-sync-to-paratranz
-    uses: ./.github/workflows/publish-all-nightly-lang-packs.yml
+    uses: ./.github/workflows/publish-nightly-lang-pack.yml
     with:
       target_lang: zh_CN
     secrets: inherit
