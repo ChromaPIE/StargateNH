@@ -10,7 +10,7 @@ item.avaritia_resource.infinity_catalyst.name=无尽催化剂
 item.avaritia_resource.infinity_ingot.name=无尽之锭
 item.avaritia_resource.record_fragment.name=唱片碎片
 item.avaritia_resource.starfuel.name=恒星燃料
-item.avaritia_resource.neutronium_gear.name=中子齿轮
+item.avaritia_resource.neutronium_gear.name=中子素齿轮
 item.avaritia_singularity.name=Singularity
 item.singularity_iron.name=铁奇点
 item.singularity_gold.name=金奇点
@@ -145,7 +145,7 @@ item.Wand.infinity.rod=宇宙中子素
 item.Wand.matrix.cap=水晶缠绕
 #
 # Tinkers Construct
-material.avaritia_neutronium=宇宙中子素
+material.avaritia_neutronium=中子素
 material.avaritia_neutronium.ability=千斤坠沉
 material.avaritia_infinitymetal=无尽
 material.avaritia_infinitymetal.ability=寰宇
@@ -161,7 +161,7 @@ avaritia.bee.trippy=幻象
 avaritia.bee.trippy.desc="这家伙。怎么说呢...就是蜜蜂。真是。它们真是...棒极了。"|SpitefulFox,无牌照养蜂员
 avaritia.bee.cosmic=寰宇
 avaritia.bee.cosmic.desc=
-avaritia.bee.neutronium=中子
+avaritia.bee.neutronium=中子素
 avaritia.bee.neutronium.desc=它们的蜂巢附近总可以找到些环绕其运行的小东西。
 avaritia.bee.infinite=无尽
 avaritia.bee.infinite.desc=

@@ -226,7 +226,7 @@ gui.appliedenergistics2.BytesUsed=字节已使用
 gui.appliedenergistics2.Types=类型
 gui.appliedenergistics2.Blank=空白
 gui.appliedenergistics2.Unlinked=未链接
-gui.appliedenergistics2.Linked=已链接
+gui.appliedenergistics2.Linked=已连接
 gui.appliedenergistics2.StoredSize=存储空间大小
 gui.appliedenergistics2.SkyChest=陨石箱子
 gui.appliedenergistics2.PatternTerminal=样板终端
@@ -235,6 +235,11 @@ gui.appliedenergistics2.CraftingPattern=合成样板
 gui.appliedenergistics2.MolecularAssembler=分子装配室
 gui.appliedenergistics2.ProcessingPattern=处理样板
 gui.appliedenergistics2.Crafts=合成
+gui.appliedenergistics2.HoldShift=Hold [LSHIFT] to show Ingredients
+gui.appliedenergistics2.Result=Result
+gui.appliedenergistics2.Results=Results
+gui.appliedenergistics2.Ingredients=Ingredients
+gui.appliedenergistics2.Ingredient=Ingredient
 gui.appliedenergistics2.And=与
 gui.appliedenergistics2.Creates=制作
 gui.appliedenergistics2.With=使用
@@ -566,6 +571,12 @@ gui.tooltips.appliedenergistics2.CellRestrictionHint=Setup Cell Restriction
 
 gui.tooltips.appliedenergistics2.SearchGotoNext=Find next
 gui.tooltips.appliedenergistics2.SearchGotoPrev=Find prev
+
+gui.tooltips.appliedenergistics2.CPUAllowMode=Crafting requests limitation
+gui.tooltips.appliedenergistics2.CPUAllowAllDesc=Allow all crafting requests
+gui.tooltips.appliedenergistics2.CPUOnlyAllowPlayerDesc=Only allow crafting requests from player
+gui.tooltips.appliedenergistics2.CPUOnlyAllowNonPlayerDesc=Only allow crafting requests from non-player
+
 # Units
 gui.appliedenergistics2.units.appliedenergstics=AE
 gui.appliedenergistics2.units.ic2=EU
@@ -580,7 +591,7 @@ gui.appliedenergistics2.Magenta=品红
 gui.appliedenergistics2.LightBlue=淡蓝
 gui.appliedenergistics2.Yellow=黄色
 gui.appliedenergistics2.Lime=黄绿
-gui.appliedenergistics2.Pink=粉色
+gui.appliedenergistics2.Pink=粉红色
 gui.appliedenergistics2.Gray=灰色
 gui.appliedenergistics2.LightGray=淡灰
 gui.appliedenergistics2.Cyan=青色

@@ -232,7 +232,7 @@ LightBlueTypewriter.name=浅蓝色打字机
 BlueTypewriter.name=蓝色打字机
 PurpleTypewriter.name=紫色打字机
 MagentaTypewriter.name=品红色打字机
-PinkTypewriter.name=粉色打字机
+PinkTypewriter.name=粉红色打字机
 BrownTypewriter.name=棕色打字机
 
 // End of 1.8 additions and changes // 
@@ -250,7 +250,7 @@ swordpedestal.magenta=品红色嵌纹
 swordpedestal.lightblue=浅蓝色嵌纹
 swordpedestal.yellow=黄色嵌纹
 swordpedestal.lime=黄绿色嵌纹
-swordpedestal.pink=粉色嵌纹
+swordpedestal.pink=粉红色嵌纹
 swordpedestal.gray=灰色嵌纹
 swordpedestal.lightgray=浅蓝色嵌纹
 swordpedestal.cyan=青色嵌纹
@@ -541,7 +541,7 @@ lamp.hood10=浅蓝色灯罩
 lamp.hood11=蓝色灯罩
 lamp.hood12=紫色灯罩
 lamp.hood13=品红色灯罩
-lamp.hood14=粉色灯罩
+lamp.hood14=粉红色灯罩
 lamp.hood15=棕色灯罩
 
 lantern.candle0=白色蜡烛
@@ -558,7 +558,7 @@ lantern.candle10=浅蓝色蜡烛
 lantern.candle11=蓝色蜡烛
 lantern.candle12=紫色蜡烛
 lantern.candle13=品红色蜡烛
-lantern.candle14=粉色蜡烛
+lantern.candle14=粉红色蜡烛
 lantern.candle15=棕色蜡烛
 
 // Items

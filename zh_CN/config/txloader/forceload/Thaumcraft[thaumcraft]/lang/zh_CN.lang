@@ -181,7 +181,7 @@ tile.blockCandle.2.name=品红色油脂蜡烛
 tile.blockCandle.3.name=淡蓝色油脂蜡烛
 tile.blockCandle.4.name=黄色油脂蜡烛
 tile.blockCandle.5.name=黄绿色油脂蜡烛
-tile.blockCandle.6.name=粉色油脂蜡烛
+tile.blockCandle.6.name=粉红色油脂蜡烛
 tile.blockCandle.7.name=灰色油脂蜡烛
 tile.blockCandle.8.name=淡灰色油脂蜡烛
 tile.blockCandle.9.name=青色油脂蜡烛
@@ -206,7 +206,7 @@ tile.blockWoodenDevice.8.2.name=品红色旗帜
 tile.blockWoodenDevice.8.3.name=淡蓝色旗帜
 tile.blockWoodenDevice.8.4.name=黄色旗帜
 tile.blockWoodenDevice.8.5.name=黄绿色旗帜
-tile.blockWoodenDevice.8.6.name=粉色旗帜
+tile.blockWoodenDevice.8.6.name=粉红色旗帜
 tile.blockWoodenDevice.8.7.name=灰色旗帜
 tile.blockWoodenDevice.8.8.name=淡灰色旗帜
 tile.blockWoodenDevice.8.9.name=青色旗帜
@@ -1558,7 +1558,7 @@ tc.research_page.LAMPGROWTH.1=不像奥术灯具就是用来照明的,除非提�
 #
 tc.research_name.LAMPFERTILITY=育种灯
 tc.research_text.LAMPFERTILITY=散发出罗曼蒂克的光辉照耀事物
-tc.research_page.LAMPFERTILITY.1=沐浴在此灯柔和的粉色光芒之中的所有动物都会径直陷入到更加罗曼蒂克的情绪之中.它们会尽可能地寻找同类交配.<BR>若某种动物已经达到8只或以上,这种灯便不会再对其造成影响.<BR>它需要victus要素来驱动.既可以将要素罐子放于附近,又可以直接将育种灯安附在要素源质管道系统中.
+tc.research_page.LAMPFERTILITY.1=沐浴在此灯柔和的粉红色光芒之中的所有动物都会径直陷入到更加罗曼蒂克的情绪之中.它们会尽可能地寻找同类交配.<BR>若某种动物已经达到8只或以上,这种灯便不会再对其造成影响.<BR>它需要victus要素来驱动.既可以将要素罐子放于附近,又可以直接将育种灯安附在要素源质管道系统中.
 #
 tc.research_name.JARVOID=虚空罐子
 tc.research_text.JARVOID=源质太多?这不可能!

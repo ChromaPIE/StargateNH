@@ -319,7 +319,7 @@ ic.recipe.recycler=回收机
 ic.recipe.recycler.description=压缩、焚烧、摧毁并过滤一切
 gt.recipe.replicator=复制机
 gt.recipe.replicator.description=生产单质
-gt.recipe.rockbreaker=碎石机
+gt.recipe.rockbreaker=碎岩机
 gt.recipe.rockbreaker.description=在相邻位置放置岩浆与水
 gt.recipe.scanner=扫描仪
 gt.recipe.scanner.description=扫描作物等物品
@@ -815,7 +815,7 @@ GT5U.item.pipe.swap=Pipe Swapped:
 GT5U.item.programmed_circuit.select.header=再编程电路
 
 gt.behaviour.paintspray.infinite.gui.header=选择一种颜色
-gt.behaviour.paintspray.infinite.gui.lock_error=§e喷漆罐已被§锁定§e！§b潜行并鼠标中键单击以解锁。
+gt.behaviour.paintspray.infinite.gui.lock_error=§e喷涂罐已被§锁定§e！§b潜行并鼠标中键单击以解锁。
 gt.behaviour.paintspray.infinite.gui.solvent=有机溶剂
 gt.behaviour.paintspray.infinite.gui.shake_toggle=Allow/disallow color iteration
 
@@ -825,8 +825,8 @@ gt.behaviour.paintspray.infinite.tooltip.locked=Locked
 gt.behaviour.paintspray.infinite.tooltip.preventing_shake=Left click action disabled
 
 gt.behaviour.paintspray.infinite.tooltip.switch=左键单击：切换颜色(潜行以反转切换方向)
-gt.behaviour.paintspray.infinite.tooltip.pick=中键单击方块：复制颜色至喷漆罐
-gt.behaviour.paintspray.infinite.tooltip.lock=潜行时中键单击：锁定或解锁喷漆罐
+gt.behaviour.paintspray.infinite.tooltip.pick=中键单击方块：复制颜色至喷涂罐
+gt.behaviour.paintspray.infinite.tooltip.lock=潜行时中键单击：锁定或解锁喷涂罐
 gt.behaviour.paintspray.infinite.tooltip.gui=中键：打开颜色选择界面
 gt.behaviour.paintspray.infinite.tooltip.prevent_shake=%s-Middle Click: Allow/prevent left click action
 gt.behaviour.paintspray.infinite.tooltip.ctrl_pc=Ctrl
@@ -1268,7 +1268,7 @@ achievement.over9000.desc=制造一个硅岩合金线圈方块
 achievement.finalpreparations=最后的准备
 achievement.finalpreparations.desc=冷却一块热超能硅岩锭
 achievement.denseaspossible=尽可能致密
-achievement.denseaspossible.desc=制作中子锭
+achievement.denseaspossible.desc=制作中子素锭
 achievement.zpmage=能量模块
 achievement.zpmage.desc=制造一个能量模块
 achievement.uvage=能量簇
@@ -1569,7 +1569,7 @@ achievement.item.graviChestPlate.desc=捡起此物品以在NEI内解锁该合成
 achievement.gt.blockreinforced.12=漆黑之门粗胚
 achievement.gt.blockreinforced.12.desc=捡起此物品以在NEI内解锁该合成表
 
-achievement.gt.blockmachines.debug.tt.maintenance=Debug维修仓
+achievement.gt.blockmachines.debug.tt.maintenance=自动贴胶维修仓
 achievement.gt.blockmachines.debug.tt.maintenance.desc=捡起此物品以在NEI内解锁该合成表
 
 for.bees.species.clay=粘土
@@ -1654,7 +1654,7 @@ for.bees.species.dob=魔晶
 for.bees.species.thorium=钍
 for.bees.species.lutetium=镥
 for.bees.species.americium=镅
-for.bees.species.neutronium=中子
+for.bees.species.neutronium=中子素
 for.bees.species.naga=娜迦
 for.bees.species.lich=巫妖
 for.bees.species.hydra=九头蛇
@@ -2107,6 +2107,16 @@ GT5U.tooltip.electric.tier=Tier: %d
 GT5U.tooltip.electric.tier.s=Tier: %s
 
 gt.coilheattooltip=Base Heating Capacity =
+GT5U.tootlip.tool.turbine.steam=Steam
+GT5U.tootlip.tool.turbine.loose=Loose
+GT5U.tootlip.tool.turbine.super=Supercritical and Superheated EU values are 2x
+GT5U.tootlip.tool.turbine.gas=Gas
+GT5U.tootlip.tool.turbine.plasma=Plasma
+GT5U.tooltip.tool.heat=Heat: %d K
+
+GT5U.tooltip.volumetric_flask.empty=Empty
+GT5U.tooltip.volumetric_flask.set_volume=Rightclick on air to set volume (only while empty)
+
 gt.coilunittooltip= Kelvin
 
 # Achievements
