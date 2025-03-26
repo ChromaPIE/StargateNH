@@ -66,11 +66,11 @@ enderio.itemLiquidConduit.lockedType=流体种类锁定为
 enderio.itemLiquidConduit.unlockedType=流体种类解锁
 enderio.itemLiquidConduit.lockedWaila=锁定为
 
-enderio.itemLiquidConduit.tooltip.maxExtract=最大提取:
+enderio.itemLiquidConduit.tooltip.maxExtract=最大提取速率：
 enderio.itemLiquidConduit.tooltip.maxIo=最大流速:
 enderio.itemLiquidConduit.tooltip.detailed.line1=流体流动受重力影响
-enderio.itemLiquidConduit.tooltip.detailed.line2=流量取决于流体
-enderio.itemLiquidConduit.tooltip.detailed.line3=黏性
+enderio.itemLiquidConduit.tooltip.detailed.line2=流体的传输速率
+enderio.itemLiquidConduit.tooltip.detailed.line3=取决于流体粘度
 
 enderio.itemLiquidConduitEnder.tooltip.detailed.line1=流体即时远距离传送
 enderio.itemLiquidConduitEnder.tooltip.detailed.line2=允许多种流体
@@ -139,7 +139,7 @@ item.itemInventoryPanelUpgrade.tooltip.detailed.line6=(无需将管道设为抽�
 
 enderio.itemGasConduit.name=气体导管
 
-enderio.itemGasConduit.tooltip.maxExtract=最大提取:
+enderio.itemGasConduit.tooltip.maxExtract=最大提取速率：
 enderio.itemGasConduit.tooltip.maxIo=最大IO:
 enderio.itemGasConduit.tooltip.detailed.line1=传送和通用机械兼容的气体
 
@@ -974,6 +974,9 @@ enderio.darksteel.upgrade.gogglesOfRevealing.tooltip.detailed.line1=魔力减免
 enderio.darksteel.upgrade.gogglesOfRevealing.enabled=魔法已经显现出来
 enderio.darksteel.upgrade.gogglesOfRevealing.disabled=魔法隐藏在了普通视野当中
 
+enderio.darksteel.upgrade.trackmansGoggles.name=Trackman's Goggles
+enderio.darksteel.upgrade.trackmansGoggles.tooltip.detailed.line1=Show infrastructure and anchor auras
+
 enderio.darksteel.upgrade.naturalistEye.name=自然之眼
 enderio.darksteel.upgrade.naturalistEye.tooltip.detailed.line1=显示已授粉的树叶
 
@@ -1412,6 +1415,7 @@ enderio.category.darksteelarmor=玄钢护甲
 enderio.category.tools=末影接口 - 工具
 enderio.keybind.glidertoggle=滑翔开关
 enderio.keybind.gogglesofrevealing=揭示护目镜
+enderio.keybind.trackmansgoggles=Trackman's Goggles
 enderio.keybind.nightvision=夜视
 enderio.keybind.soundlocator=声波定位
 enderio.keybind.speed=速度

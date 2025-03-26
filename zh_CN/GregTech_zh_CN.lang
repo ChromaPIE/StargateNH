@@ -47,7 +47,7 @@ languagefile {
     S:"Book.Multi-Machine Manual.Page05"=【杂项加工】杂项模式 - 使多方块机器进行激光蚀刻机、高压釜或流体固化器的处理工作。<BR><BR>20 - 激光蚀刻机<BR>21 - 高压釜<BR>22 - 流体固化器
     S:"Book.Nuclear Chemistry [FFPP].Name"=反应堆燃料加工厂手册
     S:"Book.Nuclear Chemistry [FFPP].Page00"=反应堆燃料加工厂<BR>大小(宽x高x长)：3x9x3<BR>控制器方块(正面底部中央)<BR>4x输入仓<BR>2x输出仓<BR>1x输出总线<BR>1xZPM+隔音排气仓<BR>1x维修仓<BR>1x能源仓<BR>
-    S:"Book.Nuclear Chemistry [FFPP].Page01"=[1] 3x2x3的哈斯特洛伊合金-X结构方块基座(至少7个)或是各功能仓室<BR>[2] 1x5x1的耐热铬铁合金-DS流体容器方块立柱<BR>[3] 4x塞龙-100反应堆屏蔽机械方块(立柱的第二层，紧邻耐热铬铁合金-DS流体容器方块)<BR>[4] 17x哈斯特洛伊合金-N密封机械方块(立柱顶端及侧面)
+    S:"Book.Nuclear Chemistry [FFPP].Page01"=[1] 3x2x3的哈斯特洛伊合金-X结构方块基座(至少7个)或是各功能仓室<BR>[2] 1x5x1的耐热铬铁合金-DS流体容器方块立柱<BR>[3] 4x塞龙-100反应堆屏蔽机械方块(立柱的第二层，紧邻耐热铬铁合金-DS流体容器方块)<BR>[4] 17x哈斯特洛伊合金-N密封方块(立柱顶端及侧面)
     S:"Book.Nuclear Chemistry [FFPP].Page02"=第1、2层:<BR>[1][1][1]<BR>[1][1][1]<BR>[1][1][1]<BR><BR>第3、5、6层<BR>[ ][4][ ]<BR>[4][2][4]<BR>[ ][4][ ]<BR><BR>
     S:"Book.Nuclear Chemistry [FFPP].Page03"=第4层<BR>[ ][3][ ]<BR>[3][2][3]<BR>[ ][3][ ]<BR><BR>第7、8、9层<BR>[ ][ ][ ]<BR>[ ][3][ ]<BR>[ ][ ][ ]<BR>
     S:"Book.Nuclear Chemistry [FFPP].Page04"=反应堆燃料<BR>加工厂----------------------<BR>这台多方块机器用于生产液态氟钍反应堆[LFTR]所需的熔盐.
@@ -3865,7 +3865,7 @@ languagefile {
     S:TileEntity_DESCRIPTION_00835_Secondary_Index_03=§6   3x2x3§r的§7哈斯特洛伊合金-X结构方块§r基座(至少§67§r个！)
     S:TileEntity_DESCRIPTION_00835_Secondary_Index_04=§6   1x5x1§r的§7耐热铬铁合金-DS流体容器方块§r立柱(基座上方正中)
     S:TileEntity_DESCRIPTION_00835_Secondary_Index_05=§6   4x§r§7塞龙-100反应堆屏蔽机械方块§r(立柱的第二层，紧邻耐热铬铁合金-DS流体容器方块)
-    S:TileEntity_DESCRIPTION_00835_Secondary_Index_06=§6   17x§r§7哈斯特洛伊合金-N密封机械方块§r(立柱顶端，以及除第二层以外的立柱侧面，紧邻耐热铬铁合金-DS流体容器方块)
+    S:TileEntity_DESCRIPTION_00835_Secondary_Index_06=§6   17x§r§7哈斯特洛伊合金-N密封方块§r(立柱顶端，以及除第二层以外的立柱侧面，紧邻耐热铬铁合金-DS流体容器方块)
     S:TileEntity_DESCRIPTION_00835_Secondary_Index_07=§f   输入仓：§7  基座机械方块
     S:TileEntity_DESCRIPTION_00835_Secondary_Index_08=§f   输出仓：§7  基座机械方块
     S:TileEntity_DESCRIPTION_00835_Secondary_Index_09=§f   隔音排气仓：§7  基座机械方块
@@ -20944,9 +20944,9 @@ languagefile {
     S:gt.blockmachines.gt_pipe_polytetrafluoroethylene_quadruple.name=四联聚四氟乙烯流体管道
     S:gt.blockmachines.gt_pipe_polytetrafluoroethylene_small.name=小型聚四氟乙烯流体管道
     S:gt.blockmachines.gt_pipe_polytetrafluoroethylene_tiny.name=微型聚四氟乙烯流体管道
-    S:gt.blockmachines.gt_pipe_polyvinylchloride.name=PVC物品管道
-    S:gt.blockmachines.gt_pipe_polyvinylchloride_huge.name=巨型PVC物品管道
-    S:gt.blockmachines.gt_pipe_polyvinylchloride_large.name=大型PVC物品管道
+    S:gt.blockmachines.gt_pipe_polyvinylchloride.name=聚氯乙烯物品管道
+    S:gt.blockmachines.gt_pipe_polyvinylchloride_huge.name=巨型聚氯乙烯物品管道
+    S:gt.blockmachines.gt_pipe_polyvinylchloride_large.name=大型聚氯乙烯物品管道
     S:gt.blockmachines.gt_pipe_potin.name=粗青铜合金流体管道
     S:gt.blockmachines.gt_pipe_potin_huge.name=巨型粗青铜合金流体管道
     S:gt.blockmachines.gt_pipe_potin_large.name=大型粗青铜合金流体管道
@@ -21008,9 +21008,9 @@ languagefile {
     S:gt.blockmachines.gt_pipe_restrictive_platinum_large.name=大型限制型%material物品管道
     S:gt.blockmachines.gt_pipe_restrictive_platinum_small.name=小型限制型%material物品管道
     S:gt.blockmachines.gt_pipe_restrictive_platinum_tiny.name=微型限制型%material物品管道
-    S:gt.blockmachines.gt_pipe_restrictive_polyvinylchloride.name=加固PVC物品管道
-    S:gt.blockmachines.gt_pipe_restrictive_polyvinylchloride_huge.name=巨型加固PVC物品管道
-    S:gt.blockmachines.gt_pipe_restrictive_polyvinylchloride_large.name=大型加固PVC物品管道
+    S:gt.blockmachines.gt_pipe_restrictive_polyvinylchloride.name=限制型聚氯乙烯物品管道
+    S:gt.blockmachines.gt_pipe_restrictive_polyvinylchloride_huge.name=巨型限制型聚氯乙烯物品管道
+    S:gt.blockmachines.gt_pipe_restrictive_polyvinylchloride_large.name=大型限制型聚氯乙烯物品管道
     S:gt.blockmachines.gt_pipe_restrictive_quantium.name=限制型%material物品管道
     S:gt.blockmachines.gt_pipe_restrictive_quantium_huge.name=巨型限制型%material物品管道
     S:gt.blockmachines.gt_pipe_restrictive_quantium_large.name=大型限制型%material物品管道
@@ -66272,7 +66272,7 @@ languagefile {
     S:gtplusplus.block.ZirconiumCarbide.frame.name=%material框架
     S:gtplusplus.block.ZirconiumCarbide.standard.name=%material块
     S:gtplusplus.blockcasings.2.0.name=热处理外壳
-    S:gtplusplus.blockcasings.2.1.name=哈斯特洛伊合金-N密封机械方块
+    S:gtplusplus.blockcasings.2.1.name=哈斯特洛伊合金-N密封方块
     S:gtplusplus.blockcasings.2.10.name=回旋加速器机械方块
     S:gtplusplus.blockcasings.2.11.name=热容限外壳
     S:gtplusplus.blockcasings.2.12.name=批量生产框架
@@ -68169,10 +68169,10 @@ languagefile {
     S:gtplusplus.material.AbyssalAlloy=深渊合金
     S:gtplusplus.material.AceticAnhydride=乙酸酐
     S:gtplusplus.material.AdvancedNitinol=高级镍钛诺
-    S:gtplusplus.material.AgarditeCd=钇砷铜矿(Cd)
-    S:gtplusplus.material.AgarditeLa=钇砷铜矿(La)
-    S:gtplusplus.material.AgarditeNd=钇砷铜矿(Nd)
-    S:gtplusplus.material.AgarditeY=钇砷铜矿(Y)
+    S:gtplusplus.material.AgarditeCd=砷钇铜石（Cd）
+    S:gtplusplus.material.AgarditeLa=砷钇铜石（La）
+    S:gtplusplus.material.AgarditeNd=砷钇铜石（Nd）
+    S:gtplusplus.material.AgarditeY=砷钇铜石（Y）
     S:gtplusplus.material.Alburnite=硫碲金锗矿
     S:gtplusplus.material.Almandine=铁铝榴石
     S:gtplusplus.material.Alumina=氧化铝

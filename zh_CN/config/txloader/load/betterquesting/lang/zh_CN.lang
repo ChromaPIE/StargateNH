@@ -1704,7 +1704,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADow.desc=MV采矿机同样可以帮助�
 
 # Quest: Super Tank I
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADsA.name=§6§l超级缸 I
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADsA.desc=超级缸的工作方式与之前小一点的GT储罐一致,只是装得更多. 准确来说是4000,000L.  在现阶段,建议只给需要大量储存的流体配备超级缸. 要制作超级缸I你需要先制造一个密封机械方块I,这个东西需要钢板和大型聚乙烯管道.制造超级缸I的其他材料还包括4块电路板、2块铝板、1块脉冲铁板和1个MV级电动泵.这个造价当前来说还是很贵的.%n%n现在你可以在一个超级缸里存储5x5x5体积的RC钢制储液缸存储的液体了.%n%n[note]超级缸和量子缸现在加入了大量实用功能.你可以用扳手拆除超级缸并拾取,这么做并不会销毁其中的液体.不过拿着超级缸会给你很严重的debuff(量子缸不会),所以最好准备些牛奶(译者注:或者大地疣.)如果你确实想要销毁流体,可以在拆除之前使用GUI内的全部销毁按钮，或将其放入工作台合成一下以清除掉内部数据信息.%n%n超级缸现在还有了几种可选功能:自动输出流体,锁定流体,溢出销毁模式,或是完全销毁模式.所有这些都集成在了一个简洁美观的GUI中.不得不说,这真是极其重量级的更新.[/note](译者注:重量级的,原文为IMPACTful,一语双关,还表明了这些功能都是从IMPACT整合包"借"来的.)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADsA.desc=超级缸的工作方式与之前小一点的GT储罐一致,只是装得更多. 准确来说是4000,000L.  在现阶段,建议只给需要大量储存的流体配备超级缸. 要制作超级缸I你需要先制造一个密闭外壳 I,这个东西需要钢板和大型聚乙烯管道.制造超级缸I的其他材料还包括4块电路板、2块铝板、1块脉冲铁板和1个MV级电动泵.这个造价当前来说还是很贵的.%n%n现在你可以在一个超级缸里存储5x5x5体积的RC钢制储液缸存储的液体了.%n%n[note]超级缸和量子缸现在加入了大量实用功能.你可以用扳手拆除超级缸并拾取,这么做并不会销毁其中的液体.不过拿着超级缸会给你很严重的debuff(量子缸不会),所以最好准备些牛奶(译者注:或者大地疣.)如果你确实想要销毁流体,可以在拆除之前使用GUI内的全部销毁按钮，或将其放入工作台合成一下以清除掉内部数据信息.%n%n超级缸现在还有了几种可选功能:自动输出流体,锁定流体,溢出销毁模式,或是完全销毁模式.所有这些都集成在了一个简洁美观的GUI中.不得不说,这真是极其重量级的更新.[/note](译者注:重量级的,原文为IMPACTful,一语双关,还表明了这些功能都是从IMPACT整合包"借"来的.)
 
 # Quest: Fluid Solidifier
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADtw.name=§6§l流体固化器
@@ -1868,15 +1868,15 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHTA.desc=MV能源仓需要超低功率IC
 
 # Quest: Vinyl Chloride
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHUA.name=§6§l氯乙烯
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHUA.desc=氯乙烯是制作先进的PVC物品管道的基础产品.PVC物品管道用于合成LuV机器或超级缸II的密闭外壳.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHUA.desc=氯乙烯是制作先进的聚氯乙烯物品管道的基础产品.聚氯乙烯物品管道用于合成LuV机器或超级缸II的密闭外壳.
 
 # Quest: Polyvinyl Chloride
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHUQ.name=§6§l聚氯乙烯
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHUQ.desc=聚氯乙烯是熔融状态的PVC(Poly-Vinyl-Chloride). 你需要氯乙烯和氧气来制备聚氯乙烯. 稍后你会需要用它来制作贴片电容.%n%n想要让你的反应釜干干净净,你就要连做两次,或者选择那个8秒的配方重复三次. 一个单元的熔融聚氯乙烯为144L,恰好是一个条或片的量.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHUQ.desc=聚氯乙烯，也就是我们常说的“PVC”（Polyvinyl Chloride），其制备材料包含氯乙烯和氧气，是聚氯乙烯管道的制造材料，后续贴片电容的制作也少不了它。%n%n每两次配方制作才能保证反应釜中没有液体残留，若选用8秒的那个配方则是三次。
 
 # Quest: PVC Sheets
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHUg.name=§6§l聚氯乙烯片
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHUg.desc=聚氯乙烯片可用于合成不错的PVC物品管道,也能用于制造贴片元件(制成箔)、塑料电路基板.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHUg.desc=聚氯乙烯片可用于合成不错的聚氯乙烯物品管道,也能用于制造贴片元件(制成箔)、塑料电路基板.
 
 # Quest: MV Advanced Steam Boiler
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHag.name=§6§l进阶锅炉[MV]
@@ -7975,7 +7975,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMZw.desc=在收集了更多钚之后,你
 
 # Quest: Nuclear Fuel Processing
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMaA.name=核燃料处理
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMaA.desc=很遗憾,之前的那座反应堆,如果只有它自己那就什么都做不了.就算你完全按照标准建造,还需要准备好其可用的燃料,这就需要用到另一台多方块机器,混合并加工多种化学混合物,将它们融合为一,这就是熔盐,可用于在液态氟钍反应堆中产生核能的燃料.%n%n处理燃料的多方块机器名叫反应堆燃料加工厂(RFPP),或是简称为燃料精炼厂. 类似液态氟钍反应堆,这是一台IV中晚期多方块机器,尤其是它的控制器方块需要2个ZPM电路板用以合成GT电脑主机.其他机械方块与你之前制造的类似,同时tooltip中的结构指导十分详尽.%n%n每个机械方块该放在哪里?底部的两层是3x3的,采用结构方块.第二层的上方,中心位置用5个流体容器方块搭成柱状结构,然后再用密封机械方块,以类似多方块采矿场中框架的方式,覆盖这个柱状结构.但是需要注意,在这个立柱,自下而上数第二层,外部的密封机械方块需要替换为反应堆屏蔽机械方块.如果你在搭建的时候遇到了麻烦,可以求助于全息投影仪.%n%n建造完成后,你就可以把注意力转移到它的配方上了.在可用的5个配方中,你目前只能使用其中之一,即燃料1配方. 要制造这种燃料,你需要将铀-235熔融,还需要氟化锂、氟化铍和四氟化锆.这些元素都相对容易获得,每种都有自己的方式,不过氟是它们共同的主要部分,也是熔盐的主要成分,所以你最好找个好的氟来源. 另外,液态氟钍反应堆燃料的能量密度都非常非常高,所以每桶氟都可以支持你走过相当长的一段旅程.%n%n如果你正在浏览NEI,你的第一反应可能是"除了对枯竭燃料进行回收再处理以外,似乎没有这些氟化物的合成配方!我该怎么制备它们?". 答案就在"粉"里头：你得先合成出粉,然后再流体提取为流体.这里有个表格,列出了合成与回收的所有步骤([url]https://docs.google.com/spreadsheets/d/1_1JGSt5-ELdra6emngUc7XvKSJc-_-RO0yreRIbOrx0/edit?usp=sharing[/url]),可以帮助你了解这条处理线的复杂程度.%n%n请务必记住,每桶燃料价值数百万,甚至数十亿EU!别被燃料1,每桶207M-EU的成本吓到了,它能在反应堆中转化为更多能量. 另外,第一种燃料仅仅是一块垫脚石,所以不用急着将其完全自动化,最终的产线不同与此.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMaA.desc=很遗憾,之前的那座反应堆,如果只有它自己那就什么都做不了.就算你完全按照标准建造,还需要准备好其可用的燃料,这就需要用到另一台多方块机器,混合并加工多种化学混合物,将它们融合为一,这就是熔盐,可用于在液态氟钍反应堆中产生核能的燃料.%n%n处理燃料的多方块机器名叫反应堆燃料加工厂(RFPP),或是简称为燃料精炼厂. 类似液态氟钍反应堆,这是一台IV中晚期多方块机器,尤其是它的控制器方块需要2个ZPM电路板用以合成GT电脑主机.其他机械方块与你之前制造的类似,同时tooltip中的结构指导十分详尽.%n%n每个机械方块该放在哪里?底部的两层是3x3的,采用结构方块.第二层的上方,中心位置用5个流体容器方块搭成柱状结构,然后再用密封方块,以类似多方块采矿场中框架的方式,覆盖这个柱状结构.但是需要注意,在这个立柱,自下而上数第二层,外部的密封方块需要替换为反应堆屏蔽机械方块.如果你在搭建的时候遇到了麻烦,可以求助于全息投影仪.%n%n建造完成后,你就可以把注意力转移到它的配方上了.在可用的5个配方中,你目前只能使用其中之一,即燃料1配方. 要制造这种燃料,你需要将铀-235熔融,还需要氟化锂、氟化铍和四氟化锆.这些元素都相对容易获得,每种都有自己的方式,不过氟是它们共同的主要部分,也是熔盐的主要成分,所以你最好找个好的氟来源. 另外,液态氟钍反应堆燃料的能量密度都非常非常高,所以每桶氟都可以支持你走过相当长的一段旅程.%n%n如果你正在浏览NEI,你的第一反应可能是"除了对枯竭燃料进行回收再处理以外,似乎没有这些氟化物的合成配方!我该怎么制备它们?". 答案就在"粉"里头：你得先合成出粉,然后再流体提取为流体.这里有个表格,列出了合成与回收的所有步骤([url]https://docs.google.com/spreadsheets/d/1_1JGSt5-ELdra6emngUc7XvKSJc-_-RO0yreRIbOrx0/edit?usp=sharing[/url]),可以帮助你了解这条处理线的复杂程度.%n%n请务必记住,每桶燃料价值数百万,甚至数十亿EU!别被燃料1,每桶207M-EU的成本吓到了,它能在反应堆中转化为更多能量. 另外,第一种燃料仅仅是一块垫脚石,所以不用急着将其完全自动化,最终的产线不同与此.
 
 # Quest: Inputs and Outputs in the LFTR
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMaQ.name=液态氟钍反应堆的输入与输出
