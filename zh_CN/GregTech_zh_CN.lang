@@ -1606,7 +1606,7 @@ languagefile {
     S:Material.silicone=硅橡胶
     S:Material.siliconnitride=氮化硅
     S:Material.siliconoil=硅油
-    S:Material.siliconsolargrade=太阳能级硅(多晶硅)
+    S:Material.siliconsolargrade=太阳能级多晶硅
     S:Material.silicontetrachloride=四氯化硅
     S:Material.silicontetrafluoride=四氟化硅
     S:Material.siltstone=粉砂岩
@@ -17508,7 +17508,7 @@ languagefile {
     S:fluid.molten.silicon=熔融生硅
     S:fluid.molten.siliconcarbide=熔融碳化硅
     S:fluid.molten.silicone=熔融硅橡胶
-    S:fluid.molten.siliconsolargrade=熔融太阳能级硅(多晶硅)
+    S:fluid.molten.siliconsolargrade=熔融太阳能级多晶硅
     S:fluid.molten.silver=熔融银
     S:fluid.molten.sixphasedcopper=熔融六相铜
     S:fluid.molten.sodiumcyanide=熔融氰化钠
