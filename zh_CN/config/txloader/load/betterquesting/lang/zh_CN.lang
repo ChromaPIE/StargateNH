@@ -4462,12 +4462,12 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAHQ.name=终极目标
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAHQ.desc=终极目标的集合,祝你好运,也感谢你一直以来的支持.
 
 # Quest: Magnetohydrodynamically Constrained Star Matter
-betterquesting.quest.52Yelo6KSLGumzXo-_F5DQ.name=熔融磁流体约束恒星物质
+betterquesting.quest.52Yelo6KSLGumzXo-_F5DQ.name=磁流体动力学约束恒星物质
 betterquesting.quest.52Yelo6KSLGumzXo-_F5DQ.desc=或简称MHDCSM.%n%n这是您制造UXV部件的主要材料.就和其他所有的终极材料一样,它的制造非常麻烦,而且价格极其昂贵.%n%n您需要在永恒部件上浇筑它,而不是直接将其固化.%n%n祝你玩得开心!
 
 # Quest: Tier 13 (UXV)
 betterquesting.quest.7wI7VuLKRe6lqAJpuYKKJg.name=第13阶段（UXV）
-betterquesting.quest.7wI7VuLKRe6lqAJpuYKKJg.desc=欢迎来到GTNH的最后一个电压等级(暂时).%n%n做好长久挂机的准备,我们希望您在这里玩得愉快.%n%n现在您有了制造MHDCSM(熔融磁流体约束恒星物质)的可靠方法,最好将您的鸿蒙之眼集群升级到T9来获得宇宙素产量的提升.%n%n希望你在合成一对星门的时候可以享受游戏!%n%n[warn]这个电压等级远未完成.未来会发生改变.[/warn]%n
+betterquesting.quest.7wI7VuLKRe6lqAJpuYKKJg.desc=欢迎来到GTNH的最后一个电压等级(暂时).%n%n做好长久挂机的准备,我们希望您在这里玩得愉快.%n%n现在您有了制造磁流体动力学约束恒星物质的可靠方法,最好将您的鸿蒙之眼集群升级到T9来获得宇宙素产量的提升.%n%n希望你在合成一对星门的时候可以享受游戏!%n%n[warn]这个电压等级远未完成.未来会发生改变.[/warn]%n
 
 # Quest: The Door to Heaven?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKDA.name=天堂之门?
@@ -4527,7 +4527,7 @@ betterquesting.quest.smCKxKkMSeyIAUeFInS4hQ.desc=你需要竭尽所能尽快做�
 
 # Quest: Eternity
 betterquesting.quest.wGq5FvuuROyyMPbT_SkMYg.name=永恒
-betterquesting.quest.wGq5FvuuROyyMPbT_SkMYg.desc=请务必考虑使用它来改进磁流体约束恒星物质的生产.你还需要它来制造MHDCSM部件.%n%n这个生产循环的敲门砖是随机产生且昂贵的.为了量子操纵者的催化剂和头5次摇奖机会,你总共需要20736L宇宙素.%n%n量子操纵者的配方每次尝试有25%%的几率生产永恒.你也许应该用等离子体来开启量子操纵者的聚焦模式,并专注于生产永恒.%n%n[note]你知道量子操纵者有流体模式吗?它可以用来提取熔融调律源金.只要用§a螺丝刀§r右击控制器就可以了.[/note]%n%n[note]用永恒块建造一个完整的信标可能有点奢侈,你觉得呢?[/note]%n%n
+betterquesting.quest.wGq5FvuuROyyMPbT_SkMYg.desc=请务必考虑使用它来改进磁流体动力学约束恒星物质的生产.你还需要它来制造磁流体动力学约束恒星物质部件.%n%n这个生产循环的敲门砖是随机产生且昂贵的.为了量子操纵者的催化剂和头5次摇奖机会,你总共需要20736L宇宙素.%n%n量子操纵者的配方每次尝试有25%%的几率生产永恒.你也许应该用等离子体来开启量子操纵者的聚焦模式,并专注于生产永恒.%n%n[note]你知道量子操纵者有流体模式吗?它可以用来提取熔融调律源金.只要用§a螺丝刀§r右击控制器就可以了.[/note]%n%n[note]用永恒块建造一个完整的信标可能有点奢侈,你觉得呢?[/note]%n%n
 
 
 ## Quest Line: Fishing, Farming, Cooking

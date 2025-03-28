@@ -711,7 +711,7 @@ languagefile {
     S:Material.callistoice=木卫四冰
     S:Material.capacitor=电容
     S:Material.carbon=碳
-    S:Material.carbonactivateddirty=含磷活性炭
+    S:Material.carbonactivateddirty=含污活性炭
     S:Material.carbondioxide=二氧化碳
     S:Material.carbonmonoxide=一氧化碳
     S:Material.carmot=点金石
@@ -1213,7 +1213,7 @@ languagefile {
     S:Material.magnesiumchloride=氯化镁
     S:Material.magnesiumsulphate=硫酸镁
     S:Material.magnetite=磁铁矿
-    S:Material.magnetohydrodynamicallyconstrainedstarmatter=磁流体约束恒星物质
+    S:Material.magnetohydrodynamicallyconstrainedstarmatter=磁流体动力学约束恒星物质
     S:Material.magnetoresonatic=磁共振石
     S:Material.malachite=孔雀石
     S:Material.manadiamond=魔力钻石
@@ -1334,7 +1334,7 @@ languagefile {
     S:Material.niobium=铌
     S:Material.niobiumnitride=氮化铌
     S:Material.niobiumtitanium=铌钛合金
-    S:Material.niter=硝石
+    S:Material.niter=火硝
     S:Material.nitrationmixture=硝酸混酸
     S:Material.nitric-leachedmonazitemixture=硝酸独居石浸出混合物
     S:Material.nitricacid=硝酸
@@ -1461,7 +1461,7 @@ languagefile {
     S:Material.praseodymiumextractingnanoresin=镨萃取纳米树脂
     S:Material.praseodymiumoreconcentrate=镨精
     S:Material.prasiolite=堇云石
-    S:Material.preactivatedcarbon=预处理活性炭
+    S:Material.preactivatedcarbon=预活化碳
     S:Material.preciousmetalsalloy=稀有金属合金
     S:Material.primitive=原始
     S:Material.primordialmatter=流体本源物质
@@ -7669,7 +7669,7 @@ languagefile {
     S:TileEntity_DESCRIPTION_03008_Secondary_Index_12=§f结构过于复杂！
     S:TileEntity_DESCRIPTION_03008_Secondary_Index_13=§f对控制器方块使用§9Structure§1Lib§r的§f全息投影仪§f来查看结构！
     S:TileEntity_DESCRIPTION_03009_Index_00=读取热等静压单元的温度.
-    S:TileEntity_DESCRIPTION_03009_Index_01=右键以打开GUI和更改设置.
+    S:TileEntity_DESCRIPTION_03009_Index_01=右击以打开界面并更改设置。
     S:TileEntity_DESCRIPTION_03010_Index_00=机器类型：§e提取机§r
     S:TileEntity_DESCRIPTION_03010_Index_01=物质解剖装置的控制器方块
     S:TileEntity_DESCRIPTION_03010_Index_02=比相同电压的单方块机器快200%
@@ -7717,7 +7717,7 @@ languagefile {
     S:TileEntity_DESCRIPTION_03012_Index_01=Static Mode: Emit a constant redstone signal when a black hole is open
     S:TileEntity_DESCRIPTION_03012_Index_02=Pulse Mode: Emit a pulse every second while a black hole is open
     S:TileEntity_DESCRIPTION_03012_Index_03=Pulse is perfectly synced to the internal timing of the machine
-    S:TileEntity_DESCRIPTION_03012_Index_04=Right click to open the GUI and change settings.
+    S:TileEntity_DESCRIPTION_03012_Index_04=右击以打开界面并更改设置。
     S:TileEntity_DESCRIPTION_04102_Index_00=只是一个能安装覆盖板的方块
     S:TileEntity_DESCRIPTION_04104_Index_00=只是一个能安装覆盖板的方块
     S:TileEntity_DESCRIPTION_04106_Index_00=只是一个能安装覆盖板的方块
@@ -15923,7 +15923,7 @@ languagefile {
     S:TileEntity_DESCRIPTION_32027_Index_21=3. 熔融永恒 - 主动消耗指数§5-0.15§7
     S:TileEntity_DESCRIPTION_32027_Index_22=§6遏制稳定化§7 (每次运行消耗§3反物质量§7^(2/7))
     S:TileEntity_DESCRIPTION_32027_Index_23=1. 熔融调律源金 - 产出指数§6+0.05§7
-    S:TileEntity_DESCRIPTION_32027_Index_24=2. 熔融磁流体约束恒星物质 - 产出指数§6+0.10§7
+    S:TileEntity_DESCRIPTION_32027_Index_24=2. 熔融磁流体动力学约束恒星物质 - 产出指数§6+0.10§7
     S:TileEntity_DESCRIPTION_32027_Index_25=§b活化稳定化§7 (每次运行消耗§3反物质量§7^(1/3))
     S:TileEntity_DESCRIPTION_32027_Index_26=1. 硅岩基流体燃料-MkV(枯竭的) - 分布均值§b+0.05§7
     S:TileEntity_DESCRIPTION_32027_Index_27=2. 硅岩基流体燃料-MkVI(枯竭的) - 分布均值§b+0.10§7
@@ -17389,7 +17389,7 @@ languagefile {
     S:fluid.molten.magnalium=熔融镁铝合金
     S:fluid.molten.magnesia=熔融氧化镁
     S:fluid.molten.magnesium=熔融镁
-    S:fluid.molten.magnetohydrodynamicallyconstrainedstarmatter=熔融磁流体约束恒星物质
+    S:fluid.molten.magnetohydrodynamicallyconstrainedstarmatter=熔融磁流体动力学约束恒星物质
     S:fluid.molten.manasteel=熔融魔钢
     S:fluid.molten.manganese=熔融锰
     S:fluid.molten.manyullyn=熔融斫星
@@ -68230,7 +68230,7 @@ languagefile {
     S:gtplusplus.material.Clay=粘土
     S:gtplusplus.material.Cobalt=钴
     S:gtplusplus.material.Comancheite=溴汞石
-    S:"gtplusplus.material.Cooked ZrCl4"=焙烧过的氯化锆
+    S:"gtplusplus.material.Cooked ZrCl4"=煅烧氯化锆
     S:gtplusplus.material.Copper=铜
     S:gtplusplus.material.CopperIISulfate=硫酸铜(II)
     S:gtplusplus.material.CopperIISulfatePentahydrate=五水合硫酸铜(II)
