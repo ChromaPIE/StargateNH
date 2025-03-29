@@ -377,7 +377,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFxA.desc=这把刀不能用于屠杀数�
 
 # Quest: Rare Ores
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGCg.name=§2§l稀有矿石
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGCg.desc=你有没有花几天时间寻找钻石,红石,钽铁矿石,赛特斯石英或云母的经历？ %n%n矿脉会混有几种矿石,你可以用其中一种矿石来找另一种,比如钻石矿脉可用煤矿石寻找,赛特斯石英矿脉可用石英岩矿石寻找. 如果你有锡石矿石(不是锡石矿砂),可以找到云母矿石.  %n%n下界黝铜矿矿石可以用铜矿石找到.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGCg.desc=你有没有花几天时间寻找钻石,红石,钽锰矿石,赛特斯石英或云母的经历？ %n%n矿脉会混有几种矿石,你可以用其中一种矿石来找另一种,比如钻石矿脉可用煤矿石寻找,赛特斯石英矿脉可用石英岩矿石寻找. 如果你有锡石矿石(不是锡石矿砂),可以找到云母矿石.  %n%n下界黝铜矿矿石可以用铜矿石找到.
 
 # Quest: Wooden Door
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAG_g.name=§2§l木门
@@ -1540,7 +1540,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6g.desc=想要将你的太阳能级粉,
 
 # Quest: Are You Prepared For HV?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7Q.name=§6§l你准备好迈向HV了吗？
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7Q.desc=不锈钢会是HV阶段的主要原材料.你需要一台MV搅拌机来制作不锈钢粉.%n%n锰:锰铝榴石、软锰矿和钽铁矿的处理副产物;直接电解还可以获取更多.另一种来源是从石榴石矿砂或是铁铝榴石中获得石榴石粉.如果你实在找不到的话,可以在硬币任务栏买点矿石.%n%n铬:可以从红宝石粉中离心出来.如果红石矿脉伴生的红宝石不够多的话,可以离心红石作为补充.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7Q.desc=不锈钢会是HV阶段的主要原材料.你需要一台MV搅拌机来制作不锈钢粉.%n%n锰:锰铝榴石、软锰矿和钽锰矿的处理副产物;直接电解还可以获取更多.另一种来源是从石榴石矿砂或是铁铝榴石中获得石榴石粉.如果你实在找不到的话,可以在硬币任务栏买点矿石.%n%n铬:可以从红宝石粉中离心出来.如果红石矿脉伴生的红宝石不够多的话,可以离心红石作为补充.
 
 # Quest: Molten Plastic
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7g.name=§6§l熔融塑料
@@ -1564,7 +1564,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAC8g.desc=有些原料如不锈钢,需要
 
 # Quest: Ruby Electrolyzing
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9Q.name=§6§l电解红宝石
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9Q.desc=电解红宝石可以获取铬和一点点铝.要是你感觉红宝石不太够,可以离心红石.%n%n铝和氧的另一个优秀来源是红色花岗岩粉.你可以从"捕鱼,农业,烹饪"任务栏中的IC2作物红石芯草(red-stonelillies)中获得这些.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9Q.desc=电解红宝石可以获取铬和一点点铝.要是你感觉红宝石不太够,可以离心红石.%n%n铝和氧的另一个优秀来源是红色花岗岩粉.你可以从“人间烟火鱼米香”任务栏中的IC2作物红石芯草(red-stonelillies)中获得这些.
 
 # Quest: Molten Polyethylene
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9w.name=§6§l熔融聚乙烯
@@ -1600,7 +1600,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADDA.desc=生物碳板由生物有机网�
 
 # Quest: Monocrystalline Silicon Boules
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADDg.name=§6§l单晶硅
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADDg.desc=制造晶圆之前,你必须先制造单晶硅.这一工序需要在电力高炉加入太阳能级硅粉以及一个小型砷化镓晶体,用时450秒.每个单晶硅可以制成16个晶圆.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADDg.desc=制造晶圆之前,你必须先制造单晶硅.这一工序需要在电力高炉加入太阳能级硅粉以及一个小块砷化镓晶体,用时450秒.每个单晶硅可以制成16个晶圆.
 
 # Quest: Transistor
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADEQ.name=§6§l晶体管
@@ -1808,7 +1808,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAG0A.desc=更高级的配方如聚乙烯�
 
 # Quest: Fish Oil
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGCA.name=§6§l鱼油
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGCA.desc=为了生产生物柴油,你需要生产一些种子油或者是鱼油,将它们和甲醇或者乙醇搅拌就可以得到生物柴油. 因此你需要一个能快速从种子中压榨出种子油或是把鱼变成鱼油的机器,嗯...进阶流体提取机就不错.%n%n[note]有传言说有一种鱼形状的奇怪作物...%n%n你也可以看看"捕鱼,农业,烹饪"任务栏,抓些鱼来提取鱼油也是不错的选择.[/warn]%n%n译者注:这种奇怪的作物我猜是金鱼草(GoldfishPlant).
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGCA.desc=为了生产生物柴油,你需要生产一些种子油或者是鱼油,将它们和甲醇或者乙醇搅拌就可以得到生物柴油. 因此你需要一个能快速从种子中压榨出种子油或是把鱼变成鱼油的机器,嗯...进阶流体提取机就不错.%n%n[note]有传言说有一种鱼形状的奇怪作物...%n%n你也可以看看“人间烟火鱼米香”任务栏,抓些鱼来提取鱼油也是不错的选择.[/warn]%n%n译者注:这种奇怪的作物我猜是金鱼草(GoldfishPlant).
 
 # Quest: Press All the Things in MV
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGCw.name=§6§l压制MV阶段的一切
@@ -4531,7 +4531,7 @@ betterquesting.quest.wGq5FvuuROyyMPbT_SkMYg.desc=请务必考虑使用它来改�
 
 
 ## Quest Line: Fishing, Farming, Cooking
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAACg.name=捕鱼,农业,烹饪
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAACg.name=人间烟火鱼米香
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAACg.desc=抓住它,养护它,吃它!
 
 # Quest: Weeds II
@@ -11324,7 +11324,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALRg.desc=这台设备相当于自动化�
 
 # Quest: Growing Auram
 betterquesting.quest.BiGj2-sBQ62nf0YtAKpGMw.name=生长的灵气
-betterquesting.quest.BiGj2-sBQ62nf0YtAKpGMw.desc=灵气可能是一种可能很难获得的源质.可能你已经从天域之华中得到了一些,天域之华是下界中少见的飞行球体(译注：神秘时代的精灵)所掉落的,或者是破坏灵气节点.这显然不是一个好的获取方式.%n%n当满月出现在头顶时,灵气花会张开花瓣,大概是为了吸收月华.对您来说有意义的是,它们偶尔会脱落花瓣,这些花瓣可以从地上收集起来作为优秀的灵气源质来源.%n%n你应该保证灵气花附近地面没有其他花草,便于你稍后收集灵气花花瓣.灵气花本身只需要种在草方块上,而不是耕地方块上,所以附近也不需要有水源.%n%n[note]大地疣也是一个可再生的灵气源质来源.它在捕鱼,农业,烹饪任务选项卡中有一个任务.[/note]
+betterquesting.quest.BiGj2-sBQ62nf0YtAKpGMw.desc=灵气可能是一种可能很难获得的源质.可能你已经从天域之华中得到了一些,天域之华是下界中少见的飞行球体(译注：神秘时代的精灵)所掉落的,或者是破坏灵气节点.这显然不是一个好的获取方式.%n%n当满月出现在头顶时,灵气花会张开花瓣,大概是为了吸收月华.对您来说有意义的是,它们偶尔会脱落花瓣,这些花瓣可以从地上收集起来作为优秀的灵气源质来源.%n%n你应该保证灵气花附近地面没有其他花草,便于你稍后收集灵气花花瓣.灵气花本身只需要种在草方块上,而不是耕地方块上,所以附近也不需要有水源.%n%n[note]大地疣也是一个可再生的灵气源质来源.它在“人间烟火鱼米香”任务选项卡中有一个任务.[/note]
 
 # Quest: Thauminite Helmet
 betterquesting.quest.CAqER5QVQg2Hq9lLZ9zDzg.name=秘晶头盔

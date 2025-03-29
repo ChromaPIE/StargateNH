@@ -1696,7 +1696,7 @@ languagefile {
     S:Material.tairitsu=对立合金
     S:Material.talc=滑石
     S:Material.tanmolyiumbeta-c=钛钼合金Beta-C
-    S:Material.tantalite=钽铁矿
+    S:Material.tantalite=钽锰矿
     S:Material.tantalum=钽
     S:"Material.tantalumcarbide/hafniumcarbidemixture"=碳化钽-碳化铪混合物
     S:Material.tantalumhafniumcarbide=碳化钽铪
@@ -19686,11 +19686,11 @@ languagefile {
     S:gt.blockmachines.basicmachine.laserengraver.tier.05.name=进阶精密激光蚀刻机 IV
     S:gt.blockmachines.basicmachine.laserengraver.tier.06.name=精英精密激光蚀刻机
     S:gt.blockmachines.basicmachine.laserengraver.tier.07.name=精英精密激光蚀刻机 II
-    S:gt.blockmachines.basicmachine.laserengraver.tier.08.name=终极精准光子加农
-    S:gt.blockmachines.basicmachine.laserengraver.tier.09.name=史诗精准光子加农
-    S:gt.blockmachines.basicmachine.laserengraver.tier.10.name=史诗精准光子加农 II
-    S:gt.blockmachines.basicmachine.laserengraver.tier.11.name=史诗精准光子加农 III
-    S:gt.blockmachines.basicmachine.laserengraver.tier.12.name=史诗精准光子加农 IV
+    S:gt.blockmachines.basicmachine.laserengraver.tier.08.name=终极精准光子炮
+    S:gt.blockmachines.basicmachine.laserengraver.tier.09.name=史诗精准光子炮
+    S:gt.blockmachines.basicmachine.laserengraver.tier.10.name=史诗精准光子炮 II
+    S:gt.blockmachines.basicmachine.laserengraver.tier.11.name=史诗精准光子炮 III
+    S:gt.blockmachines.basicmachine.laserengraver.tier.12.name=史诗精准光子炮 IV
     S:gt.blockmachines.basicmachine.lathe.tier.01.name=基础车床
     S:gt.blockmachines.basicmachine.lathe.tier.02.name=进阶车床
     S:gt.blockmachines.basicmachine.lathe.tier.03.name=进阶车床 II
@@ -64027,7 +64027,7 @@ languagefile {
     S:gt.metaitem.03.32189.tooltip=用来制作电路板
     S:gt.metaitem.03.32190.name=砷化镓晶体
     S:gt.metaitem.03.32190.tooltip=用于制造单晶硅
-    S:gt.metaitem.03.32191.name=小型砷化镓晶体
+    S:gt.metaitem.03.32191.name=小块砷化镓晶体
     S:gt.metaitem.03.32191.tooltip=用于制造单晶硅
     S:gt.metaitem.03.32192.name=凯芙拉纤维
     S:gt.metaitem.03.32192.tooltip=用于制造凯芙拉板
