@@ -142,7 +142,7 @@ wp.hud.msg.interval=间隔: %s
 wp.hud.msg.currentTime=时间: %s
 
 # Counter
-wp.hud.msg.count=数量: %d
+wp.hud.msg.count=数量：%d
 wp.hud.msg.countMax=最大数量: %d
 wp.hud.msg.incrAmnt=增量: %d
 wp.hud.msg.decrAmnt=减量: %d

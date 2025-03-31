@@ -39,7 +39,7 @@ GT5U.gui.text.EIG_ic2glass=玻璃等级不足!
 
 #Waila
 kubatech.waila.eec.mob_type=Mob Type: %s
-kubatech.waila.eec.no_mob=None
+kubatech.waila.eec.no_mob=无
 
 #Blocks
 kubablock.tea_acceptor.name=§4§l茶接收器
@@ -137,3 +137,12 @@ tc.research_category.KUBATECH=§l茶
 tc.research_name.KT_UltimateTea=%s §6§l茶
 tc.research_text.KT_UltimateTea=§4§l纯粹的能源
 KT.research.ultimatetea=你找到一种方法,将这些茶转化为纯粹的能源并获得%s§6§l茶
+
+#Tooltip
+kubatech.tooltip.tea=Tea
+kubatech.tooltip.tea_acceptor.0=Accepts Tea items and adds them to your network
+kubatech.tooltip.tea_acceptor.1=Can accept up to 10 stacks per tick
+kubatech.tooltip.tea_storage.0=Extends Tea Storage by %s
+kubatech.tooltip.tea_ingredient.0=This is Tea ingredient
+
+kubatech.tooltip.structure.flowers=Flowers

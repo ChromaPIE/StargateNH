@@ -1163,7 +1163,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADSA.desc=你可以从你的蒸馏产物�
 
 # Quest: Sifting Machine
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADZQ.name=§5§l筛选机
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADZQ.desc=你需要无瑕或精致的钻石、绿宝石、红宝石或其他宝石吗？或是你对更多的燧石、煤炭,以及一些非矿物出产更感兴趣？那么,是时候做一台筛选机了.%n%n你可以寻找贫瘠锌矿石(查看NEI)或到下界寻找闪锌矿.%n%n由于筛选机只接受洗净的矿粉,不过你也可以把粉碎矿石丢入装有水的坩埚内,即可轻松获得它.%n%n[note]注意你需要聚乙烯来制作这台机器![/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADZQ.desc=你需要无瑕或精致的钻石、绿宝石、红宝石或其他宝石吗？或是你对更多的燧石、煤炭,以及一些非矿物出产更感兴趣？那么,是时候做一台筛选机了.%n%n你可以寻找贫瘠锌矿石(查看NEI)或到下界寻找闪锌矿.%n%n由于筛选机只接受洁净矿粉,不过你也可以把粉碎矿石丢入装有水的坩埚内,即可轻松获得它.%n%n[note]注意你需要聚乙烯来制作这台机器![/note]
 
 # Quest: GT Tanks, the LV Version
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADew.name=§5§lGT储罐,LV版
@@ -1307,7 +1307,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHAA.desc=当你使用地震勘探者时,
 
 # Quest: Better Gallium and Arsenic Sources
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHBA.name=§5§l镓和砷的更好来源
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHBA.desc=有许多方式来增产镓.%n%n1.培育锌蜜蜂,将获得的镓蜂窝和氢氯酸反应.这种蜜蜂不需要太多的蜜蜂育种进度,并且处理其蜂窝只要LV电压.%n%n2.将热力离心后的矿石放入HV粉碎机,你就有10％的几率获得镓粉.%n%n3.月球上有丰富的铝土矿,从那里面提取镓吧.%n%n4.击杀暮色森林中的红帽地精.另外,哥布林会掉落砷.%n%n5.神秘炼金复制粒.这个操作要求涉足§l禁忌§r研究,所以你可能不太会选择它.%n%n6.种植IC作物,收获锌叶子,它会使你的一份锌或闪锌粉碎矿石变成四份洗净粉碎矿石.%n%n至于砷,暮色森林中的辉钴矿是不错的来源, 参见任务"钴和砷从辉钴来".n%n使用IC作物镍叶子可以使其增产四倍.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHBA.desc=有许多方式来增产镓.%n%n1.培育锌蜜蜂,将获得的镓蜂窝和氢氯酸反应.这种蜜蜂不需要太多的蜜蜂育种进度,并且处理其蜂窝只要LV电压.%n%n2.将热力离心后的矿石放入HV粉碎机,你就有10％的几率获得镓粉.%n%n3.月球上有丰富的铝土矿,从那里面提取镓吧.%n%n4.击杀暮色森林中的红帽地精.另外,哥布林会掉落砷.%n%n5.神秘炼金复制粒.这个操作要求涉足§l禁忌§r研究,所以你可能不太会选择它.%n%n6.种植IC作物,收获锌叶子,它会使你的一份锌或闪锌粉碎矿石变成四份洗净矿石.%n%n至于砷,暮色森林中的辉钴矿是不错的来源, 参见任务"钴和砷从辉钴来".n%n使用IC作物镍叶子可以使其增产四倍.
 
 # Quest: Filling the World With Fluids...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHNg.name=§5§l让世界充满液体...
@@ -2562,7 +2562,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFwg.desc=或者至少和drum(多义:鼓�
 
 # Quest: Radon Decay
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFyA.name=§a§l氡衰变
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFyA.desc=氡是EV发射器和传感器中量子之眼的合成原料之一(IV阶段的量子之星也需要).%n%n你可以将洗净的钍矿石,沥青铀矿石,晶质铀矿石或铀-238矿石放入筛选机获取镭-226.需要在背包里保留4500秒(75分钟)完成衰变,在衰变完成前你会获得debuff,除非你穿上全身防护服.相反,制作一个铅封盒将镭放在里面等待衰变是一个不错的注意.%n%n钍矿石可以从下届获取,但其他三种矿石需要2阶火箭才能获取.然而,钍矿石中获得镭的概率要小得多,所以你需要大量的钍才能继续.%n%n在完成衰变后,你可以通过电解获得氡并制作下一个电路板系列.但是,在得到钚-239前,你还不能进行氡循环.%n%n§4另外,晶质铀矿脉可以在火卫一、火卫二或谷神星找到.%n%n[note]完成一个要求即可.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFyA.desc=氡是EV发射器和传感器中量子之眼的合成原料之一(IV阶段的量子之星也需要).%n%n你可以将洁净的钍矿石,沥青铀矿石,晶质铀矿石或铀-238矿石放入筛选机获取镭-226.需要在背包里保留4500秒(75分钟)完成衰变,在衰变完成前你会获得debuff,除非你穿上全身防护服.相反,制作一个铅封盒将镭放在里面等待衰变是一个不错的注意.%n%n钍矿石可以从下届获取,但其他三种矿石需要2阶火箭才能获取.然而,钍矿石中获得镭的概率要小得多,所以你需要大量的钍才能继续.%n%n在完成衰变后,你可以通过电解获得氡并制作下一个电路板系列.但是,在得到钚-239前,你还不能进行氡循环.%n%n§4另外,晶质铀矿脉可以在火卫一、火卫二或谷神星找到.%n%n[note]完成一个要求即可.[/note]
 
 # Quest: Sodium Sulfide
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGdA.name=§a§l硫化钠
@@ -4732,7 +4732,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAGQA.desc=你将获得的第一批有用�
 
 # Quest: Metals From the Earth
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGQQ.name=来自大地的金属
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGQQ.desc=随着更高等级的作物杂交成功,你甚至可以增加矿石产量. 将某些纤维和树叶与粉碎的矿石搅拌,可使你的矿石产量翻两番(4倍),或者你可以将它们直接转化为小撮粉. 你也可以将这些材料与UU物质搅拌在一起,直接制成洗净的粉碎矿.%n%n证明你获得这些金属作物的能力,我会再给你一些肥料以及一些属性不错的稀有种子袋.优质源作物是精华莓(essence-berry)或别的矿莓.%n%n你需要将合适的矿石方块放在作物下方才能使其完全长成.为了获得最佳的生长条件,在矿物方块和作物之间放最多3块泥土.%n%n对于铁叶草或者金叶草,你需要使用金属块而不是GT矿石方块-原版矿石块可以在暮色森林的地精矿洞中找到.当然在硬币任务栏你可以买到这类矿石.WAILA将会告诉你作物是否接受你放的方块.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGQQ.desc=随着更高等级的作物杂交成功,你甚至可以增加矿石产量. 将某些纤维和树叶与粉碎的矿石搅拌,可使你的矿石产量翻两番(4倍),或者你可以将它们直接转化为小撮粉. 你也可以将这些材料与UU物质搅拌在一起,直接制成洁净矿石.%n%n证明你获得这些金属作物的能力,我会再给你一些肥料以及一些属性不错的稀有种子袋.优质源作物是精华莓(essence-berry)或别的矿莓.%n%n你需要将合适的矿石方块放在作物下方才能使其完全长成.为了获得最佳的生长条件,在矿物方块和作物之间放最多3块泥土.%n%n对于铁叶草或者金叶草,你需要使用金属块而不是GT矿石方块-原版矿石块可以在暮色森林的地精矿洞中找到.当然在硬币任务栏你可以买到这类矿石.WAILA将会告诉你作物是否接受你放的方块.
 
 # Quest: Water, Water, Everywhere
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGQg.name=到处都是水
