@@ -15143,7 +15143,7 @@ languagefile {
     S:TileEntity_DESCRIPTION_31082_Index_02=蒸汽消耗速率为基础值的62.5%
     S:TileEntity_DESCRIPTION_31082_Index_03=可一次性处理至多8件物品
     S:TileEntity_DESCRIPTION_31082_Index_04=高压等级下处理速度和蒸汽消耗均翻倍
-    S:TileEntity_DESCRIPTION_31082_Index_05=§7§m-------------------------
+    S:TileEntity_DESCRIPTION_31082_Index_05=§7§m---------------------
     S:TileEntity_DESCRIPTION_31082_Index_06=按住 §l[LSHIFT]§r§7 以显示结构指导
     S:TileEntity_DESCRIPTION_31082_Index_07=由§c§lEvgen§9§lWar§6§lGold§7添加
     S:TileEntity_DESCRIPTION_31082_Secondary_Index_00=§f尺寸：§65§7x§65§7x§65§7（§6宽§7x§6高§7x§6长§7）

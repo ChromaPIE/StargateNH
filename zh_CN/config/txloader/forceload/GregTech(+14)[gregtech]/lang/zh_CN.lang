@@ -1947,11 +1947,11 @@ gt.wrench.mode.1=线模式
 
 # GT++
 
-GT5U.gui.text.no_water=§7缺少 水
-GT5U.gui.text.no_lava=§7缺少 岩浆
-GT5U.gui.text.no_air=§7缺少 空气
-GT5U.gui.text.no_co2=§7缺少 二氧化碳
-GT5U.gui.text.no_li2bef4=§7缺少 Li2BeF4
+GT5U.gui.text.no_water=§7缺少水
+GT5U.gui.text.no_lava=§7缺少熔岩
+GT5U.gui.text.no_air=§7缺少空气
+GT5U.gui.text.no_co2=§7缺少二氧化碳
+GT5U.gui.text.no_li2bef4=§7缺少四氟铍酸锂
 GT5U.gui.text.no_saw=§7缺少 锯
 GT5U.gui.text.no_sapling=§7缺少 树苗
 GT5U.gui.text.no_oxygen=§7缺少 氧
