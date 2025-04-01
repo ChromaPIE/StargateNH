@@ -1852,7 +1852,7 @@ tile.etfuturum.green_obsidian_shulker_box.name=Green Obsidian Shulker Box
 tile.etfuturum.red_obsidian_shulker_box.name=Red Obsidian Shulker Box
 tile.etfuturum.black_obsidian_shulker_box.name=Black Obsidian Shulker Box
 
-tile.etfuturum.raw_aluminum_block.name=Raw Aluminum Block
+tile.etfuturum.raw_aluminum_block.name=粗铝块
 tile.etfuturum.raw_tin_block.name=Raw Tin Block
 tile.etfuturum.raw_silver_block.name=Raw Silver Block
 tile.etfuturum.raw_lead_block.name=Raw Lead Block
@@ -1977,7 +1977,7 @@ item.barrel_steel_gold_upgrade.name=Steel to Gold Barrel Upgrade
 item.barrel_obsidian_netherite_upgrade.name=Obsidian to Netherite Barrel Upgrade
 item.barrel_obsidian_darksteel_upgrade.name=Obsidian to Dark Steel Barrel Upgrade
 
-item.etfuturum.raw_aluminum.name=Raw Aluminum
+item.etfuturum.raw_aluminum.name=粗铝
 item.etfuturum.raw_tin.name=Raw Tin
 item.etfuturum.raw_silver.name=Raw Silver
 item.etfuturum.raw_lead.name=Raw Lead

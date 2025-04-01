@@ -57,11 +57,11 @@ item.GTPP.air_intake_hatch.name=抽气仓
 item.GTPP.catalyst_housing.name=催化剂室
 
 # Air Filter
-item.GTPP.air_filter.name=Air Filter
-item.GTPP.air_filter.name.t1=Air Filter [Tier 1]
-item.GTPP.air_filter.name.t2=Air Filter [Tier 2]
+item.GTPP.air_filter.name=空气过滤片
+item.GTPP.air_filter.name.t1=空气过滤片 [1级]
+item.GTPP.air_filter.name.t2=空气过滤片 [2级]
 
-GTPP.tooltip.air_filter.0=用于改善大气质量的空气过滤器。
+GTPP.tooltip.air_filter.0=用于改善大气质量的空气过滤片。
 GTPP.tooltip.air_filter.1=剩余使用次数：%d/%d
 
 # Fish trap
@@ -179,7 +179,7 @@ GT5U.MBTT.Structure.GlassEnergyLimit=Energy Hatch limited by Glass tier
 GT5U.MBTT.Structure.GlassEnergyLimitTier=-tier Glass unlocks all.
 
 GT5U.MBTT.subchannel=子信道 §6%s§r 将被用于 %s
-GT5U.tooltip.channelvalue=使用设定值§6%d§7配置子信道§6%s
+GT5U.tooltip.channelvalue=在子信道§6%s§7中对应配置值§6%d
 
 GT5U.cracker.io_side=输入/输出仓必须处在对侧！
 
@@ -1925,14 +1925,14 @@ gt.item.redstone_sniffer.action=Action
 gt.item.redstone_sniffer.locate=Locate
 gt.item.redstone_sniffer.teleport=Teleport
 
-gt.cover.info.format.tick_rate=§b%s§r %s
+gt.cover.info.format.tick_rate=§b%s§r%s
 gt.cover.info.chat.tick_rate=覆盖板运行间隔已设置为%s
 gt.cover.info.chat.tick_rate_not_allowed=此类型覆盖板无法使用气锤调整运行间隔
 gt.cover.info.button.tick_rate.1=当前运行间隔：每%s%s
 gt.cover.info.button.tick_rate.2=左键点击增加，右键点击降低
 gt.cover.info.button.tick_rate.3=按住Ctrl点击一次调整更大幅度
-gt.cover.info.button.bounds_notification.minimum=§7 (最小)§r
-gt.cover.info.button.bounds_notification.maximum=§7 (最大)§r
+gt.cover.info.button.bounds_notification.minimum=§7（最小）§r
+gt.cover.info.button.bounds_notification.maximum=§7（最大）§r
 gt.cover.wirelessdetector.redstone.tooltip=Changes this covers Redstone output behavior
 gt.cover.wirelessdetector.redstone.0=Only a wireless signal
 gt.cover.wirelessdetector.redstone.1=Wireless signal & direct Redstone
