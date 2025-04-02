@@ -86,7 +86,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABug.name=§1§l土豆的三种吃法
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABug.desc=生吃土豆是不健康的!你可能已经注意到了.有些土豆又绿又有毒.如果你有一个熔炉,你可以做美味的烤土豆作为另一种食物替代品.把烤土豆串在一根棍子上,它将更加美味可口.
 
 # Quest: Soft Mallet Adventure
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvA.name=§1§l软槌大冒险!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvA.name=§1§l软槌大冒险
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABvA.desc=你现在有一些西瓜和南瓜.但是你能用他们做些什么？%n%n除了吃...你还可以砸碎它们获得一些种子!好,让我们做一个软槌,这个工具以后可能还能用来做点别的事情.
 
 # Quest: Monster Trap
@@ -634,7 +634,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACVA.desc=升级你的工具.把你的工
 
 # Quest: Moving Your Tanks, Chests, and Barrels
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACcQ.name=§3§l移动你的储罐、箱子和桶
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACcQ.desc=想要搬动箱子而不使物品散落满地(BC™)?  没问题!做台手推车你就可以带着装满的箱子、桶或抽屉到任何地方去.但注意,你会得到缓慢debuff,希望你不是要去太远的地方.即便是非便携式的BC储罐和更多储罐,你也可以通过手推车移动它们(不损失液体),但GT储罐不行.同时,手推车还可以移动工作台(不损失存储的合成表).%n%n手持空的手推车Shift右击可以折叠它.虽然不重新展开的话它没法搬运东西,但这样它就可以堆叠和放进背包了.%n%n§3PS：以后你可以通过飞行或穿戴旅行者腰带来绕过缓慢这个debuff.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACcQ.desc=想要把箱子或桶搬去别处，又不想让里面的东西掉一地（Buildcraft是这样的）？手推车来帮忙！它能完整搬运装着东西的箱子、桶或储物抽屉。更厉害的是，它还能搬运Buildcraft和Iron Tanks储罐并保存内含的流体，对林业的工作桌也有效，可保存记录的配方。%n%n手持空的手推车潜行右击可将其折叠收纳。手推车在折叠时虽不能运输物品，但可多个堆叠，也可塞进背包。%n%n§3小贴士：后期可通过飞行或旅行者腰带来规避缓慢效果。§r
 
 # Quest: One Anvil... Better Make That Two!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACtg.name=§3§l一个铁砧...最好做两个!
@@ -879,7 +879,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXw.desc=活塞,但是它是"电动的".
 
 # Quest: Saving Redstone
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYA.name=§5§l节约红石
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYA.desc=厌倦使用四个红石制做一个磁化铁杆了吗？好消息!使用磁化机不需要红石,只需要通电,你不一定要接上导线,这台机器使用电池也能运作得很好(耗电很低).
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYA.desc=厌倦使用四个红石制作一个磁化铁杆了吗？好消息!使用磁化机不需要红石,只需要通电,你不一定要接上导线,这台机器使用电池也能运作得很好(耗电很低).
 
 # Quest: Avengers, Assemble!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYQ.name=§5§l复仇者联盟,组装!
@@ -1039,7 +1039,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACSw.desc=你§o需要§r一台磁化机�
 
 # Quest: Tetrahedrite, Stibnite and Copper
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACVQ.name=§5§l黝铜矿 、辉锑矿、及铜矿
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACVQ.desc=你可能会疑惑为何需要黝铜矿,或辉锑矿.主要是可以离心出锑,用于制做电池. 电池存储能量,这样就算你的发电忽高忽低,电池还能提供一个稳定的输出.%n%n可以在Y=80-120找到矿脉.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACVQ.desc=你可能会疑惑为何需要黝铜矿,或辉锑矿.主要是可以离心出锑,用于制造电池. 电池存储能量,这样就算你的发电忽高忽低,电池还能提供一个稳定的输出.%n%n可以在Y=80-120找到矿脉.
 
 # Quest: Antimony
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACVg.name=§5§l锑
@@ -1835,8 +1835,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAGaw.name=§6§l只有一个人能活下�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGaw.desc=...所以砍掉它们的脑袋吧. %n%n用你的工具为自己锻造一柄劈刀吧,然后收集一些凋灵骷髅头. %n%n[warn]如果你难以找到凋灵骷髅,等你到HV后,就可以在下界放置一个骷髅电动刷怪笼.[/warn]
 
 # Quest: Pipes, Pipes Everywhere
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGyA.name=§6§l管道,管道无处不在
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGyA.desc=现在你已经进入MV,你将需要开始自动化流程. 如聚乙烯、氧气、氮气、氢气、橡胶、木炭等.更快的物品管道将有助于在你的基地内快速运输物品. 现在,使用你的漂亮的新压模机来制作一些黄铜物品管道.%n%n奖励-限制型物品管道-允许你确定目的地的优先级(利用路由值).在处理路径时,限制型管道另一侧的位置与普通管道相比远得多. 当你想要让溢出(或不匹配)的物品去其他地方时非常方便!%n%n至于更高等级,在NEI中查找"* item pipe",或者直接查看数据表格.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGyA.name=§6§l管道，管道，到处都是管道
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGyA.desc=进入MV阶段后，是时候开始自动化生产了。聚乙烯、氧气、氮气、氢气、橡胶、木炭等材料的加工都需要自动化。更快的物品管道能帮你提升基地内的物流效率，现在就用崭新的压模机来制作一些黄铜物品管道吧。%n%n奖励物品中的限制型物品管道能够为物品传输的目的地设置优先级。限制型管道另一端的位置会被视为比同一端的位置远得多。当你想让溢出的或不匹配的物品去往别处时，这个特性将大有用处！%n%n可以在NEI中搜索“物品管道”或直接查阅资料表格来浏览更高等级的管道。
 
 # Quest: Borax Electrolyzing
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH-w.name=§6§l电解硼砂
@@ -4612,7 +4612,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACfg.desc=再次烘焙你的面包,把它
 
 # Quest: Kitchenware
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACmQ.name=厨具
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACmQ.desc=为了烹调健康的食物,你需要先制做一些工具.炖锅,罐,撖面杖,研钵,搅拌钵,软槌,平底锅,刀.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACmQ.desc=为了烹调健康的食物,你需要先制作一些工具.炖锅,罐,撖面杖,研钵,搅拌钵,软槌,平底锅,刀.
 
 # Quest: First Breeding
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACzw.name=初次杂交
@@ -6368,7 +6368,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALew.name=§6§lOops
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALew.desc=如果你未能让中子动能与NEI显示合成表所需中子动能匹配的话,至少在这里还能稍微回收点有用的东西.
 
 # Quest: §A§AAir-Filter
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALpQ.name=§6§6§6§l§r§6§l§5§l§o§l§r§6§A§l§A§6§l空气过滤机
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALpQ.name=§6§l空气过滤机
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALpQ.desc=大型空气过滤机%n%n这种超棒的多方块机器有3个版本：§9 §rT1用于LV+阶段,T2用于HV+阶段,而T3则是IV+阶段.%n%n§r§9§r它有两种模式：%n%n§9§r-普通模式,每个污染清理周期,在工作范围内,按顺序一一清理每个区块的污染.%n-随机模式,在工作范围内的所有污染区块中,随机选取清理污染的区块.%n§r%n手持螺丝刀右键控制器方块即可在两种模式之间切换.%n%n§9§r手持螺丝刀Shift+右键控制器方块可以切换工作范围,从1x1区块到(2*等级+1)x(2*等级+1)区块之间切换. 默认工作范围即为最大工作范围.%n%n§r§9§r污染清理能力值(默认)=30*机器等级增益*隔音排气仓数*涡轮效率*机器效率*向下取整(2.5^有效等级).%n%n-机器等级增益系数与多方块机器的等级有关.T1=1,T2=1.05,而T3=1.10%n%n-隔音排气仓数量很好理解,至多8个.%n%n-涡轮效率即为控制器GUI中放入的涡轮效率值.与之前有所不同,涡轮为强制性要求,没有涡轮无法正常工作.%n%n-机器效率即多方块的效率,与机器故障有关(无故障时系数为1,每处故障系数-0.1)%n%n-有效等级指多方块机器的有效等级：电压等级与隔音排气仓等级两者取最小值即为有效等级.%n%n§r默认下,使用吸附过滤器可以使污染清理效率翻倍.将其放入输入总线后,每个成功的污染清理周期消耗30点耐久.当污染低于10k-gibbl时,多方块机器认为该区块没有污染,而没有污染区块则该污染清理周期视为不成功. 30次成功的污染清理周期后,输出总线中会生产出一个脏的吸附过滤器.%n%n对控制器方块使用便携式扫描仪,即可获知吸附过滤器是否有效,及其剩余周期数.%n%n§9§r一个污染清理周期持续10秒,但每秒都会进行污染清理.%n%n译者注:涡轮不会损耗,这是个bug.
 
 # Quest: Absorption Filter
@@ -6456,7 +6456,7 @@ betterquesting.quest.pd68ySXjTD6yW1MN6x6swg.name=§6§l一个不那么有用的�
 betterquesting.quest.pd68ySXjTD6yW1MN6x6swg.desc=...但却是非常有用的电表.%n%nGT电表将为您提供有关电缆和机器用电的基本信息.%n%n%n[note]MV后有一个更高级的版本,可以让您收集更多的数据,所以请之后再返回此选项卡查找.[/note]
 
 # Quest: §A§ADrone are not Drones!
-betterquesting.quest.prKPwVNgSgOE1NGPiEEF-g.name=§6§6§6§l§r§6§l§5§l§o§l§r§6§A§l§A§6§l是无人机不是雄峰!
+betterquesting.quest.prKPwVNgSgOE1NGPiEEF-g.name=§6§l是无人机不是雄蜂!
 betterquesting.quest.prKPwVNgSgOE1NGPiEEF-g.desc=...但是它们可以像蜜蜂一样勤奋.这些新型的电动伙伴是多方块机器的绝佳伴侣：维护,控制,管理——它们样样都行.%n%n§l无人机控制中心是最新设计出的机器.它不需要能源;只需要往内部放入一个无人机就能运行.%n一旦启动,无人机在范围内会自动扫描"§l无人机下行模块"§r(替换其他多方块机器上的维修仓)并且试图于机器主机建立连接.如果连接成功,你就可以在无人机控制中心GUI处远程控制这些多方块机器了!另外,你可以重命名机器以便于识别.%n%n[note]你可以通过右键点击无人机下行模块或在无人机控制中心GUI中重命名机器.[/note]%n%n放置更高等级的无人机可以增加无人机控制中心的控制范围,在数量上没有限制.%n%n[warn]请注意,无人机在运行过程中可能会坠毁——概率从T1到T3逐级递减,而T3反重力无人机永不坠落.%n此外,如果机器主机距离无人机控制中心过远,GUI远程控制功能将会关闭,但全开/全关按钮和维护功能仍会有效.[/warn]%n§6§l%n也许有一天,我们的无人机可以控制其他星球上的机器...在线驱动引擎!
 
 # Quest: Draconic Development
@@ -6498,7 +6498,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABhQ.desc=生产圆石的终极机器.也
 
 # Quest: You Smell Like a Distillery!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADAA.name=你闻起来像掉到了酒桶里!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADAA.desc=在你处理裂解燃料或热解炉配方时,这个狠角色会极大地提高副产率.如此一来你就可以更有效率的制造工业TNT、塑料、聚四氟乙烯,以及其他塑料产品.你也需要这台机器来完成你的铂线.%n%n你需要在超净间中制造EV电路板,然后才能制做这台机器.%n%n至于仓室,你可以自由选择.一个MV能源仓就可以胜任大多数有用的配方.两个MV能源仓或者一个HV能源仓就可以覆盖除了污染物或丙酮外几乎所有的配方.%n%n你还需要一个输入仓、至少五个输出仓,以及一个输出总线用于收集那些固体产出.%n%n[note]PS：我在数据表格里列出了所有的蒸馏塔配方,这样你查看起来会更加方便. 现在你可以轻易比较选择处理石油的路线了![/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADAA.desc=在你处理裂解燃料或热解炉配方时,这个狠角色会极大地提高副产率.如此一来你就可以更有效率的制造工业TNT、塑料、聚四氟乙烯,以及其他塑料产品.你也需要这台机器来完成你的铂线.%n%n你需要在超净间中制造EV电路板,然后才能制造这台机器.%n%n至于仓室,你可以自由选择.一个MV能源仓就可以胜任大多数有用的配方.两个MV能源仓或者一个HV能源仓就可以覆盖除了污染物或丙酮外几乎所有的配方.%n%n你还需要一个输入仓、至少五个输出仓,以及一个输出总线用于收集那些固体产出.%n%n[note]PS：我在数据表格里列出了所有的蒸馏塔配方,这样你查看起来会更加方便. 现在你可以轻易比较选择处理石油的路线了![/note]
 
 # Quest: Bring Me My Vat of Polyethylene!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADbA.name=给我一大桶聚乙烯!
@@ -6697,8 +6697,8 @@ betterquesting.quest.w5O5rPL_Q_GDp8lxWMd0DQ.name=EV多方块
 betterquesting.quest.w5O5rPL_Q_GDp8lxWMd0DQ.desc=你可能已经用上了蒸汽多方块设备或者工业筛选机.但在EV,IV以及之后的电压等级中,你将解锁许多多方块机器,它们对应几乎所有的GT单方块机器.甚至还有更强大的设备.%n%n它们中的大多数和你之前的GT的处理流程相同,但是速度更快. 多方块机器有三个好处: 节省能源,更快的配方处理时间以及并行, 并行意味着在能量供应足够的情况下, 配方单次的处理时间里一次可以同时合成多个物品.%n%n这些新的多方块机器的多样性和复杂性远远超出了电力高炉、大型化学反应釜或者真空冷冻机等简单的多方块机器. 有些虽然是简单的立方体,但有些则具有更多样化的机制和工作条件.作为回报,它们是非常强大的,因此务必留意他们.
 
 # Quest: Megalomania
-betterquesting.quest.wGINqtSuSQKLI_Yk7hAdcA.name=永无止境,大就是好!
-betterquesting.quest.wGINqtSuSQKLI_Yk7hAdcA.desc=在 HV 阶段中,从技术上讲您现在有能力制造某些巨型多方块结构.这些绝对的巨无霸将把您的产能提高到前所未见的水平,但这是有代价的.这些多模块有两大优势：%n-它们天生就有 256 的并行数.%n-它们可以使用 TecTech 高电流能源仓和激光仓,让您可以向其中注入巨大的能量。%n%n[note]要想从这些巨型多方块结构获得真正的好处,您需要使用大量的电力来利用其超高并行数的优势--在使用 HV 阶段建造巨型高炉之前,请考虑一下您是否能真正利用这些设备.[/note]%n
+betterquesting.quest.wGINqtSuSQKLI_Yk7hAdcA.name=大就是好！
+betterquesting.quest.wGINqtSuSQKLI_Yk7hAdcA.desc=在HV阶段，你已初步具备建造某些机器的超巨（Mega）版本的能力。这些工业巨兽能够将生产效率提升至前所未有的水平，但需要付出一定代价。此类多方块结构具备两大核心优势：%n- 自带256个并行。%n- 兼容TecTech的异界系列仓室，顷刻抽干基地能量，供养其无底海口。%n%n[note]要真正发挥这些超巨机器的价值，需要配合巨量的能源供应并充分利用其超高的并行处理能力——在HV阶段贸然建造超巨电力高炉前，请务必再三斟酌：你真的用得上那台大家伙吗？[/note]
 
 # Quest: Pressure washing!
 betterquesting.quest.zorY0c3BQuqLJp7ThOLG-g.name=气压洗涤!
@@ -7830,7 +7830,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMPg.desc=超级燃料是一种可燃的�
 
 # Quest: Normal Or Magic
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMPw.name=普通还是魔法
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMPw.desc=这里有两种不同的超级燃料.分别是普通的固体超级燃料(SSF),热值为100k;以及魔法超级燃料(MSSF),热值为150k;换句话说,后者比前者每块多50％EU.你应该也猜到了,后者更有价值,更值得制作,但也比前者需要更多的处理.%n%n不过好在你无需深入研究神秘,基本上用不上什么魔法相关的东西,因为魔法超级燃料粘合剂以及魔法超级燃料都有很多方法可以合成,包括某些完全不使用神秘物品的配方.由于可供选择的配方太多,所以本任务不要求具体材料,如果你选择制做魔法超级燃料的话,那就再自己决定选择哪个配方吧. 提示：源动之焰不像钻石那样可采掘,不过可以通过将木炭粉扔进坩埚来实现自动化,而且其燃值高于输入物品燃值. 另外,对于焦煤,只有源动之焰这个配方可用.%n%n基本上,固体超级燃料有3步：合成粘合剂,合成固体方块,以及合成流体燃料.而魔法超级燃料步骤更多：合成粘合剂,升级为魔法超级燃料粘合剂,合成固体方块,合成流体燃料,最添加额外物品完成成品. 路在你自己的脚下.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMPw.desc=这里有两种不同的超级燃料.分别是普通的固体超级燃料(SSF),热值为100k;以及魔法超级燃料(MSSF),热值为150k;换句话说,后者比前者每块多50％EU.你应该也猜到了,后者更有价值,更值得制作,但也比前者需要更多的处理.%n%n不过好在你无需深入研究神秘,基本上用不上什么魔法相关的东西,因为魔法超级燃料粘合剂以及魔法超级燃料都有很多方法可以合成,包括某些完全不使用神秘物品的配方.由于可供选择的配方太多,所以本任务不要求具体材料,如果你选择制造魔法超级燃料的话,那就再自己决定选择哪个配方吧. 提示：源动之焰不像钻石那样可采掘,不过可以通过将木炭粉扔进坩埚来实现自动化,而且其燃值高于输入物品燃值. 另外,对于焦煤,只有源动之焰这个配方可用.%n%n基本上,固体超级燃料有3步：合成粘合剂,合成固体方块,以及合成流体燃料.而魔法超级燃料步骤更多：合成粘合剂,升级为魔法超级燃料粘合剂,合成固体方块,合成流体燃料,最添加额外物品完成成品. 路在你自己的脚下.
 
 # Quest: Super Fuel And Boiling
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMQA.name=超级燃料和锅炉
@@ -9889,7 +9889,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAB9w.desc=每一只蜜蜂都有很多属�
 
 # Quest: Mutatron
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_A.name=诱变机
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_A.desc=等待突变的过程是既漫长又恼人,而且大部分突变的结果很令人沮丧.但是有了这台机器,你可以100％的得到纯种的突变产物. 如果公主蜂和雄峰的组合有多种突变产物,那么突变的结果也会是随机的.但是那又如何？%n%n[note]现在,在最后的任务栏(奖励区),你可以将你的战利品袋(Bees-Advanced)升级为战利品袋(Bees-Expert).%n%n如果你之前没能从某个品种的蜜蜂身上获取特殊效果的基因,这是个重新获取的法子.%n%n制造它需要硅岩蜂,以及其他基因工业的机器.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_A.desc=等待突变的过程是既漫长又恼人,而且大部分突变的结果很令人沮丧.但是有了这台机器,你可以100％的得到纯种的突变产物. 如果公主蜂和雄蜂的组合有多种突变产物,那么突变的结果也会是随机的.但是那又如何？%n%n[note]现在,在最后的任务栏(奖励区),你可以将你的战利品袋(Bees-Advanced)升级为战利品袋(Bees-Expert).%n%n如果你之前没能从某个品种的蜜蜂身上获取特殊效果的基因,这是个重新获取的法子.%n%n制造它需要硅岩蜂,以及其他基因工业的机器.[/note]
 
 # Quest: Genetic Sampler
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_Q.name=基因采样机
@@ -9921,7 +9921,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACAw.desc=基因模板用来将多个基�
 
 # Quest: A Rather Cruel Disposal
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACBA.name=相当残酷的处理方式
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACBA.desc=你在培育蜜蜂的时候可能会产生很多多余的雄峰(或者是树苗,如果你种树的话).如果你没有扔掉它们,也许你可以把它们变成...有用的东西.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACBA.desc=你在培育蜜蜂的时候可能会产生很多多余的雄蜂(或者是树苗,如果你种树的话).如果你没有扔掉它们,也许你可以把它们变成...有用的东西.
 
 # Quest: Arnie's Blender
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACBQ.name=施瓦辛格的液化机
@@ -10012,8 +10012,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAF5w.name=潮湿而温暖？
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAF5w.desc=别再猜你所在生物群系的湿度和温度了. 使用栖息地定位仪来了解当地的气候.
 
 # Quest: Put the Drones in a Jar and Shake it Up
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAF6A.name=将雄峰放入罐中摇匀
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAF6A.desc=如果你培育的蜜蜂可以给你一些正面buff的话,那与其把多余的雄峰都丢了,还不如把它们放在蜜蜂收集者的罐子中,以便在基地的任何地方获得这些效果%n%n生命恢复？获得经验？还是中毒？%n%n蜜蜂收集者的罐子甚至可以连接到管道或运送模块来自动传输,这样雄峰给你的效果就可以持续很长时间.%n%n[note]注：帝皇蜂的普天同庆效果在推进血魔法时十分有效.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAF6A.name=将雄蜂放入罐中摇匀
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAF6A.desc=如果你培育的蜜蜂可以给你一些正面buff的话,那与其把多余的雄蜂都丢了,还不如把它们放在蜜蜂收集者的罐子中,以便在基地的任何地方获得这些效果%n%n生命恢复？获得经验？还是中毒？%n%n蜜蜂收集者的罐子甚至可以连接到管道或运送模块来自动传输,这样雄蜂给你的效果就可以持续很长时间.%n%n[note]注：帝皇蜂的普天同庆效果在推进血魔法时十分有效.[/note]
 
 # Quest: Death to Bees!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAF6Q.name=蜜蜂之死
@@ -10065,7 +10065,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAIKg.desc=GT++的诱变框架可使你的
 
 # Quest: Upgrading the Alveary
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIKw.name=蜂箱组升级
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIKw.desc=这些蜂箱组的基础升级使它更强大.%n%n框架栏-自动化-使蜂箱组可以安装框架,每个可装三个框架.每个蜜蜂刻(27s)消耗§55点耐久§r.如果在当前刻耐久耗尽,那么框架就会失效.%n稳定器-使蜜蜂突变的几率为0,但是不影响基因的自由组合.非常适合将某条特性培育进蜜蜂基因.%n蜂箱组能量接口-为蜂箱组中需要能量的框架供能%n孵化间-孵化蜜蜂幼体,用于注入基因或制造额外的雄峰.不兼容基因工业蜜蜂...%n蜂箱组滤网-收集蜜蜂工作范围内的花粉,而不是让它们给树授粉,收集的花粉可以手动使用. 需要手动将丝绸放入蜂箱组中.%n蜂箱组克隆盒-在蜂箱组周围生成蜂巢,其内为卑贱种蜂后.新生成的蜂后为内部蓝本的完全基因克隆体.克隆盒需要蜂王浆或芬芳块,而后者效率更高.%n%n[note]请注意,所有的升级方块都必须在蜂箱组的底部两层.同时中央方块不可为升级方块,不过底部中央方块可以为升级方块.[/note]%n%n[warn]需要能量时,蜂箱组能量接口会吸收所有电流,充满一个极小的缓存.所以请使用EIO电容或类似的设备,防止其浪费主线电流.[/warn]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIKw.desc=这些蜂箱组的基础升级使它更强大.%n%n框架栏-自动化-使蜂箱组可以安装框架,每个可装三个框架.每个蜜蜂刻(27s)消耗§55点耐久§r.如果在当前刻耐久耗尽,那么框架就会失效.%n稳定器-使蜜蜂突变的几率为0,但是不影响基因的自由组合.非常适合将某条特性培育进蜜蜂基因.%n蜂箱组能量接口-为蜂箱组中需要能量的框架供能%n孵化间-孵化蜜蜂幼体,用于注入基因或制造额外的雄蜂.不兼容基因工业蜜蜂...%n蜂箱组滤网-收集蜜蜂工作范围内的花粉,而不是让它们给树授粉,收集的花粉可以手动使用. 需要手动将丝绸放入蜂箱组中.%n蜂箱组克隆盒-在蜂箱组周围生成蜂巢,其内为卑贱种蜂后.新生成的蜂后为内部蓝本的完全基因克隆体.克隆盒需要蜂王浆或芬芳块,而后者效率更高.%n%n[note]请注意,所有的升级方块都必须在蜂箱组的底部两层.同时中央方块不可为升级方块,不过底部中央方块可以为升级方块.[/note]%n%n[warn]需要能量时,蜂箱组能量接口会吸收所有电流,充满一个极小的缓存.所以请使用EIO电容或类似的设备,防止其浪费主线电流.[/warn]
 
 # Quest: Busy Bees Buzzing Boldly
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAILA.name=忙碌的蜜蜂尽情嗡鸣
@@ -10109,7 +10109,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAINg.desc=图鉴将现有的四个数据�
 
 # Quest: Inoculator
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAINw.name=基因注射器
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAINw.desc=最后一步就是基因注射(接种).目前唯一能插入基因的机器就是基因注射器.这需要细菌质粒-由细菌和烈焰粉培养而成,把基因转移到有机体中.%n%n只有幼小阶段的有机体才能被注入,比如蜜蜂幼体(蜜蜂)、花粉(树和花)、幼虫(蝴蝶).利用液体培养基可以将蜜蜂幼体转化为雄峰.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAINw.desc=最后一步就是基因注射(接种).目前唯一能插入基因的机器就是基因注射器.这需要细菌质粒-由细菌和烈焰粉培养而成,把基因转移到有机体中.%n%n只有幼小阶段的有机体才能被注入,比如蜜蜂幼体(蜜蜂)、花粉(树和花)、幼虫(蝴蝶).利用液体培养基可以将蜜蜂幼体转化为雄蜂.
 
 # Quest: Tools for the Geneticist
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIOA.name=遗传学家的工具
@@ -10294,7 +10294,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAEXA.desc=寻常蜂和森林蜂杂交可�
 
 # Quest: Breed some common bees
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEXQ.name=培育一些寻常蜂
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEXQ.desc=想要蜜蜂进行杂交,你需要两种不同品种的蜂.从世界生成的蜂巢中获得一只雄峰和一只公主蜂(比如说草原蜂和森林蜂).%n%n蜂房中无法杂交.你可以在蜂箱或者其他养蜂的设备中进行杂交得到一个新的品种.某些框架将有助于此过程.缩短它们的寿命意味着更快的更新迭代速度.变异几率提升意味着更快获得稀有蜜蜂.%n%n普通蜜蜂每2.2分钟会产生一次蜜蜂产物.注意,生产时间是基于蜜蜂的基本生产速度和产品稀有性的近似值.它们不能反映实际的生产时间.%n%n使用蜜蜂分析仪或是GT扫描仪,确保你培育的蜜蜂是纯种的.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEXQ.desc=想要蜜蜂进行杂交,你需要两种不同品种的蜂.从世界生成的蜂巢中获得一只雄蜂和一只公主蜂(比如说草原蜂和森林蜂).%n%n蜂房中无法杂交.你可以在蜂箱或者其他养蜂的设备中进行杂交得到一个新的品种.某些框架将有助于此过程.缩短它们的寿命意味着更快的更新迭代速度.变异几率提升意味着更快获得稀有蜜蜂.%n%n普通蜜蜂每2.2分钟会产生一次蜜蜂产物.注意,生产时间是基于蜜蜂的基本生产速度和产品稀有性的近似值.它们不能反映实际的生产时间.%n%n使用蜜蜂分析仪或是GT扫描仪,确保你培育的蜜蜂是纯种的.
 
 # Quest: Breed some noble bees
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEXg.name=培育一些高尚蜂
@@ -10306,7 +10306,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAEXw.desc=你的高尚蜂生产了一些�
 
 # Quest: Breed some majestic bees
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEYA.name=培育一些庄严蜂
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEYA.desc=高尚蜂和田野蜂杂交能得到庄严蜂,庄严蜂有个非常重要的属性:高生育能力.它们在死亡后会留下4只雄峰,这意味着可以留下大量的遗传样本.%n%n庄严蜂1.5分钟产出一次滴水蜂窝.注意,生产时间是基于蜜蜂的基本生产速度和产品稀有性的近似值,它们不能反映实际的生产时间.%n%n译者注: 其实凛冬蜂就有生育能力4这个属性……
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEYA.desc=高尚蜂和田野蜂杂交能得到庄严蜂,庄严蜂有个非常重要的属性:高生育能力.它们在死亡后会留下4只雄蜂,这意味着可以留下大量的遗传样本.%n%n庄严蜂1.5分钟产出一次滴水蜂窝.注意,生产时间是基于蜜蜂的基本生产速度和产品稀有性的近似值,它们不能反映实际的生产时间.%n%n译者注: 其实凛冬蜂就有生育能力4这个属性……
 
 # Quest: Breed some imperial bees
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEYQ.name=培育一些帝皇蜂
@@ -13684,11 +13684,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJWA.desc=如果你个笨蛋还没来得�
 
 # Quest: Steadfast Bees
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJYA.name=坚定蜂
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJYA.desc=通常你会在地牢的宝箱中找到坚定雄峰.如果你不太走运,它们都被人捷足先登了,或者所在的服务器管理员禁用了地牢,可以在这里买一些.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJYA.desc=通常你会在地牢的宝箱中找到坚定雄蜂.如果你不太走运,它们都被人捷足先登了,或者所在的服务器管理员禁用了地牢,可以在这里买一些.
 
 # Quest: Monastic Bees
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJYQ.name=僧侣蜂
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJYQ.desc=通常,你可以通过与养蜂员村民交易来获取僧侣雄峰.如果你不太走运,村民都死光了,或是所在的服务器管理员禁用了村庄,可以在这里买一些.%n%n[note]我们定下昂贵的价格激励你更加努力地寻找,还可以尝试治愈僵尸村民.祝你好运![/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJYQ.desc=通常,你可以通过与养蜂员村民交易来获取僧侣雄蜂.如果你不太走运,村民都死光了,或是所在的服务器管理员禁用了村庄,可以在这里买一些.%n%n[note]我们定下昂贵的价格激励你更加努力地寻找,还可以尝试治愈僵尸村民.祝你好运![/note]
 
 # Quest: Gold Ore exchange
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJew.name=交换金矿石
@@ -14248,7 +14248,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAIcQ.desc=对于那些GT新手,这里有�
 
 # Quest: Moron's Guide to Breeding Better Bees
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIoQ.name=蜜蜂培育"智者"手册
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIoQ.desc=首先,不要被你在这里看到的这么多蜜蜂吓到.还有更多没有写入这里的蜜蜂,你需要用NEI来寻找它们!%n%n哈哈,开个玩笑,不要慌!蜜蜂培育线一点一点地解锁,引导你下一步可以做什么,任务线大多数是从上到下的.大的图标代表特别强大的蜜蜂.许多基础蜜蜂有多种培育选择,这里只写一种培育路线.%n%n蜜蜂有两套特性,活跃的(显性基因)和不活跃的(隐性基因), 显性基因影响蜜蜂的活动方式,而隐性基因只会影响遗传. %n%n特性可以是[warn]显性的[/warn]或者是§9隐性的§r. 当你培育出全新的公主蜂和雄峰后,检查两套特性,一致时你就得到了纯种的目标蜜蜂.你可以培育具有不活跃特性的蜜蜂,让它们通过之后的杂交中活跃起来.使用实地考察工具组或者GT扫描仪时无法看到蜜蜂的隐性基因,所以你需要蜜蜂分析仪.%n%n培育蜜蜂时,建立一个主模板蜜蜂是个好主意.所谓主模板蜜蜂就是一种几乎没有杂交潜力的蜜蜂,但拥有你所有希望的特性-短寿、夜行性、穴居性、耐雨飞行性、湿度与温度耐受力高、生育能力高等等.一旦你培育出这种蜜蜂后,繁殖一批显性/隐性基因一致的纯种公主蜂和雄峰.它们将成为你的培育储备.%n%n当你准备培育新品种的蜜蜂时,你想要得到的是雄峰-这样你就可以动用你的"培育储备"公主蜂与雄蜂培育出没有烦人的效果或限制的新品种.属性不好的公主蜂可以与你的"培育储备"雄峰杂交,重新加入你的培育储备,或者你也可以直接将其束之高阁(要是懒得洗掉那些烦人的效果或限制的话).确保新蜜蜂保持你需要的特性和品种,然后慢慢用你培育储备中的特性覆盖其余.优化基因的过程不必在蜂箱中进行,你可以使用蜂房来完成.请记住,蜂房中不会发生任何物种突变.卑贱种的蜜蜂很适合用于交换特性,因为它们可随意处理-在100个繁殖周期后,它们有几率死去,之后每多繁殖一代,它们的死亡几率就会稍微增加一点,不过遗传稳定升级之类的框架可以让它们活得更长久些.%n%n一旦你巩固了品种,留些雄峰.你可以用它们把始祖种公主蜂转化成新的品种.始祖种公主蜂不会死亡,不过在某些情况下(比如使用了大量提高产量的框架),她们会退化为卑贱种. 石头蜂就是始祖种极好的来源-它们所有的公主蜂都是始祖种,而且属性还不错,并且在地下到处都是.要是有个末影采石场,你可以轻易获取它们.%n%n一旦你获得了新品种,它会替换掉蜜蜂显性基因或者隐形基因中的所有特性.如果同一蜜蜂碰上了二次突变,那么它的显性和隐性基因都会被替换.比如,当你获得了一只田野蜂,每一条显性或隐性基因任选其一会被田野蜂的默认特性替换.经过几次混合纯化,你才能得到纯种的蜜蜂.当心别把关键特性弄丢了,比如田野蜂的快速工作特性.大部分特殊效果都是没用的,所以你可以不用考虑它们.  %n%n所有的任务都需要纯种蜜蜂.纯种意味着隐形基因的品种和显性基因的相同.%n%n一般来说,所有的特性都可以培育进任意品种的蜜蜂.蜜蜂的品种会决定其最佳温度/湿度环境,以及其产物.特殊品种的蜜蜂需要在其最佳温度/湿度环境下才会产出特殊产物.你可以通过工业蜂箱的各种升级来模拟类似的环境,但蜜蜂的耐受性无法让其在非最佳环境下产出特殊产物.%n%n先进的框架可以提供一些有用的帮助,如提高突变几率、或降低寿命以加快培育周期.但是过高的倍率会增加基因衰退几率,让始祖种公主蜂退化成卑贱种.%n%n看起来很复杂吧,因为本来就很复杂!但其中还是有很多危险与乐趣并存!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIoQ.desc=首先,不要被你在这里看到的这么多蜜蜂吓到.还有更多没有写入这里的蜜蜂,你需要用NEI来寻找它们!%n%n哈哈,开个玩笑,不要慌!蜜蜂培育线一点一点地解锁,引导你下一步可以做什么,任务线大多数是从上到下的.大的图标代表特别强大的蜜蜂.许多基础蜜蜂有多种培育选择,这里只写一种培育路线.%n%n蜜蜂有两套特性,活跃的(显性基因)和不活跃的(隐性基因), 显性基因影响蜜蜂的活动方式,而隐性基因只会影响遗传. %n%n特性可以是[warn]显性的[/warn]或者是§9隐性的§r. 当你培育出全新的公主蜂和雄蜂后,检查两套特性,一致时你就得到了纯种的目标蜜蜂.你可以培育具有不活跃特性的蜜蜂,让它们通过之后的杂交中活跃起来.使用实地考察工具组或者GT扫描仪时无法看到蜜蜂的隐性基因,所以你需要蜜蜂分析仪.%n%n培育蜜蜂时,建立一个主模板蜜蜂是个好主意.所谓主模板蜜蜂就是一种几乎没有杂交潜力的蜜蜂,但拥有你所有希望的特性-短寿、夜行性、穴居性、耐雨飞行性、湿度与温度耐受力高、生育能力高等等.一旦你培育出这种蜜蜂后,繁殖一批显性/隐性基因一致的纯种公主蜂和雄蜂.它们将成为你的培育储备.%n%n当你准备培育新品种的蜜蜂时,你想要得到的是雄蜂-这样你就可以动用你的"培育储备"公主蜂与雄蜂培育出没有烦人的效果或限制的新品种.属性不好的公主蜂可以与你的"培育储备"雄蜂杂交,重新加入你的培育储备,或者你也可以直接将其束之高阁(要是懒得洗掉那些烦人的效果或限制的话).确保新蜜蜂保持你需要的特性和品种,然后慢慢用你培育储备中的特性覆盖其余.优化基因的过程不必在蜂箱中进行,你可以使用蜂房来完成.请记住,蜂房中不会发生任何物种突变.卑贱种的蜜蜂很适合用于交换特性,因为它们可随意处理-在100个繁殖周期后,它们有几率死去,之后每多繁殖一代,它们的死亡几率就会稍微增加一点,不过遗传稳定升级之类的框架可以让它们活得更长久些.%n%n一旦你巩固了品种,留些雄蜂.你可以用它们把始祖种公主蜂转化成新的品种.始祖种公主蜂不会死亡,不过在某些情况下(比如使用了大量提高产量的框架),她们会退化为卑贱种. 石头蜂就是始祖种极好的来源-它们所有的公主蜂都是始祖种,而且属性还不错,并且在地下到处都是.要是有个末影采石场,你可以轻易获取它们.%n%n一旦你获得了新品种,它会替换掉蜜蜂显性基因或者隐形基因中的所有特性.如果同一蜜蜂碰上了二次突变,那么它的显性和隐性基因都会被替换.比如,当你获得了一只田野蜂,每一条显性或隐性基因任选其一会被田野蜂的默认特性替换.经过几次混合纯化,你才能得到纯种的蜜蜂.当心别把关键特性弄丢了,比如田野蜂的快速工作特性.大部分特殊效果都是没用的,所以你可以不用考虑它们.  %n%n所有的任务都需要纯种蜜蜂.纯种意味着隐形基因的品种和显性基因的相同.%n%n一般来说,所有的特性都可以培育进任意品种的蜜蜂.蜜蜂的品种会决定其最佳温度/湿度环境,以及其产物.特殊品种的蜜蜂需要在其最佳温度/湿度环境下才会产出特殊产物.你可以通过工业蜂箱的各种升级来模拟类似的环境,但蜜蜂的耐受性无法让其在非最佳环境下产出特殊产物.%n%n先进的框架可以提供一些有用的帮助,如提高突变几率、或降低寿命以加快培育周期.但是过高的倍率会增加基因衰退几率,让始祖种公主蜂退化成卑贱种.%n%n看起来很复杂吧,因为本来就很复杂!但其中还是有很多危险与乐趣并存!
 
 # Quest: Basic Bee Stats
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIow.name=基础蜜蜂统计

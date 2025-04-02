@@ -342,6 +342,21 @@ scanner.info.XHE.0=输出蒸汽量：
 scanner.info.XHE.1=超临界阈值：
 scanner.info.UX.0=并行运行：
 scanner.info.CASS.tier=外壳等级：
+scanner.info.CASS.tier.none=None!
+
+gg.scanner.info.antimatter_forge=Antimatter Forge
+gg.scanner.info.les.parallel=Parallel:
+gg.scanner.info.les.node_power=Node Power:
+gg.scanner.info.les.purification_efficiency=Purification Efficiency:
+gg.scanner.info.les.speed_up=Speed Up:
+
+gg.scanner.info.generator.generates=Currently generates: %s EU/t
+gg.scanner.info.generator.problems=Problems:
+gg.scanner.info.generator.efficiency=Efficiency:
+gg.scanner.info.neutron_activator.progress=Progress: %s s / %s s
+gg.scanner.info.neutron_activator.input=Current Neutron Kinetic Energy Input: %sev
+
+gg.scanner.info.fusion_reactor_mk=Fusion Reactor MK
 
 #GUI Info
 GT5U.gui.text.node_too_small=§7节点过小

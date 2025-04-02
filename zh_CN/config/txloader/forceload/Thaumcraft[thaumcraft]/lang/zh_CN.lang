@@ -1000,11 +1000,11 @@ tc.research_page.CAP_gold.1=金是比铁更好的魔导介质,使用金杖端的
 #
 tc.research_name.CAP_thaumium=神秘杖端
 tc.research_text.CAP_thaumium=神秘法杖核心
-tc.research_page.CAP_thaumium.1=神秘锭以其优良的法力吸纳能力而著称,因此使用它来制作杖端是非常明智的选择.它在汇聚各种种类的魔力时都非常高效.<BR>仅仅在奥术工作台中制做出的法杖杖端还不能马上投入使用 - 还需要灌注额外的魔力使其激活.
+tc.research_page.CAP_thaumium.1=神秘锭以其优良的法力吸纳能力而著称,因此使用它来制作杖端是非常明智的选择.它在汇聚各种种类的魔力时都非常高效.<BR>仅仅在奥术工作台中制作出的法杖杖端还不能马上投入使用 - 还需要灌注额外的魔力使其激活.
 #
 tc.research_name.CAP_silver=银杖端
 tc.research_text.CAP_silver=低调做事
-tc.research_page.CAP_silver.1=银作为杖端和金性质相似.但它在传导4种基本要素(火,地,风,水)的时候效率稍高.<BR>仅仅在奥术工作台中制做出的法杖杖端还不能马上投入使用 - 还需要灌注额外的魔力使其激活.
+tc.research_page.CAP_silver.1=银作为杖端和金性质相似.但它在传导4种基本要素(火,地,风,水)的时候效率稍高.<BR>仅仅在奥术工作台中制作出的法杖杖端还不能马上投入使用 - 还需要灌注额外的魔力使其激活.
 #
 tc.research_name.CAP_copper=铜杖端
 tc.research_text.CAP_copper=铁杖端不够好之时
@@ -1044,7 +1044,7 @@ tc.research_page.ROD_quartz.1=石英雕琢成的稍好于宏伟之木杖柄的�
 #
 tc.research_name.ROD_reed=甘蔗杖柄
 tc.research_text.ROD_reed=风之魔力容器
-tc.research_page.ROD_reed.1=甘蔗制做的稍好于宏伟之木杖柄的杖柄,相对于宏伟之木杖柄来说其优势在于,当风之魔力低于10%时无需节点也能缓慢恢复魔力.
+tc.research_page.ROD_reed.1=甘蔗制作的稍好于宏伟之木杖柄的杖柄,相对于宏伟之木杖柄来说其优势在于,当风之魔力低于10%时无需节点也能缓慢恢复魔力.
 #
 tc.research_name.ROD_greatwood_staff=魔法手杖
 tc.research_text.ROD_greatwood_staff=末端带把手的巫师之杖

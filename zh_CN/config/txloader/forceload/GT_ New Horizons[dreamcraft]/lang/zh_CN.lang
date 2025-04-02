@@ -976,6 +976,7 @@ TConstruct.research_page.GREENHEART.1=微型绿心是匠魂添加的物品.只�
 tc.research_name.UNDYINGTOTEM=Totem of Undying
 tc.research_text.UNDYINGTOTEM=Revival of the future
 EtFuturumRequiem.research_page.UNDYINGTOTEM.1=What is better than having strong health? Reviving from death itself. If the player is holding a totem of undying in their off-hand or main-hand slot and receives otherwise fatal damage, the totem saves the player from death. The totem of undying must be in the player's hand for it to work—it does not work if it is in the hotbar, unless selected. Any mob that can hold a totem of undying, can use it while holding it. The totem can be used only once, it disappears after use. When activated, the totem of undying restores 1♥, removes all existing status effects, then grants 45 seconds of Regeneration II, 40 seconds of Fire Resistance I and 5 seconds of Absorption II.
+
 tc.research_name.HELLISHMETAL=地狱金属
 tc.research_text.HELLISHMETAL=The Wrath of the Hellish Magic, Trapped in metal form.
 TConstruct.research_page.HELLISHMETAL.1=To hold Hellish Metal is to feel the searing heat of hellfire coursing through your veins, a reminder of the untamed power it contains. Its very presence distorts the air around it, warping reality and casting ominous shadows that seem to whisper of unspeakable horrors. This metal is not merely a tool or a weapon—it is a conduit for the raw, unrelenting fury of the Nether.
@@ -1205,7 +1206,7 @@ ExtraBees.research_page.HEALINGFRAME=治愈框架是用于蜂箱(组)的物品,�
 tc.research_name.CHOCOLATEFRAME=巧克力框架
 tc.research_text.CHOCOLATEFRAME=[EB]喂养蜜蜂
 ExtraBees.research_page.CHOCOLATEFRAME_1=巧克力框架是用于蜂箱(组)的物品,可提升蜂后的产量,而代价是缩短寿命.<BR>产量提升为150%,寿命降为50%(均与原有数值比较).<BR>多个框架效果可叠加,所以三个巧克力框架就可以让寿命最长的蜂后(4分钟),变成跟普通蜂后一样的寿命(30秒).<BR>当克隆公主蜂纯化基因或快速繁殖时,巧克力框架是最常用的加快换代速度的手段.
-ExtraBees.research_page.CHOCOLATEFRAME_2=而若是仅仅为了提高产量,你可以试试林业标准框架,除非你已经完成了公主蜂死亡后自动补充公主蜂与雄峰的自动化.这个时候巧克力框架反而能够提高生产速度.
+ExtraBees.research_page.CHOCOLATEFRAME_2=而若是仅仅为了提高产量,你可以试试林业标准框架,除非你已经完成了公主蜂死亡后自动补充公主蜂与雄蜂的自动化.这个时候巧克力框架反而能够提高生产速度.
 tc.research_name.RESTRAINTFRAME=约束框架
 tc.research_text.RESTRAINTFRAME=[EB]蜜蜂的牢笼?
 ExtraBees.research_page.RESTRAINTFRAME=约束框架是用于蜂箱(组)的物品,可降低蜜蜂的活动范围,而代价是降低产量与寿命.<BR>活动范围降为50%,产量降为75%,寿命降为75%(均与原有数值比较),同时也意味着蜜蜂的效果(如中毒、攻击)范围减小.<BR>这种框架仅仅用于一些特殊情况,因为蜜蜂造成的伤害完全可以使用养蜂人套装免疫.<BR>在蜂箱组结构中,可以加入蜂箱组框架栏(或框架栏)来安装此框架.

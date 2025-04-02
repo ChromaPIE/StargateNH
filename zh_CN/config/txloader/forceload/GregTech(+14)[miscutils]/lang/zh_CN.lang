@@ -3705,11 +3705,11 @@ item.milledSphalerite.name=研磨闪锌矿
 item.milledNickel.name=研磨镍矿
 item.milledPlatinum.name=研磨铂矿
 item.milledPentlandite.name=研磨镍黄铁矿
-item.FrothZincflotation.name=闪锌矿浮选泡沫单元
-item.FrothCopperflotation.name=黄铜矿浮选泡沫单元
-item.FrothNickelflotation.name=镍矿浮选泡沫单元
-item.FrothPlatinumflotation.name=铂矿浮选泡沫单元
-item.FrothPentlanditeflotation.name=镍黄铁矿浮选泡沫单元
+item.FrothZincflotation.name=闪锌矿浮沫单元
+item.FrothCopperflotation.name=黄铜矿浮沫单元
+item.FrothNickelflotation.name=镍浮沫单元
+item.FrothPlatinumflotation.name=铂浮沫单元
+item.FrothPentlanditeflotation.name=镍黄铁矿浮沫单元
 item.BasicGenericChemItem.7.name=铝磨球
 item.BasicGenericChemItem.8.name=皂石磨球
 
@@ -3730,11 +3730,11 @@ item.milledSpessartine.name=研磨锰铝榴石
 item.milledGrossular.name=研磨钙铝榴石
 item.milledAlmandine.name=研磨铁铝榴石
 item.milledPyrope.name=研磨镁铝榴石
-item.FrothRedstoneflotation.name=红石矿浮选泡沫单元
-item.FrothSpessartineflotation.name=锰铝榴石浮选泡沫单元
-item.FrothGrossularflotation.name=钙铝榴石浮选泡沫单元
-item.FrothAlmandineflotation.name=铁铝榴石浮选泡沫单元
-item.FrothPyropeflotation.name=镁铝榴石浮选泡沫单元
+item.FrothRedstoneflotation.name=红石浮沫单元
+item.FrothSpessartineflotation.name=锰铝榴石浮沫单元
+item.FrothGrossularflotation.name=钙铝榴石浮沫单元
+item.FrothAlmandineflotation.name=铁铝榴石浮沫单元
+item.FrothPyropeflotation.name=镁铝榴石浮沫单元
 
 # Added 13/04/20
 item.T3RecipeSelector.name=编程突破电路
@@ -3922,7 +3922,7 @@ item.itemRotorPraseodymium.name=镨转子
 item.itemGearPraseodymium.name=镨齿轮
 item.itemCellPraseodymium.name=镨单元
 item.milledMonazite.name=研磨独居石
-item.FrothMonaziteflotation.name=独居石浮选泡沫单元
+item.FrothMonaziteflotation.name=独居石浮沫单元
 item.milledNetherrack.name=Milled Netherrack
 
 # Added 18/12/21
@@ -4038,3 +4038,39 @@ gtpp.tooltip.tool.optimal_gas_flow=Optimal Gas flow(EU burnvalue per tick):
 gtpp.tooltip.tool.optimal_plasma_flow=Optimal Plasma flow(Plasma energyvalue per tick):
 gtpp.tooltip.tool.attack_damage=Attack Damage:
 gtpp.tooltip.tool.mining_speed=Mining Speed:
+
+#gtpp info data
+gtpp.infodata.multi_block.total_time=Total Time Since Built: %s Weeks, %s Days,
+gtpp.infodata.multi_block.total_time.0=%s Hours, %s Minutes, %s Seconds.
+gtpp.infodata.multi_block.total_time.in_ticks=Total Time in ticks: %s
+gtpp.infodata.tesseract_generator.name=Tesseract Generator
+gtpp.infodata.tesseract_generator.frequency=Frequency: %d
+gtpp.infodata.tesseract_generator.status.active=Active
+gtpp.infodata.tesseract_generator.status.inactive=Inactive
+gtpp.infodata.rtg.running_at=RTG - Running at tier %d
+gtpp.infodata.rtg.active=Active: %b
+gtpp.infodata.rtg.output=Current Output: %s EU/t
+gtpp.infodata.rtg.remaining.days=Days of Fuel remaining: %s
+gtpp.infodata.rtg.remaining.hours=Hours of Fuel remaining: %s
+gtpp.infodata.rtg.remaining.ticks=Ticks of %dv remaining: %d
+gtpp.infodata.atmospheric_reconditioner.maximum_pollution_removed=Maximum pollution removed per second: %d
+gtpp.infodata.atmospheric_reconditioner.air_sides=Air Sides: %d
+gtpp.infodata.pollution_creator.pollution=Current Pollution: %d
+gtpp.infodata.pollution_creator.pollution.avg=Average/10 minutes: %d
+gtpp.infodata.pollution_detector.pollution.avg=Average/10 Sec: %d
+gtpp.infodata.pollution_detector.redstone_level=Emit Redstone at pollution level: %d
+gtpp.infodata.adv_fusion.name=Fusion Reactor MK %s
+gtpp.infodata.adv_fusion.eu_required=EU Required: %dEU/t
+gtpp.infodata.adv_fusion.stored_eu=Stored EU: %d / %d
+gtpp.infodata.adv_fusion.plasma_output=Plasma Output: %dL/t
+gtpp.infodata.multi.steam.tier=Machine Tier: %s
+gtpp.infodata.multi.steam.parallel=Parallel: %s
+gtpp.infodata.abs.mega.parallels=Parallels: %s
+gtpp.infodata.abs.mega.speed_bonus=Speed Bonus: %s
+gtpp.infodata.abs.mega.energy_discount=Energy Discount: %s
+gtpp.infodata.solar_heater.testificate=Testificate
+gtpp.infodata.energy_buffer.eu_stored=%s EU stored
+gtpp.infodata.energy_buffer.eu_capacity=%s EU capacity
+gtpp.infodata.tiered_chest.name=Super Storage Chest
+gtpp.infodata.tiered_tank.name=%s Fluid Tank
+

@@ -1120,8 +1120,8 @@ enderio.gui.powerMonitor.monHeading5=5秒平均输入
 enderio.gui.powerMonitor.noNetworkError=无管道网络连接. 能量监控器需连接于一个管道网路以读取数据.
 
 #MJ Reader
-enderio.gui.mjReader.networkHeading=能量网
-enderio.gui.mjReader.conduitBuffer=内部缓冲
+enderio.gui.mjReader.networkHeading=能量网络
+enderio.gui.mjReader.conduitBuffer=内部缓存
 enderio.gui.mjReader.requestRange=每刻请求范围
 enderio.gui.mjReader.currentRequest=当前请求
 enderio.gui.mjReader.itemHeading=物品导管
@@ -1131,10 +1131,10 @@ enderio.gui.mjReader.connectionDir=连接到
 enderio.gui.mjReader.extractedItems=提取的物品
 enderio.gui.mjReader.extractedItem=物品
 enderio.gui.mjReader.noOutputs=没有合法的输入
-enderio.gui.mjReader.insertedInto=会被输入于:
+enderio.gui.mjReader.insertedInto=将输送至：
 enderio.gui.mjReader.noItems=未接收到物品.
 enderio.gui.mjReader.noItem=无法接收
-enderio.gui.mjReader.receiveItems=合法的接收对象:
+enderio.gui.mjReader.receiveItems=可接收物品自：
 enderio.gui.mjReader.receiveItem1=可以接收
 enderio.gui.mjReader.receiveItem2=从:
 
