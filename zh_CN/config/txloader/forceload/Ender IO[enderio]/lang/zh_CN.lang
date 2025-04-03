@@ -603,7 +603,7 @@ tile.blockCrafter.tooltip.detailed.line2=每次合成都会消耗能量
 tile.blockCrafter.tooltip.detailed.line3=使用电容器升级可以
 tile.blockCrafter.tooltip.detailed.line4=增加速度与能量存储
 
-tile.blockVacuumChest.name=虚空箱子
+tile.blockVacuumChest.name=吸物箱子
 tile.blockVacuumChest.tooltip.detailed.line1=将附近的物品
 tile.blockVacuumChest.tooltip.detailed.line2=吸入其中
 
@@ -1167,7 +1167,7 @@ enderio.gui.alloy.mode.furnace=仅限熔炉
 
 #Vacuum chest
 enderio.gui.vacuum.range=吸取力度
-enderio.gui.vacuum.header.chest=真空箱子
+enderio.gui.vacuum.header.chest=吸物箱子
 enderio.gui.vacuum.header.filter=物品过滤器
 enderio.gui.vacuum.header.range=范围
 

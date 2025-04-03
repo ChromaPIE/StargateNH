@@ -844,7 +844,7 @@ gt.behaviour.paintspray.infinite.tooltip.switch=左键单击：切换颜色(潜�
 gt.behaviour.paintspray.infinite.tooltip.pick=中键单击方块：复制颜色至喷涂罐
 gt.behaviour.paintspray.infinite.tooltip.lock=潜行时中键单击：锁定或解锁喷涂罐
 gt.behaviour.paintspray.infinite.tooltip.gui=中键：打开颜色选择界面
-gt.behaviour.paintspray.infinite.tooltip.prevent_shake=%s-Middle Click: Allow/prevent left click action
+gt.behaviour.paintspray.infinite.tooltip.prevent_shake=Shift Middle Click: Allow/prevent left click action
 gt.behaviour.paintspray.infinite.tooltip.ctrl_pc=Ctrl
 gt.behaviour.paintspray.infinite.tooltip.ctrl_mac=Command
 

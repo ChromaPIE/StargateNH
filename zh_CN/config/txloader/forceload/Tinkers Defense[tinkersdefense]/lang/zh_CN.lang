@@ -12,7 +12,7 @@ material.queensgold=女皇金
 item.DogbeariumIngot.name=犬熊合金锭
 tile.DogbeariumBlock.name=犬熊合金块
 tile.MoltenDogbearium.name=熔融犬熊合金
-material.dogbearium=犬熊合金锭
+material.dogbearium=犬熊合金
 material.dogbearium.ability=锯齿
 
 tile.CrestMount.name=纹章坐骑

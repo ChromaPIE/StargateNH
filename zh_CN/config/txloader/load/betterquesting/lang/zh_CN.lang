@@ -10294,7 +10294,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAEXA.desc=寻常蜂和森林蜂杂交可�
 
 # Quest: Breed some common bees
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEXQ.name=培育一些寻常蜂
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEXQ.desc=想要蜜蜂进行杂交,你需要两种不同品种的蜂.从世界生成的蜂巢中获得一只雄蜂和一只公主蜂(比如说草原蜂和森林蜂).%n%n蜂房中无法杂交.你可以在蜂箱或者其他养蜂的设备中进行杂交得到一个新的品种.某些框架将有助于此过程.缩短它们的寿命意味着更快的更新迭代速度.变异几率提升意味着更快获得稀有蜜蜂.%n%n普通蜜蜂每2.2分钟会产生一次蜜蜂产物.注意,生产时间是基于蜜蜂的基本生产速度和产品稀有性的近似值.它们不能反映实际的生产时间.%n%n使用蜜蜂分析仪或是GT扫描仪,确保你培育的蜜蜂是纯种的.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEXQ.desc=想要蜜蜂进行杂交,你需要两种不同品种的蜂.从世界生成的蜂巢中获得一只雄蜂和一只公主蜂(比如说草地蜂和森林蜂).%n%n蜂房中无法杂交.你可以在蜂箱或者其他养蜂的设备中进行杂交得到一个新的品种.某些框架将有助于此过程.缩短它们的寿命意味着更快的更新迭代速度.变异几率提升意味着更快获得稀有蜜蜂.%n%n普通蜜蜂每2.2分钟会产生一次蜜蜂产物.注意,生产时间是基于蜜蜂的基本生产速度和产品稀有性的近似值.它们不能反映实际的生产时间.%n%n使用蜜蜂分析仪或是GT扫描仪,确保你培育的蜜蜂是纯种的.
 
 # Quest: Breed some noble bees
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEXg.name=培育一些高尚蜂
@@ -10470,7 +10470,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAIeQ.desc=这些蜜蜂生产的泥炭可�
 
 # Quest: Rural
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIeg.name=田园蜂
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIeg.desc=田园蜂喜欢在田园中活动-为此,你必须迁移到平原型的生物群系.由草原蜂和勤奋蜂杂交培育而来.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIeg.desc=田园蜂喜欢在田园中活动-为此,你必须迁移到平原型的生物群系.由草地蜂和勤奋蜂杂交培育而来.
 
 # Quest: Blooming
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIew.name=盛开蜂
