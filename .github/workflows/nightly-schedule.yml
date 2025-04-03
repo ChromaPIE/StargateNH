@@ -1,18 +1,22 @@
 name: Entrypoint for nightly workflows
 
 on:
-  # schedule:
-    # - cron: "20 1 * * *" # 1:20am UTC every day, before modpack nightly builds
+  schedule:
+    - cron: "20 1 * * *" # 1:20am UTC every day, before modpack nightly builds
   workflow_dispatch:
 
 jobs:
   save-nightly-modpack-history:
     uses: ./.github/workflows/save-nightly-modpack-history.yml
-  conditional-sync-to-paratranz-parallel:
+  conditional-sync-to-paratranz:
     needs: save-nightly-modpack-history
-    uses: ./.github/workflows/conditional-sync-to-paratranz-parallel.yml
+    uses: ./.github/workflows/conditional-sync-to-paratranz.yml
+    with:
+      target_lang: zh_CN
     secrets: inherit
-  publish-all-nightly-lang-packs:
-    needs: conditional-sync-to-paratranz-parallel
-    uses: ./.github/workflows/publish-all-nightly-lang-packs.yml
+  publish-nightly-lang-pack:
+    needs: conditional-sync-to-paratranz
+    uses: ./.github/workflows/publish-nightly-lang-pack.yml
+    with:
+      target_lang: zh_CN
     secrets: inherit

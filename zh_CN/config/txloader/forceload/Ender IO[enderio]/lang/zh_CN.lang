@@ -66,11 +66,11 @@ enderio.itemLiquidConduit.lockedType=流体种类锁定为
 enderio.itemLiquidConduit.unlockedType=流体种类解锁
 enderio.itemLiquidConduit.lockedWaila=锁定为
 
-enderio.itemLiquidConduit.tooltip.maxExtract=最大提取:
+enderio.itemLiquidConduit.tooltip.maxExtract=最大提取速率：
 enderio.itemLiquidConduit.tooltip.maxIo=最大流速:
 enderio.itemLiquidConduit.tooltip.detailed.line1=流体流动受重力影响
-enderio.itemLiquidConduit.tooltip.detailed.line2=流量取决于流体
-enderio.itemLiquidConduit.tooltip.detailed.line3=黏性
+enderio.itemLiquidConduit.tooltip.detailed.line2=流体的传输速率
+enderio.itemLiquidConduit.tooltip.detailed.line3=取决于流体粘度
 
 enderio.itemLiquidConduitEnder.tooltip.detailed.line1=流体即时远距离传送
 enderio.itemLiquidConduitEnder.tooltip.detailed.line2=允许多种流体
@@ -139,7 +139,7 @@ item.itemInventoryPanelUpgrade.tooltip.detailed.line6=(无需将管道设为抽�
 
 enderio.itemGasConduit.name=气体导管
 
-enderio.itemGasConduit.tooltip.maxExtract=最大提取:
+enderio.itemGasConduit.tooltip.maxExtract=最大提取速率：
 enderio.itemGasConduit.tooltip.maxIo=最大IO:
 enderio.itemGasConduit.tooltip.detailed.line1=传送和通用机械兼容的气体
 
@@ -603,7 +603,7 @@ tile.blockCrafter.tooltip.detailed.line2=每次合成都会消耗能量
 tile.blockCrafter.tooltip.detailed.line3=使用电容器升级可以
 tile.blockCrafter.tooltip.detailed.line4=增加速度与能量存储
 
-tile.blockVacuumChest.name=虚空箱子
+tile.blockVacuumChest.name=吸物箱子
 tile.blockVacuumChest.tooltip.detailed.line1=将附近的物品
 tile.blockVacuumChest.tooltip.detailed.line2=吸入其中
 
@@ -974,6 +974,9 @@ enderio.darksteel.upgrade.gogglesOfRevealing.tooltip.detailed.line1=魔力减免
 enderio.darksteel.upgrade.gogglesOfRevealing.enabled=魔法已经显现出来
 enderio.darksteel.upgrade.gogglesOfRevealing.disabled=魔法隐藏在了普通视野当中
 
+enderio.darksteel.upgrade.trackmansGoggles.name=Trackman's Goggles
+enderio.darksteel.upgrade.trackmansGoggles.tooltip.detailed.line1=Show infrastructure and anchor auras
+
 enderio.darksteel.upgrade.naturalistEye.name=自然之眼
 enderio.darksteel.upgrade.naturalistEye.tooltip.detailed.line1=显示已授粉的树叶
 
@@ -1117,8 +1120,8 @@ enderio.gui.powerMonitor.monHeading5=5秒平均输入
 enderio.gui.powerMonitor.noNetworkError=无管道网络连接. 能量监控器需连接于一个管道网路以读取数据.
 
 #MJ Reader
-enderio.gui.mjReader.networkHeading=能量网
-enderio.gui.mjReader.conduitBuffer=内部缓冲
+enderio.gui.mjReader.networkHeading=能量网络
+enderio.gui.mjReader.conduitBuffer=内部缓存
 enderio.gui.mjReader.requestRange=每刻请求范围
 enderio.gui.mjReader.currentRequest=当前请求
 enderio.gui.mjReader.itemHeading=物品导管
@@ -1128,10 +1131,10 @@ enderio.gui.mjReader.connectionDir=连接到
 enderio.gui.mjReader.extractedItems=提取的物品
 enderio.gui.mjReader.extractedItem=物品
 enderio.gui.mjReader.noOutputs=没有合法的输入
-enderio.gui.mjReader.insertedInto=会被输入于:
+enderio.gui.mjReader.insertedInto=将输送至：
 enderio.gui.mjReader.noItems=未接收到物品.
 enderio.gui.mjReader.noItem=无法接收
-enderio.gui.mjReader.receiveItems=合法的接收对象:
+enderio.gui.mjReader.receiveItems=可接收物品自：
 enderio.gui.mjReader.receiveItem1=可以接收
 enderio.gui.mjReader.receiveItem2=从:
 
@@ -1164,7 +1167,7 @@ enderio.gui.alloy.mode.furnace=仅限熔炉
 
 #Vacuum chest
 enderio.gui.vacuum.range=吸取力度
-enderio.gui.vacuum.header.chest=真空箱子
+enderio.gui.vacuum.header.chest=吸物箱子
 enderio.gui.vacuum.header.filter=物品过滤器
 enderio.gui.vacuum.header.range=范围
 
@@ -1412,6 +1415,7 @@ enderio.category.darksteelarmor=玄钢护甲
 enderio.category.tools=末影接口 - 工具
 enderio.keybind.glidertoggle=滑翔开关
 enderio.keybind.gogglesofrevealing=揭示护目镜
+enderio.keybind.trackmansgoggles=Trackman's Goggles
 enderio.keybind.nightvision=夜视
 enderio.keybind.soundlocator=声波定位
 enderio.keybind.speed=速度

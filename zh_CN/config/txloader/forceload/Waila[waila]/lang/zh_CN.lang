@@ -71,7 +71,7 @@ hud.msg.magenta=品红色
 hud.msg.lblue=淡蓝色
 hud.msg.yellow=黄色
 hud.msg.lime=黄绿色
-hud.msg.pink=粉色
+hud.msg.pink=粉红色
 hud.msg.gray=灰色
 hud.msg.lgray=淡灰色
 hud.msg.cyan=青色
@@ -94,6 +94,8 @@ hud.msg.record=记录
 
 hud.msg.offers=提供
 hud.msg.demands=需求
+
+hud.msg.tcnodetotalsize=Total Size
 
 option.appeng.monitorcontent=显示内容
 option.bb.content=桶中容有

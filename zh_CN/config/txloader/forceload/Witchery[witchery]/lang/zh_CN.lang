@@ -1143,7 +1143,7 @@ witchery:color.purple=紫色
 witchery:color.cyan=蓝绿色
 witchery:color.lightgray=淡灰色
 witchery:color.gray=灰色
-witchery:color.pink=粉色
+witchery:color.pink=粉红色
 witchery:color.lime=黄绿色
 witchery:color.yellow=黄色
 witchery:color.lightblue=淡蓝色
@@ -1217,7 +1217,7 @@ witchery:cauldronbook.duration=[i 持续时间] - 在指定[url=toc/effects 药�
 witchery:cauldronbook.modifiers=[next=modifiers2][h1 调料: 概述]下列材料分别有以下效果.[br][br][stack=gold_nugget 没有粒子效果][br][stack=fermented_spider_eye 反转下一条药效][br][stack=netherbrick 对方块无效][br][stack=brick 对实体无效]
 witchery:cauldronbook.modifiers2=[next=modifiers3][h1 调料: 饮用速度]每种材料可以添加一次来 叠加效果.[br][br][stack=witchery:ingredient|63 饮用加速][br][stack=witchery:ingredient|31 饮用加速][br][stack=witchery:spanishmoss 饮用加速]
 witchery:cauldronbook.modifiers3=[next=modifiers4][h1 调料: 颜色]改变药水颜色.[br][stack=wool|0 白色][br][stack=wool|1 橙色][br][stack=wool|2 品红色][br][stack=wool|3 淡蓝色][br][stack=wool|4 黄色][br][stack=wool|5 黄绿色]
-witchery:cauldronbook.modifiers4=[next=modifiers5][h1 调料: 颜色][stack=wool|6 粉色][br][stack=wool|7 灰色][br][stack=wool|8 淡灰色][br][stack=wool|9 蓝绿色][br][stack=wool|10 紫色][br][stack=wool|11 蓝色]
+witchery:cauldronbook.modifiers4=[next=modifiers5][h1 调料: 颜色][stack=wool|6 粉红色][br][stack=wool|7 灰色][br][stack=wool|8 淡灰色][br][stack=wool|9 蓝绿色][br][stack=wool|10 紫色][br][stack=wool|11 蓝色]
 witchery:cauldronbook.modifiers5=[h1 调料: 颜色][stack=wool|12 棕色][br][stack=wool|13 绿色][br][stack=wool|14 红色][br][stack=wool|15 黑色]
 
 witchery:cauldronbook.dispersal=[i 喷溅] - 在[url=extent 范围]和[url=linger 持续时间]调料之前添加一种来设置 为喷溅型药水.[br][br][stack=gunpowder 或者][stack=witchery:ingredient|69 即刻型][br][stack=witchery:ingredient|24 气态][br][stack=witchery:ingredient|111 液态][br][stack=skull|2][url=dispersaltrigger|middle 机关]
@@ -1500,7 +1500,7 @@ tile.witchery:shadedglass_active.purple.name=紫色遮光玻璃
 tile.witchery:shadedglass_active.cyan.name=青色遮光玻璃
 tile.witchery:shadedglass_active.silver.name=银色遮光玻璃
 tile.witchery:shadedglass_active.gray.name=灰色遮光玻璃
-tile.witchery:shadedglass_active.pink.name=粉色遮光玻璃
+tile.witchery:shadedglass_active.pink.name=粉红色遮光玻璃
 tile.witchery:shadedglass_active.lime.name=黄绿遮光玻璃
 tile.witchery:shadedglass_active.yellow.name=黄色遮光玻璃
 tile.witchery:shadedglass_active.light_blue.name=淡蓝遮光玻璃
@@ -1517,7 +1517,7 @@ tile.witchery:shadedglass.purple.name=紫色遮光玻璃
 tile.witchery:shadedglass.cyan.name=青色遮光玻璃
 tile.witchery:shadedglass.silver.name=银色遮光玻璃
 tile.witchery:shadedglass.gray.name=灰色遮光玻璃
-tile.witchery:shadedglass.pink.name=粉色遮光玻璃
+tile.witchery:shadedglass.pink.name=粉红色遮光玻璃
 tile.witchery:shadedglass.lime.name=黄绿遮光玻璃
 tile.witchery:shadedglass.yellow.name=黄色遮光玻璃
 tile.witchery:shadedglass.light_blue.name=淡蓝遮光玻璃

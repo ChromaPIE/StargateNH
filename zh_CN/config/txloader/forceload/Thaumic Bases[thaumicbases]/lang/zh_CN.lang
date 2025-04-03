@@ -2,7 +2,7 @@ tc.research_category.THAUMICBASES=神秘基础学
 
 #enchantments
 enchantment.elderKnowledge=睿智
-enchantment.eldritchBane=异域杀手
+enchantment.eldritchBane=邪术杀手
 enchantment.magicTouch=魔法之触
 enchantment.tainted=腐化
 enchantment.vaporising=蒸发
@@ -486,7 +486,7 @@ tc.research_name.TB.Enchantments=新的附魔!
 tc.research_text.TB.Enchantments=魔法重生!
 tb.rec.enchantments.page.0=任何神秘使都已经成功将新的魔法力量应用到他们的工具上,然而这也需要他们自身的经验作为代价来注入.这些新的附魔会给神秘使带来他们渴望的东西.
 tb.rec.enchantments.ewisdom=附魔了睿智的武器杀死生物时,有几率为手持其的神秘使提供研究点.
-tb.rec.enchantments.ebane=附魔了异域杀手的武器会对末影人和邪术生物造成更多伤害.
+tb.rec.enchantments.ebane=附魔了邪术杀手的武器会对末影人和邪术生物造成更多伤害.
 tb.rec.enchantments.magictouch=附魔了魔法之触的武器杀死生物时会掉落更多的要素球.
 tb.rec.enchantments.vaporise=附魔了蒸发的武器杀死生物时,有几率掉落对应的晶化源质.
 tb.rec.enchantments.taint=附魔了污染的武器命中后会造成额外的污染伤害.它还会使目标获得污染debuff.但这种武器对已被污染的生物不太有效.
@@ -530,7 +530,7 @@ tb.rec.peacefulTree.page.0=你发现所有的动物都会被光明所吸引.您�
 #Enchantment researches
 tc.research_name.TB.ElderKnowledge=附魔:睿智
 tc.research_text.TB.ElderKnowledge=长者的知识
-tc.research_name.TB.EldritchBane=附魔:异域杀手
+tc.research_name.TB.EldritchBane=邪术杀手
 tc.research_text.TB.EldritchBane=你会告诉他们
 tc.research_name.TB.MagicTouch=附魔:魔法之触
 tc.research_text.TB.MagicTouch=用魔法触碰
@@ -599,7 +599,7 @@ revolverUpgrade.POWER.name=威力
 revolverUpgrade.SILVER.name=银弹
 revolverUpgrade.POISONED.name=猛毒
 revolverUpgrade.BANE_OF_ATROPODS.name=节肢杀手
-revolverUpgrade.BANE_OF_ELDRITCH.name=异域杀手
+revolverUpgrade.BANE_OF_ELDRITCH.name=邪术杀手
 revolverUpgrade.PIERCING.name=穿刺
 revolverUpgrade.DUELING.name=决斗
 revolverUpgrade.TAINTED.name=污染
@@ -630,15 +630,15 @@ tb.rec.revolver.acc.page.0=你已经找到一种方法让你的左轮枪更狙�
 
 tc.research_name.TB.Revolver.Atropods=左轮枪升级:节肢杀手
 tc.research_text.TB.Revolver.Atropods=神经毒素的冲击
-tb.rec.revolver.atr.page.0=你已经找到一种方法来让你的左轮枪对蜘蛛和蠹虫更具威胁.这个升级可以让你的左轮枪对抗这些生物时更加有效,但是不会影响对抗其他生物的效果.<BR>最高等级:§6§l5§r§0<BR>不兼容附魔:§n威力§r,§0§n银弹§r,§0§n异域杀手§r,§0§n决斗§r,§0§n颠覆§r
+tb.rec.revolver.atr.page.0=你已经找到一种方法来让你的左轮枪对蜘蛛和蠹虫更具威胁.这个升级可以让你的左轮枪对抗这些生物时更加有效,但是不会影响对抗其他生物的效果.<BR>最高等级:§6§l5§r§0<BR>不兼容附魔:§n威力§r,§0§n银弹§r,§0§n邪术杀手§r,§0§n决斗§r,§0§n颠覆§r
 
-tc.research_name.TB.Revolver.EldritchBane=左轮枪升级:异域杀手
+tc.research_name.TB.Revolver.EldritchBane=左轮枪升级:邪术杀手
 tc.research_text.TB.Revolver.EldritchBane=异界生物是不合法的
 tb.rec.revolver.elb.page.0=你已经找到一种方法让你的左轮枪在对异域生物时更加有效.这个升级可以让你的左轮枪对抗这些生物时更加有效,但是不会影响对抗其他生物的效果.<BR>最高等级:§6§l5§r§0<BR>不兼容附魔:§n威力§r,§0§n银弹§r,§0§n节肢杀手§r,§0§n决斗§r,§0§n颠覆§r
 
 tc.research_name.TB.Revolver.Dueling=左轮枪升级:决斗
 tc.research_text.TB.Revolver.Dueling=我要和你决斗!
-tb.rec.revolver.duel.page.0=有时候仅仅语言是不够的,神秘使还需要使用身体来证明自己.在左轮枪被发明之前只有剑和弓是可选的,但是现在神秘使和他的冒犯者可以很绅士的解决这个问题,用枪!这个升级可以让你的左轮枪对抗其他玩家时更加有效,但是不会影响对抗其他生物的效果.<BR>最高等级:§6§l5§r§0<BR>不兼容附魔:§n威力§r,§0§n银弹§r,§0§n节肢杀手§r,§0§n异域杀手§r,§0§n颠覆§r
+tb.rec.revolver.duel.page.0=有时候仅仅语言是不够的,神秘使还需要使用身体来证明自己.在左轮枪被发明之前只有剑和弓是可选的,但是现在神秘使和他的冒犯者可以很绅士的解决这个问题,用枪!这个升级可以让你的左轮枪对抗其他玩家时更加有效,但是不会影响对抗其他生物的效果.<BR>最高等级:§6§l5§r§0<BR>不兼容附魔:§n威力§r,§0§n银弹§r,§0§n节肢杀手§r,§0§n邪术杀手§r,§0§n颠覆§r
 
 tc.research_name.TB.Revolver.Efficiency=左轮枪升级:效率
 tc.research_text.TB.Revolver.Efficiency=什么都不浪费
@@ -646,7 +646,7 @@ tb.rec.revolver.eff.page.0=你找到了一种方法来减少左轮枪对Telum源
 
 tc.research_name.TB.Revolver.Eldritch=左轮枪升级:颠覆
 tc.research_text.TB.Revolver.Eldritch=你需要反过来!
-tb.rec.revolver.eld.page.0=向左轮枪灌入一些异域元素确实有一些改善...你从中发现了什么.这个升级可以让左轮枪对抗强力的生物时变得更强,但是对抗其他生物时会降低它的威力.<BR>最高等级:§6§l2§r§0<BR>不兼容附魔:§n威力§r,§0§n银弹§r,§0§n节肢杀手§r,§0§n异域杀手§r,§0§n决斗§r
+tb.rec.revolver.eld.page.0=向左轮枪灌入一些异域元素确实有一些改善...你从中发现了什么.这个升级可以让左轮枪对抗强力的生物时变得更强,但是对抗其他生物时会降低它的威力.<BR>最高等级:§6§l2§r§0<BR>不兼容附魔:§n威力§r,§0§n银弹§r,§0§n节肢杀手§r,§0§n邪术杀手§r,§0§n决斗§r
 
 tc.research_name.TB.Revolver.Heavy=左轮枪升级:重装
 tc.research_text.TB.Revolver.Heavy=肉搏也是一种选择
@@ -662,7 +662,7 @@ tb.rec.revolver.pir.page.0=你已经找到一种方法让你的左轮枪更具�
 
 tc.research_name.TB.Revolver.Power=左轮枪升级:威力
 tc.research_text.TB.Revolver.Power=给我更多的火药!
-tb.rec.revolver.pow.page.0=你已经发现了一种方法来改善你的左轮枪的威力.这个升级会提升左轮枪对任何生物的伤害,没有例外.但是这个伤害提升的效果没有对生物专精的改进好.<BR>最高等级:§6§l5§r§0<BR>不兼容附魔:§n颠覆§r,§0§n银弹§r,§0§n节肢杀手§r,§0§n异域杀手§r,§0§n决斗§r
+tb.rec.revolver.pow.page.0=你已经发现了一种方法来改善你的左轮枪的威力.这个升级会提升左轮枪对任何生物的伤害,没有例外.但是这个伤害提升的效果没有对生物专精的改进好.<BR>最高等级:§6§l5§r§0<BR>不兼容附魔:§n颠覆§r,§0§n银弹§r,§0§n节肢杀手§r,§0§n邪术杀手§r,§0§n决斗§r
 
 tc.research_name.TB.Revolver.Primal=左轮枪升级:始源
 tc.research_text.TB.Revolver.Primal=什么是超越光速...
@@ -670,7 +670,7 @@ tb.rec.revolver.primal.page.0=始源能量脉冲...如果将它与左轮枪融�
 
 tc.research_name.TB.Revolver.Silver=左轮枪升级:银弹
 tc.research_text.TB.Revolver.Silver=只是一个狼人杀手.
-tb.rec.revolver.sil.page.0=你已经发现了一种方法来改善你的左轮枪对抗不死生物的效果.这个升级可以让你的左轮枪对抗不死生物,恶魔和狼人时更加有效,但是不会影响对抗其他生物的效果.<BR>最高等级:§6§l5§r§0<BR>不兼容附魔:§n威力§r,§0§n颠覆§r,§0§n节肢杀手§r,§0§n异域杀手§r,§0§n决斗§r
+tb.rec.revolver.sil.page.0=你已经发现了一种方法来改善你的左轮枪对抗不死生物的效果.这个升级可以让你的左轮枪对抗不死生物,恶魔和狼人时更加有效,但是不会影响对抗其他生物的效果.<BR>最高等级:§6§l5§r§0<BR>不兼容附魔:§n威力§r,§0§n颠覆§r,§0§n节肢杀手§r,§0§n邪术杀手§r,§0§n决斗§r
 
 tc.research_name.TB.Revolver.Speed=左轮枪升级:速度
 tc.research_text.TB.Revolver.Speed=它的射速为每分钟1000发!

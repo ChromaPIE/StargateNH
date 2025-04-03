@@ -5,8 +5,8 @@ neiintegration.shaped=有序
 neiintegration.shapeless=无序
 
 neiintegration.chance=几率：%s
-neiintegration.chance.never=无
-neiintegration.chance.lessThan1=<1%
+neiintegration.chance.never=毫无可能
+neiintegration.chance.lessThan1=小于1%
 
 neiintegration.ticks=ticks
 

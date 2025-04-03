@@ -17,7 +17,7 @@ item.upgrade.core.creative.name=创造升级
 text.jabba.ubgrade.core.ender=将桶升级为B空间桶
 text.jabba.ubgrade.core.redstone=允许桶发出红石信号
 text.jabba.ubgrade.core.hopper=允许桶自动输出
-text.jabba.ubgrade.core.storage=将储存容量升至%s组
+text.jabba.ubgrade.core.storage=存储容量+%s组
 text.jabba.ubgrade.core.void=一旦桶被填满就会删除多余的物品
 text.jabba.ubgrade.core.creative=允许从桶中无限取出物品
 

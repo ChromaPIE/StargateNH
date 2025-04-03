@@ -4,7 +4,7 @@ fluid.binnie.growthMedium=培养基
 fluid.binnie.bacteriaPoly=聚合菌
 fluid.binnie.bacteriaVector=细菌质粒
 
-genetics.item.fieldKit.name=实地考察工具包
+genetics.item.fieldKit.name=实地考察工具组
 genetics.item.fieldKit.tooltip.noPaper=没有纸
 genetics.item.fieldKit.tooltip.sheetsOfPaper=%d 张纸
 genetics.item.fieldKit.tooltip.sheetOfPaper=%d 张纸

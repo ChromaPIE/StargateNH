@@ -181,7 +181,7 @@ tile.blockCandle.2.name=品红色油脂蜡烛
 tile.blockCandle.3.name=淡蓝色油脂蜡烛
 tile.blockCandle.4.name=黄色油脂蜡烛
 tile.blockCandle.5.name=黄绿色油脂蜡烛
-tile.blockCandle.6.name=粉色油脂蜡烛
+tile.blockCandle.6.name=粉红色油脂蜡烛
 tile.blockCandle.7.name=灰色油脂蜡烛
 tile.blockCandle.8.name=淡灰色油脂蜡烛
 tile.blockCandle.9.name=青色油脂蜡烛
@@ -206,7 +206,7 @@ tile.blockWoodenDevice.8.2.name=品红色旗帜
 tile.blockWoodenDevice.8.3.name=淡蓝色旗帜
 tile.blockWoodenDevice.8.4.name=黄色旗帜
 tile.blockWoodenDevice.8.5.name=黄绿色旗帜
-tile.blockWoodenDevice.8.6.name=粉色旗帜
+tile.blockWoodenDevice.8.6.name=粉红色旗帜
 tile.blockWoodenDevice.8.7.name=灰色旗帜
 tile.blockWoodenDevice.8.8.name=淡灰色旗帜
 tile.blockWoodenDevice.8.9.name=青色旗帜
@@ -1000,11 +1000,11 @@ tc.research_page.CAP_gold.1=金是比铁更好的魔导介质,使用金杖端的
 #
 tc.research_name.CAP_thaumium=神秘杖端
 tc.research_text.CAP_thaumium=神秘法杖核心
-tc.research_page.CAP_thaumium.1=神秘锭以其优良的法力吸纳能力而著称,因此使用它来制作杖端是非常明智的选择.它在汇聚各种种类的魔力时都非常高效.<BR>仅仅在奥术工作台中制做出的法杖杖端还不能马上投入使用 - 还需要灌注额外的魔力使其激活.
+tc.research_page.CAP_thaumium.1=神秘锭以其优良的法力吸纳能力而著称,因此使用它来制作杖端是非常明智的选择.它在汇聚各种种类的魔力时都非常高效.<BR>仅仅在奥术工作台中制作出的法杖杖端还不能马上投入使用 - 还需要灌注额外的魔力使其激活.
 #
 tc.research_name.CAP_silver=银杖端
 tc.research_text.CAP_silver=低调做事
-tc.research_page.CAP_silver.1=银作为杖端和金性质相似.但它在传导4种基本要素(火,地,风,水)的时候效率稍高.<BR>仅仅在奥术工作台中制做出的法杖杖端还不能马上投入使用 - 还需要灌注额外的魔力使其激活.
+tc.research_page.CAP_silver.1=银作为杖端和金性质相似.但它在传导4种基本要素(火,地,风,水)的时候效率稍高.<BR>仅仅在奥术工作台中制作出的法杖杖端还不能马上投入使用 - 还需要灌注额外的魔力使其激活.
 #
 tc.research_name.CAP_copper=铜杖端
 tc.research_text.CAP_copper=铁杖端不够好之时
@@ -1044,7 +1044,7 @@ tc.research_page.ROD_quartz.1=石英雕琢成的稍好于宏伟之木杖柄的�
 #
 tc.research_name.ROD_reed=甘蔗杖柄
 tc.research_text.ROD_reed=风之魔力容器
-tc.research_page.ROD_reed.1=甘蔗制做的稍好于宏伟之木杖柄的杖柄,相对于宏伟之木杖柄来说其优势在于,当风之魔力低于10%时无需节点也能缓慢恢复魔力.
+tc.research_page.ROD_reed.1=甘蔗制作的稍好于宏伟之木杖柄的杖柄,相对于宏伟之木杖柄来说其优势在于,当风之魔力低于10%时无需节点也能缓慢恢复魔力.
 #
 tc.research_name.ROD_greatwood_staff=魔法手杖
 tc.research_text.ROD_greatwood_staff=末端带把手的巫师之杖
@@ -1558,7 +1558,7 @@ tc.research_page.LAMPGROWTH.1=不像奥术灯具就是用来照明的,除非提�
 #
 tc.research_name.LAMPFERTILITY=育种灯
 tc.research_text.LAMPFERTILITY=散发出罗曼蒂克的光辉照耀事物
-tc.research_page.LAMPFERTILITY.1=沐浴在此灯柔和的粉色光芒之中的所有动物都会径直陷入到更加罗曼蒂克的情绪之中.它们会尽可能地寻找同类交配.<BR>若某种动物已经达到8只或以上,这种灯便不会再对其造成影响.<BR>它需要victus要素来驱动.既可以将要素罐子放于附近,又可以直接将育种灯安附在要素源质管道系统中.
+tc.research_page.LAMPFERTILITY.1=沐浴在此灯柔和的粉红色光芒之中的所有动物都会径直陷入到更加罗曼蒂克的情绪之中.它们会尽可能地寻找同类交配.<BR>若某种动物已经达到8只或以上,这种灯便不会再对其造成影响.<BR>它需要victus要素来驱动.既可以将要素罐子放于附近,又可以直接将育种灯安附在要素源质管道系统中.
 #
 tc.research_name.JARVOID=虚空罐子
 tc.research_text.JARVOID=源质太多?这不可能!

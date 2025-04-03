@@ -41,7 +41,7 @@ item.parachute_darkgreen.name=绿色降落伞
 item.parachute_gray.name=淡灰色降落伞
 item.parachute_magenta.name=品红色降落伞
 item.parachute_orange.name=橙色降落伞
-item.parachute_pink.name=粉色降落伞
+item.parachute_pink.name=粉红色降落伞
 item.parachute_purple.name=紫色降落伞
 item.parachute_red.name=红色降落伞
 item.parachute_teal.name=青色降落伞
@@ -753,5 +753,6 @@ gc.configgui.meteorBlockDamage=Meteor Block Damage Enabled(流星伤害开启)
 gc.configgui.handfill=Enable Oxygen Tank Hand fill(允许用手填充氧气罐)
 gc.configgui.disableUpdateCheck=Disable Update Check(禁用更新检查)
 gc.configgui.alwaysDisplayOxygenHUD=Always show Oxygen HUD(总是显示氧气HUD)
+gc.configgui.disableGearRender=Disable Gear Render
 
 gc.configgui.title=Galacticraft Core Config(星系核心配置文件)

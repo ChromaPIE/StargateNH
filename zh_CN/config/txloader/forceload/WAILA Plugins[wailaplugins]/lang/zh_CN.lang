@@ -42,16 +42,16 @@ wp.hud.msg.notOwner=你不是该机器的主人
 wp.hud.msg.pollen=花粉: %s
 wp.hud.msg.pollinated=授粉对象: %s
 
-wp.hud.msg.mainbee=蜂后 %s: %s
-wp.hud.msg.secondarybee=雄蜂 %s: %s
-wp.hud.msg.breedProgress=饲养进度: %s
-wp.hud.msg.breedError=Error: %s
+wp.hud.msg.mainbee=当前%s：%s
+wp.hud.msg.secondarybee=正在培育%s：%s
+wp.hud.msg.breedProgress=培育进度：%s
+wp.hud.msg.breedError=错误：%s
 
-wp.hud.msg.effectiveProductionMul=有效出产: %s
-wp.hud.msg.revealYield=按住Shift查看额外的意外收益
+wp.hud.msg.effectiveProductionMul=有效出产：%s
+wp.hud.msg.revealYield=按住Shift查看预期的欢腾状态收益
 wp.hud.msg.yieldPerHour=每小时
-wp.hud.msg.isJubilant=喜悦的
-wp.hud.msg.isNotJubilant=Is not Jubilant
+wp.hud.msg.isJubilant=处于欢腾状态
+wp.hud.msg.isNotJubilant=未处于欢腾状态
 
 wp.hud.msg.queen=蜂后
 wp.hud.msg.princess=公主蜂
@@ -142,7 +142,7 @@ wp.hud.msg.interval=间隔: %s
 wp.hud.msg.currentTime=时间: %s
 
 # Counter
-wp.hud.msg.count=数量: %d
+wp.hud.msg.count=数量：%d
 wp.hud.msg.countMax=最大数量: %d
 wp.hud.msg.incrAmnt=增量: %d
 wp.hud.msg.decrAmnt=减量: %d
@@ -161,5 +161,5 @@ wp.config.ResourcefulCrops.showOutputItem=Shard -> Output Hover
 
 ## Thermal Expansion ##
 
-wp.hud.msg.augments.hidden=Shift for augment info
-wp.hud.msg.augments.shown=Augment info:
+wp.hud.msg.augments.hidden=按住Shift查看扩充信息
+wp.hud.msg.augments.shown=扩充信息：

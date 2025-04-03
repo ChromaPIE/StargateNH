@@ -99,7 +99,7 @@ item.BlinkFocus.name=法杖核心:闪烁
 tile.ArcaneCake.name=奥法蛋糕
 tile.InkFlower.name=暗影玫瑰
 tile.WrathCage.name=暴怒之笼
-tile.StarBlock.name=下界之星方块
+tile.StarBlock.name=下界之星块
 tile.blackRoseBush.name=暗影玫瑰丛
 tile.TaintLog.name=腐化木头
 tile.TaintPlank.name=腐化木板
@@ -257,7 +257,7 @@ forbidden.research_page.CAP_manasteel.1=魔钢在操纵AM魔力的特性方面�
 #
 forbidden.research_name.CAP_elementium=元素钢杖端
 forbidden.research_text.CAP_elementium=生态友好型杖端
-forbidden.research_page.CAP_elementium.1=精灵世界似乎是一个浸透着魔力的世界,然而元素钢也不例外.当使用正确的材料处理并用于合成为杖端后,元素钢杖端正如期望中的那样获得了引导Vis的能力.若是与使用Mana的杖芯或杖柄相结合,它们还可以降低Mana的转换比率.<BR><BR>元素钢的那一抹粉色就像是凝结在蛋糕上一样.
+forbidden.research_page.CAP_elementium.1=精灵世界似乎是一个浸透着魔力的世界,然而元素钢也不例外.当使用正确的材料处理并用于合成为杖端后,元素钢杖端正如期望中的那样获得了引导Vis的能力.若是与使用Mana的杖芯或杖柄相结合,它们还可以降低Mana的转换比率.<BR><BR>元素钢的那一抹粉红色就像是凝结在蛋糕上一样.
 #
 forbidden.research_name.CAP_terrasteel=泰拉钢杖端
 forbidden.research_text.CAP_terrasteel=完成!
@@ -382,7 +382,7 @@ forbidden.research_page.SUBCOLLAR.1=有时,人类只是想受到伤害.尤其是
 #
 # Lexicon
 forbidden.lexicon.euclidaisy=天域菊
-forbidden.lexicon.euclidaisy.0=那古怪的粉色&1天域菊&0十分不可 思议.它耗费大量魔力变幻出 一些看来只有神秘使用得着的 天域之华.<br>这种手法似乎并非寻常的知识. 试试查阅魔导手册?
+forbidden.lexicon.euclidaisy.0=那古怪的粉红色&1天域菊&0十分不可 思议.它耗费大量魔力变幻出 一些看来只有神秘使用得着的 天域之华.<br>这种手法似乎并非寻常的知识. 试试查阅魔导手册?
 forbidden.lexicon.whisperweed=细语草
 forbidden.lexicon.whisperweed.0=&1细语草&0是种不开心的植物,它 总是会向那些愿意聆听的人 倾吐秘密.关于这个植物似乎 并没有什么要说的,因为那些 秘密和植物学的联系不大.<br>&o比万事通知道的秘密还要多&r
 forbidden.lexicon.tainthistle=腐化蓟

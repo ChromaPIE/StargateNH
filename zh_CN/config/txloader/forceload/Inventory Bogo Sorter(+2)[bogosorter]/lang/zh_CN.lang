@@ -2,7 +2,7 @@ key.categories.bogosorter=Inventory Bogo Sorter
 key.sort_config=Open Sort Config
 key.sort=Sort Inventory
 key.dropoff=Dropoff
-key.dropoff.tooltip=Dropoff To Nearby Inventories %nControl + Drag To Move
+key.dropoff.tooltip=卸下物品至附近的存储空间%n按住Ctrl并拖拽以移动位置
 
 bogosort.gui.title=Sort Config
 bogosort.gui.tab.general.name=General

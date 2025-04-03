@@ -173,7 +173,7 @@ for.gui.life=生命
 for.gui.lifespan=寿命
 for.gui.none=None
 for.gui.normal=一般
-for.gui.jubilance=愉悦度:%s
+for.gui.jubilance=欢腾状态条件：%s
 
 for.gui.escritoire.probe=检测样本
 for.gui.escritoire.instructions=将基因样本放在中央以开始。在左侧格子中放入更多样本，检测它们以寻求帮助。
@@ -304,22 +304,22 @@ forestry.allele.high=高
 forestry.allele.higher=甚高
 forestry.allele.highest=最高
 
-forestry.allele.tolerance.both1=全1
-forestry.allele.tolerance.both2=全2
-forestry.allele.tolerance.both3=全3
-forestry.allele.tolerance.both4=全4
-forestry.allele.tolerance.both5=全5
-forestry.allele.tolerance.down1=降1
-forestry.allele.tolerance.down2=降2
-forestry.allele.tolerance.down3=降3
-forestry.allele.tolerance.down4=降4
-forestry.allele.tolerance.down5=降5
+forestry.allele.tolerance.both1=高低皆耐 1
+forestry.allele.tolerance.both2=高低皆耐 2
+forestry.allele.tolerance.both3=高低皆耐 3
+forestry.allele.tolerance.both4=高低皆耐 4
+forestry.allele.tolerance.both5=高低皆耐 5
+forestry.allele.tolerance.down1=耐低 1
+forestry.allele.tolerance.down2=耐低 2
+forestry.allele.tolerance.down3=耐低 3
+forestry.allele.tolerance.down4=耐低 4
+forestry.allele.tolerance.down5=耐低 5
 forestry.allele.tolerance.none=无
-forestry.allele.tolerance.up1=加1
-forestry.allele.tolerance.up2=加2
-forestry.allele.tolerance.up3=加3
-forestry.allele.tolerance.up4=加4
-forestry.allele.tolerance.up5=加5
+forestry.allele.tolerance.up1=耐高 1
+forestry.allele.tolerance.up2=耐高 2
+forestry.allele.tolerance.up3=耐高 3
+forestry.allele.tolerance.up4=耐高 4
+forestry.allele.tolerance.up5=耐高 5
 
 forestry.allele.lifespan.shortest=早夭
 forestry.allele.lifespan.shorter=较短寿
@@ -347,7 +347,7 @@ for.gui.triple=三倍
 for.gui.unknown=未知
 for.gui.warm=温暖
 for.gui.water=水域
-for.gui.worker=工蜂
+for.gui.worker=工作速度
 
 for.hints.accesscontrol.desc=机器的主人可以设定三种使用权限：共享，受限或私用。
 for.hints.accesscontrol.tag=权限控制
@@ -750,7 +750,7 @@ item.for.minerBag.name=采矿者背包
 item.for.minerBagT2.name=采矿者编织背包
 
 item.for.mouldyWheat.name=发霉小麦
-item.for.mulch.name=覆盖物
+item.for.mulch.name=护根覆料
 item.for.naturalistHelmet.name=眼镜
 item.for.oakStick.name=浸渍木棍
 item.for.peat.name=泥炭
@@ -894,7 +894,7 @@ tile.for.stained.2.name=品红玻璃
 tile.for.stained.3.name=淡蓝玻璃
 tile.for.stained.4.name=黄色玻璃
 tile.for.stained.5.name=黄绿玻璃
-tile.for.stained.6.name=粉色玻璃
+tile.for.stained.6.name=粉红色玻璃
 tile.for.stained.7.name=灰色玻璃
 tile.for.stained.8.name=淡灰玻璃
 tile.for.stained.9.name=青色玻璃
@@ -906,8 +906,8 @@ tile.for.stained.14.name=红色玻璃
 tile.for.stained.15.name=黑色玻璃
 
 neiintegration.chance=几率：%s
-neiintegration.chance.never=无
-neiintegration.chance.lessThan1=<1%
+neiintegration.chance.never=毫无可能
+neiintegration.chance.lessThan1=小于1%
 neiintegration.handler.forestry.shaped=林业有序
 neiintegration.handler.forestry.shapeless=林业无序
 neiintegration.handler.forestry.fabricator.worth=可熔出：
@@ -916,8 +916,8 @@ neiintegration.handler.forestry.fabricator.worth=可熔出：
 # JUBILANCE
 ################
 
-for.jubilance.climate=需要更适宜的气候
-for.jubilance.hermit=周围有生物时不会产出
+for.jubilance.climate=需要适宜的气候
+for.jubilance.hermit=附近存在其他生物时会停止产出
 for.jubilance.resource=需要%s作为基石
 
 ################
@@ -928,7 +928,7 @@ for.jubilance.resource=需要%s作为基石
 for.errors.isRaining.desc=雨
 for.errors.isRaining.help=只有在没有下雨的时候才能进行操作。
 for.errors.noDrone.desc=无雄蜂
-for.errors.noDrone.help=配对需要雄蜂。
+for.errors.noDrone.help=缺少雄蜂，无法配种。
 for.errors.noFlower.desc=没有花
 for.errors.noFlower.help=蜂群找不到合适的花。
 for.errors.noQueen.desc=无蜂后
@@ -939,7 +939,7 @@ for.errors.notDay.desc=不是白天
 for.errors.notDay.help=操作需要在白天进行。
 for.errors.notGloomy.desc=不够黑暗
 for.errors.notGloomy.help=需要更暗的环境来进行操作。
-for.errors.notLucid.desc=不够亮
+for.errors.notLucid.desc=亮度不足
 for.errors.notLucid.help=需要更亮的环境来进行操作。
 for.errors.notNight.desc=不是夜晚
 for.errors.notNight.help=操作需要在夜晚进行。
@@ -1123,7 +1123,7 @@ for.bees.species.industrious=敬业
 for.bees.species.leporine=野兔
 for.bees.species.majestic=庄严
 for.bees.species.marshy=沼泽
-for.bees.species.meadows=草原
+for.bees.species.meadows=草地
 for.bees.species.merry=欢乐
 for.bees.species.miry=泥泞
 for.bees.species.modest=温和
@@ -1556,7 +1556,7 @@ for.hints.farmgui.desc=土壤放入左边的格子里，而种子/树苗则放�
 for.hints.farmgui.tag=土壤向左，种子靠右！
 for.hints.farmland.desc=用光滑沙石，砖块，或者石砖来搭建一个用以建立农场的平台。
 for.hints.farmland.tag=搭建属于你的农场！
-for.hints.fertilizer.desc=除了果园各种农场都需要肥料，不能使用堆肥。
+for.hints.fertilizer.desc=除了果园各种农场都需要肥料，不能使用堆肥或护根覆料。
 for.hints.fertilizer.tag=需要肥料！
 for.hints.gearbox.desc=使用连接了引擎或者能量管道的齿轮箱来为你的农场供能。
 for.hints.gearbox.tag=需要动力！
@@ -1899,7 +1899,7 @@ for.config.gamemode.fermenter.yield.mushroom.comment=修改蘑菇在发酵机中
 
 for.config.gamemode.squeezer.liquid.seed.comment=修改压榨种子时的种子油产量。其它种子油来源将基于此数值计算。
 for.config.gamemode.squeezer.liquid.apple.comment=修改压榨苹果时的果汁产量。其它果汁来源将基于此数值计算。
-for.config.gamemode.squeezer.mulch.apple.comment=修改压榨苹果时产生覆盖物的概率。
+for.config.gamemode.squeezer.mulch.apple.comment=修改压榨苹果时产生护根覆料的概率。
 
 for.config.gamemode.energy.engine.clockwork.comment=启用发条引擎。
 
