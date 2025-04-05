@@ -155,12 +155,11 @@ GT5U.MBTT.InputBus=输入总线
 GT5U.MBTT.InputHatch=输入仓
 GT5U.MBTT.OutputBus=输出总线
 GT5U.MBTT.OutputHatch=输出仓
-GT5U.MBTT.TecTechMultiAmp=Supports TecTech Multi-Amp Hatches!
 GT5U.MBTT.TecTechHatch=Supports TecTech Multi-Amp and Laser Hatches!
 GT5U.MBTT.Param=Parametrizer Hatch
 GT5U.MBTT.Uncertainty=Uncertainty Hatch
-GT5U.MBTT.InputData=Data Reception Connector
-GT5U.MBTT.OutputData=Data Transmission Connector
+GT5U.MBTT.InputData=Data Transmission Connector
+GT5U.MBTT.OutputData=Data Reception Connector
 GT5U.MBTT.Causes=产生
 GT5U.MBTT.PPS=点/秒污染
 GT5U.MBTT.Hold=按住
@@ -168,21 +167,16 @@ GT5U.MBTT.Display=以显示结构指导
 GT5U.MBTT.StructureHint=部分位置有多种方块可选，或不限制可用方块的等级
 GT5U.MBTT.Mod=添加模组
 GT5U.MBTT.Air=必须留空
+GT5U.MBTT.HatchInfo=Any %s
+GT5U.MBTT.HatchDots= (dots: %s)
+GT5U.MBTT.BoroGlassAny=Borosilicate Glass (any, mixed)
+GT5U.MBTT.BoroGlassTiered=Borosilicate Glass (any)
 GT5U.MBTT.Structure.Complex=Structure is too complex!
 GT5U.MBTT.Structure.SeeStructure1=To see the structure, use a
 GT5U.MBTT.Structure.SeeStructure2=Hologram Projector on the Controller!
 GT5U.MBTT.Structure.MinGlassForLaser=-tier glass required for §9Tec§1Tech§7 Laser Hatches.
 GT5U.MBTT.Structure.GlassEnergyLimit=Energy Hatch limited by Glass tier
 GT5U.MBTT.Structure.GlassEnergyLimitTier=-tier Glass unlocks all.
-GT5U.MBTT.HatchInfo=Any %s
-GT5U.MBTT.HatchDots= (dots: %s)
-GT5U.MBTT.BoroGlassAny=Borosilicate Glass (any, mixed)
-GT5U.MBTT.BoroGlassTiered=Borosilicate Glass (any)
-
-GT5U.MBTT.HatchInfo=Any %s
-GT5U.MBTT.HatchDots= (dots: %s)
-GT5U.MBTT.BoroGlassAny=Borosilicate Glass (any, mixed)
-GT5U.MBTT.BoroGlassTiered=Borosilicate Glass (any)
 
 GT5U.MBTT.subchannel=子信道 §6%s§r 将被用于 %s
 GT5U.tooltip.channelvalue=在子信道§6%s§7中对应配置值§6%d
@@ -396,6 +390,18 @@ gt.recipe.purificationplantuvtreatment=高能激光疗法
 gt.recipe.purificationplantdegasifier=脱气
 gt.recipe.purificationplantquarkextractor=重子理想态
 gt.recipe.quantumcomputer=QC Components
+gt.recipe.steamgateassembler=Perfect Steam Progenesis
+gt.recipe.steamextruder=Hammer Conformation
+gt.recipe.steamextractinator=Extractination
+gt.recipe.cactuswonder=Offerings to the Cacti Pantheon
+gt.recipe.infernalcokeoven=Coke Oven but OP
+gt.recipe.steammanufacturing=Hydraulic Manufacturing
+gt.recipe.steamfusion=Hyper Pressure Reactor
+gt.recipe.steamcarpenter=Steamic Carpentry
+gt.recipe.steamwoodcutter=Vapor Gardening
+gt.recipe.lavamaker=Steam Vapor Melting
+
+GT5U.gui.text.metadata.steamfusion=Requires compact HPR
 
 # Recipe categories
 gt.recipe.category.arc_furnace_recycling=电弧炉回收
@@ -630,6 +636,7 @@ GT5U.machines.basic_tank.liquid_amount=流体量
 GT5U.machines.computation_hatch.pending_computation=§7Total Computation I/O: §b%d§r
 GT5U.machines.computation_hatch.wasted_computation=§7Wasted Computation: §b%d§r
 
+
 GT5U.recipe_filter.empty_representation_slot.tooltip=§7用一个机器点击以设置过滤名单
 GT5U.recipe_filter.representation_slot.tooltip=§7点击清空
 GT5U.type_filter.representation_slot.tooltip=§7左击循环切换下一个
@@ -832,7 +839,8 @@ GT5U.item.pipe.gas_proof.yes=是
 GT5U.item.pipe.gas_proof.no=否
 GT5U.item.pipe.amount=Pipe Amount
 GT5U.item.pipe.empty=Empty
-GT5U.item.pipe.swap=Pipe Swapped:
+
+GT5U.item.programmed_circuit.select.header=Reprogram Circuit
 
 GT5U.item.programmed_circuit.select.header=再编程电路
 
@@ -850,7 +858,7 @@ gt.behaviour.paintspray.infinite.tooltip.switch=左键单击：切换颜色(潜�
 gt.behaviour.paintspray.infinite.tooltip.pick=中键单击方块：复制颜色至喷涂罐
 gt.behaviour.paintspray.infinite.tooltip.lock=潜行时中键单击：锁定或解锁喷涂罐
 gt.behaviour.paintspray.infinite.tooltip.gui=中键：打开颜色选择界面
-gt.behaviour.paintspray.infinite.tooltip.prevent_shake=Shift Middle Click: Allow/prevent left click action
+gt.behaviour.paintspray.infinite.tooltip.prevent_shake=%s-Middle Click: Allow/prevent left click action
 gt.behaviour.paintspray.infinite.tooltip.ctrl_pc=Ctrl
 gt.behaviour.paintspray.infinite.tooltip.ctrl_mac=Command
 

@@ -39,7 +39,7 @@ item.MekRFenergyCard.name=通用机械能源卡片
 #Internal Blocks
 tile.blockThermalMonitor.name=温度监控器
 tile.blockIndustrialAlarm.name=工业警报器
-tile.blockHowlerAlarm.name=蜂鸣报警器
+tile.blockHowlerAlarm.name=啸叫报警器
 tile.blockRemoteThermo.name=远程温度监控器
 tile.blockInfoPanel.name=工业信息屏
 tile.blockInfoPanelExtender.name=工业信息屏扩展

@@ -21704,7 +21704,7 @@ languagefile {
     S:gt.blockmachines.multimachine.em.switch.adv.name=Advanced Network Switch
     S:gt.blockmachines.multimachine.em.switch.name=QoS网络交换机
     S:gt.blockmachines.multimachine.em.transformer.name=有源变压器
-    S:gt.blockmachines.multimachine.engraver.name=高强度激光蚀刻机
+    S:gt.blockmachines.multimachine.engraver.name=超强度激光蚀刻机
     S:gt.blockmachines.multimachine.entitycrusher.name=极限实体碾碎机
     S:gt.blockmachines.multimachine.extractor.name=物质解剖装置
     S:gt.blockmachines.multimachine.extremeapiary.name=工业蜂种培植器及无人机驯化站
@@ -43212,9 +43212,9 @@ languagefile {
     S:gt.bwMetaGeneratedItem0.32747.name=封装生物电路基板
     S:gt.bwMetaGeneratedItem0.32747.tooltip=生物基因突变的电路基板
     S:gt.bwMetaGeneratedItem0.32748.name=封装塑料电路基板
-    S:gt.bwMetaGeneratedItem0.32748.tooltip=一个不错的电路基板
+    S:gt.bwMetaGeneratedItem0.32748.tooltip=一块优质基板
     S:gt.bwMetaGeneratedItem0.32749.name=封装塑料电路基板
-    S:gt.bwMetaGeneratedItem0.32749.tooltip=一个不错的电路基板
+    S:gt.bwMetaGeneratedItem0.32749.tooltip=一块优质基板
     S:gt.bwMetaGeneratedItem0.32750.name=封装超级湿件维生电路基板
     S:gt.bwMetaGeneratedItem0.32750.tooltip=能够维持生命活力的电路基板
     S:gt.bwMetaGeneratedItem0.32751.name=封装湿件维生电路基板
@@ -43232,9 +43232,9 @@ languagefile {
     S:gt.bwMetaGeneratedItem0.32757.name=封装环氧树脂基板
     S:gt.bwMetaGeneratedItem0.32757.tooltip=一个进阶基板
     S:gt.bwMetaGeneratedItem0.32758.name=封装进阶电路基板
-    S:gt.bwMetaGeneratedItem0.32758.tooltip=一个不错的电路基板
+    S:gt.bwMetaGeneratedItem0.32758.tooltip=一块优质的电路基板
     S:gt.bwMetaGeneratedItem0.32759.name=封装酚醛树脂电路基板
-    S:gt.bwMetaGeneratedItem0.32759.tooltip=一个不错的电路基板
+    S:gt.bwMetaGeneratedItem0.32759.tooltip=一块优质基板
     S:gt.bwMetaGeneratedItem0.32760.name=封装电路基板
     S:gt.bwMetaGeneratedItem0.32760.tooltip=一个基础电路基板
     S:gt.bwMetaGeneratedItem0.32761.name=封装电路基板
@@ -53048,7 +53048,7 @@ languagefile {
     S:gt.metaitem.01.32701.name=集成逻辑电路
     S:gt.metaitem.01.32701.tooltip=一个基础的电路板
     S:gt.metaitem.01.32702.name=优质电子电路板
-    S:gt.metaitem.01.32702.tooltip=一个不错的电路板
+    S:gt.metaitem.01.32702.tooltip=一块优质电路
     S:gt.metaitem.01.32703.name=处理器集群
     S:gt.metaitem.01.32703.tooltip=一个进阶电路板
     S:gt.metaitem.01.32704.name=工作站
@@ -53098,7 +53098,7 @@ languagefile {
     S:gt.metaitem.01.32718.name=电容
     S:gt.metaitem.01.32718.tooltip=电子元件
     S:gt.metaitem.01.32719.name=酚醛树脂电路基板
-    S:gt.metaitem.01.32719.tooltip=一个不错的电路基板
+    S:gt.metaitem.01.32719.tooltip=一块优质基板
     S:gt.metaitem.01.32720.name=纤维增强电路基板
     S:gt.metaitem.01.32720.tooltip=一个高级基板
     S:gt.metaitem.01.32721.name=钻石锯片
@@ -63665,7 +63665,7 @@ languagefile {
     S:gt.metaitem.03.32006.name=湿件维生电路基板
     S:gt.metaitem.03.32006.tooltip=能够维持生命活力的电路基板
     S:gt.metaitem.03.32007.name=塑料电路基板
-    S:gt.metaitem.03.32007.tooltip=一个不错的电路基板
+    S:gt.metaitem.03.32007.tooltip=一块优质基板
     S:gt.metaitem.03.32008.name=生物电路基板
     S:gt.metaitem.03.32008.tooltip=生物基因突变的电路基板
     S:gt.metaitem.03.32011.name=贴片电阻
@@ -63789,9 +63789,9 @@ languagefile {
     S:gt.metaitem.03.32078.name=微型处理器
     S:gt.metaitem.03.32078.tooltip=一个基础的电路板
     S:gt.metaitem.03.32079.name=不错的集成电路
-    S:gt.metaitem.03.32079.tooltip=一个不错的电路板
+    S:gt.metaitem.03.32079.tooltip=优质电路
     S:gt.metaitem.03.32080.name=集成处理器
-    S:gt.metaitem.03.32080.tooltip=一个不错的电路板
+    S:gt.metaitem.03.32080.tooltip=一块优质电路
     S:gt.metaitem.03.32082.name=纳米处理器
     S:gt.metaitem.03.32082.tooltip=一个进阶电路板
     S:gt.metaitem.03.32083.name=纳米处理器集群
@@ -63831,7 +63831,7 @@ languagefile {
     S:gt.metaitem.03.32100.name=电路基板
     S:gt.metaitem.03.32100.tooltip=一个基础电路基板
     S:gt.metaitem.03.32101.name=进阶电路基板
-    S:gt.metaitem.03.32101.tooltip=一个不错的电路基板
+    S:gt.metaitem.03.32101.tooltip=一块优质的电路基板
     S:gt.metaitem.03.32102.name=高级电路基板
     S:gt.metaitem.03.32102.tooltip=一个进阶电路基板
     S:gt.metaitem.03.32103.name=精制电路基板
@@ -63841,7 +63841,7 @@ languagefile {
     S:gt.metaitem.03.32105.name=超级湿件维生电路基板
     S:gt.metaitem.03.32105.tooltip=能够维持生命活力的电路基板
     S:gt.metaitem.03.32106.name=塑料电路基板
-    S:gt.metaitem.03.32106.tooltip=一个不错的电路基板
+    S:gt.metaitem.03.32106.tooltip=一块优质基板
     S:gt.metaitem.03.32107.name=超生物突变电路基板
     S:gt.metaitem.03.32107.tooltip=生物基因突变的电路基板
     S:gt.metaitem.03.32110.name=真空管导线
