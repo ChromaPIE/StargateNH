@@ -125,7 +125,6 @@ item.tm.itemAstralArrayFabricator.desc2=触及更遥远的空间。
 item.tm.itemAstralArrayFabricator.desc3=允许配方执行并行。
 
 item.tm.fakeItemQGP.name=Fake Item
-item.tm.fakeItemSiren.name=§cWrong Steam type found!
 
 #Death Messages
 death.attack.microwaving=%1$s被辐射脱水。

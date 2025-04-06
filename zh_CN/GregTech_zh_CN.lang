@@ -17063,7 +17063,7 @@ languagefile {
     S:"fluid.lutetium chloride concentrate"=氯化镥浓缩液
     S:"fluid.lutetium extracting nano resin"=镥萃取纳米树脂
     S:fluid.mcguffium=麦高芬239
-    S:fluid.meatextract=Meat Extract
+    S:fluid.meatextract=肉类提取物
     S:fluid.mercury=汞
     S:fluid.methanol=甲醇
     S:fluid.methylacetate=乙酸甲酯
@@ -17492,7 +17492,7 @@ languagefile {
     S:fluid.molten.tetraindiumditindibariumtitaniumheptacoppertetrakaidekaoxid=熔融LuV超导基
     S:fluid.molten.tetranaquadahdiindiumhexaplatiumosminid=熔融ZPM超导基
     S:fluid.molten.thallium=熔融铊
-    S:fluid.molten.thaumium=熔融神秘锭
+    S:fluid.molten.thaumium=熔融神秘
     S:fluid.molten.thorium=熔融钍
     S:fluid.molten.thorium232=熔融钍-232
     S:fluid.molten.thoriumberylliumdepletedmoltensalttbsalt=枯竭钍铍熔盐
@@ -17915,7 +17915,7 @@ languagefile {
     S:fluid.sapphirejuice=蓝宝石汁
     S:"fluid.seaweed byproducts"=海藻副产
     S:"fluid.seaweed concentrate"=浓缩海藻溶液
-    S:fluid.seaweedbroth=Seaweed Broth
+    S:fluid.seaweedbroth=海藻培养基
     S:fluid.seleniumhexafluoride=六氟化硒
     S:fluid.severelyhydrocracked.butadiene=重度加氢裂化的丁二烯
     S:fluid.severelyhydrocracked.butane=重度加氢裂化的丁烷
@@ -17996,7 +17996,7 @@ languagefile {
     S:fluid.tritium=氚
     S:"fluid.tungstophosphoric acid"=磷钨酸
     S:"fluid.unformed fluorophlogopite"=未定型氟金云母
-    S:fluid.unknownnutrientagar=Unknown Nutrient Agar
+    S:fluid.unknownnutrientagar=未知营养琼脂
     S:"fluid.uranium based liquid fuel"=铀基流体燃料
     S:"fluid.uranium based liquid fuel (depleted)"=铀基流体燃料(枯竭的)
     S:"fluid.uranium based liquid fuel (excited state)"=铀基流体燃料(激发态)
@@ -65148,14 +65148,14 @@ languagefile {
     S:gt.metaitem.98.30.name=裂化拉多X单元
     S:gt.metaitem.98.31.name=轻拉多X单元
     S:gt.metaitem.98.32.name=Gelatin Mixture Cell
-    S:gt.metaitem.98.33.name=Meat Extract Cell
+    S:gt.metaitem.98.33.name=肉类提取物单元
     S:gt.metaitem.98.34.name=Radox Gas Cell
     S:gt.metaitem.98.35.name=Diluted Xenoxene Cell
     S:gt.metaitem.98.4.name=末影粘浆单元
     S:gt.metaitem.98.5.name=钻井液单元
     S:gt.metaitem.98.6.name=墨水单元
     S:gt.metaitem.98.7.name=未知营养琼脂单元
-    S:gt.metaitem.98.8.name=海藻基质单元
+    S:gt.metaitem.98.8.name=海藻培养基单元
     S:gt.metaitem.98.9.name=超轻拉多X单元
     S:gt.metaitem.98.name=Generated Item
     S:gt.metaitem.99.100.name=熔融%material单元

@@ -168,8 +168,8 @@ tile.newBopFarmland.loamy.name=肥沃耕地
 tile.bopGrass.spectralmoss.name=幽灵苔藓
 tile.bopGrass.smolderinggrass.name=阴燃草方块
 
-tile.gemOre.amethystore.name=紫晶矿石
-tile.gemOre.amethystblock.name=紫晶块
+tile.gemOre.amethystore.name=末影紫水晶矿石
+tile.gemOre.amethystblock.name=末影紫水晶块
 tile.gemOre.rubyore.name=红宝石矿石
 tile.gemOre.rubyblock.name=红宝石块
 tile.gemOre.peridotore.name=橄榄石矿石
@@ -366,7 +366,7 @@ item.jarFilled.jarhoney.name=蜂蜜罐
 item.jarFilled.jarpoison.name=毒萃罐子
 item.jarFilled.jarpixie.name=妖精罐子
 
-item.gems.amethyst.name=紫水晶
+item.gems.amethyst.name=末影紫水晶
 item.gems.ruby.name=红宝石
 item.gems.peridot.name=橄榄石
 item.gems.topaz.name=黄玉

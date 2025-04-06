@@ -472,7 +472,7 @@ item.melonsmoothieItem.name=西瓜冰沙
 item.carrotjuiceItem.name=胡萝卜汁
 item.carrotcakeItem.name=胡萝卜蛋糕
 item.carrotsoupItem.name=胡萝卜汤
-item.glazedcarrotsItem.name=糖水胡萝卜
+item.glazedcarrotsItem.name=糖衣胡萝卜
 item.butteredpotatoItem.name=奶油土豆
 item.loadedbakedpotatoItem.name=奶油培根土豆
 item.mashedpotatoesItem.name=土豆泥
@@ -866,7 +866,7 @@ item.rootbeersodaItem.name=根汁汽水
 item.strawberrysodaItem.name=草莓汽水
 
 item.caramelicecreamItem.name=焦糖冰淇淋
-item.mintchocolatechipicemcreamItem.name=碎薄荷巧克力冰淇淋
+item.mintchocolatechipicemcreamItem.name=薄巧脆片冰淇淋
 item.strawberryicecreamItem.name=草莓冰淇淋
 item.vanillaicecreamItem.name=香草冰淇淋
 
