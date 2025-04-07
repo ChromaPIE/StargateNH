@@ -411,7 +411,7 @@ description.enchantment.vaporising=击杀怪物时有一定几率掉落对应类
 #Misc. Enchantments
 description.enchant.cofh.holding=提升保险箱或背包的容量(每级8-9格).
 description.enchant.cofh.multishot=让弓可以只消耗一支箭,射出多个箭头.
-description.enchantment.draconicevolution.reaperEnchant=击杀怪物时有几率掉落相应的怪物灵魂.此增益可与龙研武器自带的增益叠加.
+description.enchantment.draconicevolution.reaperEnchant=击杀怪物时有几率掉落相应的怪物灵魂.此增益可与龙之进化武器自带的增益叠加.
 description.enchantment.damage.endermen=对末影生物造成更多伤害并阻止其瞬移.
 description.enchantment.damage.radioactivity=为你的武器或护甲施加辐射,让你的敌人或玩家痛苦不堪.
 description.gadomancy.enchantment.revealer=头盔附魔.可以看到灵气节点,类似神秘时代的揭示之护目镜.

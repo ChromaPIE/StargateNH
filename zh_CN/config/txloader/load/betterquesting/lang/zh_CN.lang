@@ -1784,7 +1784,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFLA.desc=MV流体提取机比LV流体提
 
 # Quest: MV Superconductors (128 EU/t)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFfA.name=§6§lMV超导(128 EU/t)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFfA.desc=无损的MV超导导线怎么样？Pentacadmiummagnesiumhexaoxide(MV超导)是一种超导材料,可以毫无损失地传递能量. 现在,每个电压都有线损为0的超导导线.%n%n在搅拌机中搅拌镉,镁和氧. 制得的粗胚粉需要用带有坎塔尔合金线圈的电力高炉(EBF)烧制. 再用真空冷冻机来冷却它. 制作一些MV超导基导线并使用组装机将这些导线与氦、不锈钢流体管道和MV泵组合在一起,以获得128EU/t的超导导线.%n%n[note]当然,是否需要为了节省这么一点能量,就通过这么复杂的工序制造超导导线,完全取决于你自己. 另外请注意,虽然这些超导导线是"导线",但碰到它们不会触电受伤.[/note]%n%n译者注:如果你试图在互联网上搜索GTNH的超导材料,可能会找到一个叫做"Superconductors"的网站,给出了很多种高温超导材料,这正是GTNH前期超导的灵感来源.但是最好别相信那上面的"研究成果",因为这是个民科网站.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFfA.desc=来个无损的128EU导线怎么样？五镉镁六氧化物（Pentacadmiummagnesiumhexaoxide）是一种超导材料，能够实现零损耗的能量传输。从MV开始，每个阶段都拥有相应的无损超导导线。%n%n制作方法：在MV等级的搅拌机中混合镉、镁和氧。随后，将制得的超导基粉末放入加装有坎塔尔合金线圈的电力高炉中熔炼得到热锭。最后的冷却步骤需使用真空冷冻机完成。制成MV超导基导线后，在组装机中与氦气、不锈钢管道及MV电动泵组合，即可获得128EU/t的超导导线。%n%n[note]为了节省那么一点零头的电而大费周章是否合算，当然取决于你的考量。另请注意：没有橡胶裹覆的导线会电人，但超导导线是例外。[/note]
 
 # Quest: Cough Cough - Something Needs to Be Done About the Smell
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFiQ.name=§6§l咳咳咳-需要处理下污染了!
@@ -2061,7 +2061,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAD3Q.desc=跃动合金是将充能合金�
 
 # Quest: Energetic Alloy
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAD3g.name=§9§l充能合金
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD3g.desc=充能合金是将导电铁、黑钢和金搅拌而成的一种新型合金.在制造双层电容和HV能源仓的时候需要用到它. 在得到充能合金粉末后需要将它放入电力高炉中熔炼成充能合金锭.%n%n[note]单步搅拌的配方用到了7种原料,所以需要EV+或者多方块搅拌机.现阶段你得用另一个配方.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD3g.desc=充能合金是来自末影接口的一种新型合金，由金粉、导电铁粉和黑钢粉混合而成，是双层电容和HV能源仓的关键制造材料。%n%n[note]一步到位的搅拌机配方共包含7种原料，因此需要EV等级或多方块形式的搅拌机才能制作。眼下你只能选择另一种合成方式。[/note]
 
 # Quest: RF Solar Panel
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAD6A.name=§9§lRF太阳能板
@@ -2081,7 +2081,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAD9A.desc=你已经从副产物中获得�
 
 # Quest: SMD Circuit Components
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAD9Q.name=§9§l贴片电路元件
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD9Q.desc=SMD(Surface-mount devices意为:表面贴装机件)是一种更先进的电子零件. 在生产下一阶高级电路板的时候你需要用到它们.而且它们要比基础的电容、晶体管、二极管、电阻便宜. 等到你搭建了一条可靠的聚乙烯生产线,你就可以批量使用贴片电路元件节省大量资源.%n%n建议你检查下自己还有多少镓存货.现在使用贴片二极管和贴片晶体管并不划算,除非你可以通过高压粉碎机(处理铝土或是闪锌矿)或者蜜蜂提供稳定的镓来源. 使用IC相应杂交产物可以让你的锌、闪锌和铝土拥有4倍产出.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD9Q.desc=贴片元件（Surface-mount device，SMD，即“表面贴装器件”）是更先进的电路元件。贴片元件的制造成本比基础的电容、晶体管、二极管和电阻更低，从下一阶段开始，它们将成为电路制造的必需耗材。一旦你建立了可靠的聚乙烯生产线，使用贴片元件可以节省大量资源。%n%n务必检查你现有的镓储备量。在拥有HV研磨机或蜜蜂提供的稳定供应前，使用贴片二极管和晶体管可能不太划算。同时建议研究IC2作物，这能使锌、闪锌矿和铝土矿产量提升4倍。
 
 # Quest: Workstations, Your First EV Circuit
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAD9g.name=§9§l工作站,你的第一种EV电路板
@@ -2297,7 +2297,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHIA.desc=岩石切割机是一种自带�
 
 # Quest: Magnetic Personality
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHQg.name=§9§l私人磁铁
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHQg.desc=如果你没有从战利品袋里开到过电磁铁,那就用充能晶体做一个吧.  在服务器中,如果你移动太快时,它不能很好地工作,但它能使收获作物变得简单.%n%n译者注:试试龙研的磁铁吧,现在它的造价大幅度下调了.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHQg.desc=如果你没有从战利品袋里开到过电磁铁,那就用充能晶体做一个吧.  在服务器中,如果你移动太快时,它不能很好地工作,但它能使收获作物变得简单.%n%n译者注:试试龙之进化的磁铁吧,现在它的造价大幅度下调了.
 
 # Quest: LV Field Generator
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHTw.name=§9§lLV力场发生器
@@ -4056,7 +4056,7 @@ betterquesting.quest.4MzUrkH5QsWnE_4APuHhNg.desc=光学处理器集群是第二�
 
 # Quest: Awakened Core
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0w.name=觉醒核心
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0w.desc=到目前为止,一定还有什么东西,沉睡在你制作和研究的所有龙研材料的深处.是时候唤醒它了!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0w.desc=到目前为止,一定还有什么东西,沉睡在你制作和研究的所有龙之进化材料的深处.是时候唤醒它了!
 
 # Quest: Infinity Helmet
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKCA.name=无尽头盔
@@ -4116,7 +4116,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMpw.desc=其构造是你无法理解的.
 
 # Quest: Dragonblood
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMsA.name=龙血
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMsA.desc=你需要龙血制造第一批海珀珍.也许你已经有了些龙血,是很久以前击杀末影龙掉落的,正躺在某个地方.不过还有两个其他选择:蜜蜂和龙研聚合装置(DE Fusion Crafter).%n%n对于蜜蜂路线,你需要深入研究蜜蜂培育线,但说不定你已经完成了?不论如何,看看"蜜蜂育种"任务栏吧.%n%n在龙研聚合装置中有两个配方.较好的一个要用到巫术mod的无限之蛋.如果你没有巫术进度的话,就只能用普通龙蛋,使用较弱的配方了.%n%n只要你有了些海珀珍,就能以此开始在超维度等离子锻炉(DTPF)中制造更多,而不需要龙血了.我不知道为何这么设计,要抱怨就找Colen吧.不过,你最终还是需要更多的龙血,以制造UMV超导.%n%n%n[note]实际上还有另一种方法获得龙血,这与龙研聚合装置的配方相似,不过是用搅拌机.它的速度更慢,资源利用率更低.尤其要注意的是,这个配方会消耗龙蛋.所以只有在你需要完全避开魔法和蜜蜂线的时候,才会使用这个配方.[/note]%n%n[note]流体任务目标只要求你物品栏内某个容器中有相应的流体.(单元、通用流体单元、大型单元、容量瓶,等等.)[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMsA.desc=你需要龙血制造第一批海珀珍.也许你已经有了些龙血,是很久以前击杀末影龙掉落的,正躺在某个地方.不过还有两个其他选择:蜜蜂和龙之进化聚合制造器.%n%n对于蜜蜂路线,你需要深入研究蜜蜂培育线,但说不定你已经完成了?不论如何,看看"蜜蜂育种"任务栏吧.%n%n在龙之进化聚合制造器中有两个配方.较好的一个要用到巫术mod的无限之蛋.如果你没有巫术进度的话,就只能用普通龙蛋,使用较弱的配方了.%n%n只要你有了些海珀珍,就能以此开始在超维度等离子锻炉(DTPF)中制造更多,而不需要龙血了.我不知道为何这么设计,要抱怨就找Colen吧.不过,你最终还是需要更多的龙血,以制造UMV超导.%n%n%n[note]实际上还有另一种方法获得龙血,这与龙之进化聚合制造器的配方相似,不过是用搅拌机.它的速度更慢,资源利用率更低.尤其要注意的是,这个配方会消耗龙蛋.所以只有在你需要完全避开魔法和蜜蜂线的时候,才会使用这个配方.[/note]%n%n[note]流体任务目标只要求你物品栏内某个容器中有相应的流体.(单元、通用流体单元、大型单元、容量瓶,等等.)[/note]
 
 # Quest: Infinity Boots
 betterquesting.quest.AzTPKiXuRWaBTOFhTeV83Q.name=无尽靴子
@@ -4382,7 +4382,7 @@ betterquesting.quest.MiGXZ65sRwiAdpsCrVB0Eg.desc=这个坏小子可以同时支�
 
 # Quest: Stars, So Many Stars
 betterquesting.quest.QO1gudFvTtKgWe9942dW3Q.name=星星，好多星星
-betterquesting.quest.QO1gudFvTtKgWe9942dW3Q.desc=永恒线圈？是时候去获取第三个星门奖杯了。%n你知道的，你提供两个星门的材料，就能得到你的奖杯。就是这么简单。%n%n[note]我们的时间旅程继续向前，进入 UMV，也称为超维度等离子锻炉时代。%n%n令人惊讶的是，仍然是 2022 年，但自上次停留在 UEV 时代以来，发生了大量变化。超维度等离子锻炉已经实装，包括海珀珍和永恒线圈，UMV 的机器零件也可以制作。无线能源现在也已存在，有电容库和常规仓室类型，AE2FC 也在整合包中，允许精确液体合成（意味着不再需要容量瓶搬运）。%n电力情况自 UEV 时代以来没有太大变化，除了戴森球更加bug了，可以提供免费的无限电力（滥用这点会被贴上滥用bug的标签）。%n其他一些新的有用的东西是巨型合金冶炼炉、集成矿石处理厂、太空电梯、UIV 和 UMV 单方块（以及处理阵列可接受多达 64 个 UEV+ 机器）、极限工业温室、电力聚爆压缩机、工业和巨型蜂巢、尧它储罐、存储总线、数据库链和龙研聚合装置。%n星门的成本现在已经飙升，比以往任何时候都高，标志着 GT:NH 终局游戏的新纪元，扩张的时代。%n%n这次领先的 GDCloud 团队被 Neo Caelestia 团队挑战，他们以惊人的速度进步，越来越接近成为第一个到达星门的人，但最终还是没能完全赶上，因此 GDCloud 团队再次在 2022 年 11 月 19 日第一个征服了挑战。%n%nP.S. 你知道这怎么做，对吧？这是清单：%n-PCB 工厂、元件装配线、进阶装配线、超维度等离子搅拌机、鸿蒙之眼、量子操纵者%n-多安无线仓%n-低于1tick的超频、批处理模式、多方块机器上的产物溢出保护%n-维修仓、存储舱门、合成输入总线%n%nP.P.S. 混沌电容库？那是什么？[/note]
+betterquesting.quest.QO1gudFvTtKgWe9942dW3Q.desc=永恒线圈？是时候去获取第三个星门奖杯了。%n你知道的，你提供两个星门的材料，就能得到你的奖杯。就是这么简单。%n%n[note]我们的时间旅程继续向前，进入 UMV，也称为超维度等离子锻炉时代。%n%n令人惊讶的是，仍然是 2022 年，但自上次停留在 UEV 时代以来，发生了大量变化。超维度等离子锻炉已经实装，包括海珀珍和永恒线圈，UMV 的机器零件也可以制作。无线能源现在也已存在，有电容库和常规仓室类型，AE2FC 也在整合包中，允许精确液体合成（意味着不再需要容量瓶搬运）。%n电力情况自 UEV 时代以来没有太大变化，除了戴森球更加bug了，可以提供免费的无限电力（滥用这点会被贴上滥用bug的标签）。%n其他一些新的有用的东西是巨型合金冶炼炉、集成矿石处理厂、太空电梯、UIV 和 UMV 单方块（以及处理阵列可接受多达 64 个 UEV+ 机器）、极限工业温室、电力聚爆压缩机、工业和巨型蜂巢、尧它储罐、存储总线、数据库链和龙之进化聚合制造器。%n星门的成本现在已经飙升，比以往任何时候都高，标志着 GT:NH 终局游戏的新纪元，扩张的时代。%n%n这次领先的 GDCloud 团队被 Neo Caelestia 团队挑战，他们以惊人的速度进步，越来越接近成为第一个到达星门的人，但最终还是没能完全赶上，因此 GDCloud 团队再次在 2022 年 11 月 19 日第一个征服了挑战。%n%nP.S. 你知道这怎么做，对吧？这是清单：%n-PCB 工厂、元件装配线、进阶装配线、超维度等离子搅拌机、鸿蒙之眼、量子操纵者%n-多安无线仓%n-低于1tick的超频、批处理模式、多方块机器上的产物溢出保护%n-维修仓、存储舱门、合成输入总线%n%nP.P.S. 混沌电容库？那是什么？[/note]
 
 # Quest: A Second Ring has Hit the Godforge
 betterquesting.quest.Qjg1J4kuS-6937dCEUqHUw.name=§b§lA Second Ring has Hit the Godforge
@@ -6461,7 +6461,7 @@ betterquesting.quest.prKPwVNgSgOE1NGPiEEF-g.desc=...但是它们可以像蜜蜂�
 
 # Quest: Draconic Development
 betterquesting.quest.rZCrzZ3QTni28BdPZf2-0w.name=龙之进化发展
-betterquesting.quest.rZCrzZ3QTni28BdPZf2-0w.desc=龙研聚合装置有5级外壳，每级都是上一级的升级。%n%n每新一级的外壳都可以让你制造出更好的核心，最高级为混沌核心。%n%n[note]配方时间将会除以超出配方所需等级的外壳等级数！[/note]
+betterquesting.quest.rZCrzZ3QTni28BdPZf2-0w.desc=龙之进化聚合制造器有5级外壳，每级都是上一级的升级。%n%n每新一级的外壳都可以让你制造出更好的核心，最高级为混沌核心。%n%n[note]配方时间将会除以超出配方所需等级的外壳等级数！[/note]
 
 # Quest: One Fluid Tank to Store it All!!
 betterquesting.quest.tQecVBhjRRyfR3sqeNBrtA.name=§6§l至尊储罐驭众液
@@ -6501,8 +6501,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADAA.name=你闻起来像掉到了酒桶�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADAA.desc=在你处理裂解燃料或热解炉配方时,这个狠角色会极大地提高副产率.如此一来你就可以更有效率的制造工业TNT、塑料、聚四氟乙烯,以及其他塑料产品.你也需要这台机器来完成你的铂线.%n%n你需要在超净间中制造EV电路板,然后才能制造这台机器.%n%n至于仓室,你可以自由选择.一个MV能源仓就可以胜任大多数有用的配方.两个MV能源仓或者一个HV能源仓就可以覆盖除了污染物或丙酮外几乎所有的配方.%n%n你还需要一个输入仓、至少五个输出仓,以及一个输出总线用于收集那些固体产出.%n%n[note]PS：我在数据表格里列出了所有的蒸馏塔配方,这样你查看起来会更加方便. 现在你可以轻易比较选择处理石油的路线了![/note]
 
 # Quest: Bring Me My Vat of Polyethylene!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADbA.name=给我一大桶聚乙烯!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADbA.desc=厌倦了使用小单元来处理化学品?建造一个大型化学反应釜吧,你可以直接用管道输入或输出流体,或使用大型流体单元来从输出仓运输流体.%n%n你可以选择大型化学反应釜是否销毁过多的输出物，在GUI内的销毁模式按钮进行选择。%n%n顺便说一下,某些旧配方在大型化学反应釜中变得更简单了(24号电路板,可跳过一步或多步合成).%n%n大型化学反应釜可看做超净间环境.%n%n你还需要:%n1x维修仓%n1x能源仓%n0+输入总线(如果配方需要输入物品的话,为了完全自动化,你可能需要每种材料放一个输入总线)%n0-1x输出总线(如果配方会输出物品的话)%n2+输入仓(每种流体一个输入仓)%n1+输出仓(同上)%n%n对准输出仓使用螺丝刀,可以循环切换其输出模式. 手持螺丝刀Shift+右键,可以直接切换为特定流体模式(specific-fluid-mode),然后用单元锁定输出的流体,这样自动化就会方便多了. 锁定流体适用于所有输出仓,并不仅仅支持大型化学反应釜.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADbA.name=聚乙烯，满上！
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADbA.desc=厌倦了用小单元处理化学品？大型化学反应釜能让流体摆脱单元的限制，直接通过管道等途径输入和输出，或使用更高效的大型流体单元从仓室中装卸流体。%n%n通过GUI中的“销毁模式”开关，你可以决定当输出仓满载时是否弃置多余产物。%n%n有些配方为大化反专属，其中的某些能合并多项工序，一步到位，请务必留意这些特殊配方。%n%n此外，作为多方块机器，大化反自带超净环境，无需身处超净间即可处理任何有超净间需求的配方。%n%n多方块结构的其他构件包括：%n1个维修仓%n1-2个能源仓%n0+个输入总线（若配方材料中包含物品，为达成全自动化，建议为每种材料配备1个）%n0-1个输出总线（若配方有物品输出）%n2+个输入仓（为每种流体单独配备1个）%n1+个输出仓（同上）%n%n手持螺丝刀右击输出仓可循环切换模式，潜行右击则直接调整至指定流体模式，此时可使用存有流体的单元锁定流体类型，以此简化自动化流程。该操作的适用范围不仅限于大化反。
 
 # Quest: Hulk Smash!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFjQ.name=绿巨人重拳粉碎!

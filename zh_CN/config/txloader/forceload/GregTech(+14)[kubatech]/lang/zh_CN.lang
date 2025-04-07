@@ -1,7 +1,7 @@
 #This file is a translation file for KubaTech
 
 #RecipeMaps
-kubatech.defusioncrafter=龙研聚合装置
+kubatech.defusioncrafter=龙之进化聚合制造器
 
 #NEI
 kubatech.defusioncrafter.tier=外壳等级: %s
@@ -91,7 +91,7 @@ kubablock.tea_storage.name=§4§l茶叶存储扩展器
 
 #DEFC Casings
 defc.casing.name=Fusion Casing
-defc.casing.tip=龙研聚合装置外壳 T %d
+defc.casing.tip=龙之进化聚合制造器外壳，%d级
 
 #Items
 item.kubaitems.name=Tea / Tea Leaf

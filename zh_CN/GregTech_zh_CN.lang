@@ -2134,7 +2134,7 @@ languagefile {
     S:TileEntity_DESCRIPTION_00109_Index_01=机器类型：§e提取机§r
     S:TileEntity_DESCRIPTION_00110_Index_00=提取你的第一块橡胶
     S:TileEntity_DESCRIPTION_00110_Index_01=机器类型：§e提取机§r
-    S:TileEntity_DESCRIPTION_00111_Index_00=自动维护多方块机器
+    S:TileEntity_DESCRIPTION_00111_Index_00=自动维修多方块机器
     S:TileEntity_DESCRIPTION_00111_Index_01=4个航空胶带，2个润滑油单元
     S:TileEntity_DESCRIPTION_00111_Index_02=4个钢螺丝，2个高级电路板
     S:TileEntity_DESCRIPTION_00111_Index_03=自动维护多方块机器
@@ -7945,7 +7945,7 @@ languagefile {
     S:TileEntity_DESCRIPTION_04980_Index_00=只是一个能安装覆盖板的方块
     S:TileEntity_DESCRIPTION_04985_Index_00=只是一个能安装覆盖板的方块
     S:TileEntity_DESCRIPTION_05001_Index_00=机器类型：§e聚合装置§r
-    S:TileEntity_DESCRIPTION_05001_Index_01=龙研聚合装置的控制器方块
+    S:TileEntity_DESCRIPTION_05001_Index_01=龙之进化聚合制造器的控制器方块
     S:TileEntity_DESCRIPTION_05001_Index_02=添加者：§4§lk§c§lu§6§lb§e§la§2§l6§a§l0§b§l0§3§l0§r & §6Prometheus0000
     S:TileEntity_DESCRIPTION_05001_Index_03=超出配方等级的机械方块可使机器超频
     S:TileEntity_DESCRIPTION_05001_Index_04=加工时间=原时间/超出等级
@@ -13783,7 +13783,7 @@ languagefile {
     S:TileEntity_DESCRIPTION_15496_Index_02=高速光纤接口
     S:TileEntity_DESCRIPTION_15496_Index_03=§b启用前必须涂色
     S:TileEntity_DESCRIPTION_15497_Index_00=§9Tec§1Tech§9: θ运动
-    S:TileEntity_DESCRIPTION_15497_Index_01=用于自动维护多方块机器
+    S:TileEntity_DESCRIPTION_15497_Index_01=用于自动维修多方块机器
     S:TileEntity_DESCRIPTION_15497_Index_02=它能修好一切，除了自己.
     S:TileEntity_DESCRIPTION_15497_Index_03=§b为人民服务!
     S:TileEntity_DESCRIPTION_15498_Index_00=§9Tec§1Tech§9：维度穿越
@@ -21687,7 +21687,7 @@ languagefile {
     S:gt.blockmachines.multimachine.concretebackfiller1.name=混凝土回填机
     S:gt.blockmachines.multimachine.concretebackfiller3.name=进阶混凝土回填机
     S:gt.blockmachines.multimachine.cracker.name=石油裂化机
-    S:gt.blockmachines.multimachine.defusioncrafter.name=龙研聚合装置
+    S:gt.blockmachines.multimachine.defusioncrafter.name=龙之进化聚合制造器
     S:gt.blockmachines.multimachine.dieselengine.name=大型内燃引擎
     S:gt.blockmachines.multimachine.distillationtower.name=蒸馏塔
     S:gt.blockmachines.multimachine.electromagneticseparator.name=磁通量效应监视器
@@ -53179,7 +53179,7 @@ languagefile {
     S:gt.metaitem.01.32762.tooltip=三录仪
     S:gt.metaitem.01.32763.name=GT传感器
     S:gt.metaitem.01.32763.tooltip=
-    S:gt.metaitem.01.32764.name=布莱恩科技航空专用强化胶带FAL84型
+    S:gt.metaitem.01.32764.name=大脑科技航空专用强化胶带FAL-84型
     S:gt.metaitem.01.32764.tooltip=如果一个胶带不能修复你的大型机器，那么就来两个！
     S:gt.metaitem.01.32765.name=麦高芬239
     S:gt.metaitem.01.32765.tooltip=比Phlebotnium好42%

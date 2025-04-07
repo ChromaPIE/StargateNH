@@ -103,7 +103,7 @@ item.draconicevolution:draconicIngot.name=觉醒龙锭
 item.draconicevolution:creativeStructureSpawner.name=Structure Spawner
 item.draconicevolution:creativeStructureSpawnerComet.name=生成彗星
 item.draconicevolution:creativeStructureSpawnerEnderIsland.name=生成末影岛
-item.draconicevolution:infoTablet.name=龙之研究信息板
+item.draconicevolution:infoTablet.name=龙之进化信息板
 item.draconicevolution:wrench.name=连接扳手
 item.draconicevolution:dezilsMarshmallow.name=Dezil的棉花糖
 item.draconicevolution:reactorCraftingPart.name=Reactor Stabilizer
@@ -127,8 +127,8 @@ item.draconicevolution:magnet.draconic.name=觉醒物品错位器
 item.draconicevolution:adminSpawnEgg.name=Spawn Egg
 
 //Item Groups ----------------------------------------------------------------------------------------------------------------------------------------
-itemGroup.toolsAndWeapons=龙之研究工具和武器
-itemGroup.blocksAndItems=龙之研究方块和物品
+itemGroup.toolsAndWeapons=龙之进化工具和武器
+itemGroup.blocksAndItems=龙之进化方块和物品
 
 //Chat Messages ----------------------------------------------------------------------------------------------------------------------------------------
 msg.size0.txt=工具模式：单个方块
@@ -233,7 +233,7 @@ info.draconicAxe2.txt=将会使整棵树倒下
 info.draconicAxe3.txt=或者破坏大小为5×5×5区块里所有木头
 info.draconicAxe4.txt=按住Shift来挖掘单个方块
 
-info.draconicCore.txt=龙之研究的核心零件
+info.draconicCore.txt=龙之进化的核心零件
 info.draconicCore1.txt=它可以使刷怪笼变得稳定
 
 info.mobSoul1.txt=可以在一个稳定的刷怪笼上设置它的生成物
@@ -284,18 +284,20 @@ info.de.hudDisplayConfigInfo2.txt=改变位置
 info.de.manual.introTxt.txt=你想知道的，我们都有噢，嘿嘿嘿~
 info.de.manual.indexButton.txt=目录
 info.de.manual.indexButtonTip.txt=去引导页
-info.de.manual.contributors.txt=龙之研究的贡献者
+info.de.manual.contributors.txt=龙之进化的贡献者
 info.de.manual.name.txt=名字
 info.de.manual.contribution.txt=贡献
 info.de.manual.clickToGoToSite.txt=(点击名字打开网站)
 info.de.manual.contributorsButton.txt=贡献者
-info.de.manual.contributorsButtonInfo.txt=那些对龙之研究有贡献的人
+info.de.manual.contributorsButtonInfo.txt=那些对龙之进化有贡献的人
 info.de.shiftRightClickToActivate.txt=Shift + 右键来激活
 info.de.blockRange.txt=方块范围
 
 info.de.manual.nav1.txt=导航提示
 info.de.manual.nav2.txt=按退格键(Backspace)回到上一页
 info.de.manual.nav3.txt=按住Shift快速浏览
+
+info.de.dislocatorInhibitor.txt=Magnet blocker
 
 //Energy Net
 info.de.modeIn.txt=模式：输入
@@ -309,8 +311,10 @@ info.infusedObsidian.txt=这个方块可以抵抗凋灵
 
 enchantment.draconicevolution.reaperEnchant=收割者
 
+nei.recipe.reactor.category=Reactor
+
 //Achievements ----------------------------------------------------------------------------------------------------------------------------------------
-draconicevolution.achievementPage.name=龙之研究
+draconicevolution.achievementPage.name=龙之进化
 
 achievement.draconicevolution.dust=开始做大事!
 achievement.draconicevolution.dust.desc=收集龙之尘
@@ -395,7 +399,7 @@ achievement.draconicevolution.soul.desc=获得生物的灵魂
 achievement.draconicevolution.sundial=计时员
 achievement.draconicevolution.sundial.desc=造出日晷仪，控制昼夜
 achievement.draconicevolution.manual=智慧已经满了!
-achievement.draconicevolution.manual.desc=创造龙之研究信息板
+achievement.draconicevolution.manual.desc=创造龙之进化信息板
 
 //InfoHelper ----------------------------------------------------------------------------------------------------------------------------------------
 info.de.tier.txt=等级
@@ -653,6 +657,16 @@ gui.de.ShieldRecovery.txt=护甲回复
 gui.de.MoveSpeed.txt=移动速度
 gui.de.JumpBoost.txt=跳跃提升
 
+gui.de.dislocatorInhibitor.range.txt=Range:
+gui.de.dislocatorInhibitor.tooltip.range.increase.txt=Increase Range
+gui.de.dislocatorInhibitor.tooltip.range.decrease.txt=Decrease Range
+gui.de.dislocatorInhibitor.tooltip.activity.always.txt=Active regardles of redstone power
+gui.de.dislocatorInhibitor.tooltip.activity.with.txt=Active with redstone power
+gui.de.dislocatorInhibitor.tooltip.activity.without.txt=Active without redstone power
+gui.de.dislocatorInhibitor.tooltip.activity.never.txt=Always inactive
+gui.de.dislocatorInhibitor.tooltip.activity.cycle.txt=Click to cycle through activity control
+gui.de.dislocatorInhibitor.tooltip.whitelist.txt=Only items in filter will be blocked
+gui.de.dislocatorInhibitor.tooltip.blacklist.txt=Items in filter will NOT be blocked
 
 //Potions ----------------------------------------------------------------------------------------------------------------------------------------
 potion.de.effect.txt=效果
