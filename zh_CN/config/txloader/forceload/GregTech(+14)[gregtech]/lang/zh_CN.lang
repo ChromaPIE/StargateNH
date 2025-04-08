@@ -95,7 +95,7 @@ GTPP.tooltip.tin_foil_hat=DoomSquirter's protection against cosmic radiation!\nG
 GTPP.tooltip.bad_tooltip_id=Bad Tooltip ID - %d
 
 # GT++ chem
-GTPP.tooltip.catalyst.active_reaction_agent=Active Reaction Agent
+GTPP.tooltip.catalyst.active_reaction_agent=主动反应作用剂
 GTPP.tooltip.milling_ball.tumble=骨碌碌 骨碌碌
 
 # Infinite Spray Can
@@ -131,7 +131,7 @@ GT5U.power_goggles.toggle_power_chart=Toggle Power Chart
 GT5U.autoplace.error.no_hatch=§c建议放置仓室 §4%s§c ,但未在库存中找到
 GT5U.autoplace.error.no_mte.id=§c建议放置meta-ID为 §4%s§c 的方块,但未在库存中找到
 GT5U.autoplace.error.no_mte.class_name=§c建议放置class名为 §4%d§c 的方块,但未在库存中找到
-GT5U.providesfullhazmatprotection=Provides full hazmat protection.
+GT5U.providesfullhazmatprotection=可完全隔离危害。
 
 # Multiblock Tooltip Builder Keywords
 # Context can be found in the class gregtech.api.util.MultiblockTooltipBuilder

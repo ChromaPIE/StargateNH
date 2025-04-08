@@ -3998,13 +3998,13 @@ gtpp.gui.config.asm.general=通用
 
 # item tooltips
 gtpp.tooltip.ingot.very_hot=§7Warning: §cVery hot! §7Avoid direct handling..
-gtpp.tooltip.tickable.decay_seconds=%d§7 seconds until decay
+gtpp.tooltip.tickable.decay_seconds=%d§7秒后衰变
 gtpp.tooltip.ion_particles.state_not_set=A %s Ion with an §eUnknown§7 charge state
 gtpp.tooltip.ion_particles.charge_positive=A %s Ion with a §aPositive§7 charge state of %d
 gtpp.tooltip.ion_particles.charge_negative=A %s Ion with a §cNegative§7 charge state of %d
 gtpp.tooltip.base_particles.type=Type: %s
 gtpp.tooltip.base_particles.type.quark=Quark
-gtpp.tooltip.base_particles.type.lepton=Lepton
+gtpp.tooltip.base_particles.type.lepton=轻子
 gtpp.tooltip.base_particles.type.boson=Boson
 gtpp.tooltip.base_particles.type.baryon=Baryon
 gtpp.tooltip.base_particles.type.meson=Meson
@@ -4012,7 +4012,7 @@ gtpp.tooltip.base_particles.type.unknown=未知
 gtpp.tooltip.integrated_circuit.configuration=配置值 == %d
 gtpp.tooltip.scrubber_turbine.early_tier=An early tier Turbine for Atmospheric Reconditioning.
 gtpp.tooltip.scrubber_turbine.uses_left=剩余使用次数：%d/%d。
-gtpp.tooltip.buffer_core.key_crafting_component=A key crafting component for %s Appliances
+gtpp.tooltip.buffer_core.key_crafting_component=%s级设备的关键合成组件
 gtpp.tooltip.magic_feather.0=Does not need to be the item held in your hand to work
 gtpp.tooltip.magic_feather.1=Needs to be within beacon range
 gtpp.tooltip.magic_feather.2=Range is beacon level * 10 + 10
@@ -4020,8 +4020,8 @@ gtpp.tooltip.book.author=作者：%s
 gtpp.tooltip.book.pages.s=Pages: %s
 gtpp.tooltip.book.pages.d=Pages: %d
 gtpp.tooltip.meta_casing.energy_storage=Energy Storage: %s
-gtpp.tooltip.cover_item.connection.allow=Allows Connections: true
-gtpp.tooltip.cover_item.connection.deny=Allows Connections: false
+gtpp.tooltip.cover_item.connection.allow=允许连接：是
+gtpp.tooltip.cover_item.connection.deny=允许连接：否
 gtpp.tooltip.cover_item.change_state=Shift Rmb to change state before applying
 gtpp.tooltip.dark_world_portal.frame.0=Use this to access the Toxic Everglades.
 gtpp.tooltip.dark_world_portal.frame.1=Assembled in the same shape as the Nether Portal.
