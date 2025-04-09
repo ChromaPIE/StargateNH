@@ -4621,12 +4621,12 @@ languagefile {
     S:TileEntity_DESCRIPTION_00998_Index_01=重工业，就在你家门口！
     S:TileEntity_DESCRIPTION_00998_Index_02=化工厂等级取决于机器外壳等级
     S:TileEntity_DESCRIPTION_00998_Index_03=仓室等级不得高于机器外壳等级，使用UHV机器外壳时则无此限制
-    S:TileEntity_DESCRIPTION_00998_Index_04=更高等级的线圈可提升处理速度：T1 = 50%, T2 = 100%, T3 = 150%……
+    S:TileEntity_DESCRIPTION_00998_Index_04=更高等级的线圈可提升处理速度：T1 = 50%，T2 = 100%，T3 = 150%……
     S:TileEntity_DESCRIPTION_00998_Index_05=更高等级的管道外壳可提供并行，并降低催化剂消耗：
     S:TileEntity_DESCRIPTION_00998_Index_06=每级+2并行，+20%不消耗催化剂的几率
     S:TileEntity_DESCRIPTION_00998_Index_07=催化剂必须通过催化剂室供给
     S:TileEntity_DESCRIPTION_00998_Index_08=使用觉醒龙线圈方块和钨钢管道外壳时将完全不消耗催化剂
-    S:TileEntity_DESCRIPTION_00998_Index_09=§7§m-------------------------------------------
+    S:TileEntity_DESCRIPTION_00998_Index_09=§7§m--------------------------------------------
     S:TileEntity_DESCRIPTION_00998_Index_10=按住 §l[LSHIFT]§r§7 以显示结构指导
     S:TileEntity_DESCRIPTION_00998_Secondary_Index_00=   §f控制器：§7底部中央
     S:TileEntity_DESCRIPTION_00998_Secondary_Index_01=§f   催化剂室：§7替换底边任意机器外壳

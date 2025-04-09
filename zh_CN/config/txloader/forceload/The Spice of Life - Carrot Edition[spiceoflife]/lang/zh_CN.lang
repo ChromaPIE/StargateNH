@@ -21,6 +21,9 @@ spiceoflife.tooltip.to.open.food.container=潜行时使用以开启
 spiceoflife.tooltip.can.spill.food=打开时食物会从中涌出
 spiceoflife.tooltip.hold.key.for.details=按住%s获取详细信息
 
+spiceoflife.tooltip.diminishing=Diminishing Returns:
+spiceoflife.tooltip.extrahearts=Extra Hearts:
+
 # Quantity descriptors
 spiceoflife.quantity.one.time=1次
 spiceoflife.quantity.two.times=2次
@@ -40,7 +43,7 @@ spiceoflife.gui.food.num=食物 #%d
 spiceoflife.gui.items.on.page=%d-%d 共计%d次食用
 spiceoflife.gui.food_history.title=关于我的食物
 spiceoflife.gui.food_history.worth_eaten=值得吃:
-spiceoflife.gui.food_history.bonus_hearts=奖励生命上限:
+spiceoflife.gui.food_history.bonus_hearts=生命值加成：
 spiceoflife.gui.food_history.next_heart=下一次奖励:
 
 # Items

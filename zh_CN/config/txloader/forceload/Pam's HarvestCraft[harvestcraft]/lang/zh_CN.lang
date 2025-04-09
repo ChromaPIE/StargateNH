@@ -539,7 +539,7 @@ item.cornbreadItem.name=玉米面包
 item.tortillaItem.name=墨西哥玉米饼
 item.nachoesItem.name=烤辣味干酪玉米片
 item.tacoItem.name=塔可饼
-item.fishtacoItem.name=海鲜塔可饼
+item.fishtacoItem.name=鲜鱼塔可饼
 item.creamedcornItem.name=奶油玉米
 
 item.strawberrysmoothieItem.name=草莓冰沙
@@ -654,7 +654,7 @@ item.spicymustardporkItem.name=辛辣芥末猪肉
 item.spicygreensItem.name=辛辣蔬菜
 
 item.garlicbreadItem.name=蒜蓉面包
-item.garlicmashedpotatoesItem.name=蒜蓉土豆泥
+item.garlicmashedpotatoesItem.name=蒜香土豆泥
 item.garlicchickenItem.name=蒜香鸡
 
 item.summerradishsaladItem.name=水萝卜沙拉
@@ -1044,7 +1044,7 @@ item.roastchickenItem.name=烤鸡
 item.roastpotatoesItem.name=烤土豆
 item.sundayroastItem.name=周日烤肉
 item.bbqpulledporkItem.name=BBQ手撕猪肉堡
-item.lambwithmintsauceItem.name=薄荷羊肉
+item.lambwithmintsauceItem.name=薄荷酱羊肉
 item.steakandchipsItem.name=薯条牛排
 
 item.cherryicecreamItem.name=樱桃冰淇淋
@@ -1083,7 +1083,7 @@ item.porklomeinItem.name=肉捞面
 item.salmonpattiesItem.name=三文鱼饼
 item.sausageItem.name=香肠
 item.sausagerollItem.name=香肠卷
-item.sesameballItem.name=芝麻球
+item.sesameballItem.name=麻团
 item.sesamesnapsItem.name=芝麻糖片
 item.shrimpokrahushpuppiesItem.name=虾肉秋葵玉米饼
 item.soysauceItem.name=酱油

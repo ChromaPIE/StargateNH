@@ -14,7 +14,7 @@ neiintegration.tooltip.internalName=ID：
 neiintegration.tooltip.unlocalizedName=未本地化名称:
 neiintegration.tooltip.maxstack=最大堆叠数:
 neiintegration.tooltip.burntime=燃烧时间:
-neiintegration.tooltip.oredict=矿物词典名称:
+neiintegration.tooltip.oredict=矿物词典名称：
 neiintegration.tooltip.fluidreg=流体注册表信息:
 neiintegration.tooltip.fluidreg.empty=空容器
 
