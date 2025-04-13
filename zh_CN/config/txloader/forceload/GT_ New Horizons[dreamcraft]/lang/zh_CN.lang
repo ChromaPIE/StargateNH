@@ -979,7 +979,6 @@ EtFuturumRequiem.research_page.UNDYINGTOTEM.1=What is better than having strong 
 tc.research_name.HELLISHMETAL=地狱金属
 tc.research_text.HELLISHMETAL=The Wrath of the Hellish Magic, Trapped in metal form.
 TConstruct.research_page.HELLISHMETAL.1=To hold Hellish Metal is to feel the searing heat of hellfire coursing through your veins, a reminder of the untamed power it contains. Its very presence distorts the air around it, warping reality and casting ominous shadows that seem to whisper of unspeakable horrors. This metal is not merely a tool or a weapon—it is a conduit for the raw, unrelenting fury of the Nether.
-
 tc.research_name.GREENHEARTCANISTER=绿心容器
 tc.research_text.GREENHEARTCANISTER=[TC]装在一个大盒子里.
 TConstruct.research_page.GREENHEARTCANISTER.1=绿心容器可提升玩家血量上限,需要装备于匠魂护甲栏右侧方可生效.绿心容器最高提升10心血量上限(可堆叠装备10个,每个1心).当它生效时并不会出现更多的血量条,如果黄心血量已满时装备绿心容器,它就会将血量条上的黄心替换为绿心.

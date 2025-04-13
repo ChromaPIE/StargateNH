@@ -21,4 +21,8 @@ item.dyePowder.name=染料
 item.skull.name=骷髅
 item.fish.name=鱼
 
+commands.time.get=The current world time is %s (time of day: %s)
+commands.time.usageWithGet=/time <set|add> <value> OR /time get
+
 hodgepodge.soundsmenu.refreshsounds=Refresh Sounds
+hodgepodge.bed_respawn.msg=Respawn Set
