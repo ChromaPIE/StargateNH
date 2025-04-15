@@ -10,9 +10,9 @@ itemGroup.GregTech.Materials=材料
 itemGroup.GregTech.Ores=矿石
 
 # Components
-gt.component.dust=%s Dust
-gt.component.dustsmall=Small Pile of %s Dust
-gt.component.dusttiny=Tiny Pile of %s Dust
+gt.component.dust=%s粉
+gt.component.dustsmall=小堆%s粉
+gt.component.dusttiny=小撮%s粉
 gt.component.ingot=%s Ingot
 gt.component.hotingot=Hot %s Ingot
 gt.component.plate=%s Plate
@@ -147,19 +147,19 @@ tile.gt.dronerender.name=Drone Renderer
 
 # GT Item Descriptions
 gt.item.desc.stored_heat=Stored Heat: %s
-gt.item.desc.durability=Durability: %s/%s
+gt.item.desc.durability=耐久度：%s/%s
 gt.item.desc.tier=%s Tier %s
 gt.item.desc.level=%s lvl %s
 gt.item.desc.damage=Attack Damage: %s
-gt.item.desc.mine_speed=Mining Speed: %s
-gt.item.desc.base_eff=Base Efficiency: %s
+gt.item.desc.mine_speed=采掘速度：%s
+gt.item.desc.base_eff=基础效率：%s
 gt.item.desc.fuel_eff=Fuel | Optimal Flow > EU/t Produced | Efficiency
 gt.item.desc.gas_energy=Energy from Optimal Gas Flow: %s EU/t
 gt.item.desc.plasma_energy=Energy from Optimal Plasma Flow: %s EU/t
 gt.item.desc.stored_eu=Contains %s EU   Tier: %s
 gt.item.desc.empty=Empty. You should recycle it properly.
 gt.item.desc.eu_info=%s / %s EU - Voltage: %s
-gt.item.desc.no_fluid=No Fluids Contained
+gt.item.desc.no_fluid=不含流体
 gt.item.desc.fluid_info=%sL / %sL
 gt.item.desc.miss_coord=Missing Coordinates!
 gt.item.desc.device_at=Device at:
@@ -192,8 +192,11 @@ gt.interact.desc.any_i_invert_o=Permit any input, Invert output
 gt.interact.desc.mb.idle.1=Hit with Soft Mallet
 gt.interact.desc.mb.idle.2=to (re-)start the Machine
 gt.interact.desc.mb.idle.3=if it doesn't start.
-gt.interact.desc.mb.running=Running perfectly.
+gt.interact.desc.mb.running=运行良好。
 gt.interact.desc.mb.incomplete=Incomplete Structure.
+gt.interact.desc.mb.locking_on=Single recipe locking enabled. Will lock to next recipe.
+gt.interact.desc.mb.locking_off=Single recipe locking disabled.
+gt.interact.desc.mb.mode=§fRunning mode: §6%s
 gt.interact.desc.o=Export
 gt.interact.desc.i=Import
 gt.interact.desc.o_c=Export (conditional)
@@ -419,7 +422,7 @@ gtpp.material.Lead=Lead
 gtpp.material.Lepersonnite=Lepersonnite
 gtpp.material.Li2CO3CaO2H2Compound=Li2CO3 + CaO2H2 Compound
 gtpp.material.Lithium=Lithium
-gtpp.material.LithiumCarbonate=Lithium Carbonate
+gtpp.material.LithiumCarbonate=碳酸锂
 gtpp.material.LithiumHydroperoxide=Lithium Hydroperoxide
 gtpp.material.LithiumHydroxide=Lithium Hydroxide
 gtpp.material.LithiumPeroxide=Lithium Peroxide
@@ -841,7 +844,7 @@ GT5U.coil.MAX=永恒
 
 GT5U.MS.multismelting=同时熔炼
 
-gt.casing.no-mob-spawning=Mobs cannot Spawn on this Block
+gt.casing.no-mob-spawning=怪物无法在此方块上生成
 gt.casing.not-tile-entity=§l不是§7方块实体！
 gt.casing.blast-proof=This Block is Blast Proof
 gt.casing.heat-capacity=Base Heating Capacity = %s Kelvin
@@ -1437,8 +1440,8 @@ GT5U.item.programmed_circuit.no_screwdriver.1=你的拇指不是螺丝刀.拿个
 GT5U.item.programmed_circuit.no_screwdriver.2=Chuck Norris可以盯着电路板,然后电路板就自己再编程了. 但你不行.
 GT5U.item.programmed_circuit.select.header=再编程电路
 
-GT5U.item.programmed_circuit.tooltip.0=Configuration %s
-GT5U.item.programmed_circuit.tooltip.1=Right click to reconfigure
+GT5U.item.programmed_circuit.tooltip.0=配置值 %s
+GT5U.item.programmed_circuit.tooltip.1=右击以重新配置
 GT5U.item.programmed_circuit.tooltip.2=Needs a screwdriver or programming tool
 
 GT5U.item.cable.max_voltage=最大电压
