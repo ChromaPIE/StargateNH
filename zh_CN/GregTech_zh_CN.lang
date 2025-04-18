@@ -43098,10 +43098,10 @@ languagefile {
     S:gt.blockstones.7.name=平滑大理石
     S:gt.blockstones.8.name=玄武岩
     S:gt.blockstones.9.name=玄武岩圆石
-    S:gt.blocktintedglass.0.name=染色工业玻璃(白)
-    S:gt.blocktintedglass.1.name=染色工业玻璃(浅灰)
-    S:gt.blocktintedglass.2.name=染色工业玻璃(灰)
-    S:gt.blocktintedglass.3.name=染色工业玻璃(黑)
+    S:gt.blocktintedglass.0.name=染色工业玻璃（白色）
+    S:gt.blocktintedglass.1.name=染色工业玻璃（淡灰色）
+    S:gt.blocktintedglass.2.name=染色工业玻璃（灰色）
+    S:gt.blocktintedglass.3.name=染色工业玻璃（黑色）
     S:gt.blocktintedglass.32767.name=任意本方块的子方块
     S:gt.bwMetaGeneratedGTEnhancementcapsule.name=Generated Item
     S:gt.bwMetaGeneratedGTEnhancementcapsuleMolten.name=Generated Item
