@@ -7,7 +7,7 @@ enhancedlootbags.string.fortuned=§6你的运气提升了%d%%
 itemGroup.ELBTab=增强战利品袋
 
 enhancedlootbags.nei.category=战利品袋
-enhancedlootbags.nei.recipe.also_has_loot_from=Also has loot from:
+enhancedlootbags.nei.recipe.also_has_loot_from=也可开出：
 enhancedlootbags.nei.recipe.drop_id=掉落ID：%s
 enhancedlootbags.nei.recipe.drop_group=掉落组：%s
 enhancedlootbags.nei.recipe.amount_exact=数量：%s
