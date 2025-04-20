@@ -6484,6 +6484,10 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEQ.desc=任务书的这一页展示
 betterquesting.quest.0rUmaWIPQPaL93q-_pgKXw.name=一台蒸汽驱动的离心机!
 betterquesting.quest.0rUmaWIPQPaL93q-_pgKXw.desc=在蒸汽时代,如何对稀有材料进行离心分离?答案当然是建造和使用蒸汽分离机!通过使用蒸汽产生旋转力,这个多方块机器可以快速且轻松地离心不同的材料.%n%n如果你觉得离心需要很长时间,那么蒸汽分离器会加快速度!%n%n§3§3这个多方块机器可以处理最高 LV 级别的配方,并且处理需要输出仓的配方.但如果你想处理需要流体输入的配方,你将来可能需要建造一台 LV 离心机.
 
+# Quest: Big Beautiful Brewery
+betterquesting.quest.3SzKMSj0StOAOzVmInDjZQ.name=Big Beautiful Brewery
+betterquesting.quest.3SzKMSj0StOAOzVmInDjZQ.desc=Start your own local brewery with the BBB! You can use it to make tons of potions, obscure alcoholic drinks, or, more likely, industrial quantities of lubricant.
+
 # Quest: Fits The Mold
 betterquesting.quest.6glle46JSyuwR6O4x7mLYA.name=适合不同模具
 betterquesting.quest.6glle46JSyuwR6O4x7mLYA.desc=为每种模具都制造一台流体固化器听起来很累人......幸运的是,流体成型机多方块可以通过使用§l固化器模具仓§r来处理任意数量的模具.这种多方块机器还可以升级,如果你在两端添加额外的片,就能获得更多的并行.如果速度太慢,一定要升级它!%n%n注：大型流体固化器在运行过程中也会比单方块流体固化器更快,使其更有效地进行大批量生产.
@@ -9765,6 +9769,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMsg.desc=流体合成已经直接集成�
 # Quest: 4096k Essentia Storage Cell
 betterquesting.quest.G5g_5_24RS6sqhmjFEbf8A.name=4096k-ME源质存储元件
 betterquesting.quest.G5g_5_24RS6sqhmjFEbf8A.desc="它们"可以存储 8,388,608 点源质。%n%n以及48个种类。
+
+# Quest: Get Your Priorities Straight
+betterquesting.quest.Hbq2zJcoQbWK20-2A-kI1Q.name=Get Your Priorities Straight
+betterquesting.quest.Hbq2zJcoQbWK20-2A-kI1Q.desc=You might find yourself setting up complicated systems involving many storage buses with differing priorities. To make it less tedious, grab a priority card!%n%nThis tool allows you to set many buses to the same priority with a single click... but better yet, it also features §nincrement and decrement modes!§r Every time you click on a bus, the priority will be set to one higher/lower than the previous bus you clicked, so setting up large arrays of descending priorities is a breeze.
 
 # Quest: 16384k Essentia Component
 betterquesting.quest.JejpWZ7ATZq-0uomP4c7UA.name=16384k-ME源质存储组件
