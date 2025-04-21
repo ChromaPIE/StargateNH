@@ -385,6 +385,8 @@ gui.AntimatterGenerator.1=效率
 batch_mode.cfgi.0=Batch Size
 gt.blockmachines.YottaFluidTank.cfgi.0=更新速度(每x个tick更新一次I/O)
 
+gg.gui.text.large_essentia_smeltery.requires=Requires %s total §bAqua§f and §cIgnis §fcentivis to function.
+
 # RecipeMaps
 gg.recipe.naquadah_reactor=大型硅岩反应堆
 gg.recipe.naquadah_fuel_refine_factory=硅岩燃料精炼厂
