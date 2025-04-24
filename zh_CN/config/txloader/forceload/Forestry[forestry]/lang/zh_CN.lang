@@ -554,9 +554,9 @@ for.researchNote.error.1=笔记已经难以阅读，一文不值。
 for.researchNote.discovered.0=§a发现新种！
 for.researchNote.discovered.1=§e‘%1$s’§7(%2$s)
 for.researchNote.discovery.0=§a发现突变！
-for.researchNote.discovery.1=§e‘%SPEC1’§7以及§e‘%SPEC2’§7。
+for.researchNote.discovery.1=§e“%SPEC1”§7以及§e“%SPEC2”§7。
 for.researchNote.discovery.2=成功率为§9%s§7。
-for.researchNote.discovery.3=新种为§d‘%s’§7。
+for.researchNote.discovery.3=新种为§d“%s”§7。
 
 for.mutation.condition.biome.single=该突变只可能在%s生物群系中发生。
 for.mutation.condition.biome.multiple=该突变会在和%s类似的生物群系中。
