@@ -338,13 +338,6 @@ item.itemControlCore.tooltip.2=Lower tiers may be used to underclock, which is u
 item.thekeytothecity.tooltip.0=You feel like you're on top of the world.
 item.thekeytothecity.tooltip.1=Wear it around your neck like an amulet.
 
-# Conversion Dusts
-item.dustNeptunium238.name=Neptunium 238 Dust
-item.dustRadium226.name=Radium 226 Dust
-item.itemDustDecayedRadium226.name=Decayed Radium 226 Dust
-item.itemDustSmallDecayedRadium226.name=Small Decayed Radium 226 Dust
-item.itemDustTinyDecayedRadium226.name=Tiny Decayed Radium 226 Dust
-
 # Material Items
 item.itemDustGadolinium.name=Gadolinium Dust
 item.itemDustSmallGadolinium.name=Small Pile of Gadolinium Dust
@@ -2868,9 +2861,12 @@ tile.Block of Abyssal Alloy.name=Block of Abyssal Alloy
 tile.Abyssal Alloy Frame Box.name=Abyssal Alloy Frame Box
 
 # Radioactive
-item.dustTechnetium99M.name=Technetium 99M Dust
-item.dustTechnetium99.name=Technetium 99 Dust
-item.dustMolybdenum99.name=Molybdenum 99 Dust
+item.dustNeptunium238.name=Neptunium 238 Dust
+item.dustNeptunium239.name=Neptunium 239 Dust
+item.dustRadium226.name=Radium 226 Dust
+item.itemDustDecayedRadium226.name=Decayed Radium 226 Dust
+item.itemDustSmallDecayedRadium226.name=Small Decayed Radium 226 Dust
+item.itemDustTinyDecayedRadium226.name=Tiny Decayed Radium 226 Dust
 
 # Bags
 item.item.MysticBag.name=Mystic Pouch
@@ -3317,9 +3313,9 @@ item.itemDustIndalloy140.name=Indalloy 140 Dust
 item.itemDustLFTRFuel1.name=LFTR Fuel 1 Dust
 item.itemDustLFTRFuel2.name=LFTR Fuel 2 Dust
 item.itemDustLFTRFuel3.name=LFTR Fuel 3 Dust
-item.itemDustManureByproducts.name=Manure Byproduct Dust
+item.itemDustManureByproducts.name=粪肥副产物粉
 item.itemDustMixTumbaga.name=Tumbaga Mix Dust
-item.itemDustOrganicFertilizer.name=Organic Fertilizer Dust
+item.itemDustOrganicFertilizer.name=有机肥料粉
 item.itemDustPotassiumNitrate.name=Potassium Nitrate Dust
 item.itemDustSodiumCyanide.name=Sodium Cyanide Dust
 item.itemDustSodiumFluoride.name=Sodium Fluoride Dust
@@ -3338,9 +3334,9 @@ item.itemDustSmallIndalloy140.name=Small Pile of Indalloy 140 Dust
 item.itemDustSmallLFTRFuel1.name=Small Pile of LFTR Fuel 1 Dust
 item.itemDustSmallLFTRFuel2.name=Small Pile of LFTR Fuel 2 Dust
 item.itemDustSmallLFTRFuel3.name=Small Pile of LFTR Fuel 3 Dust
-item.itemDustSmallManureByproducts.name=Small Pile of Manure Byproduct Dust
+item.itemDustSmallManureByproducts.name=小堆粪肥副产物粉
 item.itemDustSmallMixTumbaga.name=Small Pile of Tumbaga Mix Dust
-item.itemDustSmallOrganicFertilizer.name=Small Pile of Organic Fertilizer Dust
+item.itemDustSmallOrganicFertilizer.name=小堆有机肥料粉
 item.itemDustSmallPotassiumNitrate.name=Small Pile of Potassium Nitrate Dust
 item.itemDustSmallSodiumCyanide.name=Small Pile of Sodium Cyanide Dust
 item.itemDustSmallSodiumFluoride.name=Small Pile of Sodium Fluoride Dust
@@ -3359,9 +3355,9 @@ item.itemDustTinyIndalloy140.name=Tiny Pile of Indalloy 140 Dust
 item.itemDustTinyLFTRFuel1.name=Tiny Pile of LFTR Fuel 1 Dust
 item.itemDustTinyLFTRFuel2.name=Tiny Pile of LFTR Fuel 2 Dust
 item.itemDustTinyLFTRFuel3.name=Tiny Pile of LFTR Fuel 3 Dust
-item.itemDustTinyManureByproducts.name=Tiny Pile of Manure Byproduct Dust
+item.itemDustTinyManureByproducts.name=小撮粪肥副产物粉
 item.itemDustTinyMixTumbaga.name=Tiny Pile of Tumbaga Mix Dust
-item.itemDustTinyOrganicFertilizer.name=Tiny Pile of Organic Fertilizer Dust
+item.itemDustTinyOrganicFertilizer.name=小撮有机肥料粉
 item.itemDustTinyPotassiumNitrate.name=Tiny Pile of Potassium Nitrate Dust
 item.itemDustTinySodiumCyanide.name=Tiny Pile of Sodium Cyanide Dust
 item.itemDustTinySodiumFluoride.name=Tiny Pile of Sodium Fluoride Dust
