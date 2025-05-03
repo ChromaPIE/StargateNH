@@ -223,7 +223,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIA.desc=在你找到方法运水后,你
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.name=§2§l匠魂时间
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.desc=用燧石玩意去烧猪猪或牛群确实挺有趣的,但它们并不耐用,何况还不能修.再加上它这点伤害会让精英怪嘲笑你的. 不过,你发现了一种新的工具不仅可以被修复还可以升级!但你绝对需要更进阶的制作技术.  如果你想要使用橡木以外的其他木材来制作台子,可以将它们转换为默认的橡木样式以完成此任务.
 
-# Quest: Aluminini...um...?
+# Quest: Zinc Gravel
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIg.name=§2§l锌矿砂砾
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIg.desc=你可以在地表的沙砾堆中发现这种矿物砂砾的存在。%n%n尽可能省着用。等到踏入蒸汽时代，便可利用粉碎机获取双倍的产出。%n%n如果实在找不到，可以在任务书的硬币区买一些。%n%n等到进入了LV阶段，手上有了足够的锌矿石，且有条件进行完整的矿物处理，还可从中获取镓来合成砷化镓。
 
@@ -1221,9 +1221,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAEQg.desc=泵不仅仅能抽石油和水.
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEQw.name=§5§l钻石储罐...哦,闪闪发亮
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEQw.desc=在你制造了一台切割机之后,就可以切割一些钻石板来制作容量为64,000L的储罐了.
 
-# Quest: Firestone Ore/Dust
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE_w.name=§6§lFirestone Ore/Dust
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE_w.desc=Firestone ore is used to make some BC machines like the filler, and some other stuff. Unfortunately, it's in the nether...at the bottom of the lava ocean!%n%nHere are some tips for finding it:%n%n-Firestone only spawns in deep lava, at least 6 deep. It will only replace netherrack, so a fjord filled with soulsand won't have any. Can you think of ways to check the lava depth, and what's down there?%n-Alternatively, if you keep your head at just the correct height above the lava and at the correct angle, you'll be able to see underneath it - surely there must be a hovering jetpack?%n-...or just look for the biome when your cursor is over the JM map. Hell is the default one that has netherrack.%n%nFirestone can be mined with the GT miners, if you place it within horizontal range. Firestone ore and products will cause random fires to start nearby, so get it into a backpack quickly!
+# Quest: Firestone Ore
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE_w.name=§5§lFirestone Ore
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE_w.desc=Firestone ore is used to make some BC machines like the filler, and heats your Railcraft boiler much faster and more effectively than conventional fuels. %nUnfortunately, it's in the nether...at the bottom of the lava ocean!%n%nHere are some tips for finding it:%n%n-Firestone only spawns in deep lava, at least 6 blocks deep. It will only replace Netherrack, so a fjord filled with Soul Sand won't have any. Can you think of ways to check the lava depth, and what's down there?%n-Alternatively, if you keep your head at just the correct height above the lava and at the correct angle, you'll be able to see underneath it - surely there must be a hovering jetpack?%n-...or just look for the biome when your cursor is over the JM map. Hell is the default one that has Netherrack.%n%nFirestone can be mined with the GT miners, if you place it within horizontal range. Firestone ore and products will cause random fires to start nearby, so get it into a backpack quickly!
 
 # Quest: Ardite and Cobalt
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEaw.name=§5§l熔焱和钴
@@ -1726,7 +1726,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAEOQ.desc=有了进阶卷板机,你可以
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAERQ.name=§6§l你用完了黄金或者红石？
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAERQ.desc=你已经用完了你的黄金或者红石储备？如果你已经建设好了辉光花农场的话.你可以通过离心萤石粉来获得小堆的红石和金粉. 红石也是获得铝和铬的很好途径. 在HV阶段,你会用到成吨的金,在此之前早做储备是个好主意.%n%n[note]其实有许多植物都可以出产萤石,挑一种你喜欢的吧![/note]
 
-# Quest: Firestone Ore/Dust
+# Quest: Firestone Ore
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAE_w.name=§6§l火石矿/粉
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAE_w.desc=BC里面的建筑机和填充机都要用到火石.不幸的是火石只会在下界岩浆湖的底部生成...%n%n不过这里有一些提示可能会帮助到你:%n%n-火石只会在6格深以上的岩浆湖中生成,并且它只会取代地狱岩,所以一个充满了灵魂沙的峡谷是绝对不会产生火石的.你能想到检查岩浆深度,并获知底部有什么的方法吗?%n-或者,如果你可以让自己的脑袋保持在岩浆上方正确的高度,并找到一个正确的角度,你就能直接看到岩浆湖的底部-当然,一个可以悬停的背包是必不可少的.%n-...或者直接把鼠标移到旅行者地图上查看生物群系. 地狱(Hell)就是默认的地狱岩地形.%n%n只要在GT采矿机的工作范围内,火石也可以直接被挖出来.%n%n火石矿石或火石都会不断点燃身边的方块,因此找到后马上将它们收纳到背包里.
 
@@ -7462,7 +7462,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALmw.desc=你不应该点击陌生人的�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALnA.name=加油抽呀~嘿哟~
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALnA.desc=当你造好水库之后,应该会发现无法直接将原版水倒入水库.这是液压泵的工作.这种多方块结构有许多等级,可以让你的水库到达不同的水位(=更大的能量容量).为水泵提供原版水作为输入,并将其输出的流体导入水库.这样水库就会慢慢被填满.当水库满了或者抵达了水泵的上限后,水库会销毁接下来的水和能量.%n%n这就是所有的了,没什么特别的!%n%n如果你还有其他问题、发现信息缺失或者有任何建议,不要犹豫,直接到GTNH官方Discord来找我吧.请在你发的消息中加入'@SinTh0r4s',以确保我可以看到这条消息.%n%n
 
-# Quest: Let if flow, let it floww ...
+# Quest: Let it flow, let it floww ...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALnQ.name=让水流起来呀~流起来呀~
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALnQ.desc=...不能再忍了.迫不及待收获你努力工作的成果了!将水库的输出仓与水轮机的输入仓连接起来,享受最终的能量吧!你可以通过截断流体输入,或使用机器控制覆盖板,暂停此多方块结构.噢,你的水就会重新回到输出仓.%n%n祝贺你,建成了自己的水库!享受你的特大号电池吧!%n%n如果你还有其他问题、发现信息缺失或者有任何建议,不要犹豫,直接到GTNH官方Discord来找我吧.请在你发的消息中加入'@SinTh0r4s',以确保我可以看到这条消息.%n
 
