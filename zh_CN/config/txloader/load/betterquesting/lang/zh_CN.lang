@@ -6435,6 +6435,10 @@ betterquesting.quest.XKKP2E5ORG-ju42dSDd3sw.desc=为了压缩无尽催化剂和�
 betterquesting.quest.Y1kiJC_kRGKkW7h3qOPI8A.name=成百上千的eV
 betterquesting.quest.Y1kiJC_kRGKkW7h3qOPI8A.desc=线性加速器（LINAC）可以用于提高粒子束的能量，前提是粒子束的粒子是带电的。你需要不断地为其提供冷却剂，否则每次冷却剂耗尽时，你都会遇到机器故障。%n%n输出能量可以通过增加 EU/t（随立方根比例增长）或增加长度（线性增长）来提高。然而，增加长度也会降低聚焦程度。%n%n聚焦程度可以通过使用更好/温度更低的冷却剂来提高（在tooltip中列出了选项）。%n%n请注意，粒子数量不会改变。
 
+# Quest: Playing with Colors!
+betterquesting.quest.Z_jn8qzFQr6FWHzmt2i3Aw.name=§6§lPlaying with Colors!
+betterquesting.quest.Z_jn8qzFQr6FWHzmt2i3Aw.desc=Multiblock machines enforce input separation based on hatch color. Inputs from Input Busses and Input Hatches will only interact if they share the same color. Un-dyed inputs act as wildcards compatible with any color.%n%nColor can be applied using a Spray Can and removed with a Spray Can Solvent. An Infinite Spray Can becomes available later in progression.%n%n§6Now §2go §3have §4fun§5!!!
+
 # Quest: Don't Lose That Multiblock Miner!
 betterquesting.quest.b_Ll4zvSRfCMgmqiBa4Xkw.name=别把采矿场弄丢了!
 betterquesting.quest.b_Ll4zvSRfCMgmqiBa4Xkw.desc=作为一名日理万机的工程师,你很容易就会弄丢采矿场,对吧?你要不厌其烦地记住一些琐碎的事情,比如"我最后一次部署采矿场到底是在银河系的哪个犄角旮旯."你也可以做些无聊的事,比如"写下采矿场的位置坐标"或是"在自己的矿物处理区挂个写有采矿场坐标的牌子",不过现在有更好的方法了.%n%n数据发射器覆盖板.将此覆盖板贴上采矿场(或任意GT机器)时,将生成一张匹配该机器的高级传感器卡片(GT). 将此卡片插入NuclearCraft的工业信息屏,即可收到对应机器发回的运行信息,也包括当前坐标.另外,它也会返回其上一代普通传感器卡片(GT)所返回的信息.不过与上一代不同的是,数据发射器覆盖板§n可以在任意范围内跨维度工作,也无需范围升级.§r另外,由于拆卸机器时覆盖板仍然会保留在机器上,所以匹配的传感器卡片§n即便多方块机器多次搬迁,仍然可以继续工作,且无需重新校准.§r 这使其非常适合用于采矿场和油气流体钻机,这类需要部署在野外且经常搬迁的机器.%n%n但是,一如既往,这里隐藏着一个陷阱.如果将数据发射器覆盖板从主机上拆下,§n对应的传感器卡片将被摧毁.§r 也许你不该在敏感的电子设备周围使用撬棍...
