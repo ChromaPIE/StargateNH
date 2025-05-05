@@ -644,6 +644,9 @@ tile.blockWeatherObelisk.name=气象方尖碑
 tile.blockWeatherObelisk.tooltip.detailed.line1=改变当前天气
 tile.blockWeatherObelisk.tooltip.detailed.line2=需要大量能量
 tile.blockWeatherObelisk.tooltip.detailed.line3=和催化物品
+tile.blockWeatherObelisk.tooltip.detailed.line4=Liquid Sunshine: Sun
+tile.blockWeatherObelisk.tooltip.detailed.line5=Cloud Seed: Rain
+tile.blockWeatherObelisk.tooltip.detailed.line6=Concentrated Cloud Seed: Thunder
 
 tile.blockBuffer.name=Buffer
 tile.blockBuffer.item.name=物品缓存器
@@ -1101,6 +1104,10 @@ enderio.gui.machine.side.west=西
 enderio.gui.machine.side.east=东
 enderio.gui.machine.side.up=上
 enderio.gui.machine.side.down=下
+enderio.gui.machine.weather.control=Control Mode
+enderio.gui.machine.weather.redstone=Launch on Redstone Signal
+enderio.gui.machine.weather.manual=Launch Manually
+enderio.gui.machine.weather.run=Launch
 
 
 #Power Monitor

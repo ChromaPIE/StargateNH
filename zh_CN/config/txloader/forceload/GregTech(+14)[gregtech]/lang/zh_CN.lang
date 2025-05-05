@@ -1638,14 +1638,14 @@ GT5U.hatch.item.filter.disable=Item output filtering disabled
 GT5U.bus.filterTooltip.empty=§a从NEI拖拽物品以设置输出过滤
 GT5U.bus.filterTooltip.full=§a点击以清空输出过滤
 
-GT5U.multiblock.pollution=污染减少到
+GT5U.multiblock.pollution=污染降至
 GT5U.multiblock.energy=存储能量
-GT5U.multiblock.Progress=工作时间
+GT5U.multiblock.Progress=进度
 GT5U.multiblock.efficiency=效率
-GT5U.multiblock.problems=问题
+GT5U.multiblock.problems=故障
 GT5U.multiblock.mei=最大输入
 GT5U.multiblock.maxtier=最高级别
-GT5U.multiblock.usage=大概功率
+GT5U.multiblock.usage=当前耗能
 GT5U.multiblock.parallelism=最大并行
 GT5U.multiblock.curparallelism=当前并行
 GT5U.multiblock.euModifier=能耗修正
@@ -2747,7 +2747,7 @@ GTPP.machines.tier=等级
 GTPP.machines.input=输入
 GTPP.machines.output=输出
 
-GTPP.multiblock.pollutionreduced=减少污染至
+GTPP.multiblock.pollutionreduced=污染降至
 GTPP.multiblock.pollution=污染
 GTPP.multiblock.energy=能量存储
 GTPP.multiblock.progress=进度
