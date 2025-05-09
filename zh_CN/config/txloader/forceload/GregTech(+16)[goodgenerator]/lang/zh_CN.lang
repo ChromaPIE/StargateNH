@@ -398,7 +398,7 @@ value.naquadah_reactor=基础输出电压: %s EU/t
 value.naquadah_fuel_refine_factory=需要 %s 级线圈
 value.neutron_activator.0=最低中子动能：
 value.neutron_activator.1=最高中子动能：
-value.neutron_activator.2= MeV
+value.neutron_activator.2=MeV
 value.extreme_heat_exchanger.0=最大热流体输入：
 value.extreme_heat_exchanger.1=最大蒸馏水输入(常规):
 value.extreme_heat_exchanger.4=阈值：
@@ -525,7 +525,7 @@ CoolantTower.hint.1=28x碳化钨框架
 CoolantTower.hint.2=1 - 输入仓/输出仓
 
 #Chat
-largeessentiagenerator.chat= 已安装！
+largeessentiagenerator.chat=已安装！
 essentiahatch.chat.0=成功锁定为 %s.
 essentiahatch.chat.1=已清除.
 yothatch.chat.0=存储优先级设为 %s.

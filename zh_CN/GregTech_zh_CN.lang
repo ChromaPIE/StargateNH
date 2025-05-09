@@ -63664,7 +63664,7 @@ languagefile {
     S:gt.metaitem.02.name=Generated Item
     S:gt.metaitem.03.32006.name=湿件维生电路基板
     S:gt.metaitem.03.32006.tooltip=能够维持生命活力的电路基板
-    S:gt.metaitem.03.32007.name=塑料电路基板
+    S:gt.metaitem.03.32007.name=塑料电路板
     S:gt.metaitem.03.32007.tooltip=一块优质基板
     S:gt.metaitem.03.32008.name=生物电路基板
     S:gt.metaitem.03.32008.tooltip=生物基因突变的电路基板
@@ -63828,7 +63828,7 @@ languagefile {
     S:gt.metaitem.03.32098.tooltip=一个超级电路板
     S:gt.metaitem.03.32099.name=生物处理器超级电脑
     S:gt.metaitem.03.32099.tooltip=一个终极电路板
-    S:gt.metaitem.03.32100.name=电路基板
+    S:gt.metaitem.03.32100.name=电路板
     S:gt.metaitem.03.32100.tooltip=一个基础电路基板
     S:gt.metaitem.03.32101.name=进阶电路基板
     S:gt.metaitem.03.32101.tooltip=一块优质的电路基板
@@ -63840,7 +63840,7 @@ languagefile {
     S:gt.metaitem.03.32104.tooltip=一个精英电路基板
     S:gt.metaitem.03.32105.name=超级湿件维生电路基板
     S:gt.metaitem.03.32105.tooltip=能够维持生命活力的电路基板
-    S:gt.metaitem.03.32106.name=塑料电路基板
+    S:gt.metaitem.03.32106.name=塑料电路板
     S:gt.metaitem.03.32106.tooltip=一块优质基板
     S:gt.metaitem.03.32107.name=超生物突变电路基板
     S:gt.metaitem.03.32107.tooltip=生物基因突变的电路基板

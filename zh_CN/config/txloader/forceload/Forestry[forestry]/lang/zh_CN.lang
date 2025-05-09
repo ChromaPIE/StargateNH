@@ -422,8 +422,8 @@ for.hints.shortmead.tag=能量饮料！
 for.hints.usesofash.desc=灰烬可以用来加工废料，也可以用来精炼沥青质泥炭。
 for.hints.usesofash.tag=善用你的灰烬哦！
 
-for.item.crated.grammar=装箱的%s
-for.item.crated.unknown=装箱的未知物品
+for.item.crated.grammar=装箱%s
+for.item.crated.unknown=装箱未知物品
 item.cratedAcaciaSapling.name=Crated Acacia Sapling
 item.cratedAcaciaWood.name=Crated Acacia Wood
 item.cratedApples.name=Crated Apple

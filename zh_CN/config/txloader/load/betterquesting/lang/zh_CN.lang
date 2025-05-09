@@ -1583,7 +1583,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACXA.name=§6§l基础电容库
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACXA.desc=基础电容库是一种RF电池,可以存储RF能量. 将多个电容库组成一个更大的结构可以存储更多的能量-它们将合并成一个电池.%n%n如果不想用GUI的话,你还可以用剪线钳或以太扳手修改电容库任意面的模式.其中一个模式可以显示输入/输出的RF,但这个模式要求电容库高宽比要高一点.(1:1时可能显示不完全)%n%n电容库非常适合与RF机器连接.虽然GT电线可以将EU转化为RF,但GT电线输电为每A整包输送. EIO的机器可以恰到好处地接收能量,但基因工业的机器却做不到,会浪费一包中的大部分电力,所以遇上非EIO机器需要用到RF,就用电容库来转换一下吧.
 
 # Quest: Empty Plastic Board
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD9w.name=§6§l塑料电路基板
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD9w.name=§6§l塑料基板
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAD9w.desc=塑料电路基板首先需要使用硫酸和塑料板来制造塑料基板. 然后在基板上添加铜箔并通过氯化铁或者过硫酸钠处理后可以得到塑料电路基板. 之后它们的造价会随着科技提升而越来越低.%n%n[warn]塑料电路基板用于HV阶段制造的电路板.[/warn]
 
 # Quest: Raw Carbon Mesh
@@ -13215,7 +13215,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADwQ.name=赛特斯石英
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADwQ.desc=你可以用硬币购买一些赛特斯石英.
 
 # Quest: Basic Circuit Boards
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADww.name=电路基板
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADww.name=基础电路板
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADww.desc=你可以用硬币购买一些电路基板.
 
 # Quest: Good Circuit Boards
@@ -13311,7 +13311,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAECg.name=末影之眼
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAECg.desc=你可以用硬币购买一些末影之眼.
 
 # Quest: Plastic Circuit Boards
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEDA.name=塑料电路基板
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEDA.name=塑料电路板
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEDA.desc=你可以用硬币购买一些塑料电路基板.
 
 # Quest: Central Processing Units
