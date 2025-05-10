@@ -2153,15 +2153,15 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAE0w.desc=微型处理器是制造LV电�
 
 # Quest: HV Cutting Machine
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAE1A.name=§9§lHV切割机
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE1A.desc=生产NOR、NAND和其他的高端芯片都需要用到HV级别的切割机.你还需要这台机器切割磷掺杂的单晶硅.%n%n[note]很快你就会发现,每种切割配方都需要超净间环境了,所以记得仔细查看NEI.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE1A.desc=生产NOR、NAND和其他的高端芯片都需要用到HV级别的切割机.你还需要这台机器切割掺磷单晶硅.%n%n[note]很快你就会发现,每种切割配方都需要超净间环境了,所以记得仔细查看NEI.[/note]
 
 # Quest: Phosphorus Doped Monocrystalline Silicon
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE1Q.name=§9§l磷掺杂的单晶硅
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE1Q.name=§9§l掺磷单晶硅
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAE1Q.desc=传统的单晶硅制造方法相当昂贵. 因此我们研发了一种新的单晶硅制造方法,电力高炉通入氮气在不低于2484K的炉温下煅烧硅和磷的混合粉末,这样你就可以得到掺杂了磷的单晶硅.%n%n不幸的是,这些单晶硅需要的炉温超过了白铜线圈可以提供的炉温.%n你需要到"多方块结构"任务栏,依次获得超净间、真空冷冻机和坎塔尔线圈,然后你才能烧制单晶硅.%n%n译者注:幸运的是,高炉会随电压,在基础炉温的基础上调整实际炉温. 详情请参考"电力高炉时代"任务.%n%n更高级的单晶硅可以切出更多的晶圆,制成更多的芯片.但某些时候一些低阶单晶硅也是少不了的.
 
 # Quest: Phosphorus Doped Wafer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE1g.name=§9§l磷掺杂的晶圆
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE1g.desc=想要将磷掺杂的单晶硅切割成晶圆,需要MV以上的切割机,并且需要保证切割环境洁净无尘. 未来技术更加先进的单晶硅会用到HV以上的切割机!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE1g.name=§9§l掺磷晶圆
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE1g.desc=想要将掺磷单晶硅切割成晶圆,需要MV以上的切割机,并且需要保证切割环境洁净无尘. 未来技术更加先进的单晶硅会用到HV以上的切割机!
 
 # Quest: NOR and NAND Chips
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAE1w.name=§9§lNOR芯片和NAND芯片
@@ -2790,12 +2790,12 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAGhQ.name=§b§lIV电路组装机
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGhQ.desc=IV电路组装机可以让你轻松制作MV电路板,以及单步EV电路板.
 
 # Quest: Naquadah Doped Monocrystalline Silicon
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGhg.name=§b§l硅岩掺杂的单晶硅
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGhg.desc=要制造更先进的晶圆,首先需要制作硅岩掺杂的单晶硅. 该过程需要750秒,并且需要将太阳能级硅块、硅岩锭和砷化镓晶体放入电力高炉中进行熔炼. 你可以从每个单晶硅中切割获得64个晶圆.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGhg.name=§b§l掺硅岩单晶硅
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGhg.desc=要制造更先进的晶圆,首先需要制作掺硅岩单晶硅. 该过程需要750秒,并且需要将太阳能级硅块、硅岩锭和砷化镓晶体放入电力高炉中进行熔炼. 你可以从每个单晶硅中切割获得64个晶圆.
 
 # Quest: Naquadah Doped Wafer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGhw.name=§b§l硅岩掺杂的晶圆
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGhw.desc=为了制造一些硅岩掺杂的晶圆,将硅岩掺杂的单晶硅置于切割机中. 这种先进的晶圆和芯片需要HV切割机.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGhw.name=§b§l掺硅岩晶圆
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGhw.desc=为了制造一些掺硅岩晶圆,将掺硅岩单晶硅置于切割机中. 这种先进的晶圆和芯片需要HV切割机.
 
 # Quest: SoC - System on a Chip
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGiQ.name=§b§lSoC-芯片级的系统!
@@ -3487,8 +3487,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALfw.name=§c§l硅岩锭
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALfw.desc=如果想要硅岩锭的话,可以将其与碳粉一起在电力高炉中熔炼.
 
 # Quest: Silicon Boule
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALgA.name=§c§l硅岩掺杂的单晶硅
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALgA.desc=你还可以用氧化硅岩粉在电力高炉中直接生产硅岩掺杂的单晶硅,比用硅岩锭耗时更短.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALgA.name=§c§l掺硅岩单晶硅
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALgA.desc=你还可以用氧化硅岩粉在电力高炉中直接生产掺硅岩单晶硅,比用硅岩锭耗时更短.
 
 # Quest: Molecular Transformer, finally!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMBQ.name=§c§l最后,分子重组仪!
@@ -3508,7 +3508,7 @@ betterquesting.quest.eZADH1WASo6NLBUTKjLNGQ.desc=氰基丙烯酸乙酯,俗称超
 
 # Quest: Clarifier
 betterquesting.quest.mMCFuGqxQTuuLnJgEldztA.name=§c§l澄清器
-betterquesting.quest.mMCFuGqxQTuuLnJgEldztA.desc=水净化过程的第一步是澄清器.操作这台机器非常简单,您只需为过滤器保持稳定的活性炭供应.使用这台机器,您就能制造出1级纯净水,从而将硅岩掺杂的单晶硅和晶圆的加工速度提高25％.
+betterquesting.quest.mMCFuGqxQTuuLnJgEldztA.desc=水净化过程的第一步是澄清器.操作这台机器非常简单,您只需为过滤器保持稳定的活性炭供应.使用这台机器,您就能制造出1级纯净水,从而将掺硅岩单晶硅和晶圆的加工速度提高25％.
 
 
 ## Quest Line: Tier 7 - ZPM
@@ -3608,8 +3608,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKQw.name=ZPM能源仓
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKQw.desc=下一阶的聚变反应堆需要这种能源仓,这样你就能制造镅和三钛了,同时能源仓还可用于升级多方块机器.
 
 # Quest: Europium Doped Wafers
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKRg.name=铕掺杂的晶圆
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKRg.desc=比硅岩掺杂的晶圆更有效率.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKRg.name=掺铕晶圆
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKRg.desc=比掺硅岩晶圆更有效率.
 
 # Quest: PPIC Wafers
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKRw.name=皮米能量晶圆
@@ -3741,7 +3741,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAEsw.name=再来一个聚变堆
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEsw.desc=虽然有一个聚变堆已经很好了,但是为什么不再来一个呢? 现在你可以使用你的MK3型聚变堆来便宜的生产镅了.%n%n成本只有1个钚锭和2桶氢,这个配方可以让你相对于MK2反应堆更加便宜和快速的生产镅. 通过聚变堆获得镅等离子体,然后将等离子态的镅放入等离子涡轮机,这样不但获得了液态镅,并且还可以赚取一部分电能.免费能源!%n%n至少需要132个楣板用于制造控制器方块和聚变机械方块.
 
 # Quest: Americium Doped Wafers
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAH-Q.name=镅掺杂的晶圆
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAH-Q.name=掺镅晶圆
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH-Q.desc=这些是目前的终极晶圆,也是最高效的晶圆.
 
 # Quest: Quantum Computer

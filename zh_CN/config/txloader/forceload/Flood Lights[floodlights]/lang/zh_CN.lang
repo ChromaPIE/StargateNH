@@ -8,7 +8,7 @@ item.floodlights:mantle.name=灯架
 item.floodlights:lightDebugTool.name=灯泡调试工具
 
 #TileEntities
-tile.floodlights:carbonFloodlight.name=节能泛光灯
+tile.floodlights:carbonFloodlight.name=非电力泛光灯
 tile.floodlights:electricFloodlight.name=电力泛光灯
 tile.floodlights:smallElectricFloodlight.name=小型电力泛光灯
 tile.floodlights:uvFloodlight.name=UV泛光灯
