@@ -1217,7 +1217,7 @@ languagefile {
     S:Material.magnetoresonatic=磁共振石
     S:Material.malachite=孔雀石
     S:Material.manadiamond=魔力钻石
-    S:Material.manasteel=魔钢
+    S:Material.manasteel=魔力钢
     S:Material.manganese=锰
     S:Material.manyullyn=斫星
     S:Material.mar-ce-m200steel=MAR-Ce-M200特种钢
@@ -17324,7 +17324,7 @@ languagefile {
     S:fluid.molten.magnesia=熔融氧化镁
     S:fluid.molten.magnesium=熔融镁
     S:fluid.molten.magnetohydrodynamicallyconstrainedstarmatter=熔融磁流体动力学约束恒星物质
-    S:fluid.molten.manasteel=熔融魔钢
+    S:fluid.molten.manasteel=熔融魔力钢
     S:fluid.molten.manganese=熔融锰
     S:fluid.molten.manyullyn=熔融斫星
     S:"fluid.molten.mar-ce-m200 steel"=熔融MAR-Ce-M200特种钢
