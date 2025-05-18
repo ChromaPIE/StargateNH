@@ -704,7 +704,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAEZA.desc=你的原石或者泥土已经�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEZQ.name=§3§l桶升级 T2
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEZQ.desc=什么？你的桶又满了？ 不要紧,继续升级!
 
-# Quest: Alumite
+# Quest: Obzinite
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEZg.name=§3§l耐酸铝
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEZg.desc=又到了升级时间!理论上你可以在冶炼炉里面通过熔合钢、铝和黑曜石得到耐酸铝,但为了更高的产率,你可以展示你是一名格雷科技的优秀员工,在NEI里查询到另一种使用金属粉的制作配方. 耐酸铝制作的镐可以在下界采集熔焱矿石和钴矿石.%n%n将剩余的耐酸铝留在冶炼炉中,你将会用到它来锻造工具.你需要16个锭来制造2块大板.
 
@@ -1221,10 +1221,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAEQg.desc=泵不仅仅能抽石油和水.
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEQw.name=§5§l钻石储罐...哦,闪闪发亮
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEQw.desc=在你制造了一台切割机之后,就可以切割一些钻石板来制作容量为64,000L的储罐了.
 
-# Quest: Firestone Ore
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE_w.name=§5§lFirestone Ore
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE_w.desc=Firestone ore is used to make some BC machines like the filler, and heats your Railcraft boiler much faster and more effectively than conventional fuels. %nUnfortunately, it's in the nether...at the bottom of the lava ocean!%n%nHere are some tips for finding it:%n%n-Firestone only spawns in deep lava, at least 6 blocks deep. It will only replace Netherrack, so a fjord filled with Soul Sand won't have any. Can you think of ways to check the lava depth, and what's down there?%n-Alternatively, if you keep your head at just the correct height above the lava and at the correct angle, you'll be able to see underneath it - surely there must be a hovering jetpack?%n-...or just look for the biome when your cursor is over the JM map. Hell is the default one that has Netherrack.%n%nFirestone can be mined with the GT miners, if you place it within horizontal range. Firestone ore and products will cause random fires to start nearby, so get it into a backpack quickly!
-
 # Quest: Ardite and Cobalt
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEaw.name=§5§l熔焱和钴
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEaw.desc=有空的时候可以去下界找点熔焱和钴矿石。%n%n有传言说，在另一片大地——暮色森林之上，生长着一种奇特的木材，坚硬无比，足以开采这两种矿石。%n%n请记住，使用电力高炉才能将这些矿石处理成能够制造工具部件的材料。
@@ -1725,10 +1721,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAEOQ.desc=有了进阶卷板机,你可以
 # Quest: Did You Run Low On Gold or Redstone?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAERQ.name=§6§l你用完了黄金或者红石？
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAERQ.desc=你已经用完了你的黄金或者红石储备？如果你已经建设好了辉光花农场的话.你可以通过离心萤石粉来获得小堆的红石和金粉. 红石也是获得铝和铬的很好途径. 在HV阶段,你会用到成吨的金,在此之前早做储备是个好主意.%n%n[note]其实有许多植物都可以出产萤石,挑一种你喜欢的吧![/note]
-
-# Quest: Firestone Ore
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE_w.name=§6§l火石矿/粉
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE_w.desc=BC里面的建筑机和填充机都要用到火石.不幸的是火石只会在下界岩浆湖的底部生成...%n%n不过这里有一些提示可能会帮助到你:%n%n-火石只会在6格深以上的岩浆湖中生成,并且它只会取代地狱岩,所以一个充满了灵魂沙的峡谷是绝对不会产生火石的.你能想到检查岩浆深度,并获知底部有什么的方法吗?%n-或者,如果你可以让自己的脑袋保持在岩浆上方正确的高度,并找到一个正确的角度,你就能直接看到岩浆湖的底部-当然,一个可以悬停的背包是必不可少的.%n-...或者直接把鼠标移到旅行者地图上查看生物群系. 地狱(Hell)就是默认的地狱岩地形.%n%n只要在GT采矿机的工作范围内,火石也可以直接被挖出来.%n%n火石矿石或火石都会不断点燃身边的方块,因此找到后马上将它们收纳到背包里.
 
 # Quest: Tier 2 (MV)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEfA.name=§6§l第2阶段（MV）
@@ -4513,9 +4505,13 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAM4A.desc=愿梦想大师垂怜于你的�
 betterquesting.quest.IGVryoMbRu28q08v4uwSuw.name=制造太阳系...但是并行化!
 betterquesting.quest.IGVryoMbRu28q08v4uwSuw.desc=你可能已经注意到了,UXV部件与你目前能生产的宇宙素数量相比非常昂贵.%n%n使用星阵织造器将允许你并行运行鸿蒙之眼配方.你可以查看tooltip第二页中的数学公式计算.%n%n如果想直接得到答案,你可以使用这个表格来计算：[url]https://docs.google.com/spreadsheets/d/15j30mNnFIWBhwpJGuDrKTfiHBXNEEqyvB_r7ztFWlyQ[/url]%n%n[warn]注意,如果使用星阵织造器,鸿蒙之眼将使用原始恒星等离子体,而不是氢气和氦气.[/warn]%n%n[note]确保你已经发了足够多的电.[/note]
 
+# Quest: See You Next Time!
+betterquesting.quest.KNM9ICNAQIa8NaFoXwCC9g.name=See You Next Time!
+betterquesting.quest.KNM9ICNAQIa8NaFoXwCC9g.desc=Still want more? Consider doing another run! Maybe even with some restrictions if you want to spice it up a bit. Check the first quest chapter for some recommendations!%n%nThere's also roles to be earned for completing the pack two or even three times if you want an extra incentive.%n%n[note]If you are going for 100%% questbook completion, you can choose between this quest or 'The Factory Must Grow!', both are valid options.%nBe wary that choosing one will lock you out of the other though.[/note]
+
 # Quest: The Factory Must Grow!
 betterquesting.quest.OCv5OWo6Q9KDfqe1w0ET9w.name=The Factory Must Grow!
-betterquesting.quest.OCv5OWo6Q9KDfqe1w0ET9w.desc=Welcome to the post stargate tier! Now that you successfully managed to make a stargate, what about crafting them in an industrial quantity? Try to craft 5 pairs of gates in the least amount of time, then come in #screenshot-brag to post your time to see where your infrastructure stands in the community!%n%nNote: This quest is entirely optional for those who are attempting the challenge of fully completing the questbook.
+betterquesting.quest.OCv5OWo6Q9KDfqe1w0ET9w.desc=A single stargate pair wasn't enough for you?%n%nWell then, time to build a network.%n%nWelcome to the post-stargate tier! %n%nNow that you successfully managed to make a stargate, what about crafting them in industrial quantities? Try to craft 5 pairs of gates in the least amount of time, then come in #screenshot-brag and post your time to see where your infrastructure stands in the community!%n%n[note]If you are going for 100%% questbook completion, you can choose between this quest or 'See You Next Time!', both are valid options.%nBe wary that choosing one will lock you out of the other though.%n%nEnjoy your round of Minesweeper![/note]%n
 
 # Quest: Assembling on Space Steroids
 betterquesting.quest.UVG21mYSQJex90gQWdkpIw.name=在宇宙星辰间组装
@@ -14101,6 +14097,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAERw.desc=如果你找到了足够多的�
 # Quest: Moron's Guide to Better Trees
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEWw.name=种树"智者"手册
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEWw.desc=林业的树有多种属性.  当你获得一株具有某条优秀属性的树后,你可以将这条属性培育到其他树身上.用这种方法,你可以获得一棵终极之树,拥有所有你需要的属性-包括所结水果类型!要是你的科技已经发展到较高水平,还可以制造基因工业的机器辅助树苗培育.%n%n[warn]由于蝴蝶会严重影响TPS,请在室内或者地下进行你的林业树木培育工作.[/warn]%n%n请记住,当你要完成这些杂交树任务,需要提交的是"纯种"的树,"杂种"树可不行.你或许应该进行保留性杂交,直到获取了所有好属性为止.%n%n想要快速培育树苗的话,你得将它封闭起来,这样蝴蝶就跑不出去了,并且还能培育具有更好活动范围和授粉特性的蜜蜂.如果你尤有余力,还可以使用框架. 要是你能造一个蜂箱组的话,筛滤(花粉收集)会有一定帮助. 你需要蜜蜂或蝴蝶来帮助树木授粉. %n%n树具有以下属性:%n§e树苗/生育能力(S)§r: 破坏树叶获得树苗的几率. 高树苗掉率有利于制造生物质或其他用途. 巴尔杉树,有很高的树苗值,由鹅莓树和枫香树杂交培育而来.%n%n等位基因    掉落几率%n最低        1％%n较低        2.5％%n低          3.5％%n平均        5％%n高          10％%n%n[warn]成熟(M)[/warn]: 树苗长成树的速度.要是你想快速获得大量原木,这个参数很重要. 金树莓的成熟速度为最快.%n%n等位基因    长成时间%n最慢        10%n较慢        7%n慢速        5%n平均        4%n快速        3%n较快        2%n最快        ?%n%n§d高度(H)§r: 控制树木的生长高度.丛林木的高度已经很高了,但如果你想要最高的树,这里有获得黄檀树的指南.有传言说,罕见的村民拥有巨大的红杉树苗,能够伸入云端...可能有点§o太§r高大了.%n%n等位基因    高度值%n最小        25％%n较小        50％%n小          75％%n平均        100％%n大          125％%n较大        150％%n最大        175％%n巨大        BIG%n%n§b干围(G)§r: 树的宽度. 越宽的树有越多的原木与树叶,但也需要越多的树苗才能开始生长.所有树苗必须同种,且具有相同干围.西北角的树苗决定了新树的状态,而且是催生时骨粉的使用点.核桃初始就提供了2x2干围. 黄檀树的干围同样是最大的.%n%n等位基因    尺寸%n1x1%n2x2%n3x3%n4x4 %n%n产量(Y): 破坏树叶获得果实的几率. 苹果树和辣椒的产量是最高的.%n%n等位基因    掉落几率%n最低        2.5％%n较低        5％%n低          10％%n平均        20％%n高          30％%n较高        ?％%n%n§6多汁(S)§r: 在林业的发酵机中,每个树苗可产生的生物质量.你可以用蜂蜜或果汁来提高发酵机的出产. 高槿树和红花槭具有最高的多汁属性. 在NEI中无法查询被分析过的树苗以及"杂种"的树苗在发酵机中的合成配方.§r%n%n等位基因    生物质(林业)%n最低        100mB%n较低        200mB%n低          300mB%n平均        400mB%n高          600mB%n%n[warn]耐火[/warn]: 这条属性适用于原木. 只有海岸红杉和巨杉拥有耐火属性.%n%n§7特殊效果§r: 所有树都没有特殊效果.%n%n下面是关于其他参数的信息:%n%n§2生长§r: 绿心樟树是唯一的例外,它要求的不是光照而是热带环境,只能在温度90％-190％,且湿度90％-200％的生物群系种植,而生长条件更加苛刻,需要120％-190％的温度,与90％-200％湿度. 剩余所有树种,都仅需光照即可生长.%n%n[note]土壤[/note]: 所有树种都一样平均,无论这意味着什么. 可能有某种东西与下方土壤有关,但并没有后续开发.%n%n§e耐受§r: 是否可以在沙地上种植. 只有沙漠刺槐和猴面包树有沙地耐受属性. 这条属性只有两种:平原或平原+沙漠.%n%n§5结果§r: 理论上树木会结什么果.由物种决定. 树木只会结出在这条属性下同族的果实,而与树木在果实(F)属性下显示的无关.更多树(Extra-Trees)mod的树种支持所有四种类型,但没有来自林业本身的.%n%n§a果实(F)§r: 决定树木出产的水果或坚果. 每种水果/坚果有不同的增益:%n李子和樱桃李只出产100L果汁,但在流体提取机或榨汁机中有60％的几率出产覆盖物.%n木瓜可出产600L果汁,但覆盖物的产率仅为10％.%n椰子出产300L种子油,出产覆盖物的几率为25％.%n使用林业的多方块农场,可以让你免于手动破坏树叶获取水果/坚果. 将其模式设置为手动果园,然后将所有东西都摆好.%n%n§b族群§r: 告诉你在果实属性下面列出的水果/坚果所属的族群是什么: 梨果族、梅果族、坚果族或丛林.
+
+# Quest: Firestone Ore/Dust
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE_w.name=§6§l火石矿/粉
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE_w.desc=BC里面的建筑机和填充机都要用到火石.不幸的是火石只会在下界岩浆湖的底部生成...%n%n不过这里有一些提示可能会帮助到你:%n%n-火石只会在6格深以上的岩浆湖中生成,并且它只会取代地狱岩,所以一个充满了灵魂沙的峡谷是绝对不会产生火石的.你能想到检查岩浆深度,并获知底部有什么的方法吗?%n-或者,如果你可以让自己的脑袋保持在岩浆上方正确的高度,并找到一个正确的角度,你就能直接看到岩浆湖的底部-当然,一个可以悬停的背包是必不可少的.%n-...或者直接把鼠标移到旅行者地图上查看生物群系. 地狱(Hell)就是默认的地狱岩地形.%n%n只要在GT采矿机的工作范围内,火石也可以直接被挖出来.%n%n火石矿石或火石都会不断点燃身边的方块,因此找到后马上将它们收纳到背包里.
 
 # Quest: Kinetic Power HV
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEcQ.name=§9§l动能发电机（HV）
