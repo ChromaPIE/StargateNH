@@ -5916,7 +5916,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAIJQ.desc=很难看出哪块树叶被授�
 
 # Quest: Orchard Apple
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAINQ.name=苹果树
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAINQ.desc=苹果树有两个很好的属性.较快的生长属性意味着它可以很快从树苗长成树.更高的产量是任何林业树木的最佳属性.苹果树由苹果橡树与山丘樱杂交培育而来.%n%n如果你想要最快生长速度,可以培育金树莓.尝试自己找出它的培育线吧.%n%n高产量属性Get!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAINQ.desc=苹果树有两个很好的属性.较快的生长属性意味着它可以很快从树苗长成树.更高的产量是任何林业树木的最佳属性.苹果树由苹果橡树与山丘樱杂交培育而来.%n%n如果你想要最快生长速度,可以培育金覆盆子.尝试自己找出它的培育线吧.%n%n高产量属性Get!
 
 # Quest: Keeping Track of All Those Trees
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIOw.name=追踪林木
@@ -6027,8 +6027,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALNA.name=接骨木
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALNA.desc=将桤木与杨树杂交,你就可以培育出接骨木.
 
 # Quest: Raspberry
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALNQ.name=树莓
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALNQ.desc=将山丘樱和接骨木杂交,你就可以培育出树莓.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALNQ.name=覆盆子
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALNQ.desc=将山丘樱和接骨木杂交,你就可以培育出覆盆子.
 
 # Quest: Pomelo
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALNg.name=柚子树
@@ -6043,8 +6043,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALOA.name=橙子树
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALOA.desc=将橘子树和柚子树杂交,你就可以培育出橙子树.
 
 # Quest: Golden Raspberry
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALOQ.name=金树莓
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALOQ.desc=将树莓和橙子树杂交,你就可以培育出金树莓.%n%n[warn]最快的成熟速度Get![/warn]%n%n[note]不过这可能得等很久,嗯哼? 其实制造更多的多方块农场或是种植站可能会更快.[/note]%n%n[note]不过,你终究想要培育出终极树苗的,对吧.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALOQ.name=金覆盆子
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALOQ.desc=将覆盆子和橙子树杂交,你就可以培育出金树莓.%n%n[warn]最快的成熟速度Get![/warn]%n%n[note]不过这可能得等很久,嗯哼? 其实制造更多的多方块农场或是种植站可能会更快.[/note]%n%n[note]不过,你终究想要培育出终极树苗的,对吧.[/note]
 
 
 ## Quest Line: Multiblock Goals
