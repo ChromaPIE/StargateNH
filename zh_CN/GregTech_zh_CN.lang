@@ -11759,7 +11759,7 @@ languagefile {
     S:TileEntity_DESCRIPTION_12799_Index_01=容量：2,000,000,000升
     S:TileEntity_DESCRIPTION_12800_Index_00=扫描作物等物品
     S:TileEntity_DESCRIPTION_12800_Index_01=机器类型：§e扫描仪§r
-    S:TileEntity_DESCRIPTION_12800_Index_02=立刻结束扫描.无需能量.
+    S:TileEntity_DESCRIPTION_12800_Index_02=立即完成扫描。无需能量。
     S:TileEntity_DESCRIPTION_12800_Index_03=添加者：bartimaeusnek,模组：§2BartWorks§7
     S:TileEntity_DESCRIPTION_13001_Index_00=机器类型：§e奥法研究阐释者§r
     S:TileEntity_DESCRIPTION_13001_Index_01=奥法研究阐释者的控制器方块

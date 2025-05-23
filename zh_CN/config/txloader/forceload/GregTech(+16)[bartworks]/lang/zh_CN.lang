@@ -75,7 +75,7 @@ tile.BWHeatedWaterPump.0.name=简易斯特林水泵
 item.BWrawtube.name=加长玻璃管
 item.BWmotor.name=简易斯特林马达
 item.BWstove.name=简易熔炉
-gt.blockmachines.creativeScanner.desc.1=立刻结束扫描。无需能量。
+gt.blockmachines.creativeScanner.desc.1=立即完成扫描。无需能量。
 
 itemGroup.BioTab=BartWorks生物工程
 filled.item.petriDish.name=培养皿
