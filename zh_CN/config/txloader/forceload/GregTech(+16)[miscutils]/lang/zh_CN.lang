@@ -338,6 +338,13 @@ item.itemControlCore.tooltip.2=低等级可用于降频,这在某些情况下很
 item.thekeytothecity.tooltip.0=你认为你正屹立于世界之巅.
 item.thekeytothecity.tooltip.1=将它像护身符一样戴在脖子上.
 
+# Conversion Dusts
+item.dustNeptunium238.name=镎-238粉
+item.dustRadium226.name=镭-226粉
+item.itemDustDecayedRadium226.name=衰变镭-226粉
+item.itemDustSmallDecayedRadium226.name=小堆衰变镭-226粉
+item.itemDustTinyDecayedRadium226.name=小撮衰变镭-226粉
+
 # Material Items
 item.itemDustGadolinium.name=钆粉
 item.itemDustSmallGadolinium.name=小堆钆粉
@@ -2861,12 +2868,9 @@ tile.Block of Abyssal Alloy.name=深渊合金块
 tile.Abyssal Alloy Frame Box.name=深渊合金框架
 
 # Radioactive
-item.dustNeptunium238.name=镎-238粉
-item.dustNeptunium239.name=Neptunium 239 Dust
-item.dustRadium226.name=镭-226粉
-item.itemDustDecayedRadium226.name=衰变镭-226粉
-item.itemDustSmallDecayedRadium226.name=小堆衰变镭-226粉
-item.itemDustTinyDecayedRadium226.name=小撮衰变镭-226粉
+item.dustTechnetium99M.name=Technetium 99M Dust
+item.dustTechnetium99.name=Technetium 99 Dust
+item.dustMolybdenum99.name=Molybdenum 99 Dust
 
 # Bags
 item.item.MysticBag.name=神秘袋

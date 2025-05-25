@@ -5782,7 +5782,11 @@ betterquesting.quest.e-VLKN-JSRK3V2cmDbm6rw.desc=你已经制作了一个可以�
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEg.name=林业与多方块农场
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEg.desc=自动化农场、树木育种以及更多...
 
-# Quest: Forestry core block
+# Quest: THE RAINMAKER
+betterquesting.quest.3N-sNy89SWawxdvYsFWk5A.name=THE RAINMAKER
+betterquesting.quest.3N-sNy89SWawxdvYsFWk5A.desc=The Rainmaker is a Forestry block capable of stopping/producing rain & creating thunderstorms. %n%nThe Rainmaker has no GUI, but can be right clicked with §9§f§93 §fdifferent capsules.%n%n§4Iodine Capsule: Produces Rain%n%nPhosphoric Iodine Capsule: Produces a Thunderstorm%n%nDissipation Charge: Stops Rain%n%n§fThe Rainmaker requires around ~30 seconds after activation for the §o§9rain §fand§9 thunderstorm §fto start. §fThe dissipation charge will stop the rain after a few seconds until the next activation.
+
+# Quest: Forestry Core Block
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACQQ.name=林业mod核心方块
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACQQ.desc=坚固部件几乎是所有林业机器的基础,你可以理解为他是林业mod里面的机械外壳!
 
@@ -6045,6 +6049,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALOA.desc=将橘子树和柚子树杂交,
 # Quest: Golden Raspberry
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALOQ.name=金覆盆子
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALOQ.desc=将覆盆子和橙子树杂交,你就可以培育出金树莓.%n%n[warn]最快的成熟速度Get![/warn]%n%n[note]不过这可能得等很久,嗯哼? 其实制造更多的多方块农场或是种植站可能会更快.[/note]%n%n[note]不过,你终究想要培育出终极树苗的,对吧.[/note]
+
+# Quest: Forestry Core Block #2
+betterquesting.quest.X54R4jrtQu2rI9j4eHC7lw.name=Forestry Core Block #2
+betterquesting.quest.X54R4jrtQu2rI9j4eHC7lw.desc=The upgraded casing for Forestry, used in multiple recipes for endgame Gendustry items and the Rainmaker. 
 
 
 ## Quest Line: Multiblock Goals
