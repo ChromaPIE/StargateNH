@@ -45,9 +45,9 @@ ae2stuff.wireless.advtool.noconnectors=队列中没有接入器。切换工具�
 ae2stuff.wireless.advtool.pop=%s，%s，%s 已从队列中移除
 ae2stuff.wireless.advtool.hub.queued=%s hub slots added to queue
 ae2stuff.wireless.advtool.queueing.clear=Queue is cleared
-ae2stuff.wireless.tooltips.advtool.queueing.clear=Shift + Ctrl + R-click for clear queue
-ae2stuff.wireless.tooltips.advtool.hubqols.binding=Ctrl + R-click for connect to all free hub slots
-ae2stuff.wireless.tooltips.advtool.hubqols.queueing=Ctrl + R-click for add all free hub slots to queue
+ae2stuff.wireless.tooltips.advtool.queueing.clear=Sneak + %s + R-click for clear queue
+ae2stuff.wireless.tooltips.advtool.hubqols.binding=%s + R-click for connect to all free hub slots
+ae2stuff.wireless.tooltips.advtool.hubqols.queueing=%s + R-click for add all free hub slots to queue
 ae2stuff.wireless.tool.connected=已连接到 %s,%s,%s
 ae2stuff.wireless.tool.failed=连接失败
 ae2stuff.wireless.tool.dimension=两个接入器必须在相同维度
@@ -65,3 +65,4 @@ ae2stuff.visualiser.mode.nonum=显示频道与节点
 ae2stuff.visualiser.mode.p2p=显示P2P连接
 
 itemGroup.bdew.ae2stuff=应用能源附加机器
+ae2stuff.key.mode=Mode Switch
