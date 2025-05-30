@@ -636,7 +636,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACVA.desc=升级你的工具.把你的工
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACcQ.name=§3§l移动你的储罐、箱子和桶
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACcQ.desc=想要把箱子或桶搬去别处，又不想让里面的东西掉一地（Buildcraft是这样的）？手推车来帮忙！它能完整搬运装着东西的箱子、桶或储物抽屉。更厉害的是，它还能搬运Buildcraft和Iron Tanks储罐并保存内含的流体，对林业的工作桌也有效，可保存记录的配方。%n%n手持空的手推车潜行右击可将其折叠收纳。手推车在折叠时虽不能运输物品，但可多个堆叠，也可塞进背包。%n%n§3小贴士：后期可通过飞行或旅行者腰带来规避缓慢效果。§r
 
-# Quest: One Anvil... Better Make That Two!
+# Quest: One Anvil...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACtg.name=§3§l一个铁砧...最好做两个!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACtg.desc=使用你全新的压缩机,可以制作一些金属块以制作铁砧.最好做两个铁砧,一个用于制作锻造锤.  §3有了铁砧你就可以修理、更名或附魔你的护甲及工具.§r
 
@@ -843,6 +843,10 @@ betterquesting.quest.T_5nD6d8QQ29KrInOSI_Og.desc=By making a scythe you are now 
 # Quest: The one book to rule them all
 betterquesting.quest.XuZpnhWZRou46kensglZ6g.name=§3§l一簿纳千卷
 betterquesting.quest.XuZpnhWZRou46kensglZ6g.desc=This Tome can store multiple documentation books from other mods. It will be empty when crafted, but you can add books by combining it with the desired book in a crafting grid.%n%nRight-clicking with the Tome in hand will open an interface showing all the added books; clicking on a book will transform the tome into the selected book. To revert it back to the Tome, left-click while sneaking.%n%nTo retrieve a stored book, transform the Tome into the desired book and throw it away while sneaking - this will drop the selected book and leave the tome in your inventory.%n%n[warn]Some warnings:%n%nThe extended version of the Book of Biomes from Witchery is not compatible with this tome.%n%nYou should not throw it through the Botania portal. The elves might steal your Tome and return only their own copy of the Lexica Botania.[/warn]
+
+# Quest: Better Make that Two!
+betterquesting.quest.fRHWhPgpRyyvSRZpL1Pkbw.name=§3§lBetter Make that Two!
+betterquesting.quest.fRHWhPgpRyyvSRZpL1Pkbw.desc=You may need a second anvil! %n%nOne would have been for the Forge Hammer and another for general repairing or renaming!
 
 
 ## Quest Line: Tier 1 - LV
@@ -7490,6 +7494,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAM3w.desc=一个更昂贵但储量相同�
 betterquesting.quest.Dif-0NSERYGdGP7j8xAzPQ.name=无线的力量!?
 betterquesting.quest.Dif-0NSERYGdGP7j8xAzPQ.desc=被基地里面密密麻麻的电线整吐了?厌倦了为了满足供电要求不断升级线缆？喜欢基地里面全是闪电？%n%n那么这个多方块正合你意.特斯拉电塔是一个强大的多方块结构,可以无线输出高电流,支持所有TecTech能源仓.%n%n首先你要在电容仓里放上和初级超导特斯拉绕组相同电压的特斯拉电容.特斯拉绕组决定了电塔输出的电压级别,特斯拉电容的数量决定了电塔能输出的最大电流数.%n%n一个电容仓最多能放16个特斯拉电容,所以你可能需要根据用电需求增加电容仓数量.%n%n搭建好电塔后,右击打开控制器,根据需要配置电塔的最大传输距离.这个配置现在有点bug, 因此至少现在你不需要任何等离子就能进行配置.对应的选项是"特斯拉电塔传输半径设置".%n%n设置完你的电塔之后该怎么输送电力到机器呢?很高兴你问了.要送电到基地还需要使用特斯拉线圈帽.把线圈帽安装到机器上,能源仓上,甚至变压器上都能让它们从电塔获得电力.能源仓有点特殊,需要面朝上才能正确获得电力.%n%n[warn]警告!特斯拉电塔会强制输出固定电压的电流,比如说EV或者IV.当你升级初级超导特斯拉绕组前一定要确认你所有的线圈帽和收发器对应的机器都能承受升级后的电压.否则可能会导致机器爆炸.[/warn]%n%n[warn]在关闭控制器之前调整多方块结构也会导致爆炸.[/warn]
 
+# Quest: Power Goggles
+betterquesting.quest.GvlZG9IESmW2qsEMw-hkIw.name=Power Goggles
+betterquesting.quest.GvlZG9IESmW2qsEMw-hkIw.desc=Wanna see how your LSC is doing but don't want to run to it or your information panel every time? Get yourself a pair of §c§o§6§oPower Goggles §rto see your energy storage straight from the HUD!%n%nBy §l§adefault§f §r§rthe goggles are §3§cunlinked §rand will monitor the amount of energy in your wireless network. %n%n§6§f§6§fTo link the goggles to an LSC, Right Click the controller with the goggles in your hand. Shift+Right Click§f §o§f§e§6§fair§r §6§fto unlink.%n%n§rIf you wish to move or modify the display you can do so by opening the power goggles config menu!%n%n[warn]Make sure to check your keybinds! There's also a keybind for toggling the power chart![/warn]
+
 # Quest: At last, the final capacitor!
 betterquesting.quest.vrE4rYLuSnmmtAklayd6gw.name=§6§l终章：最后的电容！
 betterquesting.quest.vrE4rYLuSnmmtAklayd6gw.desc=这就是最后的电容了，很遗憾不能更进一步。
@@ -9794,6 +9802,10 @@ betterquesting.quest.Hbq2zJcoQbWK20-2A-kI1Q.desc=You might find yourself setting
 betterquesting.quest.JejpWZ7ATZq-0uomP4c7UA.name=16384k-ME源质存储组件
 betterquesting.quest.JejpWZ7ATZq-0uomP4c7UA.desc=与1k存储元件一样.
 
+# Quest: Hyper Acceleration!
+betterquesting.quest.KM9gm3HCTa2OGPWlHHl4fw.name=Hyper Acceleration!
+betterquesting.quest.KM9gm3HCTa2OGPWlHHl4fw.desc=Hyper-Acceleration cards are a faster version of the basic accleration cards. %n%n[note]Hyper-Acceleration cards can only be placed in:[/note]%n%n§cME IO Port (3)%nME Fluid Import Bus (4)%nME Fluid Export Bus (4)%n%n§r%nIn an IO Port, the Hyper-Acceleration Card will transfer items at a rate of: %n%n§61x Cards: 4,096 items/tick%n2x Cards: 32,768 items/tick%n3x Cards: 262,144 items/tick%n%n§rIn ME Fluid Buses, the Hyper-Acceleration Card will transfer fluids at a rate of:%n%n§61x Cards: 4,096,000 mb/tick%n2x Cards: 32,768,000 mb/tick%n3x Cards: 262,144,000 mb/tick%n%n
+
 # Quest: 16384k Fluid Storage Cell
 betterquesting.quest.MJoHkNK0Ta-zKyJAvV_DBg.name=16384k-ME流体存储元件
 betterquesting.quest.MJoHkNK0Ta-zKyJAvV_DBg.desc=它能存储超过32GL的流体.
@@ -9833,6 +9845,10 @@ betterquesting.quest.cEFNSTdoRvysoNgmtDLdvg.desc=你已经掌握了跨维度物�
 # Quest: 16384k Essentia Storage Cell
 betterquesting.quest.iwN50p7pSyyCHDkM-O-D7w.name=16384k-ME源质存储元件
 betterquesting.quest.iwN50p7pSyyCHDkM-O-D7w.desc="它们"可以存储 33,554,432 点源质。%n%n以及60个种类。
+
+# Quest: Going Superluminal
+betterquesting.quest.kBjBqQR5Q-GWh4olyHmXXg.name=Going Superluminal
+betterquesting.quest.kBjBqQR5Q-GWh4olyHmXXg.desc=The Superluminal Acceleration card is the fastest AE card that you can use to transfer items or fluids.%n%n[note]Superluminal Acceleration cards can only be placed in:[/note]%n%n§cME IO Port (3)%n§§§f%nIn an IO Port, the Superluminal Acceleration Card will transfer items at a rate of: %n%n§61x Cards: 33,554,432 items/tick%n2x Cards: 2,147,483,648 items/tick%n3x Cards: 137,438,953,472 items/tick%n%n§rIn an IO Port, the Superluminal Acceleration Card will transfer fluids at a rate of:%n%n§61x Cards: 33,554,432,000 mb/tick%n2x Cards: 2,147,483,648,000 mb/tick%n3x Cards: 137,438,953,472,000 mb/tick%n
 
 # Quest: Wireless 2.5 - All in One
 betterquesting.quest.mYdFnW4UQ2WXHshmj7BH2w.name=无线 2.5 多合一
