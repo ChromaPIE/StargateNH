@@ -210,7 +210,7 @@ item.bloodMagicAlchemyItem.Reductus.name=代价粉末
 item.bloodMagicAlchemyItem.Potentia.name=效能粉末
 item.sanguineHelmet.name=血红头盔
 item.itemSeerSigil.name=见解印记
-item.itemFluidSigil.name=
+item.itemFluidSigil.name=Fluid Sigil [Unimplemented]
 item.multiTool.name=法术权杖
 item.itemCombinationalCatalyst.name=组合催化剂
 item.sanguineRobe.name=血红法袍
@@ -638,7 +638,7 @@ bm.versioning.downloadedAlready=你已经拥有最新版本，重新加载游戏
 bm.versioning.downloadingAlready=正在下载! 耐心点!
 bm.versioning.disabled=此功能已禁用.
 
-# Waila localizations
+# WAILA localizations
 tooltip.waila.currentFluid=生命本质
 tooltip.waila.noFluid=生命本质
 tooltip.waila.tier=祭坛等级:
