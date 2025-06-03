@@ -2392,6 +2392,10 @@ betterquesting.quest.wLYoO7hsT_SOuJGzbgDMhg.desc=让我们制造一些钠钾冷�
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAABg.name=第4阶-超高压（EV）
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAABg.desc=欢迎来到EV! 你成功登陆了月球,处理并获得了钛. 现在你可以获得更高阶的能源了. 在这个阶段,你将解锁核反应堆,以及应用能源(AE2).
 
+# Quest: The Redstone Sniffer
+betterquesting.quest.07lxVb9wQWSSoZRcvIswZQ.name=The Redstone Sniffer
+betterquesting.quest.07lxVb9wQWSSoZRcvIswZQ.desc=Ever wonder where your redstone transmitters are? Or wish they were labeled? Maybe your teammate placed one down, didn't tell you, and now you're stuck wondering what private frequency they placed?%n%nNow, you have a way to do all of that.%n%nIntroducing the §6Redstone Sniffer§f!%n%nFor §cregular wireless redstone§f, the sniffer will list all currently used frequencies, tell you whether that frequency is private, and gives you an option to label it. %n%nFor §cadvanced wireless covers§f, the sniffer will additionally tell you where that cover is currently located, including in other dimensions, and offers you the option to also highlight or teleport to it. 
+
 # Quest: Pulverize the Planet
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1A.name=§a§l粉碎星球
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1A.desc=就是字面的意思. 你可以把大部分的行星岩石扔到粉碎机里打碎,这些被打碎的粉通过离心有一定几率产出很多有用的金属或其他玩意.基于星球不同而产出不同. 这需要不少能量,但是我确信可以帮助到你.%n%n想要获得钨酸锂,你可以离心之前粉碎的月尘,或是用HV以上的粉碎机粉碎末地石并将其离心,也可以离心末影粘浆(然后发现离心后不返还桶...).%n%n如果想要制造火箭的话,在能够去出产此矿石的星球之前,你得通过以上方式获取一点.然而,请注意你需要一台具有钛铂钒线圈的电力高炉来将钨钢粉熔炼为锭!%n%n[note]完成任务之一即可.[/note]
@@ -4554,7 +4558,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAC0Q.desc=利用你的扫描仪来扫描�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC0g.name=加快你的植物生长进度
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC0g.desc=为了加快生长过程,你可以使用些肥料.你会注意到,无论如何,骨粉不再起作用了.在化学反应釜中,用水搅拌些木灰、磷灰石或方解石,就能得到你需要的肥料.
 
-# Quest: Potatos, Carrots, Pumpkins and Melons
+# Quest: Potatoes, Carrots, Pumpkins and Melons
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC0w.name=马玲薯、胡萝卜、南瓜和西瓜.
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC0w.desc=你的种子有三种不同的数值－－生长、产量、抗性(GGR).%n%n在没有第三方工具(比如NBT编辑器!)的情况下,只能透过交叉繁殖配种来改变作物的GGR.两株植物交叉繁殖产生的作物的GGR值,会介在两株亲代GGR的中间.有时,它的值可能会高一点点或低一点点.因此,想要取得更高的GGR值,你必须历经数代的繁殖配种.%n%nGGR的最高数值是31,而最低值为0.%n%n[note]顺便一提,如果你想要跳过这些步骤,NBT编辑指令为/nbtedit me,点击左上角的'root',然后向下滚动到物品栏,再找到种子袋(先清空物品栏可以更容易找到),找到包含属性信息的页面并点击图标.找到GGR属性信息后,选择一项,然后单击左上角的"编辑",别忘了保存.[/note]%n%n[warn]记住这可能会让你的玩家永久变砖!所以在编辑你的实际玩家前请做好备份.[/warn]%n%n当然,在服务器上别想这么干.
 
@@ -6453,7 +6457,11 @@ betterquesting.quest.Y1kiJC_kRGKkW7h3qOPI8A.desc=线性加速器（LINAC）可�
 
 # Quest: Playing with Colors!
 betterquesting.quest.Z_jn8qzFQr6FWHzmt2i3Aw.name=§6§lPlaying with Colors!
-betterquesting.quest.Z_jn8qzFQr6FWHzmt2i3Aw.desc=Multiblock machines enforce input separation based on hatch color. Inputs from Input Busses and Input Hatches will only interact if they share the same color. Un-dyed inputs act as wildcards compatible with any color.%n%nColor can be applied using a Spray Can and removed with a Spray Can Solvent. An Infinite Spray Can becomes available later in progression.%n%n§6Now §2go §3have §4fun§5!!!
+betterquesting.quest.Z_jn8qzFQr6FWHzmt2i3Aw.desc=Multiblock machines enforce input separation based on hatch color. Inputs from Input Buses and Input Hatches will only interact if they share the same color. Un-dyed inputs act as wildcards compatible with any color.%n%nColor can be applied using a Spray Can and removed with a Spray Can Solvent. An Infinite Spray Can becomes available later in progression.%n%n§6Now §2go §3have §4fun§5!!!
+
+# Quest: Decay Warehouse
+betterquesting.quest.bLz_cD33RE24mtOb2aLxXg.name=Decay Warehouse
+betterquesting.quest.bLz_cD33RE24mtOb2aLxXg.desc=The Decay Warehouse stores a single type of radioactive isotope and allows it to decay over time. %n%nThe decay speed of the isotope is §c§adependent §fon its half-life. %n%nIsotopes will decay §9regardless§f of whether the warehouse is on or powered. %n%nThe Warehouse's capacity equals the chest's capacity divided by §c400§f.%n%nCapacity of the multiblock for each chest: %n%n§6Super Chest I:§f 10,000%n§7§6Super Chest II:§f 20,000%n§6Super Chest III:§f 40,000%n§6Super Chest IV:§f 80,000%n§6Super Chest V:§f 160,000%n§6Quantum Chest I§f§6:§f 320,000%n§6Quantum Chest II:§f 640,000%n§6Quantum Chest III:§f 1,280,000%n§6Quantum Chest IV:§f 2,560,000%n§6Quantum Chest V:§f 5,368,000%n%n[note]Right click the controller with a §ascrewdriver §fto dump stored isotopes into an output bus. %n%nRight click the controller with a §aplunger§f to empty it. [/note]%n%n[warn]The Warehouse's contents are §nvoided§r when the controller is broken[/warn]
 
 # Quest: Don't Lose That Multiblock Miner!
 betterquesting.quest.b_Ll4zvSRfCMgmqiBa4Xkw.name=别把采矿场弄丢了!
@@ -8338,7 +8346,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFnQ.desc=中型氧气罐是一种储氧�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFnw.name=永久氧气系统
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFnw.desc=你决定在月球上停留更长时间,寻找一个永久性的氧气设备来重新填充你的户外装备并建造一个小基地. 别忘了你的工具和装甲需要修理!————DreamMaster2018!
 
-# Quest: Oxygen Bubble Distributer
+# Quest: Oxygen Bubble Distributor
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFoA.name=氧气分配器
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFoA.desc=氧气分配器从氧气收集器中吸取氧气,并产生氧气气泡,提供一个安全呼吸的区域,无需供氧装备. 气泡是围绕分配器的球体,能穿过墙壁(或任何方块). 或者,你可以使用氧气供给器(需要压缩戴斯板)将氧气留在房间内.
 
@@ -9804,7 +9812,7 @@ betterquesting.quest.JejpWZ7ATZq-0uomP4c7UA.desc=与1k存储元件一样.
 
 # Quest: Hyper Acceleration!
 betterquesting.quest.KM9gm3HCTa2OGPWlHHl4fw.name=Hyper Acceleration!
-betterquesting.quest.KM9gm3HCTa2OGPWlHHl4fw.desc=Hyper-Acceleration cards are a faster version of the basic accleration cards. %n%n[note]Hyper-Acceleration cards can only be placed in:[/note]%n%n§cME IO Port (3)%nME Fluid Import Bus (4)%nME Fluid Export Bus (4)%n%n§r%nIn an IO Port, the Hyper-Acceleration Card will transfer items at a rate of: %n%n§61x Cards: 4,096 items/tick%n2x Cards: 32,768 items/tick%n3x Cards: 262,144 items/tick%n%n§rIn ME Fluid Buses, the Hyper-Acceleration Card will transfer fluids at a rate of:%n%n§61x Cards: 4,096,000 mb/tick%n2x Cards: 32,768,000 mb/tick%n3x Cards: 262,144,000 mb/tick%n%n
+betterquesting.quest.KM9gm3HCTa2OGPWlHHl4fw.desc=Hyper-Acceleration cards are a faster version of the basic acceleration cards. %n%n[note]Hyper-Acceleration cards can only be placed in:[/note]%n%n§cME IO Port (3)%nME Fluid Import Bus (4)%nME Fluid Export Bus (4)%n%n§r%nIn an IO Port, the Hyper-Acceleration Card will transfer items at a rate of: %n%n§61x Cards: 4,096 items/tick%n2x Cards: 32,768 items/tick%n3x Cards: 262,144 items/tick%n%n§rIn ME Fluid Buses, the Hyper-Acceleration Card will transfer fluids at a rate of:%n%n§61x Cards: 4,096,000 mb/tick%n2x Cards: 32,768,000 mb/tick%n3x Cards: 262,144,000 mb/tick%n%n
 
 # Quest: 16384k Fluid Storage Cell
 betterquesting.quest.MJoHkNK0Ta-zKyJAvV_DBg.name=16384k-ME流体存储元件
@@ -11406,7 +11414,7 @@ betterquesting.quest._N4B3gVMTZOoUdf9--7aPQ.desc=为了确保没有不速之客�
 betterquesting.quest.aWvML-AaSIyjyNj5ElS4VQ.name=赶走腐化
 betterquesting.quest.aWvML-AaSIyjyNj5ElS4VQ.desc=那么,如何才能真正摧毁腐化之地?%n%n这些天域花会清除自身周围小范围内的腐化之地,进而杀死任何腐化草丛.它们不能清除污染节点.也不一定会让腐化的生物群系恢复原状,但它们会提供一个屏障.%n%n如果你很难在银树周围找到他们的材料水银花,你可以通过LV组装机合成水银花.他们还有一种ic作物版本.
 
-# Quest: Adding More Funtions
+# Quest: Adding More Functions
 betterquesting.quest.ad_fPxg-ThqyyuppTrG1gQ.name=添加更多功能
 betterquesting.quest.ad_fPxg-ThqyyuppTrG1gQ.desc=其中一种改进就是钝化红晶.%n%n钝化红晶允许你用法杖右击设置一个阈值,这能控制多强的红石信号才能通过.这对检测储罐储量或者电力缓存多少很有帮助.%n%n[note]红石专家需要注意一点：钝化红晶会检查所在方块的信号强度,而不是像比较器那样检查前一个方块的信号强度.[/note]
 
