@@ -1841,7 +1841,7 @@ languagefile {
     S:Material.woodgas=木炭气
     S:Material.woodsealed=蜡封木
     S:Material.woodtar=木焦油
-    S:Material.woodvinegar=木醋酸
+    S:Material.woodvinegar=木醋液
     S:Material.wroughtiron=锻铁
     S:Material.wulfenite=钼铅矿
     S:Material.xenon=氙
@@ -18010,7 +18010,7 @@ languagefile {
     S:fluid.whitedwarfmatter=白矮星物质
     S:fluid.woodgas=木炭气
     S:fluid.woodtar=木焦油
-    S:fluid.woodvinegar=木醋酸
+    S:fluid.woodvinegar=木醋液
     S:fluid.xenon=氙
     S:fluid.xenoxene=异氙
     S:"fluid.ytterbium chloride concentrate"=氯化镱浓缩液

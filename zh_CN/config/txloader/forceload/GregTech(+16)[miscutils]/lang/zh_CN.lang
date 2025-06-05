@@ -3978,6 +3978,7 @@ item.BasicGenericChemItem.33.name=海藻基质催化装置
 
 # Added 13/03/25
 item.BasicGenericChemItem.34.name=地狱场催化装置
+item.BasicGenericChemItem.35.name=Crystal Colorization Catalyst
 
 # config gui
 gtpp.gui.config.general=通用

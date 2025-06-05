@@ -34,15 +34,15 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAABw.name=§1§l……一分收获
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAABw.desc=如果你读到了先前的任务并种下了胡萝卜,那你就没事了.%n%n同时,你也应该把更多的水果和蔬菜变成种子,并扩大你的农场以获得稳定的食物供应.
 
 # Quest: Get That Stone
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACA.name=§1§l得到石头
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACA.desc=看看你闪亮的燧石镐!%n%n是时候开采一些圆石了.耶!你甚至还可以修一下你那泥巴火柴盒!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACA.name=§1§l石头到手
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACA.desc=瞧瞧你手握崭新木镐的飒爽英姿！%n%n去开采一些圆石吧！顺便还能给你那泥巴火柴盒增添点“层次感”，是不是很棒？
 
 # Quest: Fire, Fire, Grandpa!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.name=§1§l爷爷，着火了！
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.desc=是不是该整点东西烧一烧了？熔炉没法用来烧木炭，但“过不了多久”，你必然会发现它的一些新用途。
 
 # Quest: Rest in Pieces
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACg.name=§1§l眼泪从嘴角流了下来
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACg.name=§1§l果人之腹，死得其所
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACg.desc=杀几只猪，取几片肉，我要看到血流成河！
 
 # Quest: Fluffy and Red
@@ -66,11 +66,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1w.name=§1§l天下百味
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1w.desc=你可能发现了,一直吃一种食物很不健康而且越吃越难吃. 一些食物比如说茶叶可以放进炉子里进一步处理. 所以休息一下吧,喝杯茶,再吃一些美味的葡萄干,哈哈这真不错.
 
 # Quest: Can You Hear the Carrots Grow?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB5A.name=§1§l你听到胡萝卜成熟的声音了么？
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB5A.name=§1§l听，胡萝卜破土而出的声音
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB5A.desc=你已经厌倦了等待胡萝卜成熟的漫长过程？%n%n骨粉会帮助你的作物在几秒钟就成熟.%n%n砍一些树以获得一些骨粉奖励.
 
 # Quest: Goals
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABjA.name=§1§l目标
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABjA.name=§1§l漫漫长路分段走
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABjA.desc=GTNH是一个有漫长旅途的整合包,有大量的自定义内容和超过三千个任务来指引你前进.%n%n我们建议在每个阶段都设定一个小目标,看看你的旅程能走多远.%n%n游戏后期的最终目标是制造一两个星门,但是星门的配方非常离谱,只有极少数玩家做出来过.%n%n如果你需要一个大目标,我么建议看看其他不那么疯狂的东西.%n如果你是第一次玩这个整合包,不如尝试争取上一次月球.%n如果你还没有做过装配线自动化,不妨试试这个挑战.%n又或者制作一个T8火箭,这是最后一个常规火箭,你需要UHV来制作它.
 
 # Quest: Even more challenges needed?
@@ -1668,11 +1668,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADUQ.desc=你需要制造一些氢氧化�
 
 # Quest: Ethenone
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADUg.name=§6§l乙烯酮
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADUg.desc=希望你在生产燃料的过程中留下了一些硫酸.要是没留的话,就多做一点吧,硫酸永远不嫌多.在化学反应釜中乙酸和硫酸将发生反应得到乙烯酮.%n%n留点乙烯酮到HV,你会需要它来合成四硝基甲烷,最终制成高十六烷值柴油.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADUg.desc=你应该多少囤了点硫酸吧？全用完了？那就多搞点。硫酸能够和乙酸反应，生成乙烯酮。%n%n等到HV阶段，你将需要使用乙烯酮来制备高十六烷值柴油的材料之一——四硝基甲烷。
 
 # Quest: Acetic Acid
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADVA.name=§6§l乙酸
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADVA.desc=乙酸可以由氧气和乙烯制成.或由生物质、木醋酸或醋制成.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADVA.desc=乙酸可由氧和乙烯制备而成，也能够直接提取自生物质、木醋液或醋。高十六烷值柴油生产流程中牵涉到的乙烯酮少不了这种化学物质的参与。
 
 # Quest: Iron (III) Chloride
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAD_A.name=§6§l氯化铁
@@ -2056,7 +2056,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAD3A.name=§9§l更大、更好、更强?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAD3A.desc=谐振电容库是目前EIO非创造的最大存储RF能量的电池. 它可以在单方块中存储25M-RF能量. 将多个谐振电容库组成一个更大的结构可以存储更多的能量.
 
 # Quest: Vibrant Alloy
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD3Q.name=§a§9§l跃动合金
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD3Q.name=§9§l跃动合金
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAD3Q.desc=跃动合金是将充能合金粉末、末影之眼粉末和铬粉末搅拌并烧制再冷冻而成的一种高级合金.
 
 # Quest: Energetic Alloy
@@ -6296,7 +6296,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJXQ.name=大男孩,咱们来玩玩化工
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJXQ.desc=该设施将为你处理稍后需要的某些化学配方.比如火箭燃料. 注意,只有达到配方所需化工厂等级才能运行相应配方.%n%n而且化工厂需要大量资源,开始采矿吧! 某些配方需要催化剂,将它们放在催化剂室内. 催化剂消耗耐久,包括看起来没有耐久的.%n%n[note]碳化硅可在搅拌机中获得,不一定需要合金冶炼炉.[/note]%n%n可用的固实外壳:(决定可处理的配方等级)%n1 强硬青铜机器外壳%n2 钢制坚固机器外壳%n3 铝制强韧机器外壳%n4 洁净不锈钢机器外壳%n5 钛制稳固机器外壳%n6 坚实钨钢机器外壳%n7 刚劲劳伦合金机器外壳%n8 耐力博特姆合金机械方块%n%n可用的机械方块:(决定仓室/总线的等级上限)%nULV-UHV机器外壳(UHV即可解锁所有仓室/总线)%n%n可用的管道外壳:(从2并行,100％催化剂消耗几率开始,每级管道外壳提升+2并行,-20％催化剂消耗几率)%n青铜%n钢%n钛%n钨钢%n%n从白铜线圈到永恒线圈,所有等级线圈都可用.每个等级提速+50％,初始速度(白铜线圈)为50％.%n%n[note]另外:使用觉醒龙及以上等级的线圈+钨钢管道外壳,不会消耗催化剂耐久.[/note]%n%n[warn]请注意不要参考NEI预览化工厂,它是错的.[/warn]
 
 # Quest: Better Glass Upgrade, EV Glass
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ_A.name=§6§l更好的玻璃,升级:EV玻璃
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ_A.name=§6§l更好的玻璃升级，EV玻璃
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ_A.desc=下一阶硼硅玻璃需要掺杂钛(4). 更高阶的玻璃可以让细菌培养缸支持更高阶的配方,让巨型电力高炉支持高阶能源仓,也能使兰波顿超级电容库支持更高阶的电容. 或仅用于制造机器.
 
 # Quest: IV Glass
@@ -6442,6 +6442,10 @@ betterquesting.quest.Ds_ok-hRS2ODJNs3LUP9kw.desc=可持续性。它不是一个�
 # Quest: A Beginner's Guide to Particle Physics
 betterquesting.quest.NGG2rHQ4T4SInwXT8XTGSg.name=粒子物理学新手指南
 betterquesting.quest.NGG2rHQ4T4SInwXT8XTGSg.desc=如果您已经搭建了源仓,您可能已经注意到粒子并不像GT++中那样以物品的形式产生.%n%n它们是通过束流管从多方块机器一端传输到另一台多方块机器,与现实生活类似.%n%n传输的每个粒子流,或者说“束流”,有四个属性:%n-§%n§%n§6粒子§r:束流携带的粒子类型%n-§4能量§r:粒子的能量大小%n§r-§9聚焦§r:束流的聚焦程度,幅度为0-100%.%n§r-§d数量§r：光束中粒子数量的测量值%n%n注意,你可以通过三录仪查看多方块机器控制器上的束流IO信息.%n%n对于你感兴趣的配方,也就是真正能生产物品的配方,会有一个允许输入束流能量的临界值、一个最小聚焦值和一个决定配方时间的粒子数量值(更多信息请见靶仓任务).%n%n%n产出一颗光子,挂在你的墙上炫耀吧!
+
+# Quest: Producing Solar Panels in BULK!!
+betterquesting.quest.NVgXYF-TQvqYnLn1NLM6pw.name=Producing Solar Panels in BULK!!
+betterquesting.quest.NVgXYF-TQvqYnLn1NLM6pw.desc=[quest]The Solar Factory![/quest]%n%nThe structure has §c3§r tiers, each of which allow greater production than the previous tier. %n%nRecipes in NEI display the minimum wafer tier required. %nWafer Tiers: %n%n§6Monocrystalline%nPhosphorous%nNaquadah%nEuropium%nAmericium%nPhotonically Prepared%nPhotonically Enhanced%n%n§fMachine parallels are based on Precise Casing Tier: %n%n§6MK-I: §f8x%n§9§6MK-II: §f16x%n§6MK-III: §f32x%n§6MK-IV: §f64x%n%n§lTier §b2§f:%n%n§aSupports Multi-Amp energy hatches%n§c25%%§f more outputs for every §m§l§r§l§7§f§k§rWafer§r tier §n§r§oabove §rthe minimum required. %nThe bonus to outputs occurs after parallels, but §9cannot be greater§f than §c100%%%n§fLV-LuV Solar Panels can be made without the previous panel, but at a higher cost.%n%n§lTier §b3§f:%n%n§r§aSupports Laser Energy hatches%n§f§c§fBonus per increased wafer tier is increased to §c50%%§f%nZPM-UV Solar Panels can be made without the previous panel, but at a higher cost. %n%n%n%n
 
 # Quest: Synchrotron (No Relation to the Catalyst)
 betterquesting.quest.QfQHCy0PRn-rABmKuvwQfw.name=同步加速器(和那个催化剂没关系)
@@ -7621,7 +7625,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALvQ.desc=一般来说你会将基础燃�
 
 # Quest: Acetone and Ethenone
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALvg.name=丙酮和乙烯酮
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALvg.desc=制造四硝基甲烷的另一原料为乙烯酮,可以直接由丙酮合成出来.乙烯酮更有机,也就是说选择苯或生物质的话,自动化制备乙烯酮会更简单. 对于这些路线,你需要蒸馏木醋酸,或是蒸馏发酵生物质,然后再与方解石粉反应(电解肥料即可获得方解石粉).要是你的自动化生物质->氨产线还有富余原料,用这种方法就很不错.%n%n不过要是你不种田的话,也有其他方法进行自动化生产. 乙烯酮可直接由乙酸和硫酸制得,而后者的自动化应该早在石油处理脱硫工艺时即已完成. 乙酸,换个角度来看,其实就是氧和乙烯的结合,这些原料应该在自动化聚乙烯产线时就完成了自动化生产.如果还没有的话,现在也是一个将其自动化的好机会.%n%n制造高十六烷值柴油所需的乙烯酮量不多,所以应该不会把你的硫酸吃完.不过再次强调,硫酸自动化是十分必要的.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALvg.desc=制造四硝基甲烷的另一原料为乙烯酮,可以直接由丙酮合成出来.乙烯酮更有机,也就是说选择苯或生物质的话,自动化制备乙烯酮会更简单. 对于这些路线,你需要蒸馏木醋液,或是蒸馏发酵生物质,然后再与方解石粉反应(电解肥料即可获得方解石粉).要是你的自动化生物质->氨产线还有富余原料,用这种方法就很不错.%n%n不过要是你不种田的话,也有其他方法进行自动化生产. 乙烯酮可直接由乙酸和硫酸制得,而后者的自动化应该早在石油处理脱硫工艺时即已完成. 乙酸,换个角度来看,其实就是氧和乙烯的结合,这些原料应该在自动化聚乙烯产线时就完成了自动化生产.如果还没有的话,现在也是一个将其自动化的好机会.%n%n制造高十六烷值柴油所需的乙烯酮量不多,所以应该不会把你的硫酸吃完.不过再次强调,硫酸自动化是十分必要的.
 
 # Quest: Ammonia Source
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALvw.name=氨
@@ -7730,7 +7734,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMGw.desc=想要享受可再生能源,树
 
 # Quest: The Two Alcohols
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMHA.name=两种醇
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMHA.desc=与种子油或鱼油之一混合制备生物柴油的另一种流体,可以是两兄弟之一：甲醇和乙醇.它们非常相似,两种醇都由被氢环绕的碳原子构成,再配上远端的一个-OH(羟基);它们的来源通常也是相同的(例如,在蒸馏塔中处理木醋酸或生物质),但两者还是有一些区别的. 想要用更简单的元素在化学反应釜中生产它们,需要到达MV阶段,应该也是你目前的阶段.%n%n请查看NEI,寻找这两者的所有合成配方.你只需选择其中之一,相应的任务要求也只需满足其一即可. 可能你更倾向于生产甲醇.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMHA.desc=与种子油或鱼油之一混合制备生物柴油的另一种流体,可以是两兄弟之一：甲醇和乙醇.它们非常相似,两种醇都由被氢环绕的碳原子构成,再配上远端的一个-OH(羟基);它们的来源通常也是相同的(例如,在蒸馏塔中处理木醋液或生物质),但两者还是有一些区别的. 想要用更简单的元素在化学反应釜中生产它们,需要到达MV阶段,应该也是你目前的阶段.%n%n请查看NEI,寻找这两者的所有合成配方.你只需选择其中之一,相应的任务要求也只需满足其一即可. 可能你更倾向于生产甲醇.
 
 # Quest: Extracting the Oil
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMHQ.name=提取油
@@ -7766,7 +7770,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMJA.desc=无论你之前获取原木的�
 
 # Quest: Sapling Power
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMJQ.name=树苗之力
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMJQ.desc=原木在你的能源构成中占了很大比例,你可能还用了别的植物或鱼产油,但树木还有一种稳定输出一直没有用到：树苗!不论选择了哪种树进行自动化,你一定囤积了大量相应的树苗,一直感觉用处不大. 不过现在,你可以着手搭建一条不错的生物质产线了.%n%n有一点需要说明,生物质可以用任意植物制造,并不一定要用树苗,不过树苗应该是你手边最多的东西.最重要的是,有多种生物质,其中之一名为发酵生物质,它与其他选项非常相似但又有所不同,我们比较推荐你选择这条路线,因为发酵生物质需要的步骤更少,而且可以在蒸馏塔中获得更丰富的产物.%n%n这条产线完工后,你就能拥有大量的自动化新化学品了,而且这些仅靠木焦油是无法获取的. 不过如果你之前处理过木醋酸,那么会有多项产物是重复的.也就是说,如果你完成了这条产线,就可以获得乙醇+甲醇还有氨,这可以让高十六烷值柴油的合成更加容易.所有这些产线都能相互作用,如果你把它们都自动化了,那就可以获得越来越多的回报!%n%n现在,让我们专注于组建由树苗到发酵生物质这条产线.你需要一台压缩机、一台粉碎机,以及一台热解炉.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMJQ.desc=原木在你的能源构成中占了很大比例,你可能还用了别的植物或鱼产油,但树木还有一种稳定输出一直没有用到：树苗!不论选择了哪种树进行自动化,你一定囤积了大量相应的树苗,一直感觉用处不大. 不过现在,你可以着手搭建一条不错的生物质产线了.%n%n有一点需要说明,生物质可以用任意植物制造,并不一定要用树苗,不过树苗应该是你手边最多的东西.最重要的是,有多种生物质,其中之一名为发酵生物质,它与其他选项非常相似但又有所不同,我们比较推荐你选择这条路线,因为发酵生物质需要的步骤更少,而且可以在蒸馏塔中获得更丰富的产物.%n%n这条产线完工后,你就能拥有大量的自动化新化学品了,而且这些仅靠木焦油是无法获取的. 不过如果你之前处理过木醋液,那么会有多项产物是重复的.也就是说,如果你完成了这条产线,就可以获得乙醇+甲醇还有氨,这可以让高十六烷值柴油的合成更加容易.所有这些产线都能相互作用,如果你把它们都自动化了,那就可以获得越来越多的回报!%n%n现在,让我们专注于组建由树苗到发酵生物质这条产线.你需要一台压缩机、一台粉碎机,以及一台热解炉.
 
 # Quest: Fractioned Benzene
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMJg.name=分馏苯
@@ -7786,15 +7790,15 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMKQ.desc=三硝基甲苯(Trinitrotoluene
 
 # Quest: Further Charcoal Distillation
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMKg.name=进一步处理木炭：分馏
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMKg.desc=你最近解锁的蒸馏塔可以为你带来前所未有的丰富输出.如果你仔细研究过NEI,应该能看到其他木炭相关流体也可以在蒸馏塔中获得丰富的产物,是时候用上这些蒸馏塔配方了：在单方块蒸馏室完成所有处理实在是太浪费了.%n%n想要获取这些木炭相关流体,最重要的部分是热解炉.如果你之前还没完成它的建造,强烈建议你至少造一台. 随着科技的进步,你可以升级热解炉的能源仓以及线圈,以提高它的速度,这样就不用建造多台了. 热解炉除了继承自焦炉的功能(把原木烧成木炭)以外,还可以选择在处理过程中输出几种木炭相关流体中的一种.大部分的选项都是有用的,不过拥有完整苯产线的情况下,木炭副产更受青睐,因为它从本质上来说,包含了所有其他选项.%n%n注意：理论上来说这条产线在HV阶段就可以建造,不过它很贵.所以如果你等到EV阶段再造的话也挺好.在HV阶段它并非必需品.%n%n对于木炭副产,整条产线包含蒸馏出木焦油、木醋酸和木炭气,然后再将它们统统蒸馏成各自的产物.每个蒸馏工序都要配一台蒸馏塔,最后你会得到一条四联蒸馏塔产线,这会消耗大量珍贵的不锈钢,不过比起单独的4台蒸馏塔还是能节省大量原材料的. 但是请注意,每台蒸馏塔所需的高度并不相同.另外木炭气比起其余两者来说价值不高(尽管它是一个不错的乙烯来源),所以说直接把木炭气烧掉转化为能量,省下一台蒸馏塔也是个好主意.(译者注：其实四联蒸馏塔的最后一联实在不需要多少材料...)%n%n最后一点,这些蒸馏塔处理速度比较缓慢.所以有必要的时候,可以为特定产物添加蒸馏室.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMKg.desc=你最近解锁的蒸馏塔可以为你带来前所未有的丰富输出.如果你仔细研究过NEI,应该能看到其他木炭相关流体也可以在蒸馏塔中获得丰富的产物,是时候用上这些蒸馏塔配方了：在单方块蒸馏室完成所有处理实在是太浪费了.%n%n想要获取这些木炭相关流体,最重要的部分是热解炉.如果你之前还没完成它的建造,强烈建议你至少造一台. 随着科技的进步,你可以升级热解炉的能源仓以及线圈,以提高它的速度,这样就不用建造多台了. 热解炉除了继承自焦炉的功能(把原木烧成木炭)以外,还可以选择在处理过程中输出几种木炭相关流体中的一种.大部分的选项都是有用的,不过拥有完整苯产线的情况下,木炭副产更受青睐,因为它从本质上来说,包含了所有其他选项.%n%n注意：理论上来说这条产线在HV阶段就可以建造,不过它很贵.所以如果你等到EV阶段再造的话也挺好.在HV阶段它并非必需品.%n%n对于木炭副产,整条产线包含蒸馏出木焦油、木醋液和木炭气,然后再将它们统统蒸馏成各自的产物.每个蒸馏工序都要配一台蒸馏塔,最后你会得到一条四联蒸馏塔产线,这会消耗大量珍贵的不锈钢,不过比起单独的4台蒸馏塔还是能节省大量原材料的. 但是请注意,每台蒸馏塔所需的高度并不相同.另外木炭气比起其余两者来说价值不高(尽管它是一个不错的乙烯来源),所以说直接把木炭气烧掉转化为能量,省下一台蒸馏塔也是个好主意.(译者注：其实四联蒸馏塔的最后一联实在不需要多少材料...)%n%n最后一点,这些蒸馏塔处理速度比较缓慢.所以有必要的时候,可以为特定产物添加蒸馏室.
 
 # Quest: Vinegar into Acetone
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMKw.name=醋变丙酮
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMKw.desc=从木醋酸中,你可以提炼出的有用产物之一是丙酮.直接合成丙酮比较麻烦,需要钙粉和醋酸,而醋酸需要甲醇或氢气...现在你可以直接从木醋酸中获取丙酮,而无需这些繁琐的合成了,同时还有不少其他化学品.%n%n不过,丙酮是做什么的呢? 很简单：环氧树脂、高十六烷值柴油、粗汽油,也许还有某种很有前途的胶水. 想要它不?那就干吧,它肯定会被证明是有用的.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMKw.desc=从木醋液中,你可以提炼出的有用产物之一是丙酮.直接合成丙酮比较麻烦,需要钙粉和醋酸,而醋酸需要甲醇或氢气...现在你可以直接从木醋液中获取丙酮,而无需这些繁琐的合成了,同时还有不少其他化学品.%n%n不过,丙酮是做什么的呢? 很简单：环氧树脂、高十六烷值柴油、粗汽油,也许还有某种很有前途的胶水. 想要它不?那就干吧,它肯定会被证明是有用的.
 
 # Quest: Direct Ethylene
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMLA.name=单步乙烯
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMLA.desc=木炭气的产物有相当部分是几乎无用的,但其中也藏着宝藏.可以说,其中最难得的就是乙烯,因为它需要自动化硫酸,以及你已经获得了的乙醇. 而在可再生能源方面,通过蒸馏塔处理木炭气是直接获取乙烯的主要方法,也无需担心什么酸.乙烯可以合成为聚乙烯,这是一种重要塑料,你应该也用过.%n%n当然,需要注意的是,从蒸馏配方中获取的乙烯量很少.至于你是否搭建这条产线完全取决于你自己,不过乙烯还是很有用的,尤其是如果你的乙醇主要来源是木醋酸的话.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMLA.desc=木炭气的产物有相当部分是几乎无用的,但其中也藏着宝藏.可以说,其中最难得的就是乙烯,因为它需要自动化硫酸,以及你已经获得了的乙醇. 而在可再生能源方面,通过蒸馏塔处理木炭气是直接获取乙烯的主要方法,也无需担心什么酸.乙烯可以合成为聚乙烯,这是一种重要塑料,你应该也用过.%n%n当然,需要注意的是,从蒸馏配方中获取的乙烯量很少.至于你是否搭建这条产线完全取决于你自己,不过乙烯还是很有用的,尤其是如果你的乙醇主要来源是木醋液的话.
 
 # Quest: No Benzene Yet
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMLQ.name=还没有苯
@@ -7826,7 +7830,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMMw.desc=发酵生物质蒸馏得到的�
 
 # Quest: Alcohols Here
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMNA.name=醇在这里
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMNA.desc=乙醇和甲醇是两种不同的化学品,不过它们都是蒸馏发酵生物质或木醋酸的产物.凭借这两者,你可以制造乙烯(然后是聚乙烯,加入硫酸和氧)、生物柴油、密集肼(GT++火箭燃料,在IV阶段很强,试试看吧)、一些化学品用于生产高辛烷值汽油(来自原油的EV燃料),以及许多其他物质,比如氯甲烷.为了未来的处理产线,你需要储存这些.%n%n如果你最终装满了超级缸没地方放了,乙醇和甲醇也都可以作为燃料.虽然它们的燃值不是最高的,乙醇为192k,而甲醇只有84k,但它们完全可以为你的能源产线供能,以解放你最好的燃料为主基地供能.即便你把它们同时用来生产生物柴油和聚乙烯,也很可能还有富余.如果你需要择一用于某个配方,那就优先选择甲醇吧,因为比起甲醇,乙醇的单桶燃值更高.%n%n(另请注意,与甲醇相比,木醋酸出产的乙醇几乎可以忽略不计,而发酵生物质出产的两者数量相同.)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMNA.desc=乙醇和甲醇是两种不同的化学品,不过它们都是蒸馏发酵生物质或木醋液的产物.凭借这两者,你可以制造乙烯(然后是聚乙烯,加入硫酸和氧)、生物柴油、密集肼(GT++火箭燃料,在IV阶段很强,试试看吧)、一些化学品用于生产高辛烷值汽油(来自原油的EV燃料),以及许多其他物质,比如氯甲烷.为了未来的处理产线,你需要储存这些.%n%n如果你最终装满了超级缸没地方放了,乙醇和甲醇也都可以作为燃料.虽然它们的燃值不是最高的,乙醇为192k,而甲醇只有84k,但它们完全可以为你的能源产线供能,以解放你最好的燃料为主基地供能.即便你把它们同时用来生产生物柴油和聚乙烯,也很可能还有富余.如果你需要择一用于某个配方,那就优先选择甲醇吧,因为比起甲醇,乙醇的单桶燃值更高.%n%n(另请注意,与甲醇相比,木醋液出产的乙醇几乎可以忽略不计,而发酵生物质出产的两者数量相同.)
 
 # Quest: Skipped into Ammonia
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMNQ.name=单步氨
@@ -13975,8 +13979,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAACw.name=§1§l锋利:超过...5...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACw.desc=该做些有用的东西了：一把剑!%n%n现在你有了一把剑,你将在“杀戮时刻”任务栏中获得杀死怪物的奖励.当心,这个世界上的怪物会把你咬碎然后再吐出来!%n%n如果忘记了任务所在的位置,可以在"游历四方"任务栏中找到别的武器任务.
 
 # Quest: What's That...?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAADg.name=§1§l这啥玩意儿？
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAADg.desc=你已经看过很多树了,而其中有几棵看起来很特殊,你很确信它们的功用绝对不只是拿来盖房子或是烧成木炭.你非常肯定,这些东西会非常重要,很快™.%n%n想要找到它们,最佳选择是魔法森林,要是你找不着的话,也可以试试花园或者樱桃树林.或是随意闲逛.%n%n要是这些都找不到的话,你可以去"硬币"任务栏买点.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAADg.name=§1§l这啥玩意儿……？
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAADg.desc=树，你再熟悉不过了。但总有那么几棵仍然奇异而陌生，使你确信它们的重要性远不止能体现在劈柴烧火盖房子这类家常琐事上。但究竟是能成什么大事，你暂时还说不清楚。不管怎样，先备着总没错。%n%n这些树木在魔法森林群系中最为常见。如果实在找不着，也可以去花园或樱桃树林群系探一探。再不济，其他各处也不是完全没有，说不定在你干别的事情时就能正巧碰上一棵。%n%n如果实在头疼，就直接去“硬币”任务栏里买吧。
 
 # Quest: Steam-a-licious!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAARg.name=§3§l更多蒸汽!
