@@ -9214,6 +9214,10 @@ betterquesting.quest.5ObFHI5BQ5Oxv0yca7morA.desc=为你准备了一个全新的�
 betterquesting.quest.5PUj-2T3QZOIq4a33qGXlA.name=16384K-ME流体存储组件
 betterquesting.quest.5PUj-2T3QZOIq4a33qGXlA.desc=最后一个(到目前为止)
 
+# Quest: Knowing your Throughput! 
+betterquesting.quest.8RZ1YKxCQACS3_7rdoHMMA.name=Knowing your Throughput! 
+betterquesting.quest.8RZ1YKxCQACS3_7rdoHMMA.desc=[quest]ME Throughput Monitor[/quest]%n%nThe ME Througput Monitor will show the speed of items entering your network. %n%nClicking with an item will add it to the monitor.%n%nUse a §awrench§f to lock the monitor.%n%nWhen the monitor is locked, use §cShift+Right Click§f to change the measured time frame. %n%nModes: %n%n§6Per Tick%nPer Second%nPer Minute%nPer Hour%n%n
+
 # Quest: It's Storage Time!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsg.name=存储时间!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsg.desc=想要搭建一个AE系统,你需要4种不同类型芯片的压印模板,把它们收集齐全吧! 如果你到EV阶段还未集齐它们的话,也可以通过机器直接制造.%n%n[warn]另外,搭建AE系统需要成吨的钛,所以先做到量产钛吧![/note]
@@ -9838,6 +9842,10 @@ betterquesting.quest.QHyLarPvSnCb30EbaBQdaw.desc=与1k存储元件一样.
 betterquesting.quest.SDGKHP7fQx-c3gUBv4DwuQ.name=又一个奇点?!?!
 betterquesting.quest.SDGKHP7fQx-c3gUBv4DwuQ.desc=你是否曾经想下单一千万亿个箱子,却发现你的合成存储器不够大?%n%n好了,这就是你的解决方案,由GTNHCorp(名称待定)的好心人为你提供.%n%n§c§r奇点合成存储器§r的存储量为9,223,372,036,854,775,807字节,如果你不识数,这就是一个很大的数字.%n%n合成一个并且享受它吧:) 你需要杀死一些混沌守护才能获得.%n
 
+# Quest: Cards for AE2 Nerds!
+betterquesting.quest.TP2PEGHQRnGKgKYFziEjrg.name=Cards for AE2 Nerds!
+betterquesting.quest.TP2PEGHQRnGKgKYFziEjrg.desc=[quest]Equal Distribution, Fake Crafting, Locking, and Advanced Blocking Cards![/quest]%n%n§6Equal Distribution Card: %n%n§fThe Equal Distribution Card will evenly divide a cell's capacity between types or partitions. %n%n§6Fake Crafting Card: %n%n§fThe Fake Crafting Card will tell your ME System to complete a craft without expecting the final resulting item. %n%nThis can be handy for creating fake patterns for entire multiblocks or setups by collecting the individual items needed in one craft. %n%nThe card can only be inserted into: %n%n§cME Dual Interface%nME Interface%nP2P Tunnel - ME Dual Interface%n%n§6Locking Card: %n%n§f§rThe Locking Card allows an interface to optionally block new crafts from being started for one of the following conditions:%n%n§cWhile Redstone is low%nWhile Redstone is high%nAfter a craft has been pushed, until a redstone pulse is received%nAfter a craft has been pushed, until the results have returned to the same interface%n%n§6§r§6Advanced Blocking Card: %n%n§f§rThe Advanced Blocking Card is able to ignore non-consumables in a subnet for more complicated automations. %n%nIn a standard subnet, where two interfaces are facing each other, the Advanced Blocking Card is to be §9placed on the §9§lsubnet§f §9interface. %n%n%n
+
 # Quest: 256k Essentia Component
 betterquesting.quest.Wh0yn2MOQhS-X_8NiPiZJw.name=256k-ME源质存储组件
 betterquesting.quest.Wh0yn2MOQhS-X_8NiPiZJw.desc=与1k存储元件一样.
@@ -9889,6 +9897,10 @@ betterquesting.quest.s2TL3i06Tb2WvPvdt1utyg.desc="它们"可以存储 524,288 �
 # Quest: Stocking Fluids
 betterquesting.quest.soyN9ODlQmmjrKEyKBNENA.name=储备流体
 betterquesting.quest.soyN9ODlQmmjrKEyKBNENA.desc=就像储备输入总线一样工作,但用于流体.%n%n[note]你只需要其中一个来完成任务.[/note]
+
+# Quest: Even More Basic Cards! 
+betterquesting.quest.suQSf7Z-QICknl3I1RfymA.name=Even More Basic Cards! 
+betterquesting.quest.suQSf7Z-QICknl3I1RfymA.desc=[quest]Overflow Void, Pattern Refiller, and Sticky Cards[/quest]%n%n§6Overflow Void Card: %n%n§fOverflow Void Cards will cause the ME Storage Cell to void excess inputs%n%n§6Pattern Refiller Card: %n%n§fThe Pattern Refiller card will refill empty patterns in your Processing and Fluid Processing Terminals%n%n§6Sticky Card: %n%n§e§fSticky Cards are useful if you want your ME System to only store a filtered item in one location across your entire network. %n%n[warn]Be careful with where you use sticky cards as they can lead to your passive systems jamming. [/warn]%n§f
 
 # Quest: 1024k Essentia Storage Cell
 betterquesting.quest.tUJaqz9uSwajByFi4gNHzQ.name=1024k-ME源质存储元件
