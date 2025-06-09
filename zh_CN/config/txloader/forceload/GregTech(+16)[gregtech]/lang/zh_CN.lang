@@ -726,6 +726,9 @@ GT5U.power_goggles_config.text_ok_tooltip=Affects Text color when EU change is 0
 GT5U.power_goggles_config.text_good=Good Text Color
 GT5U.power_goggles_config.text_good_tooltip=Affects Text and Power Chart color when EU change is positive
 
+GT5U.maglevHarness.tooltip=Grants creative flight while in range of a MagLev Pylon
+GT5U.maglevHarness.pylons=§cYOU MUST CONSTRUCT ADDITIONAL PYLONS!
+
 GT5U.autoplace.error.no_hatch=§c建议放置仓室 §4%s§c ,但未在库存中找到
 GT5U.autoplace.error.no_mte.id=§c建议放置meta-ID为 §4%s§c 的方块,但未在库存中找到
 GT5U.autoplace.error.no_mte.class_name=§c建议放置class名为 §4%d§c 的方块,但未在库存中找到
