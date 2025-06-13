@@ -1970,6 +1970,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMjQ.desc=第二步,让我们将四氯化
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMjg.name=§6§l头疼(Salty)的硅产线?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMjg.desc=如果你对提纯硅所需的各种资源感到头疼的话,我这有个好消息! 你可以通过电解处理产物盐(Salt),回收所有的氯和钠!%n%n%n[warn]当然也可以使用锌来代替钠，第一步反应会慢一点，但回收锌粉速度远比用钠要快。[/warn]
 
+# Quest: Creative Flight... kinda! 
+betterquesting.quest.W9yEXO2sQFaPbSV6N6vqjQ.name=Creative Flight... kinda! 
+betterquesting.quest.W9yEXO2sQFaPbSV6N6vqjQ.desc=With a MagLev Harness you can now fly anywhere*!%n%n*...as long as you are within range of a pylon. %n%nConsumes §c1A§r while powered. %n%nThe MV Pylon has a §c16§r block radius (33x33x33 cube centered around the pylon)%n%nRadius is §9halved§r if the pylon is unpowered. %n%n[note]You might consider constructing additional ones[/note]
+
 
 ## Quest Line: Tier 3 - HV
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAABQ.name=第3阶-高压（HV）
@@ -5561,6 +5565,10 @@ betterquesting.quest.tgH86mIERWKIh8OAleKrSw.desc=LV就能制作,怪物驱逐器�
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAADQ.name=基地建设
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAADQ.desc=厌倦了到处都是火把的基地,这让你的基地像个失败的作品?来看看这些任务吧,它们会让你的基地焕然一新.
 
+# Quest: Basic Creative Flight
+betterquesting.quest.-bMT3fEYTeqtRL-62o_EHQ.name=Basic Creative Flight
+betterquesting.quest.-bMT3fEYTeqtRL-62o_EHQ.desc=[quest]Advanced MagLev Pylon I (MV)[/quest]%n%nConsumes §c1A§r while powered. %n%nThe MV Pylon has a §c16§r block radius (33x33x33 cube centered around the pylon)%n%nRadius is §9halved§r if the pylon is unpowered. 
+
 # Quest: Building Made Easy
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACWQ.name=轻松建筑
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACWQ.desc=手动放置方块有时非常单调乏味.如果能一次放九个不是很好吗？好消息,准备好下列各种建筑方块,然后我会给你些好东西.%n%n你也可以用不稳定金属锭自己造一个(或做个更好的).%n%n你也可以将其升级为其他版本.
@@ -5769,9 +5777,17 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAIcA.desc=另一个自定义方块系统!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAM3g.name=栈桥
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAM3g.desc=栈桥Mod添加了多种装饰性方块来装饰你的工厂.%n%n脚手架和施工脚手架对于你可以飞行之前的空中建造很有用.它们像梯子一样可以攀爬,并在轻击时立刻破坏掉落.及时在攀爬时松开移动键,也不好从脚手架上摔落.如果使用固体方块右击施工脚手架,脚手架将会被替换为该固体方块.%n%n栈桥可以相互连接形成一条宽阔的通道.可以通过警示胶带和霓虹灯装饰栈桥,后者可以提供昏暗的照明.%n%n笼式扶梯可以让你上下移动而不会摔落,并且比原版梯子快得多.%n%n支柱只是一个装饰性方块,它们可以在任意方向互相连接,并向具有梯子的功能.%n%n坚实铁轨可以让矿车在没有方块支撑的情况下通过.使用焊枪右键坚实铁轨可以永久为其充能,而不需要红石火把.如果你还没有足够的娱乐项目,用它们建造一个过山车吧!%n%n焊枪可以让你通过右键单击移除栈桥的栏杆或地板.用焊枪可以在栈桥栏杆上打开一个允许你进出的通道,但不要违反"安全生产管理条例".GT或Forge兼容的扳手也有相同的功能,所以你没有必要制作焊枪.%n
 
+# Quest: Double the Radius = Double the Fun!
+betterquesting.quest.LaLMF5rFQ0SxAZ5o-C-r5Q.name=Double the Radius = Double the Fun!
+betterquesting.quest.LaLMF5rFQ0SxAZ5o-C-r5Q.desc=[quest]Advanced MagLev Pylon II (HV)[/quest]%n%nThe HV Pylon has a §c32§r block radius (65x65x65 cube centered around the pylon)%n%nRadius is §9halved§r if the pylon is unpowered. 
+
 # Quest: Obsidian Chest
 betterquesting.quest.QMlw6Z67T5-y_qflA7On2Q.name=§8黑曜石箱子
 betterquesting.quest.QMlw6Z67T5-y_qflA7On2Q.desc=将钻石箱子与黑曜石结合起来，使你能够制作一个防爆箱！%n%n[note]就像之前的箱子一样，你也可以用合适的升级物品来升级它。
+
+# Quest: Constructing Additional Pylons!
+betterquesting.quest.U0LzQUUkRIi-cY3ZpT4uiQ.name=Constructing Additional Pylons!
+betterquesting.quest.U0LzQUUkRIi-cY3ZpT4uiQ.desc=[quest]Advanced MagLev Pylon III (EV)[/quest]%n%nThe EV Pylon has a §c48§r block radius (97x97x97 cube centered around the pylon)%n%nRadius is §9halved§r if the pylon is unpowered. %n%n[note]The Protoss would be very happy with you[/note]
 
 # Quest: A Modern Technology
 betterquesting.quest.VFVruPLHQAeDthuV-s7HGQ.name=一项现代科技
