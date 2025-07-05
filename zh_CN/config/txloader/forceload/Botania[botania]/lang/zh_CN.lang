@@ -160,8 +160,6 @@ botaniamisc.keyCategory=植物魔法
 #LOKI
 botaniamisc.toggleLoki=洛基之戒模式选择
 botaniamisc.ringOfLokiClear=清除洛基之戒选区
-botaniamisc.ringOfLokiSaveSchematic=Save Ring of Loki Schematic
-botaniamisc.ringOfLokiOpenUI=Open Ring of Loki Schematic GUI
 botaniamisc.lokiOn=激活
 botaniamisc.lokiOff=禁用
 botaniamisc.breaking=粉碎
@@ -174,12 +172,6 @@ botaniamisc.lokiCurrent=当前状态
 botaniamisc.lokiState=洛基之戒
 botaniamisc.lokiMirror=当前透镜:
 botaniamisc.insufficient_mana=魔力不足！
-botaniamisc.schematic_saved=Schematic successfully saved!
-
-#LOKI UI
-botaniamisc.saved_schematics=Saved Schematics
-botaniamisc.select_schematic=Select a Schematic!
-botaniamisc.selected_schematic=Currently selected schematic:
 
 # NEI INTEGRATION
 botania.nei.brewery=植物酿造

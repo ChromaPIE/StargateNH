@@ -292,6 +292,13 @@ info.de.manual.contributorsButton.txt=贡献者
 info.de.manual.contributorsButtonInfo.txt=那些对龙之进化有贡献的人
 info.de.shiftRightClickToActivate.txt=Shift + 右键来激活
 info.de.blockRange.txt=方块范围
+info.de.status.txt=Status
+info.de.statusActive.txt=Active
+info.de.statusInactive.txt=Inactive
+info.de.selfPickup.txt=Pick Up Own Drops
+info.de.selfPickupAlways.txt=Always
+info.de.selfPickupDelay.txt=Delayed
+info.de.selfPickupNever.txt=Never
 
 info.de.manual.nav1.txt=导航提示
 info.de.manual.nav2.txt=按退格键(Backspace)回到上一页
@@ -447,6 +454,7 @@ key.toolConfig=工具和装甲配置 GUI
 key.toolProfileChange=更改工具配置
 key.toggleFlight=切换创造飞行模式
 key.toggleMagnet=开关物品错位器
+key.toggleMagnetSelfPickup=Toggle Magnet Self Pick Up
 
 //Damage ----------------------------------------------------------------------------------------------------------------------------------------
 death.attack.chaos=%1$s被混沌守卫撕裂
