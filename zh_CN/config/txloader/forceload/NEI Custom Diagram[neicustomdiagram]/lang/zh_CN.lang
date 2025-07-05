@@ -58,7 +58,7 @@ neicustomdiagram.generators.forge.oredictionary.orenamelabel=矿词名
 
 neicustomdiagram.generators.gregtech5.circuits.groupname=GT电路板
 neicustomdiagram.generators.gregtech5.circuits.tierlabel=%s级
-neicustomdiagram.generators.gregtech5.circuits.circuitboardsslot=电路基板
+neicustomdiagram.generators.gregtech5.circuits.circuitboardsslot=电路板
 neicustomdiagram.generators.gregtech5.circuits.circuitlinesslot=电路板系列
 neicustomdiagram.generators.gregtech5.circuits.individualcircuitsslot=独立电路板
 neicustomdiagram.generators.gregtech5.circuits.circuitpartsslot=电路板部件
@@ -195,11 +195,11 @@ neicustomdiagram.generators.gregtech5.oreprocessing.electromagneticseparatorlabe
 neicustomdiagram.generators.gregtech5.oreprocessing.electromagneticseparatorslot=电磁分离器输出
 neicustomdiagram.generators.gregtech5.oreprocessing.thermalcentrifugelabel=热力离心机
 neicustomdiagram.generators.gregtech5.oreprocessing.thermalcentrifugeslot=热力离心机输出
-neicustomdiagram.generators.gregtech5.oreprocessing.furnacelabel=附加熔炉合成表
-neicustomdiagram.generators.gregtech5.oreprocessing.electricblastfurnacelabel=附加电力高炉合成表
-neicustomdiagram.generators.gregtech5.oreprocessing.chemicalreactorlabel=附加化学反应釜合成表
-neicustomdiagram.generators.gregtech5.oreprocessing.mixerlabel=扩展搅拌配方
-neicustomdiagram.generators.gregtech5.oreprocessing.autoclavelabel=附加高压釜合成表
+neicustomdiagram.generators.gregtech5.oreprocessing.furnacelabel=额外熔炉配方
+neicustomdiagram.generators.gregtech5.oreprocessing.electricblastfurnacelabel=额外电力高炉配方
+neicustomdiagram.generators.gregtech5.oreprocessing.chemicalreactorlabel=额外化学反应釜配方
+neicustomdiagram.generators.gregtech5.oreprocessing.mixerlabel=额外搅拌机配方
+neicustomdiagram.generators.gregtech5.oreprocessing.autoclavelabel=额外高压釜配方
 neicustomdiagram.generators.gregtech5.oreprocessing.additionalrecipeoutputsslot=附加合成表输出
 
 neicustomdiagram.generators.gregtech5.recipedebugger.groupname=GT合成表Debug

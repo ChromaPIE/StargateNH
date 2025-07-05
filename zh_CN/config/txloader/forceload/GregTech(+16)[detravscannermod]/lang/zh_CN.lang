@@ -4,20 +4,20 @@ detrav.scanner.mode.2=设置模式：地下流体
 detrav.scanner.mode.3=设置模式：污染
 detrav.scanner.mode.error=设置模式：错误
 
-detrav.scanner.distance.texts.0= §n在你身旁，§r
-detrav.scanner.distance.texts.1= §n离你不远，§r
-detrav.scanner.distance.texts.2= §n离你有一段距离，§r
-detrav.scanner.distance.texts.3= §n离你较远，§r
-detrav.scanner.distance.texts.4= §n离你非常远，§r
+detrav.scanner.distance.texts.0=§n在你身旁，§r
+detrav.scanner.distance.texts.1=§n离你不远，§r
+detrav.scanner.distance.texts.2=§n离你有一段距离，§r
+detrav.scanner.distance.texts.3=§n离你较远，§r
+detrav.scanner.distance.texts.4=§n离你非常远，§r
 
 detrav.scanner.small_ore.keyword=贫瘠
 
 detrav.scanner.found.texts.0=没有发现矿石
-detrav.scanner.found.texts.1= §8零星(1-9)§r。
-detrav.scanner.found.texts.2= §7少量(10-29)§r。
-detrav.scanner.found.texts.3= §2中等(30-59)§r 
-detrav.scanner.found.texts.4= §e较多(60-99)§r。
-detrav.scanner.found.texts.5= §d极多(100+)§r。
+detrav.scanner.found.texts.1=§8零星(1-9)§r。
+detrav.scanner.found.texts.2=§7少量(10-29)§r。
+detrav.scanner.found.texts.3=§2中等(30-59)§r
+detrav.scanner.found.texts.4=§e较多(60-99)§r。
+detrav.scanner.found.texts.5=§d极多(100+)§r。
 detrav.scanner.found.texts.6=发现
 
 # Don't translate "%badluck"

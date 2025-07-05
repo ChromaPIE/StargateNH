@@ -67,9 +67,6 @@ tile.appliedenergistics2.BlockMolecularAssembler.name=分子装配室
 tile.appliedenergistics2.BlockPatternOptimizationMatrix.name=样板优化矩阵
 tile.appliedenergistics2.BlockSingularityCraftingStorage.name=奇点合成存储器
 tile.appliedenergistics2.BlockPaint.name=Paint
-tile.appliedenergistics2.BlockWirelessConnector.name=Wireless Connector
-tile.appliedenergistics2.BlockWirelessHub.name=Wireless Hub
-tile.appliedenergistics2.BlockGrower.name=Crystal Growth Chamber
 
 # Stairs
 tile.appliedenergistics2.ChiseledQuartzStairBlock.name=錾制赛特斯石英楼梯
@@ -228,6 +225,7 @@ gui.appliedenergistics2.StorageCells=ME存储元件
 gui.appliedenergistics2.IOBuses=ME输入/输出总线
 gui.appliedenergistics2.Stores=存储
 gui.appliedenergistics2.BytesUsed=字节已使用
+gui.appliedenergistics2.TimeUsed=Time Used
 gui.appliedenergistics2.Types=类型
 gui.appliedenergistics2.Blank=空白
 gui.appliedenergistics2.Unlinked=未链接
@@ -271,6 +269,7 @@ gui.appliedenergistics2.Next=下一页
 gui.appliedenergistics2.Lumen=光通
 gui.appliedenergistics2.Empty=空
 gui.appliedenergistics2.Stored=现存
+gui.appliedenergistics2.AddToBookmark=Bookmark
 gui.appliedenergistics2.Cancel=取消
 gui.appliedenergistics2.ETAFormat=HH:mm:ss
 gui.appliedenergistics2.SwitchCraftingSimulationDisplayMode=切换显示模式(列表/树形图)
@@ -334,7 +333,9 @@ gui.appliedenergistics2.HoldShiftForTooltip=按住Shift以查看拓展tooltip
 gui.appliedenergistics2.HoldShiftClick_HIGHLIGHT_INTERFACE=按住Shift以高亮接口
 gui.appliedenergistics2.Nothing=无
 gui.appliedenergistics2.VoidCellTooltip=销毁存储的§4所有物品§7
+gui.appliedenergistics2.CellView=Cell View
 gui.appliedenergistics2.Deprecated=已弃用,会在后续版本移除!
+gui.appliedenergistics2.ViewCellToggleKey=Right-click to toggle
 
 gui.appliedenergistics2.NetworkBytesDetails=网络存储信息
 gui.appliedenergistics2.Items=物品
@@ -440,6 +441,7 @@ gui.tooltips.appliedenergistics2.SearchMode_NEIStandard=NEI标准同步
 gui.tooltips.appliedenergistics2.SearchMode=搜索框模式
 
 gui.tooltips.appliedenergistics2.PartitionStorageHint=基于当前已存储物品进行分区编辑.
+gui.tooltips.appliedenergistics2.NextPartitionStorageHint=Click to get next item in the storage.
 gui.tooltips.appliedenergistics2.ClearSettings=清除配置
 gui.tooltips.appliedenergistics2.Craftable=可合成
 gui.tooltips.appliedenergistics2.MoveWhenEmpty=当元件为空时移动至输出口.
@@ -588,6 +590,16 @@ gui.tooltips.appliedenergistics2.CPUOnlyAllowNonPlayerDesc=Only allow crafting r
 gui.tooltips.appliedenergistics2.PinsSection=Pins Section
 gui.tooltips.appliedenergistics2.PinsSectionActive=Pins Section Enabled
 gui.tooltips.appliedenergistics2.PinsSectionDisabled=Pins Section Disabled
+gui.tooltips.appliedenergistics2.scheduledreason.SOMETHING_STUCK=Something stuck in interface
+gui.tooltips.appliedenergistics2.scheduledreason.BLOCKING_MODE=Blocking Mode
+gui.tooltips.appliedenergistics2.scheduledreason.LOCK_MODE=Lock Mode
+gui.tooltips.appliedenergistics2.scheduledreason.NO_TARGET=Cant find target to push
+gui.tooltips.appliedenergistics2.scheduledreason.NOT_ENOUGH_INGREDIENTS=Not enough ingredients
+gui.tooltips.appliedenergistics2.scheduledreason.SAME_NETWORK=Target interface in same network
+
+gui.tooltips.appliedenergistics2.ToggleShowOnlySubstitute=Toggles showing interfaces with patterns with substitutions enabled
+gui.tooltips.appliedenergistics2.ToggleShowOnlySubstituteOnDesc=Showing all interfaces
+gui.tooltips.appliedenergistics2.ToggleShowOnlySubstituteOffDesc=Showing only interfaces with patterns with substitutions enabled
 
 # Units
 gui.appliedenergistics2.units.appliedenergstics=AE
@@ -634,11 +646,6 @@ waila.appliedenergistics2.CraftingLockedByLackOfRedstoneSignal=因没有红石�
 waila.appliedenergistics2.CraftingLockedByRedstoneSignal=因红石信号而被锁定
 waila.appliedenergistics2.CraftingLockedUntilPulse=等待红石脉冲以解锁
 waila.appliedenergistics2.CraftingLockedUntilResult=等待合成产物以解锁
-waila.appliedenergistics2.wireless.connected=Connected to %s,%s,%s
-waila.appliedenergistics2.wireless.notconnected=Not Connected
-waila.appliedenergistics2.wireless.channels=Channels: %s
-waila.appliedenergistics2.wireless.power=Power Used: %s AE/t
-waila.appliedenergistics2.wireless.name=Name: %s
 
 # Items
 item.appliedenergistics2.ItemBasicStorageCell.1k.name=1k-ME存储元件
@@ -823,16 +830,6 @@ item.appliedenergistics2.ToolBiometricCard.name=身份卡
 
 item.appliedenergistics2.ToolDebugCard.name=Dev.调试卡
 item.appliedenergistics2.ToolReplicatorCard.name=Dev.复制卡
-
-item.appliedenergistics2.ToolNetworkVisualiser.name=Network Visualisation Tool
-item.appliedenergistics2.ToolNetworkVisualiser.bound=Visualising network at %s, %s, %s
-item.appliedenergistics2.ToolNetworkVisualiser.mode=Mode:
-item.appliedenergistics2.ToolNetworkVisualiser.set=Mode changed to %s
-item.appliedenergistics2.ToolNetworkVisualiser.mode.full=Show Everything
-item.appliedenergistics2.ToolNetworkVisualiser.mode.nodes=Show Nodes
-item.appliedenergistics2.ToolNetworkVisualiser.mode.channels=Show Channels
-item.appliedenergistics2.ToolNetworkVisualiser.mode.nonum=Show Channels and Nodes
-item.appliedenergistics2.ToolNetworkVisualiser.mode.p2p=Show P2P Links
 
 # Commands
 commands.ae2.usage=ae2提供的指令 - 输入/ae2 list查看指令列表,/ae2 help _____查看指令帮助.

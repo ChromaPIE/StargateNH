@@ -422,8 +422,8 @@ for.hints.shortmead.tag=能量饮料！
 for.hints.usesofash.desc=灰烬可以用来加工废料，也可以用来精炼沥青质泥炭。
 for.hints.usesofash.tag=善用你的灰烬哦！
 
-for.item.crated.grammar=装箱的%s
-for.item.crated.unknown=装箱的未知物品
+for.item.crated.grammar=装箱%s
+for.item.crated.unknown=装箱未知物品
 item.cratedAcaciaSapling.name=Crated Acacia Sapling
 item.cratedAcaciaWood.name=Crated Acacia Wood
 item.cratedApples.name=Crated Apple
@@ -472,7 +472,7 @@ item.cratedNaturaBerryBlight.name=Crated Blightberry
 item.cratedNaturaBerryBlue.name=Crated Blueberry
 item.cratedNaturaBerryDusk.name=Crated Duskberry
 item.cratedNaturaBerryMalo.name=Crated Maloberry
-item.cratedNaturaBerryRasp.name=Crated Raspberry
+item.cratedNaturaBerryRasp.name=装箱覆盆子
 item.cratedNaturaBerrySky.name=Crated Skyberry
 item.cratedNaturaBerrySting.name=Crated Stingberry
 item.cratedNaturaBlockHeatsand.name=Crated Heat Sand
@@ -755,6 +755,7 @@ item.for.naturalistHelmet.name=眼镜
 item.for.oakStick.name=浸渍木棍
 item.for.peat.name=泥炭
 item.for.phosphor.name=荧光粉
+item.for.phosphoricIodineCapsule.name=Phosphoric Iodine Capsule
 item.for.pipette.name=移液管
 
 item.for.pollenFertile.name=Fertile Pollen

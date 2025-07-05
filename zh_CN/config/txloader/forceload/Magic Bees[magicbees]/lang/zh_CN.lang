@@ -23,9 +23,9 @@ misc.magnetInactive=%s-未激活
 
 #Items
 item.magicbees:jellyBabies.name=胶糖娃娃
-item.manasteelScoop.name=魔钢捕虫网
+item.manasteelScoop.name=魔力钢捕虫网
 item.thaumiumScoop.name=奥法捕虫网
-item.manasteelGrafter.name=魔钢剪枝器
+item.manasteelGrafter.name=魔力钢剪枝器
 item.thaumiumGrafter.name=奥法剪枝器
 item.magicbees:mysteriousMagnet.name=神秘磁铁
 item.moonDial.name=翡翠色月相盘
@@ -715,10 +715,10 @@ tc.research_page.MB_GrafterVoid.1=毫无疑问,神秘锭是一种极好的材料
 #Botania Lexicon entries
 magicbees.botania.lexicon.subtitle=[魔法蜜蜂]
 
-magicbees.botania.lexicon.manasteelTools.title=自然学家的魔钢工具
-magicbees.botania.lexicon.manasteelTools.0=魔钢独特的属性注定了它是 自然学家的工具的上好材料。 &1魔钢捕虫网&0可用来高效采集 蜂巢，而耐用的&1魔钢剪枝器&0则 是普通的青铜剪枝器的上好 替代品。当然啦，两种工具都 可以用魔力来修复。要达到 最佳效果，请务必用活木合成。
-magicbees.botania.lexicon.manasteelScoop=&1魔钢捕虫网&0
-magicbees.botania.lexicon.manasteelGrafter=&1魔钢剪枝器&0
+magicbees.botania.lexicon.manasteelTools.title=自然学家的魔力钢工具
+magicbees.botania.lexicon.manasteelTools.0=魔力钢独特的属性注定了它是 自然学家的工具的上好材料。 &1魔力钢捕虫网&0可用来高效采集 蜂巢，而耐用的&1魔力钢剪枝器&0则 是普通的青铜剪枝器的上好 替代品。当然啦，两种工具都 可以用魔力来修复。要达到 最佳效果，请务必用活木合成。
+magicbees.botania.lexicon.manasteelScoop=&1魔力钢捕虫网&0
+magicbees.botania.lexicon.manasteelGrafter=&1魔力钢剪枝器&0
 
 magicbees.botania.lexicon.beeAlfheim.title=艾尔芙海姆的魔法蜜蜂
 magicbees.botania.lexicon.beeAlfheim.trade=换取&b精灵雄蜂&0

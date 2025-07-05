@@ -75,7 +75,7 @@ tile.BWHeatedWaterPump.0.name=简易斯特林水泵
 item.BWrawtube.name=加长玻璃管
 item.BWmotor.name=简易斯特林马达
 item.BWstove.name=简易熔炉
-gt.blockmachines.creativeScanner.desc.1=立刻结束扫描。无需能量。
+gt.blockmachines.creativeScanner.desc.1=立即完成扫描。无需能量。
 
 itemGroup.BioTab=BartWorks生物工程
 filled.item.petriDish.name=培养皿
@@ -277,4 +277,14 @@ misc.BatchModeTextOff=关闭批量处理
 tooltip.cal.imprintedWith=已压印：
 chat.cal.mode.0=电路装配线模式
 chat.cal.mode.1=电路组装机模式
-[#Liquids]
+#Liquids
+
+# gui
+BW.gui.text.radio_hatch.tooltip.radiation_shutter=Radiation Shutter
+BW.gui.text.radio_hatch.tooltip.radiation_shutter_control=Radiation Shutter Control
+
+BW.gui.text.lesu.eu=EU: %s
+BW.gui.text.lesu.max=MAX: %s
+BW.gui.text.lesu.max_in=MAX EU/t IN: %s
+BW.gui.text.lesu.eu_out=EU/t OUT: %s
+BW.gui.text.lesu.amp_io=AMP/t IN/OUT: %s
