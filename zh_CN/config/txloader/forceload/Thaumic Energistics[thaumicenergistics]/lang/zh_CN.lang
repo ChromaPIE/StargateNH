@@ -87,7 +87,7 @@ thaumicenergistics.tooltip.button.reset.aspect.description=将左侧表格重置
 thaumicenergistics.tooltip.advanced.infusion.provider.working.on=工作模式
 thaumicenergistics.tooltip.advanced.infusion.provider.normal=普通供应器
 thaumicenergistics.tooltip.advanced.infusion.provider.advanced=高级供应器
-thaumicenergistics.tooltip.advanced.infusion.provider.totalbind=Total binded to %d matrices
+thaumicenergistics.tooltip.advanced.infusion.provider.totalbind=Total bound to %d matrices
 
 
 #GUI

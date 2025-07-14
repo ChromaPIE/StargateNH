@@ -1037,6 +1037,7 @@ gt.recipe.purificationplantuvtreatment=高能激光疗法
 gt.recipe.purificationplantdegasifier=脱气
 gt.recipe.purificationplantquarkextractor=重子理想态
 gt.recipe.quantumcomputer=QC Components
+gt.recipe.cal-imprinting=Circuit Assembly Line Imprinting
 
 # Recipe categories
 gt.recipe.category.arc_furnace_recycling=电弧炉回收
@@ -1484,6 +1485,7 @@ GT5U.gui.config.client.color_modulation.cable_insulation=线缆绝缘材料
 GT5U.gui.config.client.color_modulation.machine_metal=机器金属(默认GUI颜色)
 GT5U.gui.config.client.interface=接口
 GT5U.gui.config.client.preference=偏好设置
+GT5U.gui.config.client.blockoverlay=GT Tool Block Overlay
 GT5U.gui.config.client.render=渲染
 GT5U.gui.config.client.waila=Waila
 GT5U.gui.config.client.nei=NEI
@@ -1664,7 +1666,7 @@ GTPacketInfiniteSpraycan.Action.TOGGLE_SHAKE_LOCK=Infinite Spray Can : Color Cyc
 gt.behaviour.trowel.tooltip1=Places a random block from your hotbar
 gt.behaviour.trowel.tooltip2=§o"Don't forget to bring a trowel!"§r -§cQuerns§r
 
-gt.behaviour.switch_mode.tooltip=Shift+Rclick to change mode
+gt.behaviour.switch_mode.tooltip=Press [%s] to change mode
 
 GT5U.hatch.disableFilter.true=输入过滤：§c关闭§r
 GT5U.hatch.disableFilter.false=输入过滤：§a开启§r
@@ -2762,6 +2764,7 @@ gt.time.second.singular=秒
 gt.time.second.plural=秒
 
 #Tool modes
+key.gt.tool_mode_switch=Tool Mode Switch
 gt.wrench.mode.1=线模式
 gt.wrench.mode.2=Precise Mode
 
