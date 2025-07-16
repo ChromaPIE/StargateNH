@@ -20,6 +20,7 @@ choice.toggledmaintained=切换/保持显示信息
 choice.showliquids=流体
 choice.shifttoggledblock=潜行切换方块信息
 choice.shifttoggledents=潜行切换实体信息
+choice.showicon=Show/Hide Icon
 screen.button.configureaspect=自定义外观...
 
 enchant.title.name=附魔名称

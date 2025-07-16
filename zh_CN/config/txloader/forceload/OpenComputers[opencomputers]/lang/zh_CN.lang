@@ -248,6 +248,7 @@ oc:gui.Rack.Right=右面
 oc:gui.Rack.Enabled=启用
 oc:gui.Rack.Disabled=禁用
 oc:gui.Rack.RelayModeTooltip=中继模式
+oc:gui.Rack.OrientationTooltip=Note: If facing the front[nl]of the Rack, the right[nl]side of the Rack is to[nl]your left.
 oc:gui.Rack.Top=顶面
 oc:gui.Switch.PacketsPerCycle=数据包 / 周期
 oc:gui.Switch.QueueSize=队列长度

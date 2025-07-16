@@ -128,7 +128,7 @@ block.fancybrick.ardite.name=花饰熔焱砖块
 block.fancybrick.cobalt.name=花饰钴砖块
 block.fancybrick.manyullyn.name=花饰斫星砖块
 
-tile.rail.wood.name=木轨道
+tile.rail.wood.name=Wooden Rail
 
 tile.cloth.white.slab.name=羊毛台阶
 tile.cloth.orange.slab.name=橙色羊毛台阶
@@ -1200,7 +1200,7 @@ option.tcon.smeltery=冶炼厂状态
 fluid.molten.unstableIngots=熔融不稳定金属锭
 fluid.molten.bedrockiumIngots=熔融基岩素锭
 
-item.iguana.tcon.clayBucket.Quartz.name=粘土桶(熔融石英)
+item.iguana.tcon.clayBucket.Quartz.name=Molten Quartz Clay Bucket
 
 #mobsinfo compat
 tconstruct.mobsinfocompat.tinkers_construct_beheading=你的武器每增加一级斩击都会增加额外的攻击力。 %.2f%%
