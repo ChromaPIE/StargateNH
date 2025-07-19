@@ -104,12 +104,14 @@ keybinding.jumptoggle=调整跳跃增幅
 keybinding.omnitoggle=调整全向移动
 keybinding.inertiatoggle=切换取消飞行惯性
 keybinding.incrementmodifier=Modulation Increment Modifier
+keybinding.stepassist=Toggle Step Assist
 
 thaumicboots.jumpEffect=跳跃提升:
 thaumicboots.speedEffect=速度提升:
 thaumicboots.omniEffect=全能模式:
 thaumicboots.inertiaCancelingEffect=惰甲取消中：
 thaumicboots.inertiaCancelingConfigDisabledMessage=惰甲取消功能在配置中被禁用
+thaumicboots.stepAssistEffect=Step Assist:
 
 thaumicboots.activeStatetrue=已激活
 thaumicboots.activeStatefalse=已停用
