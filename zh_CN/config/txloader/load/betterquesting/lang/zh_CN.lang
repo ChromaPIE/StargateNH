@@ -5593,14 +5593,6 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAADQ.desc=厌倦了到处都是火把
 betterquesting.quest.-bMT3fEYTeqtRL-62o_EHQ.name=Basic Creative Flight
 betterquesting.quest.-bMT3fEYTeqtRL-62o_EHQ.desc=[quest]Advanced MagLev Pylon I (MV)[/quest]%n%nConsumes §c1A§r while powered. %n%nThe MV Pylon has a §c16§r block radius (33x33x33 cube centered around the pylon)%n%nRadius is §9halved§r if the pylon is unpowered. 
 
-# Quest: Steel Barrel
-betterquesting.quest.25yJ-u9OSG-GiMnQY9vWfQ.name=§3§lSteel Barrel
-betterquesting.quest.25yJ-u9OSG-GiMnQY9vWfQ.desc=The Steel barrel also has 72 slots.
-
-# Quest: Copper Barrel
-betterquesting.quest.9B9CvQD0R8iLv-CBMTYZGQ.name=§2§lCopper Barrel
-betterquesting.quest.9B9CvQD0R8iLv-CBMTYZGQ.desc=The Copper barrel has 45 slots.
-
 # Quest: Building Made Easy
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACWQ.name=轻松建筑
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACWQ.desc=手动放置方块有时非常单调乏味.如果能一次放九个不是很好吗？好消息,准备好下列各种建筑方块,然后我会给你些好东西.%n%n你也可以用不稳定金属锭自己造一个(或做个更好的).%n%n你也可以将其升级为其他版本.
@@ -5809,10 +5801,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAIcA.desc=另一个自定义方块系统!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAM3g.name=栈桥
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAM3g.desc=栈桥Mod添加了多种装饰性方块来装饰你的工厂.%n%n脚手架和施工脚手架对于你可以飞行之前的空中建造很有用.它们像梯子一样可以攀爬,并在轻击时立刻破坏掉落.及时在攀爬时松开移动键,也不好从脚手架上摔落.如果使用固体方块右击施工脚手架,脚手架将会被替换为该固体方块.%n%n栈桥可以相互连接形成一条宽阔的通道.可以通过警示胶带和霓虹灯装饰栈桥,后者可以提供昏暗的照明.%n%n笼式扶梯可以让你上下移动而不会摔落,并且比原版梯子快得多.%n%n支柱只是一个装饰性方块,它们可以在任意方向互相连接,并向具有梯子的功能.%n%n坚实铁轨可以让矿车在没有方块支撑的情况下通过.使用焊枪右键坚实铁轨可以永久为其充能,而不需要红石火把.如果你还没有足够的娱乐项目,用它们建造一个过山车吧!%n%n焊枪可以让你通过右键单击移除栈桥的栏杆或地板.用焊枪可以在栈桥栏杆上打开一个允许你进出的通道,但不要违反"安全生产管理条例".GT或Forge兼容的扳手也有相同的功能,所以你没有必要制作焊枪.%n
 
-# Quest: Gold Barrel
-betterquesting.quest.GuylOTxSSraeAtj16fZ9-w.name=§3§lGold Barrel
-betterquesting.quest.GuylOTxSSraeAtj16fZ9-w.desc=The Gold barrel has 81 slots.
-
 # Quest: Obsidian Barrel
 betterquesting.quest.KfgATF33ToiE0aYS4pp04Q.name=§5§6§lObsidian Barrel
 betterquesting.quest.KfgATF33ToiE0aYS4pp04Q.desc=The Obsidian barrel holds as many items as the Diamond one, and is also immune to explosions.
@@ -5821,10 +5809,6 @@ betterquesting.quest.KfgATF33ToiE0aYS4pp04Q.desc=The Obsidian barrel holds as ma
 betterquesting.quest.LaLMF5rFQ0SxAZ5o-C-r5Q.name=Double the Radius = Double the Fun!
 betterquesting.quest.LaLMF5rFQ0SxAZ5o-C-r5Q.desc=[quest]Advanced MagLev Pylon II (HV)[/quest]%n%nThe HV Pylon has a §c32§r block radius (65x65x65 cube centered around the pylon)%n%nRadius is §9halved§r if the pylon is unpowered. 
 
-# Quest: Diamond Barrel
-betterquesting.quest.PjAewUoJTnilPpIT-Ce0tA.name=§5§lDiamond Barrel
-betterquesting.quest.PjAewUoJTnilPpIT-Ce0tA.desc=The Diamond barrel has 108 slots.
-
 # Quest: Obsidian Chest
 betterquesting.quest.QMlw6Z67T5-y_qflA7On2Q.name=§8黑曜石箱子
 betterquesting.quest.QMlw6Z67T5-y_qflA7On2Q.desc=将钻石箱子与黑曜石结合起来，使你能够制作一个防爆箱！%n%n[note]就像之前的箱子一样，你也可以用合适的升级物品来升级它。
@@ -5832,10 +5816,6 @@ betterquesting.quest.QMlw6Z67T5-y_qflA7On2Q.desc=将钻石箱子与黑曜石结�
 # Quest: Constructing Additional Pylons!
 betterquesting.quest.U0LzQUUkRIi-cY3ZpT4uiQ.name=Constructing Additional Pylons!
 betterquesting.quest.U0LzQUUkRIi-cY3ZpT4uiQ.desc=[quest]Advanced MagLev Pylon III (EV)[/quest]%n%nThe EV Pylon has a §c48§r block radius (97x97x97 cube centered around the pylon)%n%nRadius is §9halved§r if the pylon is unpowered. %n%n[note]The Protoss would be very happy with you[/note]
-
-# Quest: The future is here!
-betterquesting.quest.V9BupH47RI6RWX6vff5dpw.name=§2§lThe future is here!
-betterquesting.quest.V9BupH47RI6RWX6vff5dpw.desc=EFR adds with it vanilla Barrels (not to be confused with JABBA barrels). These are essentially like chests, but they can be placed next to each other and opened with a block above them. And you can upgrade them! Great for those compact machine setups.
 
 # Quest: A Modern Technology
 betterquesting.quest.VFVruPLHQAeDthuV-s7HGQ.name=一项现代科技
@@ -5848,14 +5828,6 @@ betterquesting.quest.dNDuychlSiqlrMhfnEKK_w.desc=The Dark Steel barrel holds 135
 # Quest: Crystal Chest
 betterquesting.quest.e-VLKN-JSRK3V2cmDbm6rw.name=§b水晶箱子
 betterquesting.quest.e-VLKN-JSRK3V2cmDbm6rw.desc=你已经制作了一个可以让你看到里面内容的箱子，是不是很有用？%n%n[note]就像之前的箱子一样，你也可以用合适的升级物品来升级它。
-
-# Quest: Silver Barrel
-betterquesting.quest.fhzjYvdATJuUQTMUO1pVvA.name=§3§lSilver Barrel
-betterquesting.quest.fhzjYvdATJuUQTMUO1pVvA.desc=The Silver barrel has 72 slots.
-
-# Quest: Iron Barrel
-betterquesting.quest.ne_onBK6TP2F_ySPabM7Lw.name=§2§lIron Barrel
-betterquesting.quest.ne_onBK6TP2F_ySPabM7Lw.desc=The Iron barrel has 54 slots.
 
 
 ## Quest Line: Forestry and Multifarms
@@ -6145,7 +6117,7 @@ betterquesting.quest.-1GoIXIXR029oc0Ge6sRGg.desc=这台机器就像普通油/气
 
 # Quest: Distill the Atmosphere
 betterquesting.quest.7p2Sqx7dR8mfVCNUYEUIuQ.name=§6§lDistill the Atmosphere
-betterquesting.quest.7p2Sqx7dR8mfVCNUYEUIuQ.desc=Using the Vacuum Freezer you can create Liquid Air. Liquid Air can be centrifuged into additional gases you won't get when centrifuging normal compressed air, but if you gather enough you can distill it into much more gases. %n%nMake these special hatches to hold and store the amounts outputted.
+betterquesting.quest.7p2Sqx7dR8mfVCNUYEUIuQ.desc=Using the Vacuum Freezer you can create Liquid Air. Liquid Air can be centrifuged into additional gases you won't get when centrifuging normal compressed air. If you can gather enough Liquid Air you can instead distill it into a larger quantity and variety of rare gases.%n%nMake these special hatches to hold and store the amounts required for this recipe.
 
 # Quest: Collision Course
 betterquesting.quest.9Pc7p99ASnybsIbWmmg0LQ.name=警告：可能发生撞击（Collision Course）
@@ -14058,9 +14030,17 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAGmg.desc=三个IV奖励=LuV奖励.
 betterquesting.quest.1FFkSYHcQPO_6U185CKBiw.name=防水科技,完美样板
 betterquesting.quest.1FFkSYHcQPO_6U185CKBiw.desc=随着你能随心所欲地弯曲时空,你能防止流体和电子元件发生相互作用.%n%n现在它可以处理包含流体的处理样板.%n%n[note]不然它就像合成输入总线一样工作[/note]
 
+# Quest: Steel Barrel
+betterquesting.quest.25yJ-u9OSG-GiMnQY9vWfQ.name=§3§lSteel Barrel
+betterquesting.quest.25yJ-u9OSG-GiMnQY9vWfQ.desc=The Steel barrel also has 72 slots.
+
 # Quest: Integrated Ore Factory - All in One!
 betterquesting.quest.3hN7FykMSJSWSykZiEWvfQ.name=§6§6§6§l集成矿石处理厂 - 一体化！
 betterquesting.quest.3hN7FykMSJSWSykZiEWvfQ.desc=集成矿石处理厂允许你一次性进行多进程的矿石处理.
+
+# Quest: Copper Barrel
+betterquesting.quest.9B9CvQD0R8iLv-CBMTYZGQ.name=§2§lCopper Barrel
+betterquesting.quest.9B9CvQD0R8iLv-CBMTYZGQ.desc=The Copper barrel has 45 slots.
 
 # Quest: Main Quests and Secondary Quests
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAABA.name=§1§l主要任务和次要任务
@@ -14574,6 +14554,14 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMzg.desc=为什么在我们可以运用�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMzw.name=1阶纳米锻炉
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMzw.desc=一定有种方式,可以让纳米机器人,在机器中参与加工.虽说可以在装配线中制造碳纳米蜂群,但效率极低.一定还有更好的方式.%n%n这台纳米锻炉如何,它能够将方块切割成纳米级薄片,然后制成第一个纳米蜂群,而生产出来的纳米蜂群又可以参与制造,几秒内即可造出数以千计的同类.%n%n[note]纳米锻炉是一台庞大的多方块机器,在几分钟内需要消耗更加庞大的能量.支持TecTech的高电流能源仓/激光仓.需要在控制器的GUI中放入一个碳纳米蜂群,方可解锁1阶配方.[/note]%n%n[note]另外,NEI中纳米锻炉配方没有最低电压要求.如果你想要让配方正常运行,只需达到其功率即可,不用管电压.[/note]
 
+# Quest: Gold Barrel
+betterquesting.quest.GuylOTxSSraeAtj16fZ9-w.name=§3§lGold Barrel
+betterquesting.quest.GuylOTxSSraeAtj16fZ9-w.desc=The Gold barrel has 81 slots.
+
+# Quest: Diamond Barrel
+betterquesting.quest.PjAewUoJTnilPpIT-Ce0tA.name=§5§lDiamond Barrel
+betterquesting.quest.PjAewUoJTnilPpIT-Ce0tA.desc=The Diamond barrel has 108 slots.
+
 # Quest: Compact Storage
 betterquesting.quest.QNsm_wc0QO2g9C6_-vj2fA.name=§2§l紧凑的存储
 betterquesting.quest.QNsm_wc0QO2g9C6_-vj2fA.desc=现在你已经有了越来越多的铜储备,你感觉你的木箱子太小了,不能存下你的所有东西. %n%n[note]是时候将你的木箱子升级为铜箱子了!更高等级的箱子可以通过升级组件方便地进行升级,但并不是所有等级的箱子都可以通过这种方法直接升级.试试看"升级：木>铜",虽然用这种方式将木箱子升级到高级的箱子并不会更加便宜.[/note]%n%n[note]升级后相邻的箱子不再能连接组成更大的箱子.[/note]
@@ -14582,9 +14570,21 @@ betterquesting.quest.QNsm_wc0QO2g9C6_-vj2fA.desc=现在你已经有了越来越�
 betterquesting.quest.V4jinTYRSueIrEqn90dRzQ.name=§3§l钢箱子?
 betterquesting.quest.V4jinTYRSueIrEqn90dRzQ.desc=钢箱子的造价明显高于金箱,容量也更小,但可用于某些特殊合成配方.%n
 
+# Quest: The future is here!
+betterquesting.quest.V9BupH47RI6RWX6vff5dpw.name=§2§lThe future is here!
+betterquesting.quest.V9BupH47RI6RWX6vff5dpw.desc=EFR adds with it vanilla Barrels (not to be confused with JABBA barrels). These are essentially like chests, but they can be placed next to each other and opened with a block above them. And you can upgrade them! Great for those compact machine setups.
+
+# Quest: Silver Barrel
+betterquesting.quest.fhzjYvdATJuUQTMUO1pVvA.name=§3§lSilver Barrel
+betterquesting.quest.fhzjYvdATJuUQTMUO1pVvA.desc=The Silver barrel has 72 slots.
+
 # Quest: Multiblock Revolution
 betterquesting.quest.hEsmeH74S4aOOrROI1AHxQ.name=§3§l多方块革命
 betterquesting.quest.hEsmeH74S4aOOrROI1AHxQ.desc=你一直在使用的蒸汽机器表现良好,但总有一天你需要处理更多的物品.这时候,所谓的多方块机器就派上用场了.有多种蒸汽多方块机器可供你选择——快去看看“大规模加工”任务栏吧!%n%n这个任务栏将向你介绍一系列极其强大的多方块机器,它们可以替代你那些陈旧的单方块机器(以及一些旧的多方块机器!).这些新机器中的许多需要你处理额外的机制和要求,但绝对值得一试!%n%n在进入多方块的世界之前,你需要熟悉以下术语:%n%n超频(OC):%n如果一台机器能够处理至少为配方所需电压4倍的电压,它将会超频——导致其需要4倍的EU/t,但运行速度提高到2倍.这种情况可以多次发生!%n%n完美超频(通常表述为“超频时不会损失能效”):%n某些机器在条件允许时(或无条件)执行完美超频:在这种情况下,机器需要4倍的EU/t,但运行速度提高到4倍,从而既增加了速度又没有总EU消耗的净增量!%n%n并行(通常表述为“同时处理x个物品”):%n并行工作的机器就像在运行多个自身——也就是说,它们可以同时执行多个相同的配方,使用配方的EU/t乘以并行数.机器会[warn]优先考虑[/warn]并行这种行为而不是超频,这对你有利!并行更加高效.%n%n[note]当使用多方块机器时,如果运行过程中电力中断,你的输入物品将会永久丢失……小心![/note]
+
+# Quest: Iron Barrel
+betterquesting.quest.ne_onBK6TP2F_ySPabM7Lw.name=§2§lIron Barrel
+betterquesting.quest.ne_onBK6TP2F_ySPabM7Lw.desc=The Iron barrel has 54 slots.
 
 # Quest: Dark Steel Chest
 betterquesting.quest.t6xRGFm_S2SG6_-xNh8mwQ.name=§5§6§l玄钢箱子
@@ -14597,43 +14597,43 @@ betterquesting.quest.xdiDnTdpTgW6POwCuDlPgg.desc=经过对第四维度的研究,
 
 ### Quests in no quest lines ###
 
-# Quest: Trigger LoC
+# Quest: Trigger: LoC
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABww.name=触发灰烬烧灯
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABww.desc=触发你背包里的"灰烬烧灯".
 
-# Quest: Trigger Singularity
+# Quest: Trigger: Singularity
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABxA.name=触发奇点
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABxA.desc=制作一个奇点并触发吧.
 
-# Quest: Trigger Shard of Creation
+# Quest: Trigger: Shard of Creation
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABxQ.name=触发创世碎片
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABxQ.desc=制作一个创世碎片并触发吧.
 
-# Quest: Trigger Life and Soul Shard
+# Quest: Trigger: Life and Soul Shard
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABxg.name=触发生命碎片和灵魂碎片
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABxg.desc=制作一个生命碎片和一个灵魂碎片并触发吧.
 
-# Quest: Trigger Unknown Crystal
+# Quest: Trigger: Unknown Crystal
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABxw.name=触发未知水晶
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABxw.desc=寻找"神秘水晶"并触发吧.
 
-# Quest: Trigger Life
+# Quest: Trigger: Life
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAByA.name=触发生命
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAByA.desc=在凋灵死亡后触发红心容器任务.
 
-# Quest: Trigger:Ring
+# Quest: Trigger: Ring
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFUw.name=触发:魔戒
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFUw.desc=寻找魔戒.
 
-# Quest: Trigger:Mjolnir
+# Quest: Trigger: Mjolnir
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFVA.name=触发:雷神之锤
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFVA.desc=寻找雷神之锤.
 
-# Quest: Trigger:Ballthingy
+# Quest: Trigger: Ballthingy
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFVQ.name=触发:球状物
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFVQ.desc=找到?或做个雷电碎片
 
-# Quest: Trigger:CtH (unlock)
+# Quest: Trigger: CtH (unlock)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAISw.name=触发:树木培育任务线(解锁)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAISw.desc=完全收集杂交树木触发.
 
@@ -14641,67 +14641,67 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAISw.desc=完全收集杂交树木触发.
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIbw.name=蜜蜂模板
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIbw.desc=首先从NEI中拿出公主蜂和奖励袋. %n复制这个任务.%n点击任务图标,打开编辑菜单,将图标设置为这个蜜蜂. %n%n打开任务,编辑,任务目标,将石头替换成这个公主蜂. %n在关闭之前,点击蜜蜂名字右侧的"...",然后点击"原NBT". %n点击tag栏"对象...",Genome栏"对象...",Chromosomes栏"列表...".%n第一个是必须保留的品种,删除剩余的条目.%n%n点击前置任务.删除"工具:不要完成",并选择需要的前置蜜蜂任务.如果不需要别的前置,选择"培育一些寻常蜂"任务即可.%n%n将"图表显示:隐藏"改为"图表显示:默认".%n%n要减少任务书中的无用文件,你还要进入高级设置,点击"..."图标,删除其中不必要的NBT.只保留前面提到的那些.%n%n最后将最外全局设置里的repeatTime改为-1.%n%n%n§3点击前置任务菜单中的眼睛图标可以调整前置任务的可见性.
 
-# Quest: Trigger:Silicone Rubber Skip
+# Quest: Trigger: Silicone Rubber Skip
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL2A.name=触发:跳过硅橡胶
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL2A.desc=没有描述.
 
-# Quest: Trigger:PTFE Skip
+# Quest: Trigger: PTFE Skip
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL2Q.name=触发:跳过聚四氟乙烯
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL2Q.desc=没有描述.
 
-# Quest: Trigger:Polystyrene Skip
+# Quest: Trigger: Polystyrene Skip
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL2g.name=触发:跳过聚苯乙烯
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL2g.desc=没有描述.
 
-# Quest: Trigger:Epoxid Skip
+# Quest: Trigger: Epoxid Skip
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL2w.name=触发:跳过环氧树脂
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL2w.desc=没有描述.
 
-# Quest: Trigger:Naqline Skip
+# Quest: Trigger: Naqline Skip
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL3A.name=触发:跳过硅岩处理
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL3A.desc=没有描述.
 
-# Quest: Trigger:Loot Game
+# Quest: Trigger: Loot Game
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALOw.name=触发:奖励小游戏(Loot Game)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALOw.desc=找到一座小游戏地牢.
 
-# Quest: Trigger Flippers
+# Quest: Trigger: Flippers
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALVA.name=触发脚蹼
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALVA.desc=
 
-# Quest: Trigger:Titanium Moon Skip
+# Quest: Trigger: Titanium Moon Skip
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALVQ.name=触发:跳过月球获得钛
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALVQ.desc=没有描述.
 
-# Quest: Trigger:Platline Platinum Skip
+# Quest: Trigger: Platline Platinum Skip
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALVg.name=触发:跳过铂线铂
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALVg.desc=没有描述.
 
-# Quest: Trigger:PBI Skip
+# Quest: Trigger: PBI Skip
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALVw.name=触发:跳过PBI
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALVw.desc=没有描述.
 
-# Quest: Trigger:Platline Palladium Skip
+# Quest: Trigger: Platline Palladium Skip
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALWA.name=触发:跳过铂线钯
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALWA.desc=没有描述.
 
-# Quest: Trigger:Platline Rhodium Skip
+# Quest: Trigger: Platline Rhodium Skip
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALWQ.name=触发:跳过铂线铑
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALWQ.desc=没有描述.
 
-# Quest: Trigger:Platline Ruthenium Skip
+# Quest: Trigger: Platline Ruthenium Skip
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALWg.name=触发:跳过铂线钌
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALWg.desc=没有描述.
 
-# Quest: Trigger:Platline Iridium Skip
+# Quest: Trigger: Platline Iridium Skip
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALWw.name=触发:跳过铂线铱
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALWw.desc=没有描述.
 
-# Quest: Trigger:Platline Osmium Skip
+# Quest: Trigger: Platline Osmium Skip
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALXA.name=触发:跳过铂线锇
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALXA.desc=没有描述.
 
-# Quest: Trigger:Tungstensteel Mars Skip
+# Quest: Trigger: Tungstensteel Mars Skip
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALXQ.name=触发:跳过火星获得钨钢
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALXQ.desc=没有描述.
 
@@ -14717,19 +14717,27 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMjw.desc=没有描述.
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMrw.name=工具:不要完成
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMrw.desc=这个任务永远不应该完成,它用来隐藏模板和其他必要隐藏的任务.
 
+# Quest: Trigger: Graphene Skip
+betterquesting.quest.MdXhDkN_TECH5kMp4OM2Gg.name=Trigger: Graphene Skip
+betterquesting.quest.MdXhDkN_TECH5kMp4OM2Gg.desc=No Description
+
 # Quest: Trigger: Early Scribing Tools
 betterquesting.quest.S8Z31Xp-RrSdc2A6rOvUzg.name=触发:笔与墨
 betterquesting.quest.S8Z31Xp-RrSdc2A6rOvUzg.desc=无描述
 
-# Quest: Trigger:Styrene-Butadiene rubber
+# Quest: Trigger: Styrene-Butadiene Rubber Skip
 betterquesting.quest.cQkx83QYT4m3mwovgZIKvA.name=触发:丁苯橡胶
 betterquesting.quest.cQkx83QYT4m3mwovgZIKvA.desc=无描述
+
+# Quest: Trigger: Polyphenylene Sulfide Skip
+betterquesting.quest.gg1I91tdRK2us5ETzB2VjA.name=Trigger: Polyphenylene Sulfide Skip
+betterquesting.quest.gg1I91tdRK2us5ETzB2VjA.desc=No Description
 
 # Quest: Trigger: Profane Wand
 betterquesting.quest.kPOfft_mTjqocCR6z9GhVw.name=触发:渎神杖柄
 betterquesting.quest.kPOfft_mTjqocCR6z9GhVw.desc=无描述
 
-# Quest: Trigger:Nether Skip
+# Quest: Trigger: Nether Skip
 betterquesting.quest.qFco17HGS0SxmpVn-uWJZQ.name=触发:跳过下界
 betterquesting.quest.qFco17HGS0SxmpVn-uWJZQ.desc=无描述
 
