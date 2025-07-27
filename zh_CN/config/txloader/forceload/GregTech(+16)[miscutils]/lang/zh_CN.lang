@@ -4034,7 +4034,7 @@ gtpp.tooltip.tool.optimal_steam_flow=Optimal Steam Flow: §d%f§7L/sec
 gtpp.tooltip.tool.optimal_gas_flow=Optimal Gas flow(EU burnvalue per tick):
 gtpp.tooltip.tool.optimal_plasma_flow=Optimal Plasma flow(Plasma energyvalue per tick):
 gtpp.tooltip.tool.attack_damage=攻击伤害：
-gtpp.tooltip.tool.mining_speed=Mining Speed:
+gtpp.tooltip.tool.mining_speed=采掘速度：
 
 gtpp.tooltip.wireless_charger.0=Can be locked to the owner by sneaking with a screwdriver.
 gtpp.tooltip.wireless_charger.1=Use screwdriver to change mode.

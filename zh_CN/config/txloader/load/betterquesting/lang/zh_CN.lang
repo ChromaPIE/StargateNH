@@ -11462,6 +11462,10 @@ betterquesting.quest.JyVKlIbSSiaXjYfQ2FFLhQ.desc=现在你已经能够以源质�
 betterquesting.quest.LUwrS4RnQGilkbdPQ_DrBg.name=用魔法的方式种植萤石
 betterquesting.quest.LUwrS4RnQGilkbdPQ_DrBg.desc=有许多作物都能为你提供萤石粉,但是其中最好的可能是荧光花.这种神奇的作物一旦成熟便可以直接收获两个萤石粉.
 
+# Quest: Shadow Metal
+betterquesting.quest.NO4JlNzcR_-1gaQi-kb3JA.name=Shadow Metal
+betterquesting.quest.NO4JlNzcR_-1gaQi-kb3JA.desc=Shadow Metal is an extremely useful metal in the early game. It can be easily made via the crucible and refined once you unlock the vacuum freezer. %n%nIt's high durability makes it a fantastic candidate for handheld tools, prospector scanners, turbines, and even wand caps later down the line.%n%nStart off by making 5 ores, and doubling that using a macerator.%n%n[note]Hint: You can find the research early on in the Maleficia section of the Thaumonomicon[/note]
+
 # Quest: More Health
 betterquesting.quest.TjJv9pSOSaW1kwzoTZ9qRw.name=更多生命值
 betterquesting.quest.TjJv9pSOSaW1kwzoTZ9qRw.desc=当你射出弩箭时你没来得及注意到你瞄准的是一种背上有着红色线条的特殊蜘蛛,无论你是怎样一个神射手也无济于事.通常,令人难以置信的疼痛会随之而来...%n%n利用你的新法杖,你可以制作红心容器了.你可以最多放10个红心容器到专用的栏位中,每个红心容器能提升一颗心的生命值上限.%n%n这可能并不够,但如果他最终让你好好的站着,而不是横着躺在棺材里,你便会庆幸你制作了这些心之容器.
