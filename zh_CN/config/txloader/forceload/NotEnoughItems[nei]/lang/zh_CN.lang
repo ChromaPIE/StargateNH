@@ -135,7 +135,8 @@ nei.chat.chunkoverlay.0=区块显示：关
 nei.chat.chunkoverlay.1=区块显示：仅区块角
 nei.chat.chunkoverlay.2=区块显示：区块
 nei.chat.chunkoverlay.3=区块显示：GT矿脉
-nei.chat.item_link.text=<%s> Check this out: %s
+nei.chat.item_link.text=<%s> §6Click to add bookmark: %s
+nei.chat.bookmark_added.text=Bookmark added!
 
 nei.options=NEI选项
 nei.options.back=后退
