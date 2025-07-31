@@ -11527,6 +11527,10 @@ betterquesting.quest.yT18iStZRzKem7FYnZoRzw.desc=Pipe some liquid Instrumentum i
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFw.name=熟练的神秘使
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFw.desc=囊括扭曲.
 
+# Quest: Smoke Your Normal Warp Away
+betterquesting.quest.6pH9sRoUSbCDG8eWqXS_ow.name=Smoke Your Normal Warp Away
+betterquesting.quest.6pH9sRoUSbCDG8eWqXS_ow.desc=Having too much normal warp? Saniziting Soap is too expensive for you?%n%nWell, luckily for you, you can remove your Warp using a Silverwood Smoking Pipe and some Relaxing Tobacco. This is a fairly cheap and sustainable option for removing your Normal warp (assuming you have a good option to get a lot of Vis).%n%nIt also has a chance to reduce your temporary warp.%n%n[note]The chance to reduce your normal warp per Relaxing Tobacco is 10%%, so you'll be needing a bunch of it.[/note]%n
+
 # Quest: Adept Thaumaturgy
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABBA.name=熟练的神秘使
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABBA.desc=我已经掌握了基本的魔法知识.师傅给我讲过一些关于禁忌魔法的事情.但是这个听起来挺有前途的.我认为稍微研究一些禁忌的事物不会产生什么问题...
@@ -11803,9 +11807,21 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMiA.desc=下个杖芯有太多可选！�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMyA.name=无视它们眼中的光芒
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMyA.desc=这不是个好主意,但不应成为你停下来的理由.不过是有脑子的傀儡罢了,能出什么问题?%n%n§2§b§3你只需完成其中一项要求即可.
 
+# Quest: The BEST Soap!
+betterquesting.quest.Jl453zbkSfC4pl9kglgy6A.name=The BEST Soap!
+betterquesting.quest.Jl453zbkSfC4pl9kglgy6A.desc=Finally, you can now reduce your permanent warp.%n%nThe chance to reduce your permanent warp is 10%%, increased to 25%% if you have the Warp Ward effect and further increased to 40%% if you're standing in Purifying Liquid. %n%n[warn]This soap has some side effects. Make sure you have a way to remove your normal (and temporary) warp.[/warn]%n%n
+
 # Quest: ...or are they?
 betterquesting.quest.LIZCdBLfQquQpULGmFDixw.name=......还是?
 betterquesting.quest.LIZCdBLfQquQpULGmFDixw.desc=这对杖端比神秘锭还要更好!
+
+# Quest: Check Your Warp For Free!
+betterquesting.quest.TBMfXgORRHuggrozS7vsVA.name=Check Your Warp For Free!
+betterquesting.quest.TBMfXgORRHuggrozS7vsVA.desc=Don't want to spend your Salis Mundus on Litmus Paper anymore? This device can significantly reduce your Litmus Paper useage!%n%nWhile holding this item, you gain a HUD Icon on the top left of your screen, which tells you how much warp you have. It does not tell you the exact warp values, but it helps you estimate it.%n%nHere's how to read it:%nYour §l§5§lPermanent Warp§r is displayed as a dark purple bar%nYour §5Normal Warp§r is displayed as a light purple bar%nYour §dTemporary Warp§r is displayed as a pink bar%n%nThe bar is full at 100 total warp.
+
+# Quest: Who Came Up With This Name??
+betterquesting.quest.lMDEhTDISSG1u2HYaZVg9w.name=Who Came Up With This Name??
+betterquesting.quest.lMDEhTDISSG1u2HYaZVg9w.desc=Sanitizing Soap isn't strong enough to keep up? %n%nThis soap has a 50%% Chance to reduce your normal warp, increased to 75%% if you have the Warp Ward effect (obtained by Purifying Bath Salts) and increased to 100%% if you're standing inside of the purifying fluid. %nThis soap also has a 100%% chance to cleanse §lall§r of your temporary warp!%n%nIn case you're wondering how to pronounce it: Don't even bother trying.%n
 
 
 ## Quest Line: Kaaami, Haaaami, ... HA!
