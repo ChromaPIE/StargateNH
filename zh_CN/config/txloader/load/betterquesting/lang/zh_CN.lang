@@ -5801,6 +5801,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAIcA.desc=另一个自定义方块系统!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAM3g.name=栈桥
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAM3g.desc=栈桥Mod添加了多种装饰性方块来装饰你的工厂.%n%n脚手架和施工脚手架对于你可以飞行之前的空中建造很有用.它们像梯子一样可以攀爬,并在轻击时立刻破坏掉落.及时在攀爬时松开移动键,也不好从脚手架上摔落.如果使用固体方块右击施工脚手架,脚手架将会被替换为该固体方块.%n%n栈桥可以相互连接形成一条宽阔的通道.可以通过警示胶带和霓虹灯装饰栈桥,后者可以提供昏暗的照明.%n%n笼式扶梯可以让你上下移动而不会摔落,并且比原版梯子快得多.%n%n支柱只是一个装饰性方块,它们可以在任意方向互相连接,并向具有梯子的功能.%n%n坚实铁轨可以让矿车在没有方块支撑的情况下通过.使用焊枪右键坚实铁轨可以永久为其充能,而不需要红石火把.如果你还没有足够的娱乐项目,用它们建造一个过山车吧!%n%n焊枪可以让你通过右键单击移除栈桥的栏杆或地板.用焊枪可以在栈桥栏杆上打开一个允许你进出的通道,但不要违反"安全生产管理条例".GT或Forge兼容的扳手也有相同的功能,所以你没有必要制作焊枪.%n
 
+# Quest: Crystal Shulker Box
+betterquesting.quest.DSkXvzhRSKiwFLJywGDMRg.name=§5§6§lCrystal Shulker Box
+betterquesting.quest.DSkXvzhRSKiwFLJywGDMRg.desc=An enhanced version of the Diamond Shulker that allows you to see the contents within.%n%nHas §n108§n§n§n§n§n§n§n§r slots.%n%n[note]Can be Dyed![/note]
+
 # Quest: Obsidian Barrel
 betterquesting.quest.KfgATF33ToiE0aYS4pp04Q.name=§5§6§lObsidian Barrel
 betterquesting.quest.KfgATF33ToiE0aYS4pp04Q.desc=The Obsidian barrel holds as many items as the Diamond one, and is also immune to explosions.
@@ -5809,9 +5813,17 @@ betterquesting.quest.KfgATF33ToiE0aYS4pp04Q.desc=The Obsidian barrel holds as ma
 betterquesting.quest.LaLMF5rFQ0SxAZ5o-C-r5Q.name=Double the Radius = Double the Fun!
 betterquesting.quest.LaLMF5rFQ0SxAZ5o-C-r5Q.desc=[quest]Advanced MagLev Pylon II (HV)[/quest]%n%nThe HV Pylon has a §c32§r block radius (65x65x65 cube centered around the pylon)%n%nRadius is §9halved§r if the pylon is unpowered. 
 
+# Quest: Obsidian Shulker Box
+betterquesting.quest.MbFXZcovQ1GRxQCeS2PUuw.name=§5§6§lObsidian Shulker Box
+betterquesting.quest.MbFXZcovQ1GRxQCeS2PUuw.desc=The portable equivalent of the Obsidian Barrel that retains it's explosion-proof qualities.%n%nHas §n108§n§n§n§n§n§n§n§r slots.%n%n[note]Can be Dyed![/note]
+
 # Quest: Obsidian Chest
 betterquesting.quest.QMlw6Z67T5-y_qflA7On2Q.name=§8黑曜石箱子
 betterquesting.quest.QMlw6Z67T5-y_qflA7On2Q.desc=将钻石箱子与黑曜石结合起来，使你能够制作一个防爆箱！%n%n[note]就像之前的箱子一样，你也可以用合适的升级物品来升级它。
+
+# Quest: Iron Shulker Box
+betterquesting.quest.StA9TvxxSi2n2c7wQdCAFA.name=§2§lIron Shulker Box
+betterquesting.quest.StA9TvxxSi2n2c7wQdCAFA.desc=The portable equivalent of the Iron Barrel.%n%nHas §n54§n§n§n§n§n§n§n§r slots.%n%n[note]Can be Dyed![/note]
 
 # Quest: Constructing Additional Pylons!
 betterquesting.quest.U0LzQUUkRIi-cY3ZpT4uiQ.name=Constructing Additional Pylons!
@@ -5821,13 +5833,37 @@ betterquesting.quest.U0LzQUUkRIi-cY3ZpT4uiQ.desc=[quest]Advanced MagLev Pylon II
 betterquesting.quest.VFVruPLHQAeDthuV-s7HGQ.name=一项现代科技
 betterquesting.quest.VFVruPLHQAeDthuV-s7HGQ.desc=混凝土.哦不，是汉麻混凝土!通过GTNH Chisel模组带来的一项全新的现代技术.一共有16种颜色.%n%n在Chisel中还有很多其他漂亮的方块.只需要在NEI中输入"@chisel"然后看一看.
 
+# Quest: Gold Shulker Box
+betterquesting.quest.YFUK2QflT1G3_WC8XBp2Wg.name=§3§lGold Shulker Box
+betterquesting.quest.YFUK2QflT1G3_WC8XBp2Wg.desc=The portable equivalent of the Gold Barrel.%n%nHas §n81§n§n§n§n§n§n§n§r slots.%n%n[note]Can be Dyed![/note]
+
+# Quest: Shulker Upgrades
+betterquesting.quest.Zza5BrD7TduqKby_b3wQsQ.name=§3§lShulker Upgrades
+betterquesting.quest.Zza5BrD7TduqKby_b3wQsQ.desc=Shulker boxes in need of an upgrade? No need to gather all new shells, there are 9 upgrade items availible. They will preserve the inventory of your shulker so there is no need to empty it beforehand. %n%n§n§A§r§lAvailible Upgrades:§l§r%nVanilla -) Copper%nVanilla -) Iron%nCopper -) Iron%nCopper -) Silver%nIron -) Gold%nSilver -) Gold%nGold -) Diamond%nDiamond -) Crystal%nDiamond -) Obsidian%n%n[note]Hint: You can also use these upgrades to avoid the 50 vis wand requirement of the higher tier shulkers.[/note]%n
+
+# Quest: Diamond Shulker Box
+betterquesting.quest.aIt1E54yQaSOg4CMz-Xegw.name=§5§lDiamond Shulker Box
+betterquesting.quest.aIt1E54yQaSOg4CMz-Xegw.desc=The portable equivalent of the Diamond Barrel, you'll need to either upgrade your wand or take advantage of the Gold -) Diamond shulker box upgrade.%n%nHas §n108§n§n§n§n§n§n§n§r slots.%n%n[note]Can be Dyed![/note]
+
 # Quest: Dark Steel Barrel
 betterquesting.quest.dNDuychlSiqlrMhfnEKK_w.name=§5§6§lDark Steel Barrel
 betterquesting.quest.dNDuychlSiqlrMhfnEKK_w.desc=The Dark Steel barrel holds 135 items! And is also immune to explosions.
 
+# Quest: Copper Shulker Box
+betterquesting.quest.dbax1OsmRpWMg6Pt4tE_ig.name=§2§lCopper Shulker Box
+betterquesting.quest.dbax1OsmRpWMg6Pt4tE_ig.desc=The portable equivalent of the Copper Barrel.%n%nHas §n45§n§n§n§n§n§n§n§r slots.%n%n[note]Can be Dyed![/note]
+
 # Quest: Crystal Chest
 betterquesting.quest.e-VLKN-JSRK3V2cmDbm6rw.name=§b水晶箱子
 betterquesting.quest.e-VLKN-JSRK3V2cmDbm6rw.desc=你已经制作了一个可以让你看到里面内容的箱子，是不是很有用？%n%n[note]就像之前的箱子一样，你也可以用合适的升级物品来升级它。
+
+# Quest: Silver Shulker Box
+betterquesting.quest.nc1Pqje3RIe_Yp6WoPOFzg.name=§3§lSilver Shulker Box
+betterquesting.quest.nc1Pqje3RIe_Yp6WoPOFzg.desc=The portable equivalent of the Silver Barrel.%n%nHas §n72§n§n§n§n§n§n§n§r slots.%n%n[note]Can be Dyed![/note]
+
+# Quest: Draconic Chest
+betterquesting.quest.njQqj1iCTK-64uA4HfSdVw.name=§5§6§lDraconic Chest
+betterquesting.quest.njQqj1iCTK-64uA4HfSdVw.desc=The Draconic Chest is a special upgrade of the compressed chest. In addition to a large inventory size and being able to retain it's contents, it has a crafting station and a furnace integrated directly into it. %n%nThe smelting module can be powered by EU or RF and has an internal buffer of it's own. It can smelt up to 5 items at a time.
 
 
 ## Quest Line: Forestry and Multifarms
@@ -13918,6 +13954,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKtw.desc=吸血鬼币终于有用处了!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALYQ.name=粘性树脂
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALYQ.desc=找不到橡胶树? 造不出集水器? 不想老是搓木龙头?  花点硬币买一组粘性树脂吧.
 
+# Quest: Shulker
+betterquesting.quest.C8FHZDizTnax3tt7HvnkBw.name=Shulker
+betterquesting.quest.C8FHZDizTnax3tt7HvnkBw.desc=I would carry out this battle indoors if I were you...
+
 # Quest: Having trouble finding Botania mushrooms?
 betterquesting.quest.ZW-P5BllSP25hEBQTgEBQQ.name=找不到植物魔法的蘑菇?
 betterquesting.quest.ZW-P5BllSP25hEBQTgEBQQ.desc=为什么不花一些硬币来节省你在暮色森林中寻找微光蘑菇的时间呢?
@@ -14574,6 +14614,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMzg.desc=为什么在我们可以运用�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMzw.name=1阶纳米锻炉
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMzw.desc=一定有种方式,可以让纳米机器人,在机器中参与加工.虽说可以在装配线中制造碳纳米蜂群,但效率极低.一定还有更好的方式.%n%n这台纳米锻炉如何,它能够将方块切割成纳米级薄片,然后制成第一个纳米蜂群,而生产出来的纳米蜂群又可以参与制造,几秒内即可造出数以千计的同类.%n%n[note]纳米锻炉是一台庞大的多方块机器,在几分钟内需要消耗更加庞大的能量.支持TecTech的高电流能源仓/激光仓.需要在控制器的GUI中放入一个碳纳米蜂群,方可解锁1阶配方.[/note]%n%n[note]另外,NEI中纳米锻炉配方没有最低电压要求.如果你想要让配方正常运行,只需达到其功率即可,不用管电压.[/note]
 
+# Quest: A Portable Barrel?
+betterquesting.quest.EDtFbLVvQX2Y5mQp84W9bw.name=§2§lA Portable Barrel?
+betterquesting.quest.EDtFbLVvQX2Y5mQp84W9bw.desc=As an upgrade to the barrels, EFR also adds the ever-familiar shulker box! The shulker box allows you to portably tote it's contents. You can find the research for them in the New Horizons tab of the Thaumonomicon.%n%nThese have seven additional tiers much like the barrels and chests that give you additional storage space. %n%nYou can dye any tier by shapelessly crafting them with a dye, and undye them by shapelessly crafting them alone. They §nwill§r retain their inventory. %n%n[note]Checkout the coins tab if you're looking for shells![/note]
+
 # Quest: Gold Barrel
 betterquesting.quest.GuylOTxSSraeAtj16fZ9-w.name=§3§lGold Barrel
 betterquesting.quest.GuylOTxSSraeAtj16fZ9-w.desc=The Gold barrel has 81 slots.
@@ -14748,6 +14792,10 @@ betterquesting.quest.S8Z31Xp-RrSdc2A6rOvUzg.desc=无描述
 # Quest: Trigger: Styrene-Butadiene Rubber Skip
 betterquesting.quest.cQkx83QYT4m3mwovgZIKvA.name=触发:丁苯橡胶
 betterquesting.quest.cQkx83QYT4m3mwovgZIKvA.desc=无描述
+
+# Quest: Trigger: SMD Inductor Skip
+betterquesting.quest.f9GkFpTbRruEZReIz7sGuA.name=Trigger: SMD Inductor Skip
+betterquesting.quest.f9GkFpTbRruEZReIz7sGuA.desc=No Description
 
 # Quest: Trigger: Polyphenylene Sulfide Skip
 betterquesting.quest.gg1I91tdRK2us5ETzB2VjA.name=Trigger: Polyphenylene Sulfide Skip
