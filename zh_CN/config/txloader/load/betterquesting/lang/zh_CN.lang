@@ -6495,15 +6495,15 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAM2A.desc=这一机制是可选的,而且
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAM2Q.name=催化奇迹
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAM2Q.desc=量子操纵者使用化工厂也使用的那种催化剂.然而,就像拥有觉醒龙或更高等级线圈的化工厂一样,它不会在配方完成时消耗催化剂的耐久,更像是现实化学反应中的催化剂,它们在反应结束后会被重新生成为最初的物质.这使得这里使用的催化剂的制作成本更高,就像与高等级线圈配合来制作突变活性焊料的无限突变催化剂一样.%n%n鉴于没有耐久损失,似乎只需要制作一次催化剂.然而,两个原因使得你需要制作不止一份催化剂：首先,每个量子操纵者配方使用不同的催化剂;其次,量子操纵者通过计算输入总线中所含催化剂的数量来确定并行(最高为64并行,即为催化剂的最大堆叠).这套系统使你只制造一份催化剂就可以解锁配方的使用,但最好多制作一些.而且多份催化剂只会改变配方的运行速度,前提是你要提供足够的EU.%n%n每个能够使你跳过某个生产线的催化剂都需要该产线解锁的材料来制作.也就是说,必须使用原始加工线才能跳过它们.量子操纵者的每个配方都是如此.%n%n为了提高处理的总体速度,你的一种选择是添加更多催化剂来增加量子操纵者的并行.另一种更复杂的方法是通过向系统添加更多能量来增加成功输出的概率,但以一种特殊的方式:不是直接使用EU,而是生成大量的等离子体来提高量子处理过程.%n%n不同的等离子体有不同的功能.你也可以通过升级结构中的方块来增强量子操纵者.这些升级依赖于更高级和更强大的材料,主要来自于超维度等离子锻炉.然而,仅靠那些材料是不够的,因为这些常规来源的物质无法维持量子稳定性.幸运的是,量子操纵者本身就可以生产你所需要的这些奇异材料.你在尝试跳过一些生产线时发现了它们.因此,量子操纵者允许你更简单的生产现有材料,在这个过程中,它产出了一些全新的材料,供你升级结构本身.%n%n你总共发现了三种新物质,机器也就有了四个层级.第一级是初始层级,之后的每个层级都需要这些新物质来建造.在现实生活中,这些物质只是理论上的理想材料.它们的特性都neta自其对应的跳过的产线.%n%n你升级量子操纵者所需要的第一种奇异物品是超稳态自修复粘合剂.要制作这种材料,请使用粘合促进催化剂执行胶水/焊料配方.此外,制作其他催化剂来证明您在量子领域之旅中已经准备就绪.%n
 
-# Quest: Tier 2 Transforming
+# Quest: Tier 2 Shielding
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAM2g.name=等级2:转化
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAM2g.desc=历经艰难,你终于可以通过用此任务中列出的机械方块替换一级量子操纵者种对应的两种机械方块来构建2级量子操纵者.完成后,多方块结构就可用于跳过镧系金属处理和三分之二的硅岩处理.在所有昂贵的材料中,有一种材料只能在量子操纵者Tier 1中制作,所以我希望你已经有所进展了.%n%n第一种奇异物质——超稳态自修复粘合剂.这种粘合剂在将东西粘在一起方面非常有效,但它也是量子稳定的,这意味着它不会被简单的量子场改变或破坏.最重要的是,它还具有自我修复特性,这意味着它可以通过自我修复来承受2,3或4级量子操纵者的庞大能量流,无论如何破坏,破坏至何种程度,它都能自我修复并保证量子操纵者的正常运行.
 
-# Quest: Tier 3 Focusing
+# Quest: Tier 3 Shielding
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAM2w.name=等级3:聚焦
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAM2w.desc=通过获得更好的材料,您可以升级到量子操纵者Tier 3.在这一等级中,你可以跳过两条生产线:全部的硅岩处理和干细胞处理.%n%n第二种奇异物质---复合稀土超导材料.它能够促进能量流的转移,而不是像上一种那样稳定结构.鉴于所有的损坏可以自动修复,现在的重点是让能量更容易从一个组件流到下一个组件,并允许更多的能量输入到机器中.现有的超导体不能很好地处理量子流,而这种复合材料中存在着由多种稀土元素构成的独特结构,使用它作为能量导体可以消除结构中能量转移的所有阻力.能量在结构种的转移是如此的丝滑,没有任何阻碍,也不会有任何逸散.
 
-# Quest: Tier 4 Transforming
+# Quest: Tier 4 Shielding
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAM3A.name=等级4:转化
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAM3A.desc=量子操纵者的最终形态,建立在多元时空堆栈之上.完成后,您将可以使用当前游戏中所有的产线跳过处理,和上一级相比,新能跳过的是生物细胞产线、凯夫拉产线和拉多X与异氙产线.%n%n第三种奇异物质---超固态超能硅岩黑体.即使你竭尽所能,在完成生物电路板产线前你也不能建造你的第一台量子操纵者(如生物处理器主机),这是你以前的理论限制.而这里就是量子操纵者理论上的极限了,为了到达这里,你需要硅岩处理后半段中获得的材料.这种新的与硅岩相关的物质具有黑体的特性,吸收它接收到的所有辐射且不反射任何辐射,并且是一种超固体,即一种能像流体一样流动的固体,粘度为零.使用这种材料,可以保证任何EU级别的量子能量轻松稳定地流动,即使在MAX层级也是如此.所有这些进展一起,你的量子操纵者已是完全形态,可以制作那些你在UHV及以下时苦恼过的所有物质成分.
 
@@ -6522,6 +6522,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMkQ.desc=以宇宙自身的伟力熔炼.
 # Quest: Algae Pond
 betterquesting.quest.Ds_ok-hRS2ODJNs3LUP9kw.name=藻类池塘
 betterquesting.quest.Ds_ok-hRS2ODJNs3LUP9kw.desc=可持续性。它不是一个游戏术语……但却是可以在这里达成的！%n%n你可能已经尝试过从单一资源中生产多种化学物质了，比如石化或苯产线。但还有藻类农场，它只是一个池塘，所以工作并不耗能。不仅如此它也无法使用常规配方，所以NEI不会显示任何关于藻类的页面。藻类农场会周期性产生藻类。它的等级取决于底层的机械方块，这些一层方块必须全部匹配对应的工作等级（译者：或更高级的仓室）。从超低压（ULV，起始时间为每批次50秒）到高压（IV，每批次25秒），每个等级都会减少生产藻类的时间约5秒，然后在此基础上，每个等级的速度将减半。该装置目前支持到超高压（UHV）外壳，高于此等级的外壳将无法与此机器配合使用。生产速度也有可能随机地加倍或三倍增加所需时间，但这种情况比较罕见。%n%n每次升级还会增加单次产出的藻类量。每个周期会给出一个精确的数量，并且有10%%的机会会额外奖励一定数量。藻类农场还可以用堆肥提高一级农场的等级，同时用藻类就可以生产堆肥。最开始的时候可能很贵，但很建议在大多数情况下这样做。你可以从超低压（ULV）等级开始获得普通藻类和绿藻，高压（HV）等级开始出现褐藻，极高压（EV）等级出现金褐藻，超高压（IV）等级出现红藻，尽管在大多数情况下，它们开始出现时的数量都非常少。%n%n要了解具体的产出数量和时间，请查看维基：[url]https://gtnh.huijiwiki.com/wiki/%E8%97%BB%E7%B1%BB%E5%86%9C%E5%9C%BA[/url]%n%n藻类可以用来生产多种化学制品，例如甲烷、氨气、硫酸、碳酸钠、乙烯、氯化锂，甚至一些产能流体。你通常需要用埃克森美孚化工厂来生产它们。在IV阶段你还可以通过结合绿色藻类和萤石来生产夜光珊瑚，用来生产阳光化合物。如果很好奇整个产线的话，查查NEI：关于它们的任务很快就会上线，可能还会有一些不用化工厂的配方。
+
+# Quest: Tier 2 Manipulating
+betterquesting.quest.Mf1D7e-LTaW3rbBRYmxBAQ.name=Tier 2 Manipulating
+betterquesting.quest.Mf1D7e-LTaW3rbBRYmxBAQ.desc=After significant progression, you'll be able to upgrade the QFT to tier 2 by replacing the §b§3Neutron Pulse Manipulator§f §rcasings § with §b§3Cosmic Fabric Manipulator§f §rcasings. Once installed, the QFT can perform the §6§6monaline skip§f §rand the §6§6first two naqline skips§f§r.%n%n§rThese casings require more advanced materials, including §b§3Hyper-Stable Self-Healing Adhesive§f§r, which can only be crafted in a tier 1 QFT. This adhesive isn’t just excellent at sticking things together - it’s also built to withstand the intense energy flow of a tier 2, 3, or even tier 4 QFT! §o%n%nWho knows what kinds of materials you’ll need after this?!
 
 # Quest: A Beginner's Guide to Particle Physics
 betterquesting.quest.NGG2rHQ4T4SInwXT8XTGSg.name=粒子物理学新手指南
@@ -6586,6 +6590,14 @@ betterquesting.quest.rZCrzZ3QTni28BdPZf2-0w.desc=龙之进化聚合制造器有5
 # Quest: One Fluid Tank to Store it All!!
 betterquesting.quest.tQecVBhjRRyfR3sqeNBrtA.name=§6§l至尊储罐驭众液
 betterquesting.quest.tQecVBhjRRyfR3sqeNBrtA.desc=如果你觉得普通的超级缸或量子缸实在是太小了,那尧它储罐一定对你胃口！%n%n相较T.F.F.T能存储25种流体,尧它储罐只能存储一种.然而,不必与其他流体共享存储空间也并非一件坏事.尧它储罐同样不需要能源和维护.%n%n如果你就是想大量存储一种流体,尧它储罐就是最佳选择.该储罐有专用的AE交互仓：尧它仓;存储单元方块部分结构上也是可扩展的.既可以升级流体单元方块增加最大容量,也可以加高流体单元方块部分的结构.%n%n因此,想要规整靓丽地存储流体,尧它储罐就是最佳选择.%n%n[note]如果你在NEI中找不到流体单元方块,可以试试搜:fluid cell block[/note]
+
+# Quest: Tier 4 Manipulating
+betterquesting.quest.tXVcSBqQQnS4tF8VoMqr6Q.name=Tier 4 Manipulating
+betterquesting.quest.tXVcSBqQQnS4tF8VoMqr6Q.desc=§lFinally, you have done it§r! You can now upgrade your QFT to the ultimate tier by replacing your §b§3Infinity Infused Manipulator§f §rcasings with §b§3SpaceTime Continuum Ripper§f §rcasings. This final upgrade unlocks all skips, including the §6§6bio cell§f §rskip, the §6§6kevlar skip§f §rand the §6§6radox + xenoxene skip§f§r.%n%nEven with all previous upgrades, the final leap remained out of reach. Chemical skips for foundational components used in the earlier stages of the QFT, such as bioware circuits, were still impossible - §ountil now§r. Reaching the theoretical limit of the QFT demands a material far beyond anything seen before, hidden deep within the second half of the Naquadah line.%n%nThe material you require will be your magnum opus - the §b§3Black Body Naquadria Supersolid§f§r. This extraordinary substance acts as a perfect black body - absorbing all radiation without reflection - and behaves as a supersolid, flowing like a fluid with zero viscosity. Combining these properties in a single material ensures stable, effortless quantum energy flow at any voltage level, even at the MAX tier!%n%nWith this breakthrough, your QFT is fully unlocked, capable of creating components up to the UHV tier.
+
+# Quest: Tier 3 Manipulating
+betterquesting.quest.vK1Ed8HPTTms4QxfaA_P8Q.name=Tier 3 Manipulating
+betterquesting.quest.vK1Ed8HPTTms4QxfaA_P8Q.desc=With access to even more advanced materials, you can upgrade your QFT to tier 3 by replacing the §b§3Cosmic Fabric Manipulator§f §rcasings with §b§3§b§3Infinity Infused Manipulator§§§f §rcasings. This tier unlocks two powerful new skips: the §6§6final naqline skip§f §rand the §6§6stem cell skip§f§r.%n%nThis new casing requires even more advanced materials still, including the §b§3Superconductor Rare-Earth Composite§f§r, which can only be crafted in a tier 2 QFT. Unlike §b§3Hyper-Stable Self-Healing Adhesive§f§r, which focused on structural integrity, this composite is designed purely for energy transmission. With automatic self-repair now fully handled, we can shift our focus to increasing the energy flow between components and into the multi itself.%n%nStandard superconductors break down under quantum stress - but this composite eliminates all resistance across the outer shell. Its precisely layered rare-earth elements create such gradual transitions that quantum flow moves effortlessly, with no losses or destabilizing effects.%n%n§oWhat will you discover next?!
 
 # Quest: More Algae Uses
 betterquesting.quest.wgxwGsMBScCIIWzrgyfb8w.name=藻类的更多用途
