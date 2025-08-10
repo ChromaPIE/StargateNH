@@ -130,7 +130,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALOg.name=§1§l加载区块
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALOg.desc=Minecraft是以区块为单位运作的 - 每个区块的范围是从基岩到天空的16x16区域. 你周围的区块会被模拟,或者说被加载. 如果一个区块没有被加载, 在其内部任何事都不会发生 - 作物不会生长,机器不会工作.因此,当你需要外出探索时,让基地中的区块保持加载. 之后即使你待在基地里,你也还是需要让区块保持加载,避免机器因加载问题而爆炸,尤其是多方块机器%n%n你可以有多种方法保持区块加载.%n%n1) 使用ServerUtilities. 默认配置下,你无法加载区块.如果你在单人模式或私人服务器内游玩,可以随意修改配置.%n%n2) 使用四种RC的锚. 虽然你得到LV阶段以后才能制造它们. 在单人模式或是私人服务器中,你可以通过作弊获取管理员世界锚,免费永久加载区块. 在公共服务器上,为了防止长时间不上线玩家基地持续加载而大幅降低TPS,这些是被限制的. 在我们的官方服务器中,这些锚需要消耗末影碎片、末影珍珠或是区块加载器硬币.请查看tooltip,获知它们在什么锚中分别有多长的工作时间. %n%n3) 使用GT++的区块加载机.需要EU.%n%n4) 使用某种能加载自身所在区块的方块,这里就不列了. 如果在公共服务器上,没有经过管理员允许就大量使用此类方块,那他可能会给你点颜色看看了.就算是某些原版方式也不行.%n%n不要使用chicken chunks来获取类似锚的方块,它的bug非常多.
 
 # Quest: Permanent Offhand!
-betterquesting.quest.U7JoxM0mRaWx0MYriD2LtQ.name=Permanent Offhand!
+betterquesting.quest.U7JoxM0mRaWx0MYriD2LtQ.name=§9§lPermanent Offhand!
 betterquesting.quest.U7JoxM0mRaWx0MYriD2LtQ.desc=With the release of version 2.8 of GTNH, the modern offhand slot has been backported and is available for every player. %n%nWith this, we say goodbye to the Battlegear slots of before. The three slots on either side of your hotbar, default key "G", are no longer!%n%nDefault Keybind to swap between mainhand and offhand: §9F§r%n%n[warn]Any items that were in the Battlegear slots should return to your inventory or dropped on the ground if your inventory is full.[/warn]%n%n[note]You can also toggle various Torch Tweaks in Backhand's mod client configs. They are disabled by default, but you may find them useful if you love holding torches in your offhand.[/note]
 
 
@@ -11870,6 +11870,10 @@ betterquesting.quest.TBMfXgORRHuggrozS7vsVA.desc=Don't want to spend your Salis 
 # Quest: Who Came Up With This Name??
 betterquesting.quest.lMDEhTDISSG1u2HYaZVg9w.name=Who Came Up With This Name??
 betterquesting.quest.lMDEhTDISSG1u2HYaZVg9w.desc=Sanitizing Soap isn't strong enough to keep up? %n%nThis soap has a 50%% Chance to reduce your normal warp, increased to 75%% if you have the Warp Ward effect (obtained by Purifying Bath Salts) and increased to 100%% if you're standing inside of the purifying fluid. %nThis soap also has a 100%% chance to cleanse §lall§r of your temporary warp!%n%nIn case you're wondering how to pronounce it: Don't even bother trying.%n
+
+# Quest: Research Completer
+betterquesting.quest.q9PTMZlaR-GCnyoGNoO8Pw.name=Research Completer
+betterquesting.quest.q9PTMZlaR-GCnyoGNoO8Pw.desc=Let's face it... nobody (sane) wants to do all of their research manually!%n%nNow that you've learned how to collect nodes and create a wand recharging pedestal you can make the research completer. This quest shows the minimum required blocks but the structure can be up to 13 in length.%n%nThis machine will consume EU and eat nodes placed in the center of it in exchange for completing research notes given to it. If you're using a long machine it's highly recommended you use node stabilizers underneath your nodes to prevent them from destroying each other.%n%n[note]Of course you need to §lresearch§r the Research Completer, you'll find it in the electro-magic tools tab.[/note]
 
 
 ## Quest Line: Kaaami, Haaaami, ... HA!
