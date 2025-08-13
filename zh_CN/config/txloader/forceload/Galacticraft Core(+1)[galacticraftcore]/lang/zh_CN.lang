@@ -724,6 +724,7 @@ gc.configgui.enableOtherModsFeatures=Enable All Other Mod World Gen(允许所有
 gc.configgui.whitelistCoFHCoreGen=Whitelist CoFHCore World Gen(CoFHCore世界生成白名单)
 gc.configgui.enableThaumCraftNodes=Enable ThaumCraft Nodes on planets(允许神秘时代的节点在行星里生成)
 gc.configgui.otherModOreGenIDs=Set Other Mod Ores to Generate on Planets(允许其它Mod的矿物生成于各个行星中)
+gc.configgui.enableCapes=Enable/Disable Fetching Donator Capes
 gc.configgui.enableDebug=Show Debug Messages in Console(在控制台里显示调试信息)
 gc.configgui.disableLander=Disable Moon Lander(月球禁用登陆舱)
 gc.configgui.disableSpaceshipGrief=Disable Moon Lander(禁用火箭爆炸)
