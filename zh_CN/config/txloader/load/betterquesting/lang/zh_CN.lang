@@ -4874,10 +4874,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHPw.desc=现在你有了面团,有多种
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHQQ.name=鸡,一只也别想跑!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHQQ.desc=你喜欢派吗?当然!  有许多种派可供选择.  鸡肉派是最容易做的派之一.只需生鸡肉、土豆、胡萝卜和面团.水果派要简单一点,所以提供的饱食度不太多,但是在你等待最好食物的过程中,它们对填饱肚子很有用.
 
-# Quest: Robotic Crop Pickers
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHRg.name=机械化作物收割
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHRg.desc=作物收割机可以自动收割11x11x3范围的作物,太棒了! 又因为多方块农场在HV阶段,所以前期作物收割机就是最好的农业自动化选择了.%n%n如果你需要其在特定阶段收割作物,需要在其中放入作物分析仪.否则只要可以收割,作物收割机就会即刻工作.比如种植粘性甘蔗的时候,如果不放分析仪,收割机就会在2阶段(收获甘蔗)工作,而不会等到4阶段(收获粘性树脂).
-
 # Quest: You Can't Tell Them Apart Either?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHgA.name=啥啥分不清楚?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHgA.desc=许多植物看起来都差不多.总有一天你可以用机器区分它们,还能得知更多详细信息.但是现在你需要制作一个简易的植物透镜,至少能分辨它们的物种.%n%n使用透镜后,你可以知道以下信息:%n种类%n作物等级%n是否可以生长(某些作物有特殊要求)%n是否可以收获%n生长状态,到下一阶段的进度
