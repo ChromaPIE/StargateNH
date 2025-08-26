@@ -9290,6 +9290,10 @@ betterquesting.quest.-IWmYEgKSGi0M7rtP59zaw.desc=与1k存储元件一样.
 betterquesting.quest.0J3hYoBeTpe_OnXMU9zRDA.name=2阶AE流体存储
 betterquesting.quest.0J3hYoBeTpe_OnXMU9zRDA.desc=通过2阶流体处理器,您可以制作256k,1024k,4096k 和16384k的ME流体存储组件.%n%n这些ME流体存储组件需要与ME高级流体存储外壳合成才能变成ME流体存储元件.
 
+# Quest: Quantum Entangled Singularities
+betterquesting.quest.0qhnm9tYQfmKHzWPUlb8iw.name=Quantum Entangled Singularities
+betterquesting.quest.0qhnm9tYQfmKHzWPUlb8iw.desc=To make an entangled pair for usage in the quantum ring, put the Singularity and Enderpearl Dust on the ground, then use an explosion (Tiny TNT works well) to create two Quantum Entangled Singularities.%n%n[note]QESs are each a unique pair and will only work with one another.[/note]
+
 # Quest: Cribs
 betterquesting.quest.4pCol8RvR3G0pS2zVqpY1Q.name=你这是在作弊!
 betterquesting.quest.4pCol8RvR3G0pS2zVqpY1Q.desc=随着你对"应用格雷"的研究不断深入,你找到了将 ME 接口的样板处理能力与输入总线相结合的方法,即"合成输入总线"!现在,你可以直接将样板放入合成输入总线.然而,合成输入总线缺乏足够的项目空间和计算能力来处理来自 ME 网络的项目.因此,您增加了额外的存储空间和编程电路.%n%n您甚至可以在合成输入总线中放置透镜或模具等在配方中不消耗的物品!但是,你仍然缺乏足够的技术来处理流体,它们对电子产品来说并不好.%n%n合成输入总线与其他总线或仓室完全隔离,所以你可能不得不修改你的样板.%n%n[warn]合成输入代理器[/warn]允许您在不同的多方块结构中共用合成输入总线而无需真正的在结构中共用方块.§lUV级§r%n%n[warn]合成输入缓存器[/warn]将会§9§o防水§r.§lUIV级§r%n(译注:即为合成输入缓存器可以放入带流体的处理样板)
@@ -9354,7 +9358,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1A.desc=什么?你装满了量子存储
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABbQ.name=革命
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABbQ.desc=你觉得注魔太慢了?唉,你要用世界加速器才能解决这个问题--但这会导致大量的延迟.%n%n好在你再也不用担心了!试试全新的"注魔截流者"吧.阅读魔导手册"神秘革命"章节获取更多信息.
 
-# Quest: That is not storage!
+# Quest: Item Void Cell
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABdg.name=这可不是存储元件!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABdg.desc=当心!使用时务必万分小心!这个元件的功能正如其名字一样:它会删除你放进去的任何东西.所以最好确保你能够精确控制哪些东西能进入这个元件里.
 
@@ -9385,10 +9389,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAE6A.desc=相对而言最大的存储组�
 # Quest: 64k Crafting Storage
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAE6Q.name=64K合成存储器
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAE6Q.desc=合成处理单元的组成部分,可以提供65536字节的存储空间.
-
-# Quest: Wireless Boosters
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE6g.name=无线信号增幅器
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE6g.desc=无线信号增幅器用于增加无线接入点的覆盖范围,最大堆叠数64.%n%n*插入越多,耗电越多,具体如下:%n%n0增幅器%n范围:16,80EU/t%n%n16增幅器%n范围:80,400EU/t%n%n32增幅器%n范围:197,1890EU/t%n%n48增幅器%n范围:348.5,8833EU/t%n%n64增幅器%n范围:528,41040EU/t%n%n§3这里的范围值为半径.
 
 # Quest: Filling Tanks
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAE6w.name=装满水箱
@@ -9430,7 +9430,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFEg.desc=安全终端允许你配置多�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFEw.name=致密能源元件
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFEw.desc=致密能源元件可以让你的网络更加更加稳定. 它可以存储160万AE的能量.
 
-# Quest: ME in the Ether
+# Quest: Wireless Applied Energistics Terminal
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFFA.name=无线接入
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFFA.desc=在ME安全终端验证你的无线终端,无线终端将会获得对ME网络的永久访问和控制权. 如果无线终端没电了你可以将它放进充电器充电. 无线终端有160万AE的能源储量.在使用无线终端时,和最近的无线接入点距离每增加1米,能量消耗增加1AE/t.
 
@@ -9894,6 +9894,14 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALPQ.desc=输入/输出总线(ME)是一�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMsg.name=AE2流体合成(AE2FC)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMsg.desc=流体合成已经直接集成到了你的ME网络.这怎么可能!%n%n多亏了AE2FC,一个为了GTNH而从高版本移植的、强大的AE2附属mod.%n%n现在,需要什么才能让这个美妙的玩意运作呢?%n每个ME系统都需要一个ME流体离散器,它支持按需合成.虽然没有流体离散器,你也可以使用AE2FC转运流体;但它是自动合成必需的.%n%n然后你还需要一个ME流体样板终端或是ME增广流体样板终端,后者用于装配线.%n%n书写样板时,你会注意到流体放置的样式就如同物品一样.%n完成书写的样板看着是蓝色的.将其放置在ME二合一接口中,能使AE2"同时"发送流体和物品.注意,"同时"是说"两者都会",而在先后顺序上,AE2会先发送流体,再发送物品.%n如果想将流体储存在二合一接口中,你可以点击GUI右上角以切换设置界面.%n%n如果你在普通接口界面中使用蓝色样板(流体样板),AE2会以流体包的形式发送流体.这只是用物品的形式来代表流体.ME流体封包解码器可以将其变回流体,并储存在流体槽中.%n%n你可以使用一个原材料缓存仓(大型或是普通的),这样你由样板发送的物品和流体就都能存储在一个方块内部了.普通的原材料缓存仓可以存储9组物品和4种流体,大型的则是27组物品和7种流体.你可以使用它同物品和流体导管实现自动化,但不一定要这样做.%n%n如果你想自动化单方块机器,那就如同节食期间吃巧克力蛋糕一样简单:%n书写样板,制造一个二合一接口,当当当当--完成!它会自动把流体塞到单方块机器的流体格子里.%n%n即使是像装配线这样更困难的事情,在这些工具的帮助下自动化也变得容易多了%n%n如果你需要更详细的信息,请访问Wiki:%n%n[url]https://wiki.gtnewhorizons.com/wiki/AE2FC[/url]%n%n[note]更多存储单元2(ExtraCells2)mod现在已经被移除了.任何旧的元件和单元都已经尽可能地被转换为AE2和AE2FC的元件和单元了.[/note]
 
+# Quest: Starting Your AE2 Journey
+betterquesting.quest.BKJ_IdnHR6ideLC6NnyyPg.name=§5§lStarting Your AE2 Journey
+betterquesting.quest.BKJ_IdnHR6ideLC6NnyyPg.desc=§nApplied Energistics 2 is an integral part of GTNH gameplay. %n§r%nAE2 is the primary networking and logistics management mod in GTNH for Items, Fluids, and Crafting. You will use it starting from EV and onward for most automations you perform. Given the sheer density of this modpack there are a variety of unique tools and features added specifically to aid in your adventure. Most of these tools are covered in this quest tab.%n%nThere is a lot to learn, but don't feel overburdened! Your abilities will continue to grow the more time you spend with it. There are a wide variety of helpful resources to take advantage of in addition to this book when it comes to learning:%n%n§2§2§1§b§r§21. The Wiki:§r§r§o§o §o§o§r[url]§o§o§rhttps://wiki.gtnewhorizons.com/wiki/Applied_Energistics_2[/url]%n%n§r- The Wiki has a lot of great starter information on what various systems do. They also have a lot of machine specific automation tutorials so be sure to check the Wiki if you're struggling or want a point of reference.%n%n%n§b§r§22. The Discord: §o§r[url]https://discord.gg/EXshrPV[/url]%n%n§r- The Discord is full of experienced AE2ers', check out #ae2-help to find plenty of people who will take time to help you figure something out.%n%n%n§b§r§23. Video Tutorials: §r[url]§o§rhttps://www.youtube.com/watch?v=LUYVmIAEC-I[/url]%n%n§r- There are a lot of great GTNH content creators who make high quality video tutorials for this. Here is a link to AE2 Fundamentals by IX. There's an advanced version as well.
+
+# Quest: Advanced Wireless Setup Kit
+betterquesting.quest.CbUsVtoETCy-CB3AlgHRjg.name=Advanced Wireless Setup Kit
+betterquesting.quest.CbUsVtoETCy-CB3AlgHRjg.desc=The Advanced Wireless Setup Kit is a must have for heavy wireless users. Instead of being a 1:1 back and forth it allows you to enter a "queuing mode" and a "binding mode" where you can select multiple targets at one time to bind in a row.%n%nWhen binding to connectors, the kit will bind connectors in the exact order that they were queued in. %n%nTo clear a queue and reset the kit, just shapelessly craft it into itself in your inventory.
+
 # Quest: 4096k Essentia Storage Cell
 betterquesting.quest.G5g_5_24RS6sqhmjFEbf8A.name=4096k-ME源质存储元件
 betterquesting.quest.G5g_5_24RS6sqhmjFEbf8A.desc="它们"可以存储 8,388,608 点源质。%n%n以及48个种类。
@@ -9910,9 +9918,17 @@ betterquesting.quest.JejpWZ7ATZq-0uomP4c7UA.desc=与1k存储元件一样.
 betterquesting.quest.KM9gm3HCTa2OGPWlHHl4fw.name=Hyper Acceleration!
 betterquesting.quest.KM9gm3HCTa2OGPWlHHl4fw.desc=Hyper-Acceleration cards are a faster version of the basic acceleration cards. %n%n[note]Hyper-Acceleration cards can only be placed in:[/note]%n%n§cME IO Port (3)%nME Fluid Import Bus (4)%nME Fluid Export Bus (4)%n%n§rIn an IO Port, the Hyper-Acceleration Card will transfer items at a rate of: %n%n§61x Cards: 4,096 items/tick%n2x Cards: 32,768 items/tick%n3x Cards: 262,144 items/tick%n%n§rIn ME Fluid Buses, the Hyper-Acceleration Card will transfer fluids at a rate of:%n%n§61x Cards: 4,096,000 mb/tick%n2x Cards: 32,768,000 mb/tick%n3x Cards: 262,144,000 mb/tick%n
 
+# Quest: Advanced Neutronium Tech
+betterquesting.quest.LsZndSrhSAGSi60QlbnDtg.name=Advanced Neutronium Tech
+betterquesting.quest.LsZndSrhSAGSi60QlbnDtg.desc=Now that you've unlocked the neutronium energy cell, you can combine it with other objects to make powerful upgrades to your AE capabilities.%n%nCombining with an ME controller gives you a controller with infinite energy.%n%nCombining with a cable anchor & quartz fiber gives you a replacement for the quartz fiber cable that has infinite energy.%n%nCombining with an advanced card will give you an energy card that will allow you to upgrade your wireless terminal to have infinite energy, wherever you go.%n%n[note]It is HIGHLY recommended you use these tools wherever possible on main-nets and sub-nets as they are huge TPS savers[/note]
+
 # Quest: 16384k Fluid Storage Cell
 betterquesting.quest.MJoHkNK0Ta-zKyJAvV_DBg.name=16384k-ME流体存储元件
 betterquesting.quest.MJoHkNK0Ta-zKyJAvV_DBg.desc=它能存储超过32GL的流体.
+
+# Quest: Super Stock Replenisher
+betterquesting.quest.MPYhN1gKQ3isYpgLbtfDJA.name=Super Stock Replenisher
+betterquesting.quest.MPYhN1gKQ3isYpgLbtfDJA.desc=The Super Stock Replenisher is an incredibly useful item, especially for those pesky loop automations!%n%nTo use, put a storage cell in the empty slot (item vs fluid & type amount do not matter) and you can set up to 63 items & 9 fluids to be stocked by the machine. The total quantity of both items and fluids are determined by the byte size of the storage cell.%n%nWhen an item / fluid is stocked, it will pull it from the ME network it is attached to and those items / fluids will become invisible to your network. You can then use a storage bus to make these items visible to a subnet. Items will not be able to re-enter the block once pulled out.%n%n[note]When an item or fluid is erased from the stocker or when the stocker is broken, everything will return to the network the stocker was attached too, so no need to panic about losing items.[/note]
 
 # Quest: And Another Digital Singularity
 betterquesting.quest.O0tN--UDTlCbt5ufLodVqA.name=以及又一个数字奇点
@@ -9962,9 +9978,9 @@ betterquesting.quest.iwN50p7pSyyCHDkM-O-D7w.desc="它们"可以存储 33,554,432
 betterquesting.quest.kBjBqQR5Q-GWh4olyHmXXg.name=Going Superluminal
 betterquesting.quest.kBjBqQR5Q-GWh4olyHmXXg.desc=The Superluminal Acceleration card is the fastest AE card that you can use to transfer items or fluids.%n%n[note]Superluminal Acceleration cards can only be placed in:[/note]%n%n§cME IO Port (3)§r%n%nIn an IO Port, the Superluminal Acceleration Card will transfer items at a rate of:%n%n§61x Cards: 33,554,432 items/tick%n2x Cards: 2,147,483,648 items/tick%n3x Cards: 137,438,953,472 items/tick%n%n§rIn an IO Port, the Superluminal Acceleration Card will transfer fluids at a rate of:%n%n§61x Cards: 33,554,432,000 mb/tick%n2x Cards: 2,147,483,648,000 mb/tick%n3x Cards: 137,438,953,472,000 mb/tick%n%n
 
-# Quest: Wireless 2.5 - All in One
-betterquesting.quest.mYdFnW4UQ2WXHshmj7BH2w.name=无线 2.5 多合一
-betterquesting.quest.mYdFnW4UQ2WXHshmj7BH2w.desc=通过将各种无线终端合成在一起,你制作出了究极七合一无线终端%n%n§3您可以将其与量子无线增幅器结合使用.在所有维度上实现无限的无线范围.
+# Quest: Fluid Void Cell
+betterquesting.quest.krGyRorETXqDuJdbU3K5tA.name=Fluid Void Cell
+betterquesting.quest.krGyRorETXqDuJdbU3K5tA.desc=[warn]Caution! Use with utmost care! This cell does exactly what it says. It deletes everything you put on there. So better make sure you have precise control over what can actually go there.[/warn]%n%n[note]Will only void fluids, not items[/note]
 
 # Quest: ...with Fluid Support!
 betterquesting.quest.mk3rQ7LUQjC96FsFvDedKA.name=§6§l...已加入流体支持!
@@ -9993,6 +10009,10 @@ betterquesting.quest.soyN9ODlQmmjrKEyKBNENA.desc=就像储备输入总线一样�
 # Quest: Even More Basic Cards! 
 betterquesting.quest.suQSf7Z-QICknl3I1RfymA.name=Even More Basic Cards! 
 betterquesting.quest.suQSf7Z-QICknl3I1RfymA.desc=[quest]Overflow Void, Pattern Refiller, and Sticky Cards[/quest]%n%n§6Overflow Void Card:§r %n%nOverflow Void Cards will cause the ME Storage Cell to void excess inputs%n%n§6Pattern Refiller Card:§r %n%nThe Pattern Refiller card will refill empty patterns in your Processing and Fluid Processing Terminals.%n%n§6Sticky Card:§r %n%nSticky Cards are useful if you want your ME System to only store a filtered item in one location across your entire network. %n%n[warn]Be careful with where you use sticky cards as they can lead to your passive systems jamming. [/warn]
+
+# Quest: Wireless HUBs
+betterquesting.quest.tM8pT_W3RCqZNDAovERxFg.name=Wireless HUBs
+betterquesting.quest.tM8pT_W3RCqZNDAovERxFg.desc=The Wireless Connector also has a HUB upgrade! These Wireless HUBs can be linked to many wireless connectors at once so you won't need to spam a chunk of 1:1 connectors into one spot. Keep in mind there is still a 32 channel limitation.%n%n[note]Great for placing on controller faces![/note]
 
 # Quest: 1024k Essentia Storage Cell
 betterquesting.quest.tUJaqz9uSwajByFi4gNHzQ.name=1024k-ME源质存储元件
