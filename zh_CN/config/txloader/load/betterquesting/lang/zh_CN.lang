@@ -2732,6 +2732,10 @@ betterquesting.quest.JkWQZxq_TECWjHhjywrZZA.desc=现在您已经进入了EV级�
 betterquesting.quest.Jna1jgAySNSs8nS0YMXpLw.name=§a§lEV力场发生器
 betterquesting.quest.Jna1jgAySNSs8nS0YMXpLw.desc=可以用力场发生器来做你的第一个量子箱或者量子缸了.但记得留两个用来制作T2火箭.%n%n[note]注:组装机配方更节省资源.[/note]
 
+# Quest: Supersized Buses
+betterquesting.quest.Mt25IP2aShSSUBhZ1GGItg.name=§b§l超大型总线
+betterquesting.quest.Mt25IP2aShSSUBhZ1GGItg.desc=输入和输出总线不够用?%n%n将总线升级到超级总线,享受更多槽位.
+
 # Quest: EXTREME MIXING
 betterquesting.quest.kQL8JceoSMSLDU_2AFjoqw.name=§a§l极限搅拌
 betterquesting.quest.kQL8JceoSMSLDU_2AFjoqw.desc=好吧,也许它并不像任务名称所暗示的那样极限,但它确实可以完成工作.%n%n反正你总需要一台搅拌机,为什么不现在就做一台,节省一些搅拌的时间呢?
@@ -3224,10 +3228,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMEA.desc=(以及钆)%n%n简单吧?别担
 # Quest: Getting Samarium in IV
 betterquesting.quest.CW9oIeA0ShWo7euZXUx72A.name=§b§l在IV阶段获取钐
 betterquesting.quest.CW9oIeA0ShWo7euZXUx72A.desc=将氯化钐粉与氯化钠粉混合在一起,再交给电解机处理,就可以分离出钐了.%n%n钠和氯都可以完全回收.%n%n此外还有一些没啥用的副产物,可能以后会有用吧.
-
-# Quest: Supersized Buses
-betterquesting.quest.Mt25IP2aShSSUBhZ1GGItg.name=§b§l超大型总线
-betterquesting.quest.Mt25IP2aShSSUBhZ1GGItg.desc=输入和输出总线不够用?%n%n将总线升级到超级总线,享受更多槽位.
 
 # Quest: The sane option
 betterquesting.quest.SIqmtgRmTj-EsZlXpCdyWQ.name=§b§l明智的选择
@@ -6612,6 +6612,10 @@ betterquesting.quest.3SzKMSj0StOAOzVmInDjZQ.desc=Start your own local brewery wi
 betterquesting.quest.6glle46JSyuwR6O4x7mLYA.name=适合不同模具
 betterquesting.quest.6glle46JSyuwR6O4x7mLYA.desc=为每种模具都制造一台流体固化器听起来很累人......幸运的是,流体成型机多方块可以通过使用§l固化器模具仓§r来处理任意数量的模具.这种多方块机器还可以升级,如果你在两端添加额外的片,就能获得更多的并行.如果速度太慢,一定要升级它!%n%n注：大型流体固化器在运行过程中也会比单方块流体固化器更快,使其更有效地进行大批量生产.
 
+# Quest: T2 Maceration Stack 
+betterquesting.quest.A4rEQOAXQsaa26Ib_nzkHg.name=T2 Maceration Stack 
+betterquesting.quest.A4rEQOAXQsaa26Ib_nzkHg.desc=Upgrade your Maceration Stack by replacing all the casings with Maceration Stack Casings and then placing the Upgrade Chip into the slot in the controller.%n%nThe Tier 2 Maceration stack has 4x more parallels!
+
 # Quest: Smelt All the Things Stack-Wise...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVQ.name=熔化万物...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVQ.desc=...有了这项伟大的发明!只要升级供电和线圈,就可以熔炼不可胜数的物品.
@@ -6767,6 +6771,10 @@ betterquesting.quest.VJN1qfd5SjCkm7CXVd9Pag.desc=一刻也没有为建造AE系�
 # Quest: Steam Blender?
 betterquesting.quest.WEwrzX4ZRkSxJ3M6cBesfA.name=蒸汽搅拌机?
 betterquesting.quest.WEwrzX4ZRkSxJ3M6cBesfA.desc=既然可以用蒸汽和活塞来混合粉末,为什么还要使用复杂的导线和电路呢?大型蒸汽搅拌机是这些蒸汽多方块中最大的一个,可以满足您一段时间的搅拌需求,比LV单方块搅拌机有着更多的并行数.%n%n[note]该多方块机器只能处理LV级以下的配方并且无法处理流体配方.[/note]
+
+# Quest: Steam Fusing?
+betterquesting.quest.WGhhKERfRTiJXKZEPoRf1Q.name=Steam Fusing?
+betterquesting.quest.WGhhKERfRTiJXKZEPoRf1Q.desc=Singleblock Alloy Smelters not fast enough for you? Look no further than the Steam Fuser. This will make light work of your alloy smelter tasks at a fraction of the steam cost and a much faster speed. %n(Check out the tooltip for more info!)%n%n[note]Will only process up to LV tier recipes[/note]
 
 # Quest: Taking Things Apart
 betterquesting.quest.XA467S8MQtCEPy6L23eEEA.name=提取万物
@@ -7386,6 +7394,10 @@ betterquesting.quest.yDY1ALr9QdG8zTbEszNaMw.desc=高压,过热的能量荷载.�
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAIQ.name=EU的存储与变压
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAIQ.desc=在这里,你可以找到存储EU、以及在不同电压之间变换的方法.
 
+# Quest: IV 16A Hatches
+betterquesting.quest.-H2HWiVlTn-1IT2aaXhLkg.name=IV 16A Hatches
+betterquesting.quest.-H2HWiVlTn-1IT2aaXhLkg.desc=These ones do 16A.
+
 # Quest: Can we get much higher?
 betterquesting.quest.13PWs3MhTUOgkIQq8EKhaQ.name=能更高吗？
 betterquesting.quest.13PWs3MhTUOgkIQq8EKhaQ.desc=同时更高的EU传输速率！
@@ -7594,9 +7606,29 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAM3w.desc=一个更昂贵但储量相同�
 betterquesting.quest.Dif-0NSERYGdGP7j8xAzPQ.name=无线的力量!?
 betterquesting.quest.Dif-0NSERYGdGP7j8xAzPQ.desc=被基地里面密密麻麻的电线整吐了?厌倦了为了满足供电要求不断升级线缆？喜欢基地里面全是闪电？%n%n那么这个多方块正合你意.特斯拉电塔是一个强大的多方块结构,可以无线输出高电流,支持所有TecTech能源仓.%n%n首先你要在电容仓里放上和初级超导特斯拉绕组相同电压的特斯拉电容.特斯拉绕组决定了电塔输出的电压级别,特斯拉电容的数量决定了电塔能输出的最大电流数.%n%n一个电容仓最多能放16个特斯拉电容,所以你可能需要根据用电需求增加电容仓数量.%n%n搭建好电塔后,右击打开控制器,根据需要配置电塔的最大传输距离.这个配置现在有点bug, 因此至少现在你不需要任何等离子就能进行配置.对应的选项是"特斯拉电塔传输半径设置".%n%n设置完你的电塔之后该怎么输送电力到机器呢?很高兴你问了.要送电到基地还需要使用特斯拉线圈帽.把线圈帽安装到机器上,能源仓上,甚至变压器上都能让它们从电塔获得电力.能源仓有点特殊,需要面朝上才能正确获得电力.%n%n[warn]警告!特斯拉电塔会强制输出固定电压的电流,比如说EV或者IV.当你升级初级超导特斯拉绕组前一定要确认你所有的线圈帽和收发器对应的机器都能承受升级后的电压.否则可能会导致机器爆炸.[/warn]%n%n[warn]在关闭控制器之前调整多方块结构也会导致爆炸.[/warn]
 
+# Quest: EV 4A Hatches
+betterquesting.quest.EOlpI83vT36jaFwDH7pS7w.name=EV 4A Hatches
+betterquesting.quest.EOlpI83vT36jaFwDH7pS7w.desc=To insert and extract many amps from your LSC, make these special hatches.%n%nSome multiblocks can also accept multi-amp hatches.
+
 # Quest: Power Goggles
 betterquesting.quest.GvlZG9IESmW2qsEMw-hkIw.name=Power Goggles
 betterquesting.quest.GvlZG9IESmW2qsEMw-hkIw.desc=Wanna see how your LSC is doing but don't want to run to it or your information panel every time? Get yourself a pair of §6§oPower Goggles§r to see your energy storage straight from the HUD!%n%nBy §adefault§f§r the goggles are §cunlinked§r and will monitor the amount of energy in your wireless network.%n%nTo link the goggles to an LSC, §cRight+Click§r the controller with the goggles in your hand. §cShift+Right Click§f§r air to unlink.%n%nIf you wish to move or modify the display you can do so by opening the power goggles config menu!%n%n[warn]Make sure to check your keybinds! There's also a keybind for toggling the power chart![/warn]
+
+# Quest: EV 64A Hatches
+betterquesting.quest.M_HRDMb8Q2GnvpgfgsRnRw.name=EV 64A Hatches
+betterquesting.quest.M_HRDMb8Q2GnvpgfgsRnRw.desc=You get the idea, these ones do 64A!
+
+# Quest: IV 64A Hatches
+betterquesting.quest.UuBSfl0oRLqUL92DUyXMOw.name=IV 64A Hatches
+betterquesting.quest.UuBSfl0oRLqUL92DUyXMOw.desc=The final multi-amp hatches for IV, 64A!
+
+# Quest: IV 4A Hatches
+betterquesting.quest.crSDPHDOT1m9OXmI4mUFbQ.name=IV 4A Hatches
+betterquesting.quest.crSDPHDOT1m9OXmI4mUFbQ.desc=Same as the EV Multi-amp hatches, use these to extract and insert many amps from your LSC.
+
+# Quest: EV 16A Hatches
+betterquesting.quest.iR0UzvKrRJmM8oY2SNCZjA.name=EV 16A Hatches
+betterquesting.quest.iR0UzvKrRJmM8oY2SNCZjA.desc=These ones can extract and insert 16A.
 
 # Quest: At last, the final capacitor!
 betterquesting.quest.vrE4rYLuSnmmtAklayd6gw.name=§6§l终章：最后的电容！
