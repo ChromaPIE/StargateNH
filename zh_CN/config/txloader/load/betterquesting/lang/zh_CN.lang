@@ -3057,7 +3057,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAL-Q.desc=现在,筛选(或者说过滤)�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL-g.name=§b§l铈处理开始
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL-g.desc=这条任务线将会指导你获取元素铈.%n%n首先,将二氧化铈与氯化铵进行反应,制取一些氯化铈.
 
-# Quest: Compounding With Oxalate
+# Quest: Compounding With Oxalic Acid
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL-w.name=§b§l与草酸结合
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL-w.desc=将获得的氯化铈与草酸进行反应,即可制得草酸铈.而草酸铈可以在稍后进行煅烧(当然,是在电力高炉中进行),转化成§o另一种§r铈的氧化物--氧化铈(III).
 
@@ -3177,7 +3177,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALRA.desc=在这一步,你只需要将四
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALZg.name=§b§l更更好的磁化杆
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALZg.desc=与之前类似,下一阶段的马达需要更好的磁化杆. 想要制造磁化钐杆,你得先做好这个.
 
-# Quest: Oxalate
+# Quest: Oxalalic Acid
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL_A.name=§b§l草酸
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL_A.desc=目前草酸真的仅适用于铈处理.继续前进并制备一点草酸吧.%n%n有多种方法可以制取草酸,请查阅NEI并选择最适合自己的方法吧.
 
@@ -6648,10 +6648,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFjg.desc=...周而复始,24小时运作.
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFjw.name=旋转,跳跃
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFjw.desc=旋转,升温--听起来像一个舞蹈. 或是热力离心机. 建造一个工业热力精炼厂,以充分利用你的矿石.%n%n只要保证至少8个热处理外壳,你就可以用噪音危险标志来代替热处理外壳.%n%n注意隔音排气仓安装在底层.
 
-# Quest: Industrial Coke Oven
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAH-A.name=工业焦炉
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAH-A.desc=已经在原木的海洋中游泳了?把这些原木变成清洁燃烧的木炭! 工业焦炉是一个3x3x3的多方块结构,运行速度比那些巨大的热解炉快多了.一个这个就可以替换掉好几个热解炉,因为它有高达24x的并行度.%n%n从现在起,你就可以让热解炉们退役了,除非还有什么非常快的配方能让它们的工作速度跟上. 例如,要将木材转化为木炭,只要提供足够的氮气,工业焦炉就能满足整个农场的需求!
-
 # Quest: I think I'm going to be sick
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH7A.name=我想我会生病的
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH7A.desc=用多方块采矿场获得的数以千计的矿石可以交给工业离心机处理.%n%n译者注:别听他瞎说,根据自己的需要选择打粉-离心、洗矿-打粉-离心、洗矿-热离-打粉这些工序.
@@ -6774,7 +6770,7 @@ betterquesting.quest.WEwrzX4ZRkSxJ3M6cBesfA.desc=既然可以用蒸汽和活塞�
 
 # Quest: Steam Fusing?
 betterquesting.quest.WGhhKERfRTiJXKZEPoRf1Q.name=Steam Fusing?
-betterquesting.quest.WGhhKERfRTiJXKZEPoRf1Q.desc=Singleblock Alloy Smelters not fast enough for you? Look no further than the Steam Fuser. This will make light work of your alloy smelter tasks at a fraction of the steam cost and a much faster speed. %n(Check out the tooltip for more info!)%n%n[note]Will only process up to LV tier recipes[/note]
+betterquesting.quest.WGhhKERfRTiJXKZEPoRf1Q.desc=Singleblock Alloy Smelters not fast enough for you? Look no further than the Steam Fuser. This will make light work of your alloy smelter tasks at a fraction of the steam cost and a much faster speed. %n(Check out the tooltip for more info!)%n%nWhile the NEI requirements show borosilicate glass, you can substitute any HV tier glass in it's place like warded glass, quite clear glass, or fused quartz. If you end up using borosilicate; boron can be obtained from electrolyzing borax.%n%n[note]Will only process up to LV tier recipes[/note]
 
 # Quest: Taking Things Apart
 betterquesting.quest.XA467S8MQtCEPy6L23eEEA.name=提取万物
@@ -7967,10 +7963,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMNw.desc=进入下一阶段,你解锁了
 # Quest: CBD Into Steam
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMOA.name=高十六烷值柴油--->蒸汽
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMOA.desc=对于高十六烷值柴油来说,已经不会有柴油相关的升级了.想要继续使用内燃发电机或大型内燃引擎的话,你只能扩大产线,升级能源仓. 然而,还有一种能量密度更高的燃料,在其合成配方中用到了高十六烷值柴油,但有个问题：它是一种固体燃料,用于大型蒸汽锅炉,这使其既有优点也有缺点.%n%n从这个任务开始,都是与这些固体燃料的相关任务.固体燃料有两个版本,其中一种比起另一种,需要添加额外输入,而这两种燃料都遵循相同的一些逻辑：它们都需要被转化为难以输送的蒸汽,才能转化为EU,而且匹配的锅炉为EV和IV等级的大型锅炉. 但是如果你愿意在这条产线中面对额外的挑战,这些燃料和那些锅炉的组合,其燃料效率远比之前高.%n%n在通常情况下,如果你已经拥有了高十六烷值柴油,你会直接将其通入内燃发电机以获取电力. 但是在这条产线中,你需要将燃料粘合剂自动化,再加上木炭块/煤块/焦煤块,然后就能将获得的超级燃料丢进钛或者钨钢大型锅炉,转化为过热蒸汽.然后,你需要一台大型高压蒸汽涡轮,再配合一台普通大型蒸汽涡轮,将过热蒸汽转化为EU和蒸馏水,至此产线结束.%n%n想要继续任务,你需要至少一台大型钛锅炉.建造一台吧.
-
-# Quest: Industrial Coke Oven
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMOQ.name=工业焦炉
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMOQ.desc=你为EV阶段所做的努力可能会将你推向GT++多方块机器,虽然由于制造大多数GT++多方块机器的特殊合金都需要在合金冶炼炉(IV阶段)内合成,即大部分GT++多方块都需要到IV阶段以后才可以建造,但是工业焦炉(ICO)不需要!%n%n那么它能做什么呢?顾名思义,它就是一台非常非常快的焦炉.事实上它的速度可以顶得上几十台热解炉,而且它其实也继承了热解炉的合成表,所以你仍然可以从中获取额外流体,如木炭副产,同时又能大大提高处理速度.需要注意的是,这台多方块机器需要钛和钨,不过后者只需要一点就行.你可以在处理末地石粉、末影粘浆或月尘的过程中获得不少钨.%n%n你还可以在两种机械方块中择一完成搭建,一种可以提供12x并行,而另一种可以提供24x并行.并行的意思就是,如果多方块机器接收的能量足够,它可以在一次处理过程中同时完成多少数量的配方. 两种机械方块都很便宜,你应该会用更好的那种吧.
 
 # Quest: Mass Distilled Water
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMOg.name=大量蒸馏水
@@ -14605,6 +14597,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAM1w.desc=尝试学习并了解世间一�
 # Quest: Precise Assembler
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMEg.name=精密组装机
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMEg.desc=精密组装机有两种模式：精密模式和常规模式.%n%n精密模式是用于制造Good-Generator这个mod中的某些先进部件.%n%n常规模式则类似多方块版本的组装机.%n%n[note]你不能借助这台多方块机器跳科技.需要通过单方块组装机或GT++多方块组装机,才能制造第一个高阶能源仓,然后才能把它安装在精密组装机上.[/note]
+
+# Quest: Industrial Coke Oven
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMOQ.name=工业焦炉
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMOQ.desc=你为EV阶段所做的努力可能会将你推向GT++多方块机器,虽然由于制造大多数GT++多方块机器的特殊合金都需要在合金冶炼炉(IV阶段)内合成,即大部分GT++多方块都需要到IV阶段以后才可以建造,但是工业焦炉(ICO)不需要!%n%n那么它能做什么呢?顾名思义,它就是一台非常非常快的焦炉.事实上它的速度可以顶得上几十台热解炉,而且它其实也继承了热解炉的合成表,所以你仍然可以从中获取额外流体,如木炭副产,同时又能大大提高处理速度.需要注意的是,这台多方块机器需要钛和钨,不过后者只需要一点就行.你可以在处理末地石粉、末影粘浆或月尘的过程中获得不少钨.%n%n你还可以在两种机械方块中择一完成搭建,一种可以提供12x并行,而另一种可以提供24x并行.并行的意思就是,如果多方块机器接收的能量足够,它可以在一次处理过程中同时完成多少数量的配方. 两种机械方块都很便宜,你应该会用更好的那种吧.
 
 # Quest: Bet On The Distillus
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMQQ.name=赌上蒸馏
