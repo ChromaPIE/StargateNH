@@ -445,7 +445,7 @@ betterquesting.quest.bMKIeFhNQluRks9YzpqEGQ.desc=在你的地图界面(默认按
 
 # Quest: Sustainable Paper
 betterquesting.quest.bbaqMVmnQFyjDT-CHJKqQQ.name=Sustainable Paper
-betterquesting.quest.bbaqMVmnQFyjDT-CHJKqQQ.desc=Now that you got your first paper, it's time for a better way to get more. With paperbark you can do just that.%n%nOnce grown you can obtain paper by right clicking the logs of the tree. The bark regrows in due time.
+betterquesting.quest.bbaqMVmnQFyjDT-CHJKqQQ.desc=Now that you got your first paper, it's time for a better way to get more. With paperbark you can do just that.%n%nOnce grown you can obtain paper by right-clicking the logs of the tree. The bark regrows in due time.
 
 # Quest: Your First Flint Sword
 betterquesting.quest.h_PK8qnyR9CBUoOhT9nwzA.name=§2§l你的第一柄燧石剑
@@ -11550,6 +11550,10 @@ betterquesting.quest.LUwrS4RnQGilkbdPQ_DrBg.desc=有许多作物都能为你提�
 betterquesting.quest.NO4JlNzcR_-1gaQi-kb3JA.name=Shadow Metal
 betterquesting.quest.NO4JlNzcR_-1gaQi-kb3JA.desc=Shadow Metal is an extremely useful metal in the early game. It can be easily made via the crucible and refined once you unlock the vacuum freezer. %n%nIt's high durability makes it a fantastic candidate for handheld tools, prospector scanners, turbines, and even wand caps later down the line.%n%nStart off by making 5 ores, and doubling that using a macerator.%n%n[note]Hint: You can find the research early on in the Maleficia section of the Thaumonomicon[/note]
 
+# Quest: Scanning Made Easy
+betterquesting.quest.PKOdH3D6SsG3LQN6-pFF_A.name=Scanning Made Easy
+betterquesting.quest.PKOdH3D6SsG3LQN6-pFF_A.desc=We get it; The early-game of thaumcraft sucks and you don't want to throw every one of your 1000 items on the ground and scan them. That's why we added 2 cool QoL features which makes this tedious task very quick and easy.%n%n1. You don't actually have to throw the item on the ground. You can scan it directly from your inventory! Simply hover it over the item you want to scan, and after a short duration it will be scanned.%n%n2. You've probably accumulated dozens of double chests full of junk that you don't want to sift through and scan, so there's a second feature now: Scanning entire chests! Simply shift right-click while hovering over a chest with your thaumometer and it'll scan EVERY item inside of the chest. Though be beware, this strong feature requires a bit of research. %n[note]To unlock the research, go to your Thaumonomicon, open "Basic Information" (the first tab), and complete this research path: Research -> Research Expertise -> Deconstruction Table -> Container Scanning[/note]
+
 # Quest: More Health
 betterquesting.quest.TjJv9pSOSaW1kwzoTZ9qRw.name=更多生命值
 betterquesting.quest.TjJv9pSOSaW1kwzoTZ9qRw.desc=当你射出弩箭时你没来得及注意到你瞄准的是一种背上有着红色线条的特殊蜘蛛,无论你是怎样一个神射手也无济于事.通常,令人难以置信的疼痛会随之而来...%n%n利用你的新法杖,你可以制作红心容器了.你可以最多放10个红心容器到专用的栏位中,每个红心容器能提升一颗心的生命值上限.%n%n这可能并不够,但如果他最终让你好好的站着,而不是横着躺在棺材里,你便会庆幸你制作了这些心之容器.
@@ -13249,7 +13253,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALEQ.desc=今年的圣诞节取消了,太
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALEg.name=杀戮时刻(野猪)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALEg.desc=美味的烤野猪. 嗯...非常好吃.
 
-# Quest: Time to Kill (Rabbit)
+# Quest: Time to Kill (Forest Bunny)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALEw.name=杀戮时刻(兔子)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALEw.desc=哦,这只小兔子多么可爱啊.  砰! .... 死了?
 
@@ -13316,6 +13320,26 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALJQ.desc=它们具有很高的爆炸性,
 # Quest: Time to Kill (Imp)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALJg.name=杀戮时刻(小恶魔)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALJg.desc=小恶魔是一种会在整个下界跑来跑去的橘色小动物.它们很和平不会攻击你. %n%n杀戮一些以获取皮革再打造防火护甲吧.
+
+# Quest: Time to Kill (Shulker)
+betterquesting.quest.PpBmbfhnSGqI7R_Mm_vJGw.name=Time to Kill (Shulker)
+betterquesting.quest.PpBmbfhnSGqI7R_Mm_vJGw.desc=The Shulker doesn't spawn naturally so you will need to obtain it's spawn egg to complete this quest. You can do so in the coins tab or through crafting.
+
+# Quest: Time to Kill (Rabbit)
+betterquesting.quest.UfPfIUITQrG1E1G33eQ__g.name=Time to Kill (Rabbit)
+betterquesting.quest.UfPfIUITQrG1E1G33eQ__g.desc=It's a shame to kill something so adorable... oh well, do it anyway.
+
+# Quest: Time to Kill (Husk)
+betterquesting.quest.Wz1LEV9eQomLVXDpK18ysQ.name=Time to Kill (Husk)
+betterquesting.quest.Wz1LEV9eQomLVXDpK18ysQ.desc=A Husk is a variant of Zombie that spawns in deserts! They attack like Zombies, except they inflict hunger and refuse to burn in the sunlight.
+
+# Quest: Time to Kill (Fox)
+betterquesting.quest.aZbgSe36TnSB3O4ZwkSlJw.name=Time to Kill (Fox)
+betterquesting.quest.aZbgSe36TnSB3O4ZwkSlJw.desc=The Fox can be found in colder biomes. Make sure you're properly equip to hunt, they're quite quick!
+
+# Quest: Time to Kill (Stray)
+betterquesting.quest.z6Xaal6yTVi4fqEFCChoGg.name=Time to Kill (Stray)
+betterquesting.quest.z6Xaal6yTVi4fqEFCChoGg.desc=The Stray is a variety of Skeleton you will find in colder biomes. Watch out for their arrows; they can have special effects!
 
 
 ## Quest Line: Coins, Coins, Coins
