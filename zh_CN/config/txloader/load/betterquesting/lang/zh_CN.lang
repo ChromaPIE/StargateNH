@@ -3177,7 +3177,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALRA.desc=在这一步,你只需要将四
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALZg.name=§b§l更更好的磁化杆
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALZg.desc=与之前类似,下一阶段的马达需要更好的磁化杆. 想要制造磁化钐杆,你得先做好这个.
 
-# Quest: Oxalalic Acid
+# Quest: Oxalic Acid
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL_A.name=§b§l草酸
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL_A.desc=目前草酸真的仅适用于铈处理.继续前进并制备一点草酸吧.%n%n有多种方法可以制取草酸,请查阅NEI并选择最适合自己的方法吧.
 
@@ -13335,11 +13335,11 @@ betterquesting.quest.Wz1LEV9eQomLVXDpK18ysQ.desc=A Husk is a variant of Zombie t
 
 # Quest: Time to Kill (Fox)
 betterquesting.quest.aZbgSe36TnSB3O4ZwkSlJw.name=Time to Kill (Fox)
-betterquesting.quest.aZbgSe36TnSB3O4ZwkSlJw.desc=The Fox can be found in colder biomes. Make sure you're properly equip to hunt, they're quite quick!
+betterquesting.quest.aZbgSe36TnSB3O4ZwkSlJw.desc=The Fox can be found in colder biomes. Make sure you're properly equipped, they're quite quick!
 
 # Quest: Time to Kill (Stray)
 betterquesting.quest.z6Xaal6yTVi4fqEFCChoGg.name=Time to Kill (Stray)
-betterquesting.quest.z6Xaal6yTVi4fqEFCChoGg.desc=The Stray is a variety of Skeleton you will find in colder biomes. Watch out for their arrows; they can have special effects!
+betterquesting.quest.z6Xaal6yTVi4fqEFCChoGg.desc=The Stray is a variety of Skeleton you will find in colder biomes. Watch out for their arrows; they can have a slowness effect!
 
 
 ## Quest Line: Coins, Coins, Coins
