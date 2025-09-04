@@ -150,6 +150,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ-w.desc=你可能想知道地下都有�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALDw.name=覆盖板通用手册
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALDw.desc=本任务涵盖了所有的覆盖板,可能有些覆盖板没有单独任务进行介绍,或者是你忘了,在这里都可以找到. 当然,如果某种覆盖板有单独任务,那么肯定是单独任务更加详细. 覆盖板可以安装在任意GT方块、管道、机器、容器等上.能安装并不代表它能正常工作. 空手Shift+右键可以打开大部分覆盖板的GUI. 对于那些可以进行调节的覆盖板,手持螺丝刀右键左侧可以向下调节,而右侧就是向上调节. 所有安装了覆盖板的方块,都可以无视与安装面相邻面被淋雨(这对于野外的采矿厂、发电机之类的非常有用). 一般来说,无论覆盖板是否有GUI,你都可以用螺丝刀对其进行调节. 而所有覆盖板,都可以使用撬棍移除.%n%n§l流体相关的覆盖板:§r%n电动泵: 以tooltip上指定的速度传输流体.%n%n流体校准器: 精确校准通过其流体的速度,同时兼具电动泵的功能. 可以以x/s或x/t两种模式工作.%n%n蒸汽阀: 传输速度更快,但只支持蒸汽.最高等级为IV. 不支持过热蒸汽.%n%n溢流阀: 安装于容器上时,可以销毁超出其设定值的任意流体.%n%n流体探测覆盖板: 安装于容器上时,可基于内部流体填充率,发射红石信号. 默认(Default)模式下,空=15,满=0. 切换反转(Inverted)模式,满=15,空=0. 常用于GT储罐和仓室.%n%n末影流体覆盖板: 末影储罐的覆盖板版本,用于传送流体. 不过不要将其与末影储罐相连.%n%n排水道覆盖板: 保护机器安装面淋雨,下雨时可以为容器装水. 无用.%n%n流体过滤器覆盖板: 过滤通过其的流体. 手持流体单元右键即可完成设置.%n%n扇板: 激活时阻挡物品/流体. 可用作单向阀,或配合机器控制覆盖板,红石信号控制.生效时不会有断开的视觉效果.机器控制覆盖板需要与被控制的扇板安装在同一管道上.%n%n§l物品相关覆盖板:§r%n运送模块: 传输物品. 在输入/输出(Import/Export)模式下,安装在物品管道或GT方块/机器上.%n%n机械臂: 精准传输. 将所安装机器/容器内部的指定槽位物品,传输到相邻的方块内指定槽位. 至于机器内每个槽位的编号,建议自行摸索,因为看起来不同机器都不一样. 当需要输出的指定槽位已满,机械臂将停止输出. 指向的输出方块必须为有槽位的有效方块,否则机械臂的设置不会保存.%n%n物品探测覆盖板: 安装于方块/机器上时,可基于内部物品填充率,发射红石信号. 默认(Default)模式下,空=0,满=15. 探测基于装满的物品槽,所以安装在超级箱/量子箱上时,无法正确工作. 比较适合用于总线.%n%n物品过滤覆盖板: 尚未完成,开发中,欢迎你的贡献.%n%n§lEU相关覆盖板:§r%n能量探测覆盖板: 安装在电池箱/能源站之类存电设备上时,基于EU的填充率,发射红石信号. 默认(Default)模式下,空=0,满=15. 请确保模式调整为包含电池模式(include batteries). 由于某种原因,这种覆盖板也可以探测蒸汽存量...%n%n导能升级覆盖板: 请阅读tooltip,再询问Bart它的工作方式,他很乐意对任何人讲解. 他可能会告诉你,这段代码是完美的,就像这些Tectech伙计们. 此覆盖板可能没有真正完成/无法真正工作.%n%n(豪华)特斯拉线圈帽: 配合特斯拉电塔使用,可以无线传输EU. %n%n§l其他覆盖板:§r%n玩家探测覆盖板: 探测玩家. 范围约为10格. §4目前,由于这个或那个bug,安装在非管道上时,所有者/其他玩家是反的.§r%n%n设备活跃探测覆盖板: 探测合成处理进程或设备闲置状态. 默认模式下,进程0％=0红石信号,~95％=14. 在闲置(idle)模式的默认(Default)模式下,设备闲置时为15,运行时为0.%n%n机器控制覆盖板: 基于红石信号,开启/关闭机器. 禁用(Disable)模式,覆盖板将强制关闭机器,无视红石信号. 安全(Safe)模式只对多方块机器有效. 当多方块机器能量不足时,它会跳电并自动关闭,但如果安装了正常模式的机器控制覆盖板会让其保持开启,它就会不断开机-跳电-吞原料.而安全模式将在跳电后自动切换为禁用模式.而且你还会收到通知. [warn]目前安全模式是坏的?[/warn]%n%n维修提示覆盖板: 当符合特定条件时,发射红石信号. 转子=涡轮?%n%n红石信号发射器/接收器(内/外): 好吧,我也知道这四个东西很绕,所以请认真听讲. 首先,设置频道(frequency),可以通过GUI设置,也可以用原始的方法:拿着某个东西右键覆盖板.空手=0,其他物品=它们的物品ID. 别不小心把频道重置了.建议还是用GUI吧. 你可以将覆盖板设置为私人(Private)模式,类似于末影存储(EnderStorage)的箱子和储罐,这样你就不会被服务器里到处乱飞的公共频道干扰了. 频道状态=红石信号等级.%n%n红石信号发射器(外),会基于安装面接到的外部红石信号,设置频道状态. 你可以将红石信号从红石信号发射器(外),传送到红石信号接收器(外).%n红石信号发射器(内),会接收所覆盖的方块产生的红石信号(如污染探测仪的信号)或所覆盖的方块上的其他覆盖板的信号(如贴在大机器主方块上的维修提示覆盖板的信号),并设置频道状态. §4信号永远是15,所以无用.§r%n红石信号接收器(外),会基于频道状态发射红石信号. 你可以将红石信号从红石信号发射器(外),传送到红石信号接收器(外).%n红石信号接收器(内),会基于频道状态,控制机器可否运行,类似机器控制覆盖板. 如果频道状态为0,它就会控制机器保持关闭.当频道状态至少为1时,才会开启机器. 你可以使用红石信号发射器(外),从任意位置传回红石信号.%n红石信号接收器(内)还可以结合其他覆盖板使用,例如某覆盖板"允许工作时输入".%n%nIC2散热片: 稍微加速机器的运行? 待定:希望有人能看一下代码是否真的是这样.不过它应该可以让你的机器看起来井井有条.%n%n工作台覆盖板: 在可安装的方块上,添加一个工作台功能. 无用.%n%n木板/板/箔: 阻挡安装面的输入/输出. 使用螺丝刀设置允许通过的类型. 默认是阻挡所有类型. 在设置覆盖板时,可以将输出面转到其他面,避免影响输出口本身的设置. 你第一次把板/箔作为覆盖板贴到方块上,一定是个意外.%n%n电脑屏幕覆盖板: 添加视觉外观. 纯装饰作用的覆盖板.%n%n透镜: 纯装饰覆盖板.%n%n你还可以用AE2伪装板作为装饰覆盖板.
 
+# Quest: Lootbag Uptiering
+betterquesting.quest.ZM4oSqeWQRW1Y-zoE01ivg.name=Lootbag Uptiering
+betterquesting.quest.ZM4oSqeWQRW1Y-zoE01ivg.desc=In GTNH, the lootbags are quite useful tools for boosting your resources. There are a wide variety of lootbag types, and those types all have upgrade paths to get better resources.%n%nThere are two paths you can take when it comes to upgrading your lootbags, you can either enchant it with fortune, or you can upgrade the bag itself. Enchanting the lootbag with fortune will increase the chances of more rare drops being given to you on opening, while upgrading the bag itself will change the item pool to that of the upgraded bag. Notably, if you uptier the bag itself, it will cost 3 of the previous bag tier, so make sure it's worthwhile to upgrade before you do so!%n%n§2If you're looking to maximize your advantage it's recommended you both uptier your lootbag AND apply the fortune upgrade. %n§r%n[note]Be sure to use NEI to see all of this information. Use 'U' on your lootbag and you will be able to see the potential drops, the drop chances based on fortune levels, and you will be able to see recipes for uptiering the bag.[/note]%n
+
 
 ## Quest Line: Tier 0 - Stone Age
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAQ.name=第0阶-石器时代
@@ -603,6 +607,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8A.desc=制作橡胶现在变得更加�
 # Quest: Lit Way to Get Charred
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8Q.name=§3§l点燃制炭之路
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8Q.desc=你已经找到了另外一种生产大量木炭的工艺--使用木炭堆点火器. %n%n现在应该去生产大量的木炭去了!%n%n如果这是你的第一个多方块结构,按住shift查看扩展tooltip,或者访问[url]https://wiki.gtnewhorizons.com/wiki/Charcoal_Pile_Igniter[/url]获知如何让它工作.
+
+# Quest: Basic > Steam Lootbag Trade
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABuQ.name=基础奖励 > 蒸汽时代奖励
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABuQ.desc=三个基础奖励 = 蒸汽时代奖励.
 
 # Quest: Tool Forge
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC5Q.name=§3§l工具锻造台
@@ -2404,9 +2412,9 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAABg.desc=欢迎来到EV! 你成功�
 betterquesting.quest.07lxVb9wQWSSoZRcvIswZQ.name=The Redstone Sniffer
 betterquesting.quest.07lxVb9wQWSSoZRcvIswZQ.desc=Ever wonder where your redstone transmitters are? Or wish they were labeled? Maybe your teammate placed one down, didn't tell you, and now you're stuck wondering what private frequency they placed?%n%nNow, you have a way to do all of that.%n%nIntroducing the §6Redstone Sniffer§r!%n%nFor §cregular wireless redstone§f§r, the sniffer will list all currently used frequencies, tell you whether that frequency is private, and gives you an option to label it.%n%nFor §cadvanced wireless covers§f§r, the sniffer will additionally tell you where that cover is currently located, including in other dimensions, and offers you the option to also highlight or teleport to it. 
 
-# Quest: Raw Carbon Fibre
-betterquesting.quest.0fzaxas8R8OJzvYvqX5d9w.name=§a§lRaw Carbon Fibre
-betterquesting.quest.0fzaxas8R8OJzvYvqX5d9w.desc=Alternatively, you can use Raw Carbon Fibre for your Reinforced Circuit Boards.%n%n[note]You can use Epoxid to get a better yield on it![/note]
+# Quest: Raw Carbon Fiber
+betterquesting.quest.0fzaxas8R8OJzvYvqX5d9w.name=§a§lRaw Carbon Fiber
+betterquesting.quest.0fzaxas8R8OJzvYvqX5d9w.desc=Alternatively, you can use Raw Carbon Fiber for your Reinforced Circuit Boards.%n%n[note]You can use Epoxid to get a better yield on it![/note]
 
 # Quest: Pulverize the Planet
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1A.name=§a§l粉碎星球
@@ -4289,7 +4297,7 @@ betterquesting.quest.GslQBIW9QKaCz7FFpkrv6g.desc=As usage of the Forge continues
 
 # Quest: Star Fuel and Dark Matter
 betterquesting.quest.II3sjr1cSPOMXaSG70S_eg.name=§b§lStar Fuel and Dark Matter
-betterquesting.quest.II3sjr1cSPOMXaSG70S_eg.desc=In your research on §b§lProject Godforge§r, you determine that you need a new type of fuel to create a neutron star. Naquadah Fuel possesses some of the properties needed, but isn't enough. Stabilizing this fuel with Exotic Catalyst, and drastically increasing the density of the fuel with other things leads you to something that may just work.%n%nDuring this synthesis, you realize that this fuel could be used to make [note]Dark Matter[/note], something you previously had only seen on the Mehen Belt in the Amunra System.%n%n[note]Dark Matter Shards can be found in the Mehen Belt and mined manually, if you don't want to synthesize it.[/note]
+betterquesting.quest.II3sjr1cSPOMXaSG70S_eg.desc=In your research on §b§lProject Godforge§r, you determine that you need a new type of fuel to create a neutron star. Naquadah Fuel possesses some of the properties needed, but isn't enough. Stabilizing this fuel with Exotic Catalyst, and drastically increasing the density of the fuel with other things leads you to something that may just work.%n%nDuring this synthesis, you realize that this fuel could be used to make [note]Dark Matter[/note], something you previously had only seen on the Mehen Belt in the Amun-Ra System.%n%n[note]Dark Matter Shards can be found in the Mehen Belt and mined manually, if you don't want to synthesize it.[/note]
 
 # Quest: Haha, Spinny Ingot
 betterquesting.quest.Jk9jZtb6SXSLNX9SND_J0A.name=哈哈,超时空金属锭转转转
@@ -4470,7 +4478,7 @@ betterquesting.quest.u-2IsyxKTLiZuTY417qWKw.desc=With Shirabon now acquired, you
 
 # Quest: Raw Stellar Plasma
 betterquesting.quest.uXczmEsfT2uRCSnx8Vm4RQ.name=Raw Stellar Plasma
-betterquesting.quest.uXczmEsfT2uRCSnx8Vm4RQ.desc=Created by all tiers of the Eye of Harmony, Raw Stellar Plasma can be used for several things including Stellar Catalyst.%n%n[note]You may want to be careful with this material, as later running EOH's with Astral Arrays requires this instead of Hydrogen and Helium, so make sure to never fully run out![/note]
+betterquesting.quest.uXczmEsfT2uRCSnx8Vm4RQ.desc=Created by all tiers of the Eye of Harmony, Raw Stellar Plasma can be used for several things including Stellar Catalyst.%n%n[note]You may want to be careful with this material, as later running EOHs with Astral Arrays requires this instead of Hydrogen and Helium, so make sure to never fully run out![/note]
 
 # Quest: Are you Ready?
 betterquesting.quest.v5GltE2BTW-Me_rEqy5uFg.name=你准备好了吗?
@@ -4653,6 +4661,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAD8Q.desc=钓鱼真的很无聊.那为什
 # Quest: Fresh Water and Milk
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAD8g.name=淡水和牛奶
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAD8g.desc=很多合成表都需要用到牛奶和淡水.但是普通的制作方法很麻烦.%n%n但是如果使用林业工作台就容易得多.把所有装有牛奶或者水的桶都放进工作台的缓存区,按住Shift点击一下合成表,就可以一次全部处理完毕了.
+
+# Quest: Chef Training
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADWg.name=厨师训练
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADWg.desc=我需要一些配料来帮助我进行练习,不过它们无法在我这里种植,你可以提供一些吗? 我会回报你一些成品.%n%n[note]只需凑齐一组即可完成任务.[/note]
 
 # Quest: Wheaty Juice
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAE-A.name=小麦汁
@@ -5831,7 +5843,7 @@ betterquesting.quest.YFUK2QflT1G3_WC8XBp2Wg.desc=The portable equivalent of the 
 
 # Quest: Shulker Upgrades
 betterquesting.quest.Zza5BrD7TduqKby_b3wQsQ.name=§3§lShulker Upgrades
-betterquesting.quest.Zza5BrD7TduqKby_b3wQsQ.desc=Shulker boxes in need of an upgrade? No need to gather all new shells, there are 9 upgrade items availible. They will preserve the inventory of your shulker so there is no need to empty it beforehand. %n%n§n§A§r§lAvailible Upgrades:§l§r%nVanilla -) Copper%nVanilla -) Iron%nCopper -) Iron%nCopper -) Silver%nIron -) Gold%nSilver -) Gold%nGold -) Diamond%nDiamond -) Crystal%nDiamond -) Obsidian%n%n[note]Hint: You can also use these upgrades to avoid the 50 vis wand requirement of the higher tier shulkers.[/note]%n
+betterquesting.quest.Zza5BrD7TduqKby_b3wQsQ.desc=Shulker boxes in need of an upgrade? No need to gather all new shells, there are 9 upgrade items available. They will preserve the inventory of your shulker so there is no need to empty it beforehand. %n%n§n§A§r§lAvailable Upgrades:§l§r%nVanilla -) Copper%nVanilla -) Iron%nCopper -) Iron%nCopper -) Silver%nIron -) Gold%nSilver -) Gold%nGold -) Diamond%nDiamond -) Crystal%nDiamond -) Obsidian%n%n[note]Hint: You can also use these upgrades to avoid the 50 vis wand requirement of the higher tier shulkers.[/note]%n
 
 # Quest: Diamond Shulker Box
 betterquesting.quest.aIt1E54yQaSOg4CMz-Xegw.name=§5§lDiamond Shulker Box
@@ -7319,7 +7331,7 @@ betterquesting.quest.J2ok3rFLS7quyIlHPaN0FQ.desc=在UV你解锁了给涡轮自�
 
 # Quest: Balance is Everything
 betterquesting.quest.K0_-BjVuR3qh_GZt19SReQ.name=平衡即是一切
-betterquesting.quest.K0_-BjVuR3qh_GZt19SReQ.desc=You already transcended dimensions, but as your power demands spike to absurd levels, maybe it's time to transcend matter!%n%nUsing the unbreakable stability of Proto-Halkonite, harnessing the power of [warn]Chaos[/warn] becomes a reality. The  Semi-Stable Antimatter Stabilization Sequencer introduces the concept of Semi-Stable Antimatter, created from Protomatter.%n%nBut it's a cruel mistress... fail to manage it, and antimatter could void itself into nothingness.%n%nThe Semi-Stable Antimatter is produced in 1 second cycles, the amount generated is based on the total of antimatter currently stocked in it's 16 Antimatter Hatches and consumes equal amounts of Proto Matter.%n%nEach cycle, the base production of antimatter per hatch is:%n(1/16)*§((§3Antimatter§§§r)^(0.5 + §6§nC§r).%nThen each hatch will pull a random number from a normal distribution of 0.2 + §b§nA §rand a variance of 1, multiplying the base production with it, meaning the total antimatter change may be negative.%n%nThis causes an imbalance between the hatches. To properly automate the antimatter production, it's vital to always re-balance the amount of antimatter in the hatches. At the end of each cycle, the lowest amount of antimatter present in hatches is recorded, and any hatch that contains more than the lowest amount loses half the difference!%n%nProper use of stabilization fluids can significantly reduce energy usage and boost production:%n%nIt consumes 10,000,000 + (§3Antimatter§r * 1000)^§ (1.5 - §2§nM§r§)) EU/t passively%nMagnetic Stabilization Fluids can mitigate the passive instability and have its §2exponent§e§r reduced:%nMolten Purified Tengam Exponent = §2§n0.1§r%nTachyon-Rich Fluid Exponent = §2§n0.2§r%nMolten MagMatter = §2§n0.3§r%n%nFor each cycle, the SSASS uses (§3Antimatter§r * 10000)^(1.5 - §5§nG§r) EU%nBy regulating the gravity containment of the forge, this §5exponent§r can also be reduced:%nMolten Spacetime Exponent = §5§n0.05§r%nSpatially Enlarged Fluid Exponent = §5§n0.10§r%nMolten Eternity Exponent = §5§n0.15§r%n%nBy containing the antimatter more compactly, it is possible to generate larger gains per cycle. Containment Stabilization fluids alter the §6exponent§r in the production formula:%nMolten Shirabon Exponent = §6§n0,05§r%nMolthen MHDSCM Exponent = §6§n0,10§r%n%nBy inserting fluids with high energy potential, it's possible to alter antimatter's flow in chaos, making their randomness more favorable. Activation Stabilization Fluids alter the §baverage§r of the gaussian distribution, lowering the risks of negative changes in antimatter and favoring better gains.%nDepleted Naquadah Fuel Mk V average = §c§%n§b§n0.05§r%nDepleted Naquadah Fuel Mk VI average = §c§n§b§n0.10§r
+betterquesting.quest.K0_-BjVuR3qh_GZt19SReQ.desc=You already transcended dimensions, but as your power demands spike to absurd levels, maybe it's time to transcend matter!%n%nUsing the unbreakable stability of Proto-Halkonite, harnessing the power of [warn]Chaos[/warn] becomes a reality. The  Semi-Stable Antimatter Stabilization Sequencer introduces the concept of Semi-Stable Antimatter, created from Protomatter.%n%nBut it's a cruel mistress... fail to manage it, and antimatter could void itself into nothingness.%n%nThe Semi-Stable Antimatter is produced in 1 second cycles, the amount generated is based on the total of antimatter currently stocked in it's 16 Antimatter Hatches and consumes equal amounts of Proto Matter.%n%nEach cycle, the base production of antimatter per hatch is:%n(1/16)*§((§3Antimatter§§§r)^(0.5 + §6§nC§r).%nThen each hatch will pull a random number from a normal distribution of 0.2 + §b§nA §rand a variance of 1, multiplying the base production with it, meaning the total antimatter change may be negative.%n%nThis causes an imbalance between the hatches. To properly automate the antimatter production, it's vital to always re-balance the amount of antimatter in the hatches. At the end of each cycle, the lowest amount of antimatter present in hatches is recorded, and any hatch that contains more than the lowest amount loses half the difference!%n%nProper use of stabilization fluids can significantly reduce energy usage and boost production:%n%nIt consumes 10,000,000 + (§3Antimatter§r * 1000)^§ (1.5 - §2§nM§r§)) EU/t passively%nMagnetic Stabilization Fluids can mitigate the passive instability and have its §2exponent§e§r reduced:%nMolten Purified Tengam Exponent = §2§n0.1§r%nTachyon-Rich Fluid Exponent = §2§n0.2§r%nMolten MagMatter = §2§n0.3§r%n%nFor each cycle, the SSASS uses (§3Antimatter§r * 10000)^(1.5 - §5§nG§r) EU%nBy regulating the gravity containment of the forge, this §5exponent§r can also be reduced:%nMolten Spacetime Exponent = §5§n0.05§r%nSpatially Enlarged Fluid Exponent = §5§n0.10§r%nMolten Eternity Exponent = §5§n0.15§r%n%nBy containing the antimatter more compactly, it is possible to generate larger gains per cycle. Containment Stabilization fluids alter the §6exponent§r in the production formula:%nMolten Shirabon Exponent = §6§n0,05§r%nMolten MHDSCM Exponent = §6§n0,10§r%n%nBy inserting fluids with high energy potential, it's possible to alter antimatter's flow in chaos, making their randomness more favorable. Activation Stabilization Fluids alter the §baverage§r of the gaussian distribution, lowering the risks of negative changes in antimatter and favoring better gains.%nDepleted Naquadah Fuel Mk V average = §c§%n§b§n0.05§r%nDepleted Naquadah Fuel Mk VI average = §c§n§b§n0.10§r
 
 # Quest: Naquadah Based Fuel MkVI
 betterquesting.quest.KHL_yx4XTKOtsHHZ60ZZpg.name=硅岩基流体燃料-MkVI
@@ -9332,7 +9344,7 @@ betterquesting.quest.5PUj-2T3QZOIq4a33qGXlA.desc=最后一个(到目前为止)
 
 # Quest: Knowing your Throughput! 
 betterquesting.quest.8RZ1YKxCQACS3_7rdoHMMA.name=Knowing your Throughput! 
-betterquesting.quest.8RZ1YKxCQACS3_7rdoHMMA.desc=[quest]ME Throughput Monitor[/quest]%n%nThe ME Througput Monitor will show the speed of items entering your network.%n%nClicking with an item will add it to the monitor.%n%nUse a §aWrench§f§r to lock the monitor%n%nWhen the monitor is locked, use §cShift+Right Click§f§r to change the measured time frame. %n%nModes: %n%n§6Per Tick%nPer Second%nPer Minute%nPer Hour
+betterquesting.quest.8RZ1YKxCQACS3_7rdoHMMA.desc=[quest]ME Throughput Monitor[/quest]%n%nThe ME Throughput Monitor will show the speed of items entering your network.%n%nClicking with an item will add it to the monitor.%n%nUse a §aWrench§f§r to lock the monitor%n%nWhen the monitor is locked, use §cShift+Right Click§f§r to change the measured time frame. %n%nModes: %n%n§6Per Tick%nPer Second%nPer Minute%nPer Hour
 
 # Quest: It's Storage Time!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsg.name=存储时间!
@@ -9920,7 +9932,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMsg.desc=流体合成已经直接集成�
 
 # Quest: Starting Your AE2 Journey
 betterquesting.quest.BKJ_IdnHR6ideLC6NnyyPg.name=§5§lStarting Your AE2 Journey
-betterquesting.quest.BKJ_IdnHR6ideLC6NnyyPg.desc=§nApplied Energistics 2 is an integral part of GTNH gameplay. %n§r%nAE2 is the primary networking and logistics management mod in GTNH for Items, Fluids, and Crafting. You will use it starting from EV and onward for most automations you perform. Given the sheer density of this modpack there are a variety of unique tools and features added specifically to aid in your adventure. Most of these tools are covered in this quest tab.%n%nThere is a lot to learn, but don't feel overburdened! Your abilities will continue to grow the more time you spend with it. There are a wide variety of helpful resources to take advantage of in addition to this book when it comes to learning:%n%n§2§2§1§b§r§21. The Wiki:§r§r§o§o §o§o§r[url]§o§o§rhttps://wiki.gtnewhorizons.com/wiki/Applied_Energistics_2[/url]%n%n§r- The Wiki has a lot of great starter information on what various systems do. They also have a lot of machine specific automation tutorials so be sure to check the Wiki if you're struggling or want a point of reference.%n%n%n§b§r§22. The Discord: §o§r[url]https://discord.gg/EXshrPV[/url]%n%n§r- The Discord is full of experienced AE2ers', check out #ae2-help to find plenty of people who will take time to help you figure something out.%n%n%n§b§r§23. Video Tutorials: §r[url]§o§rhttps://www.youtube.com/watch?v=LUYVmIAEC-I[/url]%n%n§r- There are a lot of great GTNH content creators who make high quality video tutorials for this. Here is a link to AE2 Fundamentals by IX. There's an advanced version as well.
+betterquesting.quest.BKJ_IdnHR6ideLC6NnyyPg.desc=§nApplied Energistics 2 is an integral part of GTNH gameplay. %n§r%nAE2 is the primary networking and logistics management mod in GTNH for Items, Fluids, and Crafting. You will use it starting from EV and onward for most automations you perform. Given the sheer density of this modpack there are a variety of unique tools and features added specifically to aid in your adventure. Most of these tools are covered in this quest tab.%n%nThere is a lot to learn, but don't feel overburdened! Your abilities will continue to grow the more time you spend with it. There are a wide variety of helpful resources to take advantage of in addition to this book when it comes to learning:%n%n§2§2§1§b§r§21. The Wiki:§r§r§o§o §o§o§r[url]§o§o§rhttps://wiki.gtnewhorizons.com/wiki/Applied_Energistics_2[/url]%n%n§r- The Wiki has a lot of great starter information on what various systems do. They also have a lot of machine specific automation tutorials so be sure to check the Wiki if you're struggling or want a point of reference.%n%n%n§b§r§22. The Discord: §o§r[url]https://discord.gg/gtnh[/url]%n%n§r- The Discord is full of experienced AE2ers', check out #ae2-help to find plenty of people who will take time to help you figure something out.%n%n%n§b§r§23. Video Tutorials: §r[url]§o§rhttps://www.youtube.com/watch?v=LUYVmIAEC-I[/url]%n%n§r- There are a lot of great GTNH content creators who make high quality video tutorials for this. Here is a link to AE2 Fundamentals by IX. There's an advanced version as well.
 
 # Quest: Advanced Wireless Setup Kit
 betterquesting.quest.CbUsVtoETCy-CB3AlgHRjg.name=Advanced Wireless Setup Kit
@@ -11617,7 +11629,7 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFw.desc=囊括扭曲.
 
 # Quest: Smoke Your Normal Warp Away
 betterquesting.quest.6pH9sRoUSbCDG8eWqXS_ow.name=Smoke Your Normal Warp Away
-betterquesting.quest.6pH9sRoUSbCDG8eWqXS_ow.desc=Having too much normal warp? Saniziting Soap is too expensive for you?%n%nWell, luckily for you, you can remove your Warp using a Silverwood Smoking Pipe and some Relaxing Tobacco. This is a fairly cheap and sustainable option for removing your Normal warp (assuming you have a good option to get a lot of Vis).%n%nIt also has a chance to reduce your temporary warp.%n%n[note]The chance to reduce your normal warp per Relaxing Tobacco is 10%%, so you'll be needing a bunch of it.[/note]%n
+betterquesting.quest.6pH9sRoUSbCDG8eWqXS_ow.desc=Having too much normal warp? Sanitizing Soap is too expensive for you?%n%nWell, luckily for you, you can remove your Warp using a Silverwood Smoking Pipe and some Relaxing Tobacco. This is a fairly cheap and sustainable option for removing your Normal warp (assuming you have a good option to get a lot of Vis).%n%nIt also has a chance to reduce your temporary warp.%n%n[note]The chance to reduce your normal warp per Relaxing Tobacco is 10%%, so you'll be needing a bunch of it.[/note]%n
 
 # Quest: Adept Thaumaturgy
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABBA.name=熟练的神秘使
@@ -11905,7 +11917,7 @@ betterquesting.quest.LIZCdBLfQquQpULGmFDixw.desc=这对杖端比神秘锭还要�
 
 # Quest: Check Your Warp For Free!
 betterquesting.quest.TBMfXgORRHuggrozS7vsVA.name=Check Your Warp For Free!
-betterquesting.quest.TBMfXgORRHuggrozS7vsVA.desc=Don't want to spend your Salis Mundus on Litmus Paper anymore? This device can significantly reduce your Litmus Paper useage!%n%nWhile holding this item, you gain a HUD Icon on the top left of your screen, which tells you how much warp you have. It does not tell you the exact warp values, but it helps you estimate it.%n%nHere's how to read it:%nYour §l§5§lPermanent Warp§r is displayed as a dark purple bar%nYour §5Normal Warp§r is displayed as a light purple bar%nYour §dTemporary Warp§r is displayed as a pink bar%n%nThe bar is full at 100 total warp.
+betterquesting.quest.TBMfXgORRHuggrozS7vsVA.desc=Don't want to spend your Salis Mundus on Litmus Paper anymore? This device can significantly reduce your Litmus Paper usage!%n%nWhile holding this item, you gain a HUD Icon on the top left of your screen, which tells you how much warp you have. It does not tell you the exact warp values, but it helps you estimate it.%n%nHere's how to read it:%nYour §l§5§lPermanent Warp§r is displayed as a dark purple bar%nYour §5Normal Warp§r is displayed as a light purple bar%nYour §dTemporary Warp§r is displayed as a pink bar%n%nThe bar is full at 100 total warp.
 
 # Quest: Who Came Up With This Name??
 betterquesting.quest.lMDEhTDISSG1u2HYaZVg9w.name=Who Came Up With This Name??
@@ -14053,111 +14065,6 @@ betterquesting.quest.beN48jZMRCqH2QGlTH7nTg.desc=你可以用硬币购买一些T
 # Quest: Blaze Rods
 betterquesting.quest.la9w2qsKRhSIm-9-4cnWwg.name=烈焰棒
 betterquesting.quest.la9w2qsKRhSIm-9-4cnWwg.desc=你可以用硬币购买一些烈焰棒.
-
-
-## Quest Line: Reward Area
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAKg.name=奖励区
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAKg.desc=升级你的战利品!
-
-# Quest: Steam > LV Lootbag Trade
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABtw.name=蒸汽时代奖励 > LV时代奖励
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABtw.desc=三个蒸汽时代奖励 = LV时代奖励
-
-# Quest: Basic > Steam Lootbag Trade
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABuQ.name=基础奖励 > 蒸汽时代奖励
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABuQ.desc=三个基础奖励 = 蒸汽时代奖励.
-
-# Quest: LV > MV Lootbag Trade
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABuw.name=LV时代奖励 > MV时代奖励
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABuw.desc=三个LV时代奖励 = MV时代奖励.
-
-# Quest: MV > HV Lootbag Trade
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvQ.name=MV时代奖励 > HV时代奖励
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvQ.desc=三个MV时代奖励 = HV时代奖励
-
-# Quest: HV > EV Lootbag Trade
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvw.name=HV时代奖励 > EV时代奖励
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvw.desc=三个HV时代奖励 = EV时代奖励.
-
-# Quest: EV > IV Lootbag Trade
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABwQ.name=EV时代奖励 > IV时代奖励
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABwQ.desc=三个EV时代奖励 = IV时代奖励.
-
-# Quest: Forest Ranger Basic > Forest Ranger Advanced Lootbag Trade
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACNA.name=基础林业奖励 > 高级林业奖励
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACNA.desc=三个基础林业奖励 = 高级林业奖励
-
-# Quest: Forest Ranger Advanced > Forest Ranger Expert Lootbag Trade
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACNQ.name=高级林业奖励 > 专业林业奖励
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACNQ.desc=三个高级林业奖励 = 专业林业奖励
-
-# Quest: Space Invaders Moon > Space Invaders Mars Lootbag Trade
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACNg.name=月球奖励 > 火星奖励
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACNg.desc=三个月球奖励 = 火星奖励
-
-# Quest: Space Invaders Mars > Space Invaders Asteroids Lootbag Trade
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACNw.name=火星奖励 > 小行星奖励
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACNw.desc=三个火星奖励 = 小行星奖励
-
-# Quest: Magic Novice > Magic Adept Lootbag Trade
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACOA.name=奥术新手奖励 > 奥术老手奖励
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACOA.desc=三个奥术新手奖励 = 奥术老手奖励
-
-# Quest: Magic Adept > Magic Master Lootbag Trade
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACOQ.name=奥术老手奖励 > 奥术精通奖励
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACOQ.desc=三个奥术老手奖励 = 奥术精通奖励
-
-# Quest: Magic Master > Magic Grandmaster Lootbag Trade
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACOg.name=奥术精通奖励 > 奥术大师奖励
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACOg.desc=三个奥术精通奖励 = 奥术大师奖励
-
-# Quest: Magic Grandmaster > Magic Grandmaster Unique Lootbag Trade
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACOw.name=奥术大师奖励 > 魔导师奖励
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACOw.desc=十六个奥术大师奖励 = 魔导师奖励%n%n[note]PS：你只能获得每个奖励一次,共有6种不同的奖励.[/note]
-
-# Quest: BM Novice > BM Adept Lootbag Trade
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACPA.name=血魔法新手奖励 > 血魔法老手奖励
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACPA.desc=三个血魔法新手奖励 = 血魔法老手奖励
-
-# Quest: BM Adept > BM Master Lootbag Trade
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACPQ.name=血魔法老手奖励 > 血魔法精通奖励
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACPQ.desc=三个血魔法老手奖励 = 血魔法精通奖励
-
-# Quest: Bees Basic > Bees Advanced Lootbag Trade
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACPg.name=蜜蜂基础奖励 > 蜜蜂高级奖励
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACPg.desc=三个蜜蜂基础奖励 = 蜜蜂高级奖励
-
-# Quest: Bee Advanced > Bees Expert Lootbag Trade
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACPw.name=蜜蜂高级奖励 > 蜜蜂专业奖励
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACPw.desc=三个蜜蜂高级奖励 = 蜜蜂专业奖励
-
-# Quest: Fast Food > Slow Food Lootbag Trade
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACpg.name=快餐奖励 > 正餐奖励
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACpg.desc=三个快餐奖励包可以换一个更好的正餐奖励包.什么时候正餐成更好的了？
-
-# Quest: Slow Food > Haute Cuisine Lootbag Trade
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACpw.name=正餐奖励 > 美食奖励
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACpw.desc=三个正餐奖励包可以换一个更好的美食奖励包.
-
-# Quest: Haute Cuisine > Dessert Lootbag Trade
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACqA.name=美食奖励 > 甜点奖励
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACqA.desc=六个美食奖励包可以换一个更好的甜点奖励包.%n%n[note]不过,这个奖励包里头只有棉花糖,所以其实不太值...[/note]
-
-# Quest: Transportation Class 3 > Transportation Class 2 Lootbag Trade
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACqQ.name=交通运输类-3奖励 > 交通运输类-2奖励
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACqQ.desc=三个交通运输类-3奖励包可以换一个更好的交通运输类-2奖励包.
-
-# Quest: Transportation Class 2 > Transportation Class 1 Lootbag Trade
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACqg.name=交通运输类-2奖励 > 交通运输类-1奖励
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACqg.desc=三个交通运输类-2奖励包可以换一个更好的交通运输类-1奖励包.
-
-# Quest: Chef Training
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADWg.name=厨师训练
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADWg.desc=我需要一些配料来帮助我进行练习,不过它们无法在我这里种植,你可以提供一些吗? 我会回报你一些成品.%n%n[note]只需凑齐一组即可完成任务.[/note]
-
-# Quest: IV > LuV Lootbag Trade
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGmg.name=IV奖励>LuV奖励.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGmg.desc=三个IV奖励=LuV奖励.
 
 
 ### Quests in multiple quest lines ###
