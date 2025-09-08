@@ -131,7 +131,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALOg.desc=Minecraft是以区块为单位�
 
 # Quest: Permanent Offhand!
 betterquesting.quest.U7JoxM0mRaWx0MYriD2LtQ.name=§9§lPermanent Offhand!
-betterquesting.quest.U7JoxM0mRaWx0MYriD2LtQ.desc=With the release of version 2.8 of GTNH, the modern offhand slot has been backported and is available for every player. %n%nWith this, we say goodbye to the Battlegear slots of before. The three slots on either side of your hotbar, default key "G", are no longer!%n%nDefault Keybind to swap between mainhand and offhand: §9F§r%n%n[warn]Any items that were in the Battlegear slots should return to your inventory or dropped on the ground if your inventory is full.[/warn]%n%n[note]You can also toggle various Torch Tweaks in Backhand's mod client configs. They are disabled by default, but you may find them useful if you love holding torches in your offhand.[/note]
+betterquesting.quest.U7JoxM0mRaWx0MYriD2LtQ.desc=With the release of version 2.8 of GTNH, the modern offhand slot has been backported and is available for every player. %n%nWith this, we say goodbye to the Battlegear slots of before. The three slots on either side of your hotbar, default key "G", are no longer!%n%nThis feature also works with any item that opens a GUI, like a backpack for example. This makes inventory management easier and helps with certain tedious tasks.%n%nDefault Keybind to swap between mainhand and offhand: §9F§r%n%n[warn]Any items that were in the Battlegear slots should return to your inventory or dropped on the ground if your inventory is full.[/warn]%n%n[note]You can also toggle various Torch Tweaks in Backhand's mod client configs. They are disabled by default, but you may find them useful if you love holding torches in your offhand.[/note]
 
 
 ## Quest Line: Tips and Tricks
@@ -5656,10 +5656,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHmg.desc=铁制建筑之杖比石制的�
 # Quest: Mid-Tier Wand
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHmw.name=中阶建筑之杖
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHmw.desc=下一阶的建筑之杖是钻石建筑之杖,拥有所有的有趣模式.只是用的时候要当心,一不小心放下一大片方块会令人很不愉快!
-
-# Quest: No ASMR From Your Machines?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHnA.name=不想接受你机器提供的ASMR服务?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHnA.desc=要是你机器发出的声音快把你逼疯了,你可以添加隔音升级让它们闭嘴.%n%n注意:这也意味着你将不会听到跳电的声音.  另外,一旦添加了这个升级就无法移除了.
 
 # Quest: Botany
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHoA.name=植物学
@@ -14603,7 +14599,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMzw.desc=一定有种方式,可以让纳
 
 # Quest: A Portable Barrel?
 betterquesting.quest.EDtFbLVvQX2Y5mQp84W9bw.name=§2§lA Portable Barrel?
-betterquesting.quest.EDtFbLVvQX2Y5mQp84W9bw.desc=As an upgrade to the barrels, EFR also adds the ever-familiar shulker box! The shulker box allows you to portably tote it's contents. You can find the research for them in the New Horizons tab of the Thaumonomicon.%n%nThese have seven additional tiers much like the barrels and chests that give you additional storage space. %n%nYou can dye any tier by shapelessly crafting them with a dye, and undye them by shapelessly crafting them alone. They §nwill§r retain their inventory. %n%n[note]Checkout the coins tab if you're looking for shells![/note]
+betterquesting.quest.EDtFbLVvQX2Y5mQp84W9bw.desc=As an upgrade to the barrels, EFR also adds the ever-familiar shulker box! The shulker box allows you to portably tote it's contents. You can find the research for them in the New Horizons tab of the Thaumonomicon.%n%nThese have seven additional tiers much like the barrels and chests that give you additional storage space. %n%nYou can dye any tier by shapelessly crafting them with a dye, and undye them by shapelessly crafting them alone. They §nwill§r retain their inventory. %n%n[note]There are many ways to obtain shulker shells:%n1. Fighting Shulkers in the Twilight Forest Lich & Ghast Queen Towers.%n2. Fighting Shulkers from the eggs in the Coins tab%n3. Manually crafting the shells[/note]
 
 # Quest: Gold Barrel
 betterquesting.quest.GuylOTxSSraeAtj16fZ9-w.name=§3§lGold Barrel
