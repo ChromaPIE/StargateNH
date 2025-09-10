@@ -192,7 +192,7 @@ gt.interact.desc.any_i_invert_o=Permit any input, Invert output
 gt.interact.desc.mb.idle.1=Hit with Soft Mallet
 gt.interact.desc.mb.idle.2=to (re-)start the Machine
 gt.interact.desc.mb.idle.3=if it doesn't start.
-gt.interact.desc.mb.running=Running perfectly.
+gt.interact.desc.mb.running=运行正常。
 gt.interact.desc.mb.incomplete=Incomplete Structure.
 gt.interact.desc.mb.locking_on=Single recipe locking enabled. Will lock to next recipe.
 gt.interact.desc.mb.locking_off=Single recipe locking disabled.
@@ -1482,7 +1482,7 @@ GT5U.gui.text.wireless_maintenance_detector.extra.rotor_lt20=Rotor < 20%
 GT5U.gui.text.wireless_maintenance_detector.extra.rotor_0=Rotor ≈ 0%
 
 GT5U.gui.text.fusion_computer.hit_to_start=Hit with Soft Mallet to (re-)start the Machine if it doesn't start.
-GT5U.gui.text.fusion_computer.running_perfectly=Running perfectly.
+GT5U.gui.text.fusion_computer.running_perfectly=运行正常。
 
 GT5U.gui.text.large_fluid_extractor.not_enough_casings=Not enough casings: need %d, but\nhave %d.
 GT5U.gui.text.wormhole_generator.missing_entangled_singularity=§7Missing Entangled Singularity§f

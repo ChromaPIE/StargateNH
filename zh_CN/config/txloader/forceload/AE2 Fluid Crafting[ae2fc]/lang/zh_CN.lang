@@ -77,8 +77,8 @@ tile.fluid_buffer.name=ME流体缓存器
 tile.walrus.name=海象
 tile.super_stock_replenisher.name=Super Stock Replenisher
 tile.fluid_auto_filler.name=ME流体自动装填器
-tile.certus_quartz_tank.name=赛特斯石英水槽 - %s
-tile.certus_quartz_tank_empty.name=赛特斯石英水槽
+tile.certus_quartz_tank.name=刻定石英水槽 - %s
+tile.certus_quartz_tank_empty.name=刻定石英水槽
 
 ae2fc.waila.speed=速度
 ae2fc.waila.enable=启用

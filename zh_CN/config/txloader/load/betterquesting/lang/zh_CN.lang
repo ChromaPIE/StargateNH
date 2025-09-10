@@ -389,7 +389,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFxA.desc=这把刀不能用于屠杀数�
 
 # Quest: Rare Ores
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGCg.name=§2§l稀有矿石
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGCg.desc=你有没有花几天时间寻找钻石,红石,钽锰矿石,赛特斯石英或云母的经历？ %n%n矿脉会混有几种矿石,你可以用其中一种矿石来找另一种,比如钻石矿脉可用煤矿石寻找,赛特斯石英矿脉可用石英岩矿石寻找. 如果你有锡石矿石(不是锡石矿砂),可以找到云母矿石.  %n%n下界黝铜矿矿石可以用铜矿石找到.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGCg.desc=你有没有花几天时间寻找钻石,红石,钽锰矿石,刻定石英或云母的经历？ %n%n矿脉会混有几种矿石,你可以用其中一种矿石来找另一种,比如钻石矿脉可用煤矿石寻找,刻定石英矿脉可用石英岩矿石寻找. 如果你有锡石矿石(不是锡石矿砂),可以找到云母矿石.  %n%n下界黝铜矿矿石可以用铜矿石找到.
 
 # Quest: Wooden Door
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAG_g.name=§2§l木门
@@ -734,7 +734,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAEag.desc=如果你的工具没有剩余�
 
 # Quest: Nether Quartz? Sharpness!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEbA.name=§3§l石英能让武器变得锋利!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEbA.desc=你的剑太钝了! 拿一些下界石英把它磨快!%n%n如果你有很多赛特斯石英,一个赛特斯石英可以抵得上24个下界石英.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEbA.desc=你的剑太钝了! 拿一些下界石英把它磨快!%n%n如果你有很多刻定石英,一个刻定石英可以抵得上24个下界石英.
 
 # Quest: GT6-Styled Wires and Cables
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEew.name=§3§lGT6型导线和线缆
@@ -1154,8 +1154,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACoQ.name=§5§l基础压模机
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACoQ.desc=LV时代的压模机并不是很有用.但你可以用它来制作下一阶的船、更有效率地制作橡胶片、制作单元或者制作§o某些§r匠魂的工具部件.
 
 # Quest: Process Some Certus Quartz
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACzA.name=§5§l处理赛特斯石英
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACzA.desc=为了制造发射器和传感器,你需要获取一些赛特斯石英.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACzA.name=§5§l处理刻定石英
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACzA.desc=为了制造发射器和传感器,你需要获取一些刻定石英.
 
 # Quest: Good Circuits
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACzQ.name=§5§l进阶电子电路(Good Circuits.)
@@ -2474,7 +2474,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADJQ.desc=为制作兰波顿水晶,你需
 
 # Quest: Hypochlorous Acid
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADWw.name=§a§l次氯酸
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADWw.desc=次氯酸需要水、氯和一些汞.%n%n可用于酸性发电机,或制成环氧氯丙烷.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADWw.desc=环氧氯丙烷的制备少不了它。
 
 # Quest: Tungstensteel
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADXQ.name=§a§l钨钢
@@ -4184,7 +4184,7 @@ betterquesting.quest.WPoaCPPwTBSyn2dmh5DcBA.desc=在搭建完UHV的[Waterline]�
 
 # Quest: The Final Frontier!
 betterquesting.quest.X1tb5rwVSVi5SR5rY7vQIw.name=最后的边疆!
-betterquesting.quest.X1tb5rwVSVi5SR5rY7vQIw.desc=借助§1§l母舰§r(具体搭建详见太空竞赛章节)你可以到访真正最后的星系：阿蒙-拉星系。共有6个可到访的星球，每个星球都有独有的矿脉。%n%n%n§l§n阿努比斯§r%n无尽催化剂矿脉 (中子素、艾德曼金属、无尽催化剂、基岩素)%n%n§l§n荷鲁斯§r%n宇宙中子素矿脉 (中子素、宇宙中子素、黑钚、基岩)%n%n§l§n马赫斯(塞赫美特的卫星)§r%n超能硅岩矿脉 (硅岩、富集硅岩、超能硅岩、凯金)%n%n§l§n迈罕带§r%n觉醒龙矿脉 (龙、龙、觉醒龙、下界之星)%n%n§l§n奈佩里(巴里的卫星)§r%n双锂矿脉 (双锂、双锂、神秘水晶、温特姆)%n%n§l§n赛特(塞赫美特的卫星)§r%n生镃矿脉 (生镃、生镃、蓝石、钐)%n%n%n生镃大概是你最需要的矿脉，因为你可以把生镃处理成谐镃，用以在UEV+取代磁化钐。在荷鲁斯和奈佩里也会生成充能赛特斯石英矿脉 (赛特斯石英、赛特斯石英、充能赛特斯石英、石英矿砂) §m虽然我不知道你为什么还需要这个矿脉§r.
+betterquesting.quest.X1tb5rwVSVi5SR5rY7vQIw.desc=借助§1§l母舰§r(具体搭建详见太空竞赛章节)你可以到访真正最后的星系：阿蒙-拉星系。共有6个可到访的星球，每个星球都有独有的矿脉。%n%n%n§l§n阿努比斯§r%n无尽催化剂矿脉 (中子素、艾德曼金属、无尽催化剂、基岩素)%n%n§l§n荷鲁斯§r%n宇宙中子素矿脉 (中子素、宇宙中子素、黑钚、基岩)%n%n§l§n马赫斯(塞赫美特的卫星)§r%n超能硅岩矿脉 (硅岩、富集硅岩、超能硅岩、凯金)%n%n§l§n迈罕带§r%n觉醒龙矿脉 (龙、龙、觉醒龙、下界之星)%n%n§l§n奈佩里(巴里的卫星)§r%n双锂矿脉 (双锂、双锂、神秘水晶、温特姆)%n%n§l§n赛特(塞赫美特的卫星)§r%n生镃矿脉 (生镃、生镃、蓝石、钐)%n%n%n生镃大概是你最需要的矿脉，因为你可以把生镃处理成谐镃，用以在UEV+取代磁化钐。在荷鲁斯和奈佩里也会生成充能刻定石英矿脉 (刻定石英、刻定石英、充能刻定石英、石英矿砂) §m虽然我不知道你为什么还需要这个矿脉§r.
 
 # Quest: Dimensional Breach Imminent
 betterquesting.quest._TtL1y6-SfCCNKRrWSvrNQ.name=维度超越近在咫尺
@@ -6385,7 +6385,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ_A.desc=下一阶硼硅玻璃需要掺�
 
 # Quest: IV Glass
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ_Q.name=§6§lIV玻璃
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ_Q.desc=下一阶硼硅玻璃需要钨钢(5). 更高阶的玻璃可以让细菌培养缸支持更高阶的配方,让巨型电力高炉支持高阶能源仓,也能使兰波顿超级电容库支持更高阶的电容. 或仅用于制造机器.%n%n[note]PS：如果你只需要用它制造机器的话,可以看看钍钇玻璃方块.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ_Q.desc=下一阶硼硅玻璃需要钨钢(5). 更高阶的玻璃可以让细菌培养缸支持更高阶的配方,让巨型电力高炉支持高阶能源仓,也能使兰波顿超级电容库支持更高阶的电容. 或仅用于制造机器.%n%n[note]PS：如果你只需要用它制造机器的话,可以看看钍钇玻璃块.[/note]
 
 # Quest: LuV Glass
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ_g.name=§6§lLuV玻璃
@@ -8254,6 +8254,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMhw.desc=现在,为什么不呢?你现�
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAIg.name=太空竞赛
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAIg.desc=帮助你开始星系mod并遨游星际.我们的征途是星辰大海!
 
+# Quest: Cetane Boosted Diesel
+betterquesting.quest.0TQy1g-KQ0GMuvc5n6c2Tg.name=§9§lCetane Boosted Diesel
+betterquesting.quest.0TQy1g-KQ0GMuvc5n6c2Tg.desc=The other option is Cetane-Boosted Diesel. %n%nYou will need to mix either Diesel or Bio Diesel with Tetranitromethane. Check out the related quests in [quest]Tier 3 - HV[/quest] or [quest]Working with Oil[/quest] tabs for more information.
+
 # Quest: Can I Build A Mothership For My Father?
 betterquesting.quest.1R8whL35Qnm93uBUpchI0A.name=我能为我的父亲建造一艘母舰吗？
 betterquesting.quest.1R8whL35Qnm93uBUpchI0A.desc=§1§l母舰§r是一个可以移动到其他天体(甚至恒星!)的空间站.它是唯一能到达最外层的星系——阿蒙·拉星系的方法.阿蒙·拉星系有总共六个行星和卫星可以登陆.最重要的一个是赛特,在它上面可以找到§a生镃矿石§r.
@@ -9355,8 +9359,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtA.name=16K-ME存储单元
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtA.desc=一个中型存储单元.拥有16384字节的存储空间.16384字节可以容纳2032组单一物品或者63种合计1040组的不同物品.16K存储单元每存储一类物品需要消耗128字节的存储空间.%n%n存储单元需要和ME驱动器或者ME箱子搭配使用,这个组件将以1.5AE/t的速度消耗能源.%n%n你可以将组件内的所有物品全部取出后,手持存储元件按住SHIFT右击,或者在合成栏里面将它拆分成存储组件和存储外壳.
 
 # Quest: Fluix Crystals
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtQ.name=福鲁伊克斯水晶
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtQ.desc=你可以用硬币购买一些福鲁伊克斯水晶.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtQ.name=伏流水晶
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtQ.desc=你可以用硬币购买一些伏流水晶.
 
 # Quest: Applied Crafting
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtg.name=外星科技-自动合成
@@ -9432,7 +9436,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAE7A.desc=合成处理单元的一部分,
 
 # Quest: Imma Chargin' My...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFCg.name=吱吱吱...充电
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFCg.desc=充能赛特斯石英是制作很多AE物品的基础材料.你可以让红石粉和赛特斯石英粉发生反应,得到充能赛特斯石英粉,然后使用高压釜晶化得到它.%n%n或者如果你有大量的钠,则可以使用化学反应釜配方. 你还可以制造充能器(AE),直接将赛特斯石英充能,但这比较慢. 充能器底部可直接与GT线缆或AE线缆连接.%n%n[warn]请注意,某些配方(相当一部分)只有一定几率出产充能赛特斯石英.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFCg.desc=充能刻定石英是制作很多AE物品的基础材料.你可以让红石粉和刻定石英粉发生反应,得到充能刻定石英粉,然后使用高压釜晶化得到它.%n%n或者如果你有大量的钠,则可以使用化学反应釜配方. 你还可以制造充能器(AE),直接将刻定石英充能,但这比较慢. 充能器底部可直接与GT线缆或AE线缆连接.%n%n[warn]请注意,某些配方(相当一部分)只有一定几率出产充能刻定石英.[/note]
 
 # Quest: Keeping Your Network Happy
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFCw.name=保持网络稳定
@@ -9452,7 +9456,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFDw.desc=晶体催生仓可以通过插�
 
 # Quest: Purifying the Impure
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFEA.name=高纯度晶体
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFEA.desc=高纯度的下界石英、赛特斯和福鲁伊克斯水晶可通过种子(组装沙子和晶体粉末)获得.%n%n将它们丢入水中可以自然生长,而在GT高压釜中可以大大加快这一过程.%n%n[note]高压釜配方中,蒸馏水可以让时间减半.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFEA.desc=高纯度的下界石英、刻定和伏流水晶可通过种子(组装沙子和晶体粉末)获得.%n%n将它们丢入水中可以自然生长,而在GT高压釜中可以大大加快这一过程.%n%n[note]高压釜配方中,蒸馏水可以让时间减半.[/note]
 
 # Quest: Wireless Setup
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFEg.name=无线网络
@@ -9708,7 +9712,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ8w.desc=奥术装配室类似于分子�
 
 # Quest: Miscellaneous AE Items
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ9A.name=AE杂项
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ9A.desc=有一些AE物品不是特别有用,但也许值得一提,如下所示:%n%n赛特斯石英水槽:可存储32桶流体,便携且易于制造.%n%n显示元件:在元件工作台中配置,用于过滤终端中显示的物品(当然需要插入该终端才有效)%n%n赛特斯/下界石英切割刀:右键打开GUI然后输入名字即可获得名称压印模板.这个压印模板可用于压印器中命名物品,而无需铁砧. 你还可以用切割刀直接命名世界中的P2P通道和ME接口.%n%nME方块容器:仅容纳一种物品,但容量与64K存储元件相当.可把其内物品放置到世界上,或者替换1x1或3x3范围方块.被替换的方块会以掉落物的形式出现.可以水平或垂直替换,这取决于你选中方块的哪个面.Shift+右键空气可以切换模式,右键方块激活模式.%n%n充能石英火把:与火把发光范围一致,但看起来更高端...%n%n光亮探测器:基于亮度发出红石信号.不过由于亮度7才能使其开始工作,所以比不上阳光传感器.%n%nME升级(Tier 1/2/3):如果你玩OC的话,这三个升级可以使你的机器人或无人机获得无线访问ME网络的权限.%nT1:0.5倍无线范围%nT2:无限范围%nT3:任意维度,无限范围%n%n熵变机械臂:将草方块/泥土/干燥泥土互相转化,或生火.还能融化冰.无用...%n%n物质炮:发射物质球(由物质聚合器制出). 译者注:也可以发射金属粒... 将其插入ME箱子或者驱动器,然后在终端放入物质球进行填充.我觉得还行? 不过它会破坏方块...好吧,我猜你会用染色球?%n%n染色器:使用染料或染色球(效率更高)对物品进行染色.你可以染色粘土,或者任意兼容伪装板的方块,比如羊毛或者草方块.填充方式与物质炮一致.你可以按住Shift+右键(也可以滑动滚轮)来循环选择颜色.使用雪球可以擦去颜色.也可以用发射器.%n%n海象:这是一只海象,你在期待什么?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ9A.desc=有一些AE物品不是特别有用,但也许值得一提,如下所示:%n%n刻定石英水槽:可存储32桶流体,便携且易于制造.%n%n显示元件:在元件工作台中配置,用于过滤终端中显示的物品(当然需要插入该终端才有效)%n%n刻定/下界石英切割刀:右键打开GUI然后输入名字即可获得名称压印模板.这个压印模板可用于压印器中命名物品,而无需铁砧. 你还可以用切割刀直接命名世界中的P2P通道和ME接口.%n%nME方块容器:仅容纳一种物品,但容量与64K存储元件相当.可把其内物品放置到世界上,或者替换1x1或3x3范围方块.被替换的方块会以掉落物的形式出现.可以水平或垂直替换,这取决于你选中方块的哪个面.Shift+右键空气可以切换模式,右键方块激活模式.%n%n充能石英火把:与火把发光范围一致,但看起来更高端...%n%n光亮探测器:基于亮度发出红石信号.不过由于亮度7才能使其开始工作,所以比不上阳光传感器.%n%nME升级(Tier 1/2/3):如果你玩OC的话,这三个升级可以使你的机器人或无人机获得无线访问ME网络的权限.%nT1:0.5倍无线范围%nT2:无限范围%nT3:任意维度,无限范围%n%n熵变机械臂:将草方块/泥土/干燥泥土互相转化,或生火.还能融化冰.无用...%n%n物质炮:发射物质球(由物质聚合器制出). 译者注:也可以发射金属粒... 将其插入ME箱子或者驱动器,然后在终端放入物质球进行填充.我觉得还行? 不过它会破坏方块...好吧,我猜你会用染色球?%n%n染色器:使用染料或染色球(效率更高)对物品进行染色.你可以染色粘土,或者任意兼容伪装板的方块,比如羊毛或者草方块.填充方式与物质炮一致.你可以按住Shift+右键(也可以滑动滚轮)来循环选择颜色.使用雪球可以擦去颜色.也可以用发射器.%n%n海象:这是一只海象,你在期待什么?
 
 # Quest: Magical Minions
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ9Q.name=魔法仆从
@@ -10690,11 +10694,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAIew.desc=盛开蜂会催生附近的树�
 
 # Quest: Diamond
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIfA.name=钻石蜂
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIfA.desc=啊,终于,一个女孩——我是说女王——最好的伙伴.你需要在蜂箱下方放个钻石块,由赛特斯蜂和煤蜂杂交培育而来.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIfA.desc=啊,终于,一个女孩——我是说女王——最好的伙伴.你需要在蜂箱下方放个钻石块,由刻定蜂和煤蜂杂交培育而来.
 
 # Quest: Certus
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIfQ.name=赛特斯蜂
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIfQ.desc=赛特斯蜂,嗯...它有啥培育环境要求么?我不记得了.或许你可以试试赛特斯石英块?由青金石蜂和遁世蜂杂交培育而来.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIfQ.name=刻定蜂
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIfQ.desc=刻定蜂,嗯...它有啥培育环境要求么?我不记得了.或许你可以试试刻定石英块?由青金石蜂和遁世蜂杂交培育而来.
 
 # Quest: Lapis
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIfg.name=青金石蜂
@@ -10761,8 +10765,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAIjQ.name=幽灵蜂
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIjQ.desc=幽灵蜂需要末影蜂才能培育出来,即使最顽强的养蜂员也将会备受考验——别忘了你的养蜂员套装. 想要让蜂箱中的幽灵蜂工作,附近必须有龙蛋.不要在附近丢下任何骨头,烈焰棒或腐肉!这种蜜蜂可以复活它们!也许你能找到这种能力的真正用途……由末影蜂和遁世蜂杂交培育而来.
 
 # Quest: Fluix
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIjg.name=福鲁伊克斯蜂
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIjg.desc=如果你想深入发展AE2,你肯定用得上这种蜜蜂生产的廉价福鲁伊克斯水晶.你需要在蜂箱下方放个福鲁伊克斯水晶块,由青金石蜂和红石蜂杂交培育而来.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIjg.name=伏流蜂
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIjg.desc=如果你想深入发展AE2,你肯定用得上这种蜜蜂生产的廉价伏流水晶.你需要在蜂箱下方放个伏流水晶块,由青金石蜂和红石蜂杂交培育而来.
 
 # Quest: Ruby
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIjw.name=红宝石蜂
@@ -10798,7 +10802,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAIlg.desc=在MV阶段之前你用不上�
 
 # Quest: Olivine
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIlw.name=橄榄石蜂
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIlw.desc=一种某方面完全没用的蜜蜂,橄榄石蜂只在培育更好的蜜蜂时才有点用.或许它还能为你提供些镁?由末影蜂和赛特斯蜂杂交培育而来.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIlw.desc=一种某方面完全没用的蜜蜂,橄榄石蜂只在培育更好的蜜蜂时才有点用.或许它还能为你提供些镁?由末影蜂和刻定蜂杂交培育而来.
 
 # Quest: Emerald
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAImA.name=绿宝石蜂
@@ -13471,8 +13475,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADwA.name=黄铜杆
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADwA.desc=你可以用硬币购买一些黄铜杆.
 
 # Quest: Certus Quartz
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADwQ.name=赛特斯石英
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADwQ.desc=你可以用硬币购买一些赛特斯石英.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADwQ.name=刻定石英
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADwQ.desc=你可以用硬币购买一些刻定石英.
 
 # Quest: Basic Circuit Boards
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADww.name=基础电路板
@@ -13827,8 +13831,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFng.name=ME玻璃线缆
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFng.desc=你可以用硬币购买一些ME玻璃线缆.
 
 # Quest: Fluix Crystals
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFrw.name=福鲁伊克斯水晶
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFrw.desc=你可以用硬币购买一些福鲁伊克斯水晶.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFrw.name=伏流水晶
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFrw.desc=你可以用硬币购买一些伏流水晶.
 
 # Quest: Rubber Rings
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFxw.name=橡胶环
@@ -14303,7 +14307,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAEgg.desc=镁铝合金制作的弹药要�
 
 # Quest: Wooden Bolts
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEhA.name=§3§l铁制弩箭
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEhA.desc=光有弩还不够,我们还需要一些弹药.让我们来做一些木制弩箭.现在你可以用冶炼炉熔炼铁、耐酸铝或者钢装上你的箭头.%n更高阶的弩箭和箭头制造需要用到流体固化器,将你想要用的金属泵入流体固化器吧.%n%n[warn]升级[/warn]:%n[note]下界(赛特斯)石英-提高伤害%n苔藓球-自我修复(在魔导手册GTNH栏解锁)[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEhA.desc=光有弩还不够,我们还需要一些弹药.让我们来做一些木制弩箭.现在你可以用冶炼炉熔炼铁、耐酸铝或者钢装上你的箭头.%n更高阶的弩箭和箭头制造需要用到流体固化器,将你想要用的金属泵入流体固化器吧.%n%n[warn]升级[/warn]:%n[note]下界(刻定)石英-提高伤害%n苔藓球-自我修复(在魔导手册GTNH栏解锁)[/note]
 
 # Quest: Making Power With Your Plasma
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEsA.name=§d§l§f§c§l利用等离子体发电
@@ -14450,8 +14454,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAIow.name=基础蜜蜂统计
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIow.desc=有些基础蜜蜂具有不错的属性,可以加入你的培育储备中.%n%n穴居性-石头蜂-这使你可以在蜂箱上堆东西或将其放在室内.你可以在蜂箱上放个箱子来很方便地收集产物.%n%n夜行性-石头蜂-这使你的蜜蜂在夜间或者暗处继续工作.%n%n耐雨飞行性-水生蜂-使你的蜜蜂在雨天继续工作.%n%n高生育能力(x4)-凛冬蜂-培育时你需要最大的雄蜂生产能力.%n%n记住,蜜蜂需要对环境非常满意时才会生产特殊产物.%n这意味着蜜蜂必须在它感觉最自然的环境中.即没有强化过温度/湿度适应性前的蜜蜂所需要的温度/湿度.%n%n例如,盐蜂需要温暖/正常的气候.即使具有+-湿度和温度适应性,也不会在除了温暖/正常气候以外别的气候下生产盐蜂窝.使用蜂箱升级以确保其处于最佳的温度/湿度下.
 
 # Quest: Too Much Mercury?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIzQ.name=§6§l汞太多了?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIzQ.desc=一小时又一小时...一天又一天...一周又一周...你为了红宝石(铬)处理了成吨的红石,也积攒了大量的汞,不知道能用来做什么.%n%n你可以将其都存到超级缸里,但事实上没人需要那么多次氯酸.你可以制造一台酸性发电机,至少能白嫖点电.%n%n译者注:使用汞化学浸洗处理某些矿物可以增产.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIzQ.name=§6§l汞太多了？
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIzQ.desc=你日复一日地跟红石较劲，就为了那么点铬，回头望去，早已囤下了大量的副产物汞，而你根本不清楚该用它来做什么。是，次氯酸得用汞，但说白了，那么一大缸汞能做出的次氯酸得几辈子才用得完呢？不妨做一台酸性物质发电机，让那些次氯酸发点电吧。
 
 # Quest: I'll Send Wireless Signals Where I Want, Thank You
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ4A.name=我可以随便用无线接入器了,谢谢
@@ -14784,6 +14788,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMjw.desc=没有描述.
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMrw.name=工具:不要完成
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMrw.desc=这个任务永远不应该完成,它用来隐藏模板和其他必要隐藏的任务.
 
+# Quest: Trigger: Dense Hydrazine Skip
+betterquesting.quest.CSYjTrFrQwi2XzCFUOAIjg.name=Trigger: Dense Hydrazine Skip
+betterquesting.quest.CSYjTrFrQwi2XzCFUOAIjg.desc=No Description
+
 # Quest: Trigger: Graphene Skip
 betterquesting.quest.MdXhDkN_TECH5kMp4OM2Gg.name=Trigger: Graphene Skip
 betterquesting.quest.MdXhDkN_TECH5kMp4OM2Gg.desc=No Description
@@ -14848,9 +14856,17 @@ betterquesting.quest.kZ6QmUGzTCitYMg_BdiVeQ.desc=No Description
 betterquesting.quest.qFco17HGS0SxmpVn-uWJZQ.name=触发:跳过下界
 betterquesting.quest.qFco17HGS0SxmpVn-uWJZQ.desc=无描述
 
+# Quest: Trigger: H8N4C2O4 (Green) Rocket Fuel Skip
+betterquesting.quest.rTYfjovjSEazD4lgxmmkEA.name=Trigger: H8N4C2O4 (Green) Rocket Fuel Skip
+betterquesting.quest.rTYfjovjSEazD4lgxmmkEA.desc=No Description
+
 # Quest: Trigger: LV Extruder Skip
 betterquesting.quest.sIP_FoxIRaeE08GesBwYcQ.name=触发:跳过LV压模机
 betterquesting.quest.sIP_FoxIRaeE08GesBwYcQ.desc=无描述
+
+# Quest: Trigger: CN3H7O3 (Purple) Rocket Fuel Skip
+betterquesting.quest.vP1W1MPQTOa4kzbCpQJzOQ.name=Trigger: CN3H7O3 (Purple) Rocket Fuel Skip
+betterquesting.quest.vP1W1MPQTOa4kzbCpQJzOQ.desc=No Description
 
 # Quest: Trigger: Rocket Tier 6 Skip
 betterquesting.quest.xcpJ6bs3R-i9KuADhiHOXw.name=Trigger: Rocket Tier 6 Skip

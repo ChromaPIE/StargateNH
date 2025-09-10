@@ -118,7 +118,7 @@ thaumicenergistics.research_page.TECORES.2=§l扩散核心§r<BR>源质液体相
 # Research storage
 tc.research_name.thaumicenergistics.TESTORAGE=数位化源质存储
 tc.research_text.thaumicenergistics.TESTORAGE=这货真的能储存源质?
-thaumicenergistics.research_page.TESTORAGE.1=检查了现有的数字化存储媒介后你总结出确实可以储存这些数字化的源质.<BR>§l赛特斯石英§r通过注入浓缩的物质,就会获得存储源质的能力,在数字化的格式下也是十分有效的.<BR>你总结了注入的物质越浓缩储存空间就越大的结论.但这不会大于石英本身所能承受的储存大小.
+thaumicenergistics.research_page.TESTORAGE.1=检查了现有的数字化存储媒介后你总结出确实可以储存这些数字化的源质.<BR>§l刻定石英§r通过注入浓缩的物质,就会获得存储源质的能力,在数字化的格式下也是十分有效的.<BR>你总结了注入的物质越浓缩储存空间就越大的结论.但这不会大于石英本身所能承受的储存大小.
 thaumicenergistics.research_page.TESTORAGE.2=§l组件§r<BR>存储组件以数位格式存储源质.单独是无法操作的,它们需要元件外壳才能与数字网络进行交互.<LINE>§l元件外壳§r<BR>为存储组件提供了接口以及保护.<BR>§l源质元件工作台§r<BR>这个元件工作台可以让你指定何种要素源质可以存储于这个元件之中.
 
 # Research IO
@@ -174,9 +174,9 @@ tc.research_text.thaumicenergistics.TETHAUMGBOX=蠢萌的免费劳力
 thaumicenergistics.research_page.TETHAUMGBOX.1=既然傀儡能代替你右击操作,是时候把齿轮箱改造成适合它们的版本了.加上一点金属和魔法,你就成功地将§l铁齿轮箱§r改造成了§l神秘齿轮箱§r.<BR>改良后的齿轮箱可让任意装有§l使用运转核心§r的傀儡驱动.
 
 # Research Certus Quartz Duplication
-tc.research_name.thaumicenergistics.TECERTUSDUPE=赛特斯石英复制
+tc.research_name.thaumicenergistics.TECERTUSDUPE=刻定石英复制
 tc.research_text.thaumicenergistics.TECERTUSDUPE=吃我炼金术
-thaumicenergistics.research_page.TECERTUSDUPE.1=你现在能用炼金术复制§l赛特斯石英§r和§l下界石英§r了.
+thaumicenergistics.research_page.TECERTUSDUPE.1=你现在能用炼金术复制§l刻定石英§r和§l下界石英§r了.
 
 # Research Knowledge Inscriber + Core
 tc.research_name.thaumicenergistics.TEKNOWLEDGEINSCRIBER=知识记录仪
@@ -211,7 +211,7 @@ thaumicenergistics.research_page.TEDISTILLATIONPATTERNENCODER.1=将AE自动合�
 # Research Golem Wifi Backpack
 tc.research_name.thaumicenergistics.TEGOLEMWIFIBACKPACK=无线傀儡背包
 tc.research_text.thaumicenergistics.TEGOLEMWIFIBACKPACK=DigitalGolem423@ae2.net
-thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.1=你的傀儡不断地奔波于各个箱子之间,帮你储存收集到的物品,以供不时之需.在看到这一切后,你开始思考一个问题:有没有可能把这个中间人裁掉? 而当你想到你的ME网络可以做到无线访问后,你恍然大悟:你完全可以用一样的方法完成这个任务.<BR>在热火朝天地奋斗数小时后,你终于做出来了一个特制背包,傀儡可以通过这个背包访问ME网络.然而这个背包也有一些局限.傀儡必须处在§lAccess Point§r的范围内方可访问网络.天线上的福鲁伊克斯珍珠可以告诉你傀儡是否能访问ME网络.
+thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.1=你的傀儡不断地奔波于各个箱子之间,帮你储存收集到的物品,以供不时之需.在看到这一切后,你开始思考一个问题:有没有可能把这个中间人裁掉? 而当你想到你的ME网络可以做到无线访问后,你恍然大悟:你完全可以用一样的方法完成这个任务.<BR>在热火朝天地奋斗数小时后,你终于做出来了一个特制背包,傀儡可以通过这个背包访问ME网络.然而这个背包也有一些局限.傀儡必须处在§lAccess Point§r的范围内方可访问网络.天线上的伏流珍珠可以告诉你傀儡是否能访问ME网络.
 thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.2=有鉴于连接网络也需要耗能,你对充能器做了些修改,使得它可以从两个内嵌的闪耀之光中吸取能量.充能后,背包仅有一小段可与网络建立连接的时间.在这段宝贵的时间里傀儡便可与网络进行无线交互.<BR>要将背包与你的网络连接,将其置于安全终端中即可.<LINE>随着你对傀儡学研究的不断深入,请不要忘记继续浏览本页以查看新的用法.
 thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.3=§n迷彩§r<BR>各种迷彩可以为背包带来各种不同的风格.可用的伪装材质有:神秘块(默认),宏伟之木,砖,草垛,油脂块,腐肉块,石头,铁块,金块以及钻石块.<BR>手持目标方块右击背有背包的傀儡以改变迷彩.
 thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.COREGATHER=§n聚集核心 解锁§r<IMG>thaumicenergistics:textures/gui/states.png:16:0:16:16:1.0</IMG>装备有§l聚集核心§r的傀儡可将收集到的物品直接存入网络.单次存储物品之最大数取决于傀儡管理每次充能的效率.

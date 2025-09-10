@@ -1886,8 +1886,8 @@ tile.etfuturum.deepslate_zinc_ore.name=深层锌矿石
 tile.etfuturum.deepslate_magnesium_ore.name=深层镁矿石
 tile.etfuturum.deepslate_boron_ore.name=深层硼矿石
 
-tile.etfuturum.ae2.deepslate_certus_quartz_ore.name=深层赛特斯石英矿石
-tile.etfuturum.ae2.deepslate_charged_certus_quartz_ore.name=深层充能赛特斯石英矿石
+tile.etfuturum.ae2.deepslate_certus_quartz_ore.name=深层刻定石英矿石
+tile.etfuturum.ae2.deepslate_charged_certus_quartz_ore.name=深层充能刻定石英矿石
 
 tile.etfuturum.draconic.deepslate_draconium_ore.name=深层龙矿石
 
