@@ -3982,7 +3982,7 @@ betterquesting.quest.pMGI_sXdQSKWWFFxTunqvA.desc=和往常一样,在利用镅制
 
 # Quest: Use Nano Tech to produce Lanthanides
 betterquesting.quest.rdpQZW1YQ92vgnjgHVW8Jg.name=纳米科技加持镧系生产
-betterquesting.quest.rdpQZW1YQ92vgnjgHVW8Jg.desc=解锁碳纳米蜂群之后，我们就可以用它来大量提取需要的镧系资源。%n%n当然你最好做好心理准备，在得到纳米锻炉之前，这很贵的！
+betterquesting.quest.rdpQZW1YQ92vgnjgHVW8Jg.desc=解锁碳纳米蜂群之后，我们就可以用它来大量提取需要的镧系资源。%n%n当然你最好做好心理准备，在得到纳米锻造塔之前，这很贵的！
 
 # Quest: Synthetic Crystal
 betterquesting.quest.w4JcJ33CSWGlsKrmyHxnXA.name=人造晶体
@@ -6489,7 +6489,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKcA.desc=你可以升级精密电子单�
 
 # Quest: What Even is This?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKyA.name=这到底是啥?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKyA.desc=它不单是台脱水机,也是台真空炉,不过真空炉没有单方块机器. 它应该配合艾萨磨机和工业浮选机这两台多方块机器,用于矿物处理,这是一套新的矿物处理系统,它需要一系列的配套机器,不过对于支持的矿石也可以提供更多的产出.%n%n[note]这台多方块机器现在可以在LuV阶段制造.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKyA.desc=它不单是台脱水机,也是台真空炉,不过真空炉没有单方块机器. 它应该配合艾萨磨机和浮选机这两台多方块机器,用于矿物处理,这是一套新的矿物处理系统,它需要一系列的配套机器,不过对于支持的矿石也可以提供更多的产出.%n%n[note]这台多方块机器现在可以在LuV阶段制造.[/note]
 
 # Quest: Do I Really Need to Make This?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKyQ.name=我真的需要做这个吗?
@@ -14582,12 +14582,12 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALqg.name=这里有几吨油
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALqg.desc=[note]这里石油任务线的内容分到了两个章节-关于获取所有提纯产物的部分在LV章节,关于如何处理利用石油的部分在"石油工业"章节,本任务就是后者的一部分.[/note]%n%n欢迎你! 在此任务线中,我们将为你展示石油处理的不同路线,以获取所有可以从石油中提取的有用物品、流体. 石油处理有许多步骤,而这些步骤从LV(低压)开始解锁,到IV(强导压)全部解锁,而处理的产物在这些电压以及更高电压都十分重要.%n%n石油处理产物不单可以用作能源,还是许多化工制品的重要原料.随着科技的进步,处理速度会更快,处理产物会更加丰富,同时你还可以升级此前的产线. 此任务线非本整合包必须主线,但如果你相信它,它也不会让你失望.%n%n获取初始石油的最佳方式就是抽取地表油泉.无需深挖,只需要在油泉上方放置泵,再配上一台发电机提供能量,即可轻松获取石油. 刚开始的时候,你可以直接用石油发电,不过这样效率不高,建议稍后处理得到燃油后更换发电燃料.
 
 # Quest: Nano Forge Tier 2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAM0A.name=2阶纳米锻炉
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAM0A.desc=碳纳米蜂群作为初始工人很不错,但它们只有十分基础的蜂群网络,对更复杂的系统就有些力不从心了.所以想要生产更复杂的纳米蜂群,我们需要一种更加先进的新型纳米蜂群.%n%n中子素纳米蜂群,是1阶和2阶蜂群之间的过渡蜂群,还有其他用途.%n%n[note]将中子素纳米蜂群放入控制器的GUI后,你需要等待多方块机器再次检查结构,或简单地拆除控制器,重新放置后迅速塞入中子素纳米蜂群.这样纳米锻炉即可制造2阶纳米蜂群.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAM0A.name=二阶纳米锻造塔
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAM0A.desc=碳纳米蜂群作为初始工人很不错,但它们只有十分基础的蜂群网络,对更复杂的系统就有些力不从心了.所以想要生产更复杂的纳米蜂群,我们需要一种更加先进的新型纳米蜂群.%n%n中子素纳米蜂群,是1阶和2阶蜂群之间的过渡蜂群,还有其他用途.%n%n[note]将中子素纳米蜂群放入控制器的GUI后,你需要等待多方块机器再次检查结构,或简单地拆除控制器,重新放置后迅速塞入中子素纳米蜂群.这样纳米锻造塔即可制造2阶纳米蜂群.[/note]
 
 # Quest: Nano Forge Tier 3
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAM0Q.name=3阶纳米锻炉
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAM0Q.desc=中子素纳米蜂群移动比较缓慢,但拥有复杂的蜂群网络.如果有一种材料可以自行移动,一定能够以极快的速度,制造更加复杂的蜂群...感谢功能齐全的超维度等离子锻炉(DTPF),让我们可以合成超时空金属.%n%n[note]使用方式与中子素纳米蜂群类似,所不同的是,现在纳米锻炉可以制造3阶纳米蜂群了.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAM0Q.name=三阶纳米锻造塔
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAM0Q.desc=中子素纳米蜂群移动比较缓慢,但拥有复杂的蜂群网络.如果有一种材料可以自行移动,一定能够以极快的速度,制造更加复杂的蜂群...感谢功能齐全的超维度等离子锻炉(DTPF),让我们可以合成超时空金属.%n%n[note]使用方式与中子素纳米蜂群类似,所不同的是,现在纳米锻造塔可以制造三阶纳米蜂群了.[/note]
 
 # Quest: Chemical Pseudo-Altercations
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAM1w.name=化学终结者
@@ -14655,7 +14655,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMyw.desc=我在不超频的状态下,已
 
 # Quest: PCB Factory Tier 2
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMzA.name=2阶PCB工厂
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMzA.desc=随着纳米锻炉的落成,我们可以免费提升基板产量了,但纳米蜂群需要容器.现有的机械方块还不足以承载,我们还需要另行寻找.%n%n经过一些研究,以无尽为框架,以富集钬为隔层的机械方块似乎工作良好.它可以让纳米蜂群通过直达印制机构基座,这样可以直接去除多余的材料,而无需降速.%n%n[note]在输入总线中放入银纳米蜂群,可解锁2阶配方.同时可解锁PCB工厂的并行,公式如下：并行=Log2(纳米蜂群数).[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMzA.desc=随着纳米锻造塔的落成,我们可以免费提升基板产量了,但纳米蜂群需要容器.现有的机械方块还不足以承载,我们还需要另行寻找.%n%n经过一些研究,以无尽为框架,以富集钬为隔层的机械方块似乎工作良好.它可以让纳米蜂群通过直达印制机构基座,这样可以直接去除多余的材料,而无需降速.%n%n[note]在输入总线中放入银纳米蜂群,可解锁2阶配方.同时可解锁PCB工厂的并行,公式如下：并行=Log2(纳米蜂群数).[/note]
 
 # Quest: Thermosink Radiator
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMzQ.name=空冻塔
@@ -14666,8 +14666,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMzg.name=3阶PCB工厂
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMzg.desc=为什么在我们可以运用纳米蜂群的时候,还需要用一个小喷嘴在基板上进行印制?好吧,银纳米蜂群不够坚硬,因此需要一种新的纳米蜂群...以及新的机械方块.听说天体钨是一种很好的框架材料,而量子可用作隔板,可以让这些纳米蜂群永远在内部飞行.%n%n整体结构需要进行调整,更大一点,更高一点.%n%n[note]在大多数情况下工作方式与2阶PCB工厂相同,不过可以使用金纳米蜂群,使资源消耗更低.[/note]
 
 # Quest: Nano Forge Tier 1
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMzw.name=1阶纳米锻炉
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMzw.desc=一定有种方式,可以让纳米机器人,在机器中参与加工.虽说可以在装配线中制造碳纳米蜂群,但效率极低.一定还有更好的方式.%n%n这台纳米锻炉如何,它能够将方块切割成纳米级薄片,然后制成第一个纳米蜂群,而生产出来的纳米蜂群又可以参与制造,几秒内即可造出数以千计的同类.%n%n[note]纳米锻炉是一台庞大的多方块机器,在几分钟内需要消耗更加庞大的能量.支持TecTech的高电流能源仓/激光仓.需要在控制器的GUI中放入一个碳纳米蜂群,方可解锁1阶配方.[/note]%n%n[note]另外,NEI中纳米锻炉配方没有最低电压要求.如果你想要让配方正常运行,只需达到其功率即可,不用管电压.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMzw.name=一阶纳米锻造塔
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMzw.desc=一定有种方式,可以让纳米级超微型机器人,在机器中参与加工.虽说可以在装配线中制造碳纳米蜂群,但效率极低.一定还有更好的方式.%n%n这台纳米锻造塔如何,它能够将方块切割成纳米级薄片,然后制成第一个纳米蜂群,而生产出来的纳米蜂群又可以参与制造,几秒内即可造出数以千计的同类.%n%n[note]纳米锻炉是一台庞大的多方块机器,在几分钟内需要消耗更加庞大的能量.支持TecTech的高电流能源仓/激光仓.需要在控制器的GUI中放入一个碳纳米蜂群,方可解锁1阶配方.[/note]%n%n[note]另外,NEI中纳米锻造塔配方没有最低电压要求.如果你想要让配方正常运行,只需达到其功率即可,不用管电压.[/note]
 
 # Quest: A Portable Barrel?
 betterquesting.quest.EDtFbLVvQX2Y5mQp84W9bw.name=§2§lA Portable Barrel?

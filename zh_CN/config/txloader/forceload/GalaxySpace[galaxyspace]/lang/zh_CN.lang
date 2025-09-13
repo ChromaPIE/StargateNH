@@ -435,7 +435,7 @@ item.spacesuit_gravityboots.name=宇航服重力靴子
 
 item.Ingots.name=Metal Ingot
 item.LeadIngot.name=铅锭
-item.DuraluminIngot.name=杜拉铝锭
+item.DuraluminIngot.name=硬铝锭
 item.NickelIngot.name=镍锭
 item.CobaltumIngot.name=钴锭
 item.PlatinumIngot.name=铂锭
@@ -447,7 +447,7 @@ item.OriharukonIngot.name=奥利哈钢锭
 
 item.CompressedPlates.name=Compressed Metal
 item.CompressedLead.name=致密铅板
-item.CompressedDuralumin.name=致密杜拉铝板
+item.CompressedDuralumin.name=致密硬铝板
 item.CompressedNickel.name=致密镍板
 item.CompressedCobaltum.name=致密钴板
 item.CompressedPlatinum.name=致密铂板

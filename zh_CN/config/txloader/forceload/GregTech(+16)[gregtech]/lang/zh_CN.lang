@@ -1052,7 +1052,7 @@ gt.recipe.hugenaquadahreactor=硅岩反应堆 MkIV
 gt.recipe.extrahugenaquadahreactor=硅岩反应堆 MkV
 gt.recipe.fluidfuelnaquadahreactor=大型硅岩反应堆
 gt.recipe.largeboilerfakefuels=大型锅炉
-gt.recipe.nanoforge=纳米锻炉
+gt.recipe.nanoforge=锻造塔
 gt.recipe.pcbfactory=PCB工厂
 gt.recipe.ic2nuke=IC2核反应堆
 gt.recipe.entropic-processing=Entropic Processing
@@ -1305,7 +1305,7 @@ GT5U.machines.computation_hatch.wasted_computation=§7Wasted Computation: §b%d�
 GT5U.machines.animations.enabled=Animations are now enabled
 GT5U.machines.animations.disabled=Animations are now disabled
 GT5U.machines.nano_forge.t4_info_tooltip=Click for T4 info
-GT5U.machines.nano_forge.t4_info_header=Nano Forge Tier 4
+GT5U.machines.nano_forge.t4_info_header=四阶纳米锻造塔
 GT5U.machines.nano_forge.t4_info_text.1=Upgrading the Nano Forge to T4 by placing an eternity nanite into the controller completely transforms the structure and unlocks both a scaling speed boost and parallel for mass nanite creation.
 GT5U.machines.nano_forge.t4_info_text.2=The Nano Forge can be supplied with molten magmatter to increase its maximum parallels. At the start of a recipe cycle ALL supplied magmatter is consumed and converted to parallels via the following formula:
 GT5U.machines.nano_forge.t4_info_text.3=Maximum Parallel = Max((Magmatter Amount / (288 / 2^(4 - Recipe Tier))), 1)
@@ -2683,7 +2683,7 @@ fluid.Ethyl Dinitrocarbamate=二硝氨基甲酸乙酯
 fluid.Ammonium Dinitramide=二硝酰胺铵
 fluid.LMP-103S=LMP-103S
 fluid.Nitromethane=硝基甲烷
-fluid.O-Xylene=1,2-二甲苯
+fluid.O-Xylene=邻二甲苯
 # GT_MetaGenerated_Item_98 cells
 fluid.UnknownNutrientAgar=未知营养琼脂
 fluid.SeaweedBroth=海藻培养基
@@ -3319,7 +3319,7 @@ achievement.gt.blockmachines.hatch.turbine.input.tier.00=涡轮仓
 achievement.gt.blockmachines.hatch.turbine.input.tier.00.desc=[AL]捡起此物品以在NEI内解锁该合成表
 
 # Added 6/12/21
-achievement.gt.blockmachines.gtpp.multimachine.flotationcell=工业浮选机
+achievement.gt.blockmachines.gtpp.multimachine.flotationcell=浮选机
 achievement.gt.blockmachines.gtpp.multimachine.flotationcell.desc=[AL]捡起此物品以在NEI内解锁该合成表
 achievement.gt.blockmachines.gtpp.multimachine.isamill=艾萨磨机
 achievement.gt.blockmachines.gtpp.multimachine.isamill.desc=[AL]捡起此物品以在NEI内解锁该合成表
