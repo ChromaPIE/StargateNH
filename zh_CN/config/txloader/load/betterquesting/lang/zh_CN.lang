@@ -6,15 +6,15 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAA.name=幕启，开篇
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAA.desc=最初的阶段，0阶。本章节将介绍本整合包的基础机制，主要围绕原版与潘姆的农场的内容展开。
 
 # Quest: Your First Night
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAA.name=§1§l夜的第一章
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAA.name=§9§l夜的第一章
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAA.desc=你好，新员工。欢迎来到格雷科技：新视野！%n%n先别忙着享受温暖的阳光了，因为大概十分钟之后太阳就会落山。而且和原版Minecraft不同，这里的黑夜伸手不见五指，不过那些恐怖的怪物还是能找到你的。所以你的第一项任务是寻找食物和避难所，平安度过夜晚。好在你将在本章任务结束时拥有一张床来改善一下你的生活质量。%n%n至于这本书？你不需要留着这本书。即使没带在身上也可以用"~"键打开任务书……当然先得把那个碍事的键位冲突解决了。%n%n如果你需要进一步帮助，或者只是想找个地方闲逛聊天，都可以到我们的Discord服务器：[url]https://discord.gg/gtnh[/url] -这些链接是可以点击的。请在#role-select频道选择自己的科技等级——这能帮助别人根据你的情况给出合适的建议。%n%n我们的官方wiki上也有许多GTNH的主题帖:[url]https://wiki.gtnewhorizons.com/wiki/Main_Page[/url] 某些机器设备确实非常复杂,仅靠任务书稍显不足,wiki可以提供更加详细的解释,以及图片. 另外,如果你感觉任务书上的指导还不够,可以看一下wiki上的"beginner's-guides"初学者指南. wiki上还有可选mod列表,适用于那些想要玩点花的人.%n%n另外,在这里[url]https://bit.ly/gtnh-datasheets[/url] 还有你所需要的所有数据.%n%n如果你的整合包是通过[warn]CurseForge§r[/warn]的启动器启动,整合包可能无法稳定运行.Curse启动器无法稳定运行整合包内我们修改过的部分mod.所以当你遇到任何问题,最佳解决方式是先尝试换个启动器,比如MultiMC、Prism或是Technic.wiki同样包括这部分教程. 最新整合包版本会在Discord的#announcements频道发布,或带着!download指令.%n%n希望在读这一大段话的时候,你没被怪物嚼碎了.%n%n
 
 # Quest: Where's the Flint?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAQ.name=§1§l燧石在哪儿？
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAQ.name=§9§l燧石在哪儿？
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAQ.desc=挖了一大片沙砾，身上却没有一块燧石？对，不是你脸太黑，沙砾是不会掉落燧石的。%n%n那啥，燧石是……合成出来的。在NEI中查询燧石的配方，做一些吧！%n%n默认布局下，NEI的搜索栏位于屏幕正下方，搜索结果则会显示在右侧。
 
 # Quest: Sticks 'n Stones
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAg.name=§1§l木棍与石头
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAg.name=§9§l棍棒与石块
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAg.desc=这本书内置深夜读书小夜灯，你可以在熬夜的时候翻翻任务解闷儿，真不错！但眼下趁着外面还没黑透，还得完成一些基础工作。出去找点沙砾和木头吧。%n%n时刻记住别把自己饿着，所以四处看看有没有潘马斯的菜园，破坏后会掉落各式果蔬，记得留点种子。或者你可以空手右击菜园，直接把它整片带回家并找个空地放下来。它会在一定区域内慢慢蔓延增殖出同样的菜园，直至达到数量上限。%n%n§3请务必阅读第一个任务引出的信息任务，内含重要信息！
 
 # Quest: Storage For Days
@@ -1916,7 +1916,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHfA.desc=维修提示覆盖板在其所�
 
 # Quest: BEEEP BEEEP BEEEP
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHfQ.name=§6§l哔...哔...哔...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHfQ.desc=实时了解你的超净间是否需要维护非常重要.仅仅亮灯怕是不够,何不试试蜂鸣器呢?即使你在128米外它都能让你听到.%n%n[warn]警告:可能会吓尿你→_→[/warn]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHfQ.desc=千万别忘记时刻了解你的超净间是否需要维修。光亮盏灯怕是不够，何不试试蜂鸣器呢？一旦机器出现故障，它的啸叫声能够响彻128格半径内的每个角落。%n%n[warn]警告：请做好惊吓过度导致失禁的准备。[/warn]
 
 # Quest: Grinding Heads Are Better Than None
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIJg.name=§6§l有研磨头总比没有好
@@ -3280,7 +3280,7 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAACA.desc=你已经走了这么远了
 
 # Quest: Industrial Water Purification
 betterquesting.quest.-2oHGhi4Q22pvhQHb3IaCA.name=§c§l工业纯净水净化
-betterquesting.quest.-2oHGhi4Q22pvhQHb3IaCA.desc=一直以来,您都可以只使用机器的裸金属来切割和雕刻硅电路晶圆.但是,这会导致最终晶圆出现严重缺陷,因此,现在您要生产更先进的电路,就不能再容忍这种缺陷了.%n%n具备了制造 LuV 元件的能力后,您现在可以制造净水厂了.这个多方块可以制造纯净水,这将有助于制造更纯净和更完美的晶圆.对于您当前的硅岩掺杂晶圆来说,这还不是必需的,但使用纯净水可能会大大加快制作过程,因此绝对值得一试.%n%n净水厂本身并不运行配方,而是为您的纯净水产线提供核心物流管理服务.在它周围,您可以建造与净水厂相连的净水装置.净水厂为不同的净水装置提供电力和维护,并同步它们的配方周期.
+betterquesting.quest.-2oHGhi4Q22pvhQHb3IaCA.desc=一直以来,您都可以只使用机器的裸金属来切割和雕刻硅电路晶圆.但是,这会导致最终晶圆出现严重缺陷,因此,现在您要生产更先进的电路,就不能再容忍这种缺陷了.%n%n具备了制造 LuV 元件的能力后,您现在可以制造净水厂了.这个多方块可以制造纯净水,这将有助于制造更纯净和更完美的晶圆.对于您当前的硅岩掺杂晶圆来说,这还不是必需的,但使用纯净水可能会大大加快制作过程,因此绝对值得一试.%n%n净水厂本身并不运行配方,而是为您的纯净水产线提供核心物流管理服务.在它周围,您可以建造与净水厂相连的净水装置.净水厂为不同的净水装置提供电力和维修,并同步它们的配方周期.
 
 # Quest: Netherite Scrap Seed
 betterquesting.quest.01C00SMsRUyKUD2zJht8tA.name=§c§lNetherite Scrap Seed

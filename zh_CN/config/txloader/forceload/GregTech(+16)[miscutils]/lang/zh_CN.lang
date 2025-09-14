@@ -3794,8 +3794,8 @@ item.itemBasicTurbine_2.name=基础钢涡轮
 interaction.voidexcess.enabled=禁用溢出停机
 interaction.voidexcess.disabled=启用溢出停机
 
-interaction.separateBusses.enabled=独立输入总线
-interaction.separateBusses.disabled=非独立输入总线
+interaction.separateBusses.enabled=输入总线互相独立
+interaction.separateBusses.disabled=输入总线共为整体
 
 # Added 29/11/21
 

@@ -1,7 +1,7 @@
 # Galacticraft Asteroids Language File = UNITED STATES ENGLISH
 
 # GENERAL ITEMS
-item.itemTier3Rocket.name=Tier 3 Rocket
+item.itemTier3Rocket.name=3阶火箭
 item.itemTier3Rocket.t3Rocket.name=3阶火箭
 item.itemAstroMiner.name=太空采矿机
 item.heavyNoseCone.name=重型前锥体
@@ -144,9 +144,9 @@ tile.minerBase.description=太空采矿机基地用于太空采矿机的停驻. 
 schematic.astroMiner.name=太空采矿机
 
 # ENTITIES
-entity.GalacticraftMars.SmallAsteroidGC.name=Small Asteroid
-entity.GalacticraftMars.GrappleHookGC.name=Grapple Hook
-entity.GalacticraftMars.Tier3RocketGC.name=Tier 3 Rocket
+entity.GalacticraftMars.SmallAsteroidGC.name=小行星
+entity.GalacticraftMars.GrappleHookGC.name=抓钩
+entity.GalacticraftMars.Tier3RocketGC.name=3阶火箭
 entity.GalacticraftMars.EntryPodAsteroids.name=Entry Pod
 entity.GalacticraftMars.AstroMiner.name=Astro Miner
 
