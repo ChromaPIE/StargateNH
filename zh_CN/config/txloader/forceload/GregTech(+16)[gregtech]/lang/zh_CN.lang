@@ -195,7 +195,7 @@ gt.interact.desc.mb.running=运行正常。
 gt.interact.desc.mb.incomplete=结构不完整。
 gt.interact.desc.mb.locking_on=Single recipe locking enabled. Will lock to next recipe.
 gt.interact.desc.mb.locking_off=Single recipe locking disabled.
-gt.interact.desc.mb.mode=§fRunning mode: §6%s
+gt.interact.desc.mb.mode=§f运行模式：§6%s
 gt.interact.desc.export=Export
 gt.interact.desc.import=Import
 gt.interact.desc.export_cond=Export (conditional)
@@ -913,7 +913,7 @@ GT5U.MS.multismelting=同时熔炼
 gt.casing.no-mob-spawning=怪物无法在此方块上生成
 gt.casing.not-tile-entity=§l不是§7方块实体！
 gt.casing.blast-proof=This Block is Blast Proof
-gt.casing.heat-capacity=Base Heating Capacity = %s Kelvin
+gt.casing.heat-capacity=基础供热温度 = %sK
 gt.casing.tier=Casing Tier: §e%s§r
 
 gt.casing.chemical-resistant=Able to resist the most extreme chemical conditions.
@@ -1745,7 +1745,7 @@ GT5U.multiblock.fluidPipeTier=流体管道等级
 GT5U.multiblock.itemPipeTier=物品管道等级
 GT5U.multiblock.coilLevel=加热线圈等级
 GT5U.multiblock.preciseassemblercasing=Voltage limited by casing tier: %s
-GT5U.multiblock.runningMode=§eRunning Mode:
+GT5U.multiblock.runningMode=§e运行模式：
 
 # NEI recipe handlers
 GT5U.nei.heat_capacity=热容：%s K (%s)
@@ -3002,7 +3002,7 @@ GT5U.tooltip.mega_apiary.only_producer=Will only be produced in mega Apiary
 GT5U.tooltip.electric.tier=Tier: %d
 GT5U.tooltip.electric.tier.s=Tier: %s
 
-gt.coilheattooltip=Base Heating Capacity =
+gt.coilheattooltip=基础供热温度 =
 gt.coilunittooltip=Kelvin
 
 GT5U.tootlip.tool.turbine.steam=Steam
