@@ -1,19 +1,19 @@
 # Tooltip strings
 spiceoflife.tooltip.nutritional.value=营养价值：
-spiceoflife.tooltip.eaten.recently=之前食用的%2$d次食物中,它占了%1$s
-spiceoflife.tooltip.eaten.recently.hunger=之前补充的%2$d点饥饿度中,它占了%1$s
-spiceoflife.tooltip.eaten.recently.time=之前%2$d天内,它占了%1$s
-spiceoflife.tooltip.not.eaten.recently=最近未曾食用
+spiceoflife.tooltip.eaten.recently=前%2$d次食用中占%1$s次
+spiceoflife.tooltip.eaten.recently.hunger=补充的前%2$d点饥饿值中贡献%1$s点
+spiceoflife.tooltip.eaten.recently.time=最近%2$s天内食用了%1$s次
+spiceoflife.tooltip.not.eaten.recently=最近未食用过
 
-spiceoflife.tooltip.not.eaten.ever=从未食用! 味道如何?
-spiceoflife.tooltip.eaten.ever=食用过: 帮助提高生命上限
-spiceoflife.tooltip.eaten.cheap=食用过: 无明显效果
+spiceoflife.tooltip.not.eaten.ever=从没吃过！尝尝看？
+spiceoflife.tooltip.eaten.ever=已食用过：已协助提升生命值上限
+spiceoflife.tooltip.eaten.cheap=已食用过：无明显效果
 
 spiceoflife.tooltip.food.until.enabled.1=饥饿值恢复递减将在
 spiceoflife.tooltip.food.until.enabled.2=食用任何食物%d%s后开始
 spiceoflife.tooltip.times.singular=次
 spiceoflife.tooltip.times.plural=次
-spiceoflife.tooltip.hunger=饥饿度
+spiceoflife.tooltip.hunger=饥饿值
 spiceoflife.tooltip.food.group=食物组:
 spiceoflife.tooltip.food.groups=食物组:
 spiceoflife.tooltip.to.close.food.container=潜行时使用以关闭
@@ -21,8 +21,8 @@ spiceoflife.tooltip.to.open.food.container=潜行时使用以开启
 spiceoflife.tooltip.can.spill.food=打开时食物会从中涌出
 spiceoflife.tooltip.hold.key.for.details=按住%s获取详细信息
 
-spiceoflife.tooltip.diminishing=Diminishing Returns:
-spiceoflife.tooltip.extrahearts=Extra Hearts:
+spiceoflife.tooltip.diminishing=饥饿值恢复递减：
+spiceoflife.tooltip.extrahearts=生命值上限加成：
 
 # Quantity descriptors
 spiceoflife.quantity.one.time=1次
@@ -43,7 +43,7 @@ spiceoflife.gui.food.num=食物 #%d
 spiceoflife.gui.items.on.page=%d-%d 共计%d次食用
 spiceoflife.gui.food_history.title=关于我的食物
 spiceoflife.gui.food_history.worth_eaten=值得吃:
-spiceoflife.gui.food_history.bonus_hearts=生命值加成：
+spiceoflife.gui.food_history.bonus_hearts=生命值上限加成：
 spiceoflife.gui.food_history.next_heart=下一次奖励:
 
 # Items

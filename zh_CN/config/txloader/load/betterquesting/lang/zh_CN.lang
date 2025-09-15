@@ -12290,11 +12290,15 @@ betterquesting.quest.l4q7oG79RfCZjnE_Ys57DA.desc=The Wand Focus: Maintenance wil
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAIA.name=花的力量
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAIA.desc=有关魔法植物学和植物魔法的专题任务线.
 
-# Quest: The roots of magic
+# Quest: Fountain Of Conjuration
+betterquesting.quest.1W0BrWncRuWbeTrPDVV99w.name=Fountain Of Conjuration
+betterquesting.quest.1W0BrWncRuWbeTrPDVV99w.desc=The Fountain of Conjuration, as I'm sincerely hoping you can guess at this point, functions exactly like the Mana Fountain and the Fountain of Alchemy, except it handles §nexclusively§r recipes that are typically done with a Conjuration Catalyst underneath a Mana Pool.%n%nIf you need any further details about it's functionality, check out the Mana Fountain quest or the Lexica Botania.%n%n[note]Reminder that this can also wall-share with any type of Mana Fountain you may currently have.[/note]
+
+# Quest: The Roots of Magic
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMlA.name=魔法的根基
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMlA.desc=如果你熟悉植物魔法,会注意到主世界明显没有神秘花和微光蘑菇.很遗憾,如此漂亮的魔力展现方式需要你提升自己的魔法水平.现在你得利用这个新维度所提供的东西.%n%n暮色森林的深层洞穴中,在Y轴较低的地方,可以找到微光蘑菇.这些是你的起始材料,可以用来代替花瓣.注意,与花不同,你现在还不能种植它们,所以要小心使用.
 
-# Quest: Flower grafting
+# Quest: Flower Grafting
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMlQ.name=花卉嫁接
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMlQ.desc=你要做的第一个东西是花药台.将微光蘑菇的组分涂在炼药锅上,就能给予它自我恢复的能力.%n%n操作时,先用一桶水填满它,以保持植物的水分.要加入合成材料,把它们丢到花药台上面即可.%n%n所有花药台的合成都需要些魔法成分;还需要从世界中取得的一种或多种普通花,作为配方稳定的基础.把所有合成材料都加进去后,再加一粒种子就可以完成合成.所有原版种子都行.
 
@@ -12302,27 +12306,27 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMlQ.desc=你要做的第一个东西是�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMlg.name=白雏菊
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMlg.desc=你能做出的第一种魔力花卉就是白雏菊.这种花可以缓慢地为附近的石头和原木注入魔力,将其转变为植物魔法的原材料.%n%n放下一朵白雏菊,然后在其周围紧邻的8格放上石头和原木,过一段时间它们就会转化为活石和活木.
 
-# Quest: Your first mana pool
+# Quest: Your First Mana Pool
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMlw.name=你的第一座魔力池
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMlw.desc=既然有活石了,就开始制造第一座魔力池吧.用锯子将活石切成台阶制作底部,把活石板粘在一起制成四边.%n%n你缺乏使其变得有效的知识,所以很遗憾,你没法用它一次合成很多东西.
 
-# Quest: Upgrading your mana pool
+# Quest: Upgrading Your Mana Pool
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMmA.name=升级魔力池
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMmA.desc=既然你已经发现了被施以魔力的坩埚的力量,就可以用这项技术造一座更好的魔力池了.
 
-# Quest: Pollination buddies
+# Quest: Pollination Buddies
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMmQ.name=授粉好伙伴
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMmQ.desc=有些花到处都有,有些则仅限于特定的生物群系.如果你不想离家走太远,可以找些帮手.%n%n具有采蜜对象特性的蜜蜂会在它的工作范围内慢慢产生新的花卉,包括大量从遥远牧场带来的品种.
 
-# Quest: Mana diamonds
+# Quest: Mana Diamonds
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMmg.name=魔力钻石
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMmg.desc=魔力钻石是注入了魔力的钻石,制作它们需要的魔力取决于钻石的质量.%n%n一座全满的稀释魔力池勉强能把一颗精致的钻石转变成魔力钻石.等到你升级一次魔力池之后,就可以用普通钻石了,不过魔力消耗会多些.
 
-# Quest: A glimpse into a watery future
+# Quest: A Glimpse Into A Watery Future
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMmw.name=窥见水之未来
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMmw.desc=下一步就是做催化器了.炼金催化器可以使用魔力,将物品或方块转变成相关的另一种物品或方块.%n%n把它放在充满的魔力池下面,做些海晶石试试.%n%n合成表需要魔导手册研究解锁.
 
-# Quest: Botanic infusion
+# Quest: Botanic Infusion
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMnA.name=植物魔法注魔
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMnA.desc=你可以用符文祭坛制作符文,符文可以让你能够制作更高级的花卉.使用方法:把材料放在上面,用森林魔杖右键祭坛,满足条件后,在祭坛上丢一颗活石以完成制作.你还需要一个魔力源,比如一个指向祭坛的魔力发射器.
 
@@ -12334,15 +12338,15 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMnQ.desc=要制造高级工具和装备,
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMng.name=亚尔夫海姆(Alfheim,精灵之国)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMng.desc=传说中有一个传送门,通向充满绿色能量的异世界.
 
-# Quest: Round one... FIGHT!
+# Quest: Round One... FIGHT!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMnw.name=第一回合...开打!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMnw.desc=在正确的位置放置4个盖亚水晶,手持泰拉钢锭,shift+右击激活的信标,召唤盖亚守护者.
 
-# Quest: A deal with Alfar Industries
+# Quest: A Deal With Alfar Industries
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMoA.name=和精灵工业的一场交易
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMoA.desc=所以关于精灵的传言曾经是真的.好吧,§o*曾经是*§r真的.它们中大部分仍然是真的.现在是假的那些,曾经也是真的.%n%n原来,他们那之后一直在和一个被称作§oDream Master§r的神秘人物交谈,显然这在精灵族的土地上引发了一次工业革命.这很不幸地意味着,他们现在坚持引进最新款的机械,以驱动不断扩大的工厂,从而换掉正迅速过时的精灵材料.%n%n有人需要和这家伙谈谈...
 
-# Quest: Round two... FIGHT!
+# Quest: Round Two... FIGHT!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMqQ.name=第二回合...开打!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMqQ.desc=现在用你击杀盖亚守护者得到的盖亚之魂合成一个盖亚魂锭.%n%n在正确的位置放置4个盖亚水晶,手持盖亚魂锭,shift+右击激活的信标,召唤增强版的盖亚守护者.
 
@@ -12350,11 +12354,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMqQ.desc=现在用你击杀盖亚守护�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMrg.name=符文
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMrg.desc=制造些符文吧,因为--为什么不呢?
 
-# Quest: What are all these flowers even for?
+# Quest: What Are All These Flowers Even For?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMtA.name=这些花究竟都有什么用?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMtA.desc=如果你以前从未接触过植物魔法(Botania),可能会困惑于付出这些努力到底有什么意义.这并不是个容易回答的问题,但你至少现在就能做一件相当有用的事--制作魔力钢.%n%n魔力钢在LV材料中如果不是耐久度§o最§o§r高的,也一定是耐久度最高的之一,所以这是你制作工具的绝佳选择--而这也仅仅是其用途之一.%n%n如果你特别讨厌匠魂的话,魔力钢也是制作GT镐子的极好材料.
 
-# Quest: Moron's Manual for Mana Manufacture And Manipulation
+# Quest: Moron's Manual For Mana Manufacture And Manipulation
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMtQ.name=Moron的魔力生产和操纵指南
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMtQ.desc=要使用魔法花卉的力量,你必须先了解如何生产和操纵魔力.只要满足产能花的生产需求,它们就会产生出这种空灵的蓝色物质.魔力不易量化,所以如果你想有效地使用它,就不得不做大量的估算.%n%n一旦你选定了一种产能花,就必须在魔力发射器边上种植它.当满足该花朵的产能条件时,它会开始生产魔力,并将其存储在最靠近的魔力发射器的内部缓存中.魔力发射器会自动发射存储的任何魔力,只要其发射方向上有合适的接收方块(例如魔力池).你会需要很多这些设备的,所以现在就合成一对吧.%n%n放置魔力发射器时,它会面朝你所在的方向.使用森林法杖可以改变其朝向:手持法杖Shift+右键魔力发射器,然后Shift+右键你想让其朝向的方块即可.这种绑定的方法对于其他物件也有效,例如将产能花绑定至指定的魔力发射器.
 
@@ -12370,7 +12374,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMtw.desc=魔力是蓝色的,水也是蓝
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMuA.name=暗能量
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMuA.desc=大概不是你熟悉的那种"暗能量".夜颠茄(nightshade)在夜晚产生魔力.和其他被动产能花一样,它过一小时就会自然枯萎.
 
-# Quest: Is this a combustion generator?
+# Quest: Is This A Combustion Generator?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMuQ.name=这是内燃发电机吗?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMuQ.desc=火红莲(endoflame)消耗可燃材料生产魔力.它可以高效消耗燃烧时间不超过64000(单个物品)的燃料(相当于4个煤炭块);任何超出此值的燃烧时间都会浪费掉.火红莲不同于被动产能花,它不会枯萎,并且简单易用,因此做几朵是个好主意.
 
@@ -12398,7 +12402,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMvg.desc=想要继续前进,你需要一
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMvw.name=更好的产能花
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMvw.desc=如果你想要些比火红莲更好的花,就需要一个符文祭坛.幸运的是,你只要能做出符文祭坛,大部分符文都极易合成.不过,七宗罪符文需要钛才能制作.现在,只要每种元素符文做一个就好;这足够你起步了.
 
-# Quest: Shut down your canning machine
+# Quest: Shut Down Your Canning Machine
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMwA.name=关掉你的装罐机
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMwA.desc=有些花吃蜜蜂,有的吃树叶,有的吃史莱姆.而这种花什么都能吃(当然只包括你能吃的所有食物).彼方兰(gourmaryllis)在你投喂多种多样的美味食物时会感到最快乐,所以但愿HV阶段的装罐饮食没让你忘了怎么烹饪.
 
@@ -12422,9 +12426,21 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMxA.desc=炽玫瑰(thermalily)会消耗�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMxQ.name=鸡化
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMxQ.desc=索利安德之嗜(soarleander)会消化掉任何与鸡有关的东西,包括整只鸡.%n%n译者注:没别的用了!就是这么简单!
 
-# Quest: According to all known laws of mana generation...
+# Quest: According To All Known Laws Of Mana Generation...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMxg.name=根据一切已知的魔力生产法则...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMxg.desc=...蜜蜂绝不可能生产魔力.食蜂海棠(beegonia)似乎对此浑然不知,并且会很高兴地吃掉你所有盈余的雄蜂,以填满你的魔力池.
+
+# Quest: Mana Fountain
+betterquesting.quest.EP-xPjNWRnKCWRJjGzySvQ.name=Mana Fountain
+betterquesting.quest.EP-xPjNWRnKCWRJjGzySvQ.desc=The Mana Fountain allows for quick and seamless automation of Mana Pool recipes.%n%nYou can assemble the multiblock as specified in the Lexica Botania / NEI. After it's assembled, right clicking it using the Wand of the Forest will show you whether it's complete and the amount of internally stored mana.%n%nYou can send the controller mana directly by either using a spreader or a spark much like a Mana Pool. Technically you don't have to use the Mana Pool in the center of the multiblock for it to function, but it is placed conveniently so that you can (plus, it doesn't hurt to have an extra buffer).%n%nItems are allowed to input from any side of the controller, but can only output from the bottom. For early automation, it's recommended to just use hoppers. Once you uinlock AE2 however you can simply place an interface underneath the controller with the appropriate patterns and it should push and pull items automatically.%n%n[warn]You cannot craft Alchemy or Conjuration recipes using this multiblock, those are separate multiblocks that you will unlock with more advanced robot arm technology.[/warn]%n%n[note]This structure can absolutely wall-share. It has the perfect design to be able to share 4 different Mana Fountains between the center pool.[/note]%n
+
+# Quest: Fountain Of Alchemy
+betterquesting.quest.MJgg4KT4Q1Gi-2hgQ9Sz6w.name=Fountain Of Alchemy
+betterquesting.quest.MJgg4KT4Q1Gi-2hgQ9Sz6w.desc=The Fountain of Alchemy as you may guess, is functionally just like the Mana Fountain, except it can handle the recipes that you would typically need an Alchemy Rune underneath a Mana Pool for.%n%nIf you need any further details about it's functionality, check out the Mana Fountain quest or the Lexica Botania.%n%n[warn]This cannot do regular Mana Pool recipes, only Alchemy recipes.[/warn]%n%n[note]If, for whatever reason, you needed an abundance of prismarine in the future... perhaps a quad Fountain of Alchemy would be an excellent aid in obtaining that.[/note]
+
+# Quest: Synthetic Elven Gateway
+betterquesting.quest.V76lvP8lSsewcKfwxHirPw.name=Synthetic Elven Gateway
+betterquesting.quest.V76lvP8lSsewcKfwxHirPw.desc=The Synthetic Elven Gateway is an advanced and easily automatable version of the normal Elven Gateway. As a result it is much quicker, less TPS intensive, and AE2 compatible.%n%nMuch like the Mana Fountain, the controller can be given mana via a mana spreader or spark & item input can happen from any face, while item output is restricted to the bottom.%n%n[note]While running, this uses more mana passively than a normal Elven Gateway does, so be sure you have adequate mana production![/note]
 
 
 ## Quest Line: Look to the Edges

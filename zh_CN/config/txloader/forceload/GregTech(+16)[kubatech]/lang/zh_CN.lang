@@ -124,9 +124,9 @@ kubatech.infodata.eec.weapon_preservation.yes=Is preserving weapons: §eYes
 kubatech.infodata.eec.weapon_preservation.no=Is preserving weapons: §eNo
 kubatech.infodata.eec.inserted_weapon.yes=Inserted weapon: §eYes
 kubatech.infodata.eec.inserted_weapon.no=Inserted weapon: §eNo
-kubatech.infodata.eec.weapon.damage=Weapon attack damage: §e%f
+kubatech.infodata.eec.weapon.damage=武器攻击伤害：§e%f
 kubatech.infodata.eec.weapon.looting_level=Weapon looting level: §e%d
-kubatech.infodata.eec.total_damage=Total attack damage: §e%f
+kubatech.infodata.eec.total_damage=总计攻击伤害：§e%f
 
 ## Extreme Industrial Greenhouse
 kubatech.infodata.eig.running_mode.setup_mode.input=Setup mode (input)

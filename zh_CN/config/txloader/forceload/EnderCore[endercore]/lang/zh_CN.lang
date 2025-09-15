@@ -1,6 +1,6 @@
 endercore.tooltip.oreDictNames=矿物词典名称：
 endercore.tooltip.showDetails=<按住Shift>
-endercore.tooltip.durability=耐久:
+endercore.tooltip.durability=耐久度：
 
 endercore.command.config.result.success=重新加载 %s 的配置文件成功
 endercore.command.config.result.fail=重新加载 %s 的配置文件失败
