@@ -10135,6 +10135,10 @@ betterquesting.quest.zNBMiy1gQuC_GY0wtQ4cbA.desc=那些数字奇点元件虽然�
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFA.name=人来疯(蜂)
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFA.desc=一套在游戏中不分阶段的任务,蜜蜂的基础探索和指南.是一个非常有用来推进的工具.
 
+# Quest: Splicer
+betterquesting.quest.A462Q2yHRleMxFZCeNzhuA.name=Splicer
+betterquesting.quest.A462Q2yHRleMxFZCeNzhuA.desc=The Splicer is much like the Inoculator in function, however it has the benefit of not requiring any liquid. %n%nThe Splicer will take a Genome Template from the Sequencer and will 'Splice' in the DNA, allowing you to change a bee's genetics.%n%nThe primary drawback of using this compared to the Inoculator is the increased expense of the block, and the significant power cost in comparison.
+
 # Quest: To Scan or Not to Scan
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-A.name=扫描还是不扫描--这并非一个问题
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-A.desc=为了让你的养蜂事业更进一步,你需要用一种更加先进的方式来观察蜜蜂的所有特征,不论是显性还是隐性的. 你只需要培育那些"纯种"的蜜蜂: 纯种蜜蜂的显性和隐性基因完全相同.%n%n[note]顺带一提,并非越'高级'的特性越好.蜜蜂的特性有很多,合适的才是最好的.用你喜欢的那个就行.[/note]
@@ -14693,6 +14697,10 @@ betterquesting.quest.GuylOTxSSraeAtj16fZ9-w.desc=The Gold barrel has 81 slots.
 betterquesting.quest.PjAewUoJTnilPpIT-Ce0tA.name=§5§lDiamond Barrel
 betterquesting.quest.PjAewUoJTnilPpIT-Ce0tA.desc=The Diamond barrel has 108 slots.
 
+# Quest: Large Molecular Assembler
+betterquesting.quest.Q10xj-OrTE67wsWuTNCAAQ.name=Large Molecular Assembler
+betterquesting.quest.Q10xj-OrTE67wsWuTNCAAQ.desc=The Large Molecular Assembler is exactly how it sounds; a very quick molecular assembler with a much bigger inventory for crafting patterns. %n%nThis can handle up to 1024 crafts per second at the maximum energy usage making it up to 100x faster than a molecular assembler. Check out the Wiki for specifics: [url]https://wiki.gtnewhorizons.com/wiki/Large_Molecular_Assembler[/url]%n%nThe LMA controller hooks up directly to your main network in order to function, and all recipes must be placed inside input buses attached to the machine in order to be recognized. Will not require an output bus.%n%n[note]Super Buses are highly recommended![/note]%n%n[warn]This machine can absolutely wall-share, but be careful about the placement of your input bus or all machines may not be used.[/warn]
+
 # Quest: Compact Storage
 betterquesting.quest.QNsm_wc0QO2g9C6_-vj2fA.name=§2§l紧凑的存储
 betterquesting.quest.QNsm_wc0QO2g9C6_-vj2fA.desc=现在你已经有了越来越多的铜储备,你感觉你的木箱子太小了,不能存下你的所有东西. %n%n[note]是时候将你的木箱子升级为铜箱子了!更高等级的箱子可以通过升级组件方便地进行升级,但并不是所有等级的箱子都可以通过这种方法直接升级.试试看"升级：木>铜",虽然用这种方式将木箱子升级到高级的箱子并不会更加便宜.[/note]%n%n[note]升级后相邻的箱子不再能连接组成更大的箱子.[/note]
@@ -14744,9 +14752,17 @@ betterquesting.quest.xdiDnTdpTgW6POwCuDlPgg.desc=经过对第四维度的研究,
 betterquesting.quest.5RrDJZBfTligyX8_wR-EDA.name=Trigger: Nano Boots of the Traveller Skip
 betterquesting.quest.5RrDJZBfTligyX8_wR-EDA.desc=
 
+# Quest: Trigger: Hafnium Skip
+betterquesting.quest.5pXaevjTR-atLo3tdEZMEw.name=Trigger: Hafnium Skip
+betterquesting.quest.5pXaevjTR-atLo3tdEZMEw.desc=No Description
+
 # Quest: Trigger: Rocket Shuttle Skip
 betterquesting.quest.87VYEeyaTWGSnRhRwAhrLw.name=Trigger: Rocket Shuttle Skip
 betterquesting.quest.87VYEeyaTWGSnRhRwAhrLw.desc=No Description
+
+# Quest: Trigger: Samarium Skip
+betterquesting.quest.8_u1r5cyR92lkZZTVvPRag.name=Trigger: Samarium Skip
+betterquesting.quest.8_u1r5cyR92lkZZTVvPRag.desc=No Description
 
 # Quest: Trigger: LoC
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABww.name=触发灰烬烧灯
@@ -14868,13 +14884,25 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMjw.desc=没有描述.
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMrw.name=工具:不要完成
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMrw.desc=这个任务永远不应该完成,它用来隐藏模板和其他必要隐藏的任务.
 
+# Quest: Trigger: NaK Skip
+betterquesting.quest.Bv3i0a9kRGWScgrhhV9tOg.name=Trigger: NaK Skip
+betterquesting.quest.Bv3i0a9kRGWScgrhhV9tOg.desc=No Description
+
 # Quest: Trigger: Dense Hydrazine Skip
 betterquesting.quest.CSYjTrFrQwi2XzCFUOAIjg.name=Trigger: Dense Hydrazine Skip
 betterquesting.quest.CSYjTrFrQwi2XzCFUOAIjg.desc=No Description
 
+# Quest: Trigger: Zirconium Skip
+betterquesting.quest.DHHWGPJ2RAKJuWh6T58_cA.name=Trigger: Zirconium Skip
+betterquesting.quest.DHHWGPJ2RAKJuWh6T58_cA.desc=No Description
+
 # Quest: Trigger: Netherite Skip
 betterquesting.quest.GvUC3hv2RsO-3FofYAyd7A.name=Trigger: Netherite Skip
 betterquesting.quest.GvUC3hv2RsO-3FofYAyd7A.desc=No Description
+
+# Quest: Trigger: Cerium Skip
+betterquesting.quest.KcPyyBL4Rre8QMDg3T4kqA.name=Trigger: Cerium Skip
+betterquesting.quest.KcPyyBL4Rre8QMDg3T4kqA.desc=No Description
 
 # Quest: Trigger: Graphene Skip
 betterquesting.quest.MdXhDkN_TECH5kMp4OM2Gg.name=Trigger: Graphene Skip
