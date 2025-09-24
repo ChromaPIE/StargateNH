@@ -14544,10 +14544,10 @@ languagefile {
     S:TileEntity_DESCRIPTION_31026_Secondary_Index_11=§f结构过于复杂！
     S:TileEntity_DESCRIPTION_31026_Secondary_Index_12=§f对控制器方块使用§9Structure§1Lib§r的§f全息投影仪§f来查看结构！
     S:TileEntity_DESCRIPTION_31027_Index_00=机器类型：§e磨机§r
-    S:TileEntity_DESCRIPTION_31027_Index_01=磨碎矿石。
+    S:TileEntity_DESCRIPTION_31027_Index_01=§a好矿磨，磨好矿
     S:TileEntity_DESCRIPTION_31027_Index_02=所有配方均可完美超频
     S:TileEntity_DESCRIPTION_31027_Index_03=每秒造成§51280§7点污染
-    S:TileEntity_DESCRIPTION_31027_Index_04=§7§m-------------
+    S:TileEntity_DESCRIPTION_31027_Index_04=§a艾萨磨机，一磨就爱上！
     S:TileEntity_DESCRIPTION_31027_Index_05=按住 §l[LSHIFT]§r§7 以显示结构指导
     S:TileEntity_DESCRIPTION_31027_Index_06=Hold §l[LSHIFT]§r§7 to display structure guidelines
     S:TileEntity_DESCRIPTION_31027_Secondary_Index_00=§f尺寸：§63§7x§63§7x§67§7（§6宽§7x§6高§7x§6长§7）
@@ -14556,7 +14556,7 @@ languagefile {
     S:TileEntity_DESCRIPTION_31027_Secondary_Index_03=§6   40x §r§7艾萨磨机外层机壳（至少）
     S:TileEntity_DESCRIPTION_31027_Secondary_Index_04=§f   艾萨磨机齿轮箱：§75x，填满内部
     S:TileEntity_DESCRIPTION_31027_Secondary_Index_05=§f   艾萨磨机管路：§78x，环绕控制器
-    S:TileEntity_DESCRIPTION_31027_Secondary_Index_06=   艾萨磨机管路前方仅可为空气方块
+    S:TileEntity_DESCRIPTION_31027_Secondary_Index_06=   艾萨磨机管路的前方一格不可封阻（必须为空气方块）
     S:TileEntity_DESCRIPTION_31027_Secondary_Index_07=§f   磨球室：§7替换任意外层机壳
     S:TileEntity_DESCRIPTION_31027_Secondary_Index_08=§f   输入总线：§7同上
     S:TileEntity_DESCRIPTION_31027_Secondary_Index_09=§f   输出总线：§7同上
