@@ -1890,7 +1890,7 @@ GT5U.nei.display.usage.original=原始耗能功率：%s EU/t %s
 GT5U.nei.display.usage.steam=蒸汽消耗速率：%s L/s
 GT5U.nei.display.voltage=Voltage: %s EU/t %s
 GT5U.nei.display.amperage=Amperage: %s A
-GT5U.nei.display.overclock= (OC)
+GT5U.nei.display.overclock=(OC)
 GT5U.nei.display.average=Average: %s EU/t %s
 
 GT5U.biomes.humidity=湿度：
@@ -3366,7 +3366,7 @@ tooltip.large_macerator.tier=等级：§6%s
 tooltip.large_distill_tower.upgraded=§6已升级
 
 # 2023-7-12
-achievement.gtplusplus.blockcasings.5.3=元素约束机械方块
+achievement.gtplusplus.blockcasings.5.3=元素约束壳
 achievement.gtplusplus.blockcasings.5.3.desc=[AL]捡起此物品以在NEI内解锁该合成表
 achievement.gtplusplus.blockcasings.5.7=中子脉冲控制方块
 achievement.gtplusplus.blockcasings.5.7.desc=[AL]捡起此物品以在NEI内解锁该合成表

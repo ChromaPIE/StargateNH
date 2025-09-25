@@ -3587,6 +3587,14 @@ betterquesting.quest.zb1nbwNuSFKuSEyW3mVj-Q.desc=At long last... the final ingre
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAHg.name=第7阶-零点压（ZPM）
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAHg.desc=恭喜,你已经完成了铂系处理、装配线、电路装配线§o和§r聚变反应堆,并提升到了零点压. 你已经进入了游戏后期,但仍有许多东西可以玩. 祝你好运!
 
+# Quest: Prismatic Naquadah Composite Slurry
+betterquesting.quest.-wpUfFlVT5GytSWoT6QAdg.name=Prismatic Naquadah Composite Slurry
+betterquesting.quest.-wpUfFlVT5GytSWoT6QAdg.desc=Why stop at §2Prismatic Naquadah§r? Given it's pliant nature you suspect that it may be advantageous to use it's unique strength to form new, much more durable, foil types.%n%nCombing the §2Prismatic Naquadah§r with your choice of §2binding powder§r in a §5§lMixer§r and you'll create exactly the type of substance you were looking for; A §3Prismatic Naquadah Composite Slurry§r to mold into foil. 
+
+# Quest: Prismatic Acid
+betterquesting.quest.9CIs8MP4TBuyRgn8lDu3Mg.name=Prismatic Acid
+betterquesting.quest.9CIs8MP4TBuyRgn8lDu3Mg.desc=Almost there I promise!%n%nNow that you have obtained the §2Prismatic Gas§o§r, you must cool it down in a §5§lVacuum Freezer§r with the assistance of §2Liquid Nitrogen§r. This will give you §3Prismatic Acid§r.%n%n[warn]Aside from continuing down this line, you can also use Prismatic Acid in the processing of Gaia blocks later.[/warn]%n
+
 # Quest: Power, So Much Power!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABdw.name=能量,很多的能量!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABdw.desc=嗨!你好.我手头有一个项目需要帮助. 我想创造一个巨大的能量源,但是有一些问题需要先解决. 当然,帮助我会得到不错的奖励的!%n%n[note]当你手持我提到的物品时,获取下一个物品的任务将会触发.[/note]
@@ -3783,9 +3791,53 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALiw.desc=将其与镁粉一起在电力�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMsw.name=最终的目标
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMsw.desc=在你的帮助下,我终于创造了一个终极的能量来源:一个被磁场包裹的迷你虫洞.它将从人工宇宙中吸取能量,直到它生命的终点-热寂. 你已经帮助我完成了我的梦想.这个虫洞对我没什么实际用处,所以现在它是你的了. 最后再次感谢你,我的朋友!
 
+# Quest: Prismarine Recycling Pt. 2
+betterquesting.quest.AQMaWAiIRo6vNTAxqopS_Q.name=Prismarine Recycling Pt. 2
+betterquesting.quest.AQMaWAiIRo6vNTAxqopS_Q.desc=You'll notice after processing your first Prismarine Precipitates you are left with a second §2Contaminated Prismarine Solution§r. You can also recycle this for added §3Prismarine Solution§o§r and §3Prismarine-Rich Nitrobenzene Solution§r. Again, technically optional, but highly recommended.%n%n[warn]If you didn't setup the recycling for the Contaminated Hydrogen Peroxide then you'll want to now since this recycling actively produces it.[/warn]
+
+# Quest: Prismarine Solution
+betterquesting.quest.J9eklidSTbyHgMgImYT3-g.name=Prismarine Solution
+betterquesting.quest.J9eklidSTbyHgMgImYT3-g.desc=After you've managed to grab some §2Prismarine§r, you must process it with §2Industrial Strength Hydrofluoric Acid§r and §2Hydrogen Peroxide§r in the §5§lDissolution Tank§r. Using these ingredients you can make your very first batch of §3Prismarine Solution§r.%n%n[warn]After you've managed to create your first batch of Industrial Strength HF, it's highly recommended to check the Chemical Plant recipes for further creation of it![/warn]
+
+# Quest: Prismarine!? What Do I Need That For?
+betterquesting.quest.JhZaTiUfTH2AfBcHulTMVA.name=Prismarine!? What Do I Need That For?
+betterquesting.quest.JhZaTiUfTH2AfBcHulTMVA.desc=§5§lPrismarine§r is an ancient material long reumored to have originated from structures found deep within the ocean. Learning how to create this is extremely important, and may lead to advancements in technology with further exploration into the substrate.%n%nYou can get Prismarine in a few different ways as shown resource-wise by the optional tasks:%n%n§31. Through Botania by transmutating §nNether Quartz§r§3 directly to §nPrismarine§r§3 via an §nAlchemical Catalyst or the Fountain of Alchemy§r%n§r%n§22. Using §nRed Algae Biomass§r§2 and §nCertus Quartz§r §2dust in an §nAutoclave%n§r%n§c3. Using §nRed Algae Biomass§r§c and §nPrismatic Combs§r §cin an §nAutoclave.%n§r%nWhich method you choose is entirely up to you and dependent on what infrastructure you have setup thus-far. Either way you would be wise to make a robust setup as you will be needing a decent amount of Prismarine in the future.%n%n[warn]Hold 16 Naquarite Insulator Foil to skip the Prismarine line Quests.[/warn]
+
+# Quest: Prismatic Gas
+betterquesting.quest.Oh_EQhvBQUqHeVcUyifCXQ.name=Prismatic Gas
+betterquesting.quest.Oh_EQhvBQUqHeVcUyifCXQ.desc=The §2Prismatic Crystal§r will then be processed in a §5§lVacuum Furnace§r with §2Boron Plasma§r in order to successfully convert it to the highly sought after §3Prismatic Gas§r.
+
+# Quest: Naquarite Universal Insulator Foil
+betterquesting.quest.fVoSLYPcSmKd-gLhBJHK9A.name=Naquarite Universal Insulator Foil
+betterquesting.quest.fVoSLYPcSmKd-gLhBJHK9A.desc=Finally, you can combine the §2Radiation-Proof Composite Sheet§r with §2Netherite Foil§r and §2Manyullyn§r in the §5§lForming Press§r to create §3Naquarite Universal Insulator Foil§r. This incredibly strong foil can be used to bind ingredients to all of your future coils due to it's unrivaled radiation and heat resistance. 
+
+# Quest: Prismarine Precipitate
+betterquesting.quest.fc7Q6J-BThCf_NbvM0ki2Q.name=Prismarine Precipitate
+betterquesting.quest.fc7Q6J-BThCf_NbvM0ki2Q.desc=After creating the §2Prismarine-Rich Nitrobenzene Solution§r, you'll need to process it using a §5§lChemical Plant§r with §2Strontium Hydroxide§r. Once processed, you can successfully obtain your first §3Prismarine Precipitate§r.%n%n[warn]The Strontium is completely recyclable in the line, so no need to worry about it's continuous production.[/warn]
+
+# Quest: Prismarine Recycling
+betterquesting.quest.kWoNH5tTQX2VIFmkui4YKA.name=Prismarine Recycling
+betterquesting.quest.kWoNH5tTQX2VIFmkui4YKA.desc=§2Prismarine-Contaminated Hydrogen Peroxide§r is a byproduct of a couple different recipes in this line, it's best to recycle it for the bonus §3Prismarine Solution§r. Of course, you don't have to, but it would be ill-advised to avoid it.
+
 # Quest: Superdense
 betterquesting.quest.sB_lbhZZRnmZNjJiF8-1Hg.name=极度致密
 betterquesting.quest.sB_lbhZZRnmZNjJiF8-1Hg.desc=您现在正在制造的先进机器需要更高级的材料,以及材料所需要的更先进的加工方法.在ZPM中,您可以建造热等静压单元,它是大型电动压缩机的升级版.这种多方块设备可以在极高的压力下将材料加热到极高的温度,从而制造出瑕疵极少的超致密板材料.%n%n这台机器会在运行时会升温,必须给它一定的时间冷却.如果达到最大热阈值,会大大降低配方处理速度,甚至吞掉输入的物品.使用更好的线圈来延长过热时间,并使用热量传感仓来自动控制它保持在恰当的温度.%n%n[note]可以运行NEI中标注"需要热等静压单元"的压缩配方.[/note]
+
+# Quest: Prismatic Naquadah Composite Sheet
+betterquesting.quest.sHI1n7unRWecpNcyBAgUfw.name=Prismatic Naquadah Composite Sheet
+betterquesting.quest.sHI1n7unRWecpNcyBAgUfw.desc=§5§lDehydrating§r this §2Prismatic Naquqdah Composite Slurry§r over the top of §2Tungsten Carbide§r & §2Lead foil§r creates a completely §3Radiation-Proof Composite Sheet§r. This will prove to be very useful in protecting your environment from radiation emitting structures.
+
+# Quest: Prismatic Crystal
+betterquesting.quest.xQE-vyLyTeCn0SEIHjbkNQ.name=Prismatic Crystal
+betterquesting.quest.xQE-vyLyTeCn0SEIHjbkNQ.desc=After finally getting the §2Prismarine Precipitate§r, the logical next step is to crystallize the Prismarine into a §3Prismatic Crystal§r. Using a §2Magneto-Resonance Lens§r we can do this in a §5§lLaser Engraver§r with the assistance of §2Molten Crystalline Alloy§r.
+
+# Quest: Prismarine-Rich Nitrobenzene Solution
+betterquesting.quest.ydavD3O5QcKvxk2wIDtakw.name=Prismarine-Rich Nitrobenzene Solution
+betterquesting.quest.ydavD3O5QcKvxk2wIDtakw.desc=After you've gotten ahold of some §2Prismarine Solution§r, combine it with §2Nitrobenzene§r in a §5§lChemical Bath§r in order to create a §3rich solution mixture§r. %n%nAdditionally, you will start to receive some §3Prismarine-Contaminated Hydrogen Peroxide§r byproduct.
+
+# Quest: Prismatic Naquadah
+betterquesting.quest.zIDk7MniRMGE9u_1Slo2qg.name=Prismatic Naquadah
+betterquesting.quest.zIDk7MniRMGE9u_1Slo2qg.desc=Woah, a new metal?%n%nBy combining the forces of your newly created §2Enriched Naquqdah§r and §2Prismatic Acid§r in the §5Alloy Blast Smelter§r, you find that a new metal forms; §3Prismatic Naquadah§r. %n%n[warn]This extremely strong, yet pliant material will be used in quite a few different structures and materials going forth.[/warn]
 
 
 ## Quest Line: Tier 8 - UV
@@ -14832,6 +14884,10 @@ betterquesting.quest.5pXaevjTR-atLo3tdEZMEw.desc=No Description
 betterquesting.quest.87VYEeyaTWGSnRhRwAhrLw.name=Trigger: Rocket Shuttle Skip
 betterquesting.quest.87VYEeyaTWGSnRhRwAhrLw.desc=No Description
 
+# Quest: Trigger: Naquadria Skip
+betterquesting.quest.8EErMy6nSaORxRLGLEKZMQ.name=Trigger: Naquadria Skip
+betterquesting.quest.8EErMy6nSaORxRLGLEKZMQ.desc=No Description
+
 # Quest: Trigger: Samarium Skip
 betterquesting.quest.8_u1r5cyR92lkZZTVvPRag.name=Trigger: Samarium Skip
 betterquesting.quest.8_u1r5cyR92lkZZTVvPRag.desc=No Description
@@ -14976,6 +15032,10 @@ betterquesting.quest.GvUC3hv2RsO-3FofYAyd7A.desc=No Description
 betterquesting.quest.KcPyyBL4Rre8QMDg3T4kqA.name=Trigger: Cerium Skip
 betterquesting.quest.KcPyyBL4Rre8QMDg3T4kqA.desc=No Description
 
+# Quest: Trigger: Enriched Naquadah Skip
+betterquesting.quest.ML49smX4QgWaltUeO9c3bA.name=Trigger: Enriched Naquadah Skip
+betterquesting.quest.ML49smX4QgWaltUeO9c3bA.desc=No Description
+
 # Quest: Trigger: Graphene Skip
 betterquesting.quest.MdXhDkN_TECH5kMp4OM2Gg.name=Trigger: Graphene Skip
 betterquesting.quest.MdXhDkN_TECH5kMp4OM2Gg.desc=No Description
@@ -15047,6 +15107,10 @@ betterquesting.quest.rTYfjovjSEazD4lgxmmkEA.desc=No Description
 # Quest: Trigger: LV Extruder Skip
 betterquesting.quest.sIP_FoxIRaeE08GesBwYcQ.name=触发:跳过LV压模机
 betterquesting.quest.sIP_FoxIRaeE08GesBwYcQ.desc=无描述
+
+# Quest: Trigger: Prismarine Line Skip
+betterquesting.quest.v-EF1CLsQt-AlNOHrXUP6w.name=Trigger: Prismarine Line Skip
+betterquesting.quest.v-EF1CLsQt-AlNOHrXUP6w.desc=No Description
 
 # Quest: Trigger: CN3H7O3 (Purple) Rocket Fuel Skip
 betterquesting.quest.vP1W1MPQTOa4kzbCpQJzOQ.name=Trigger: CN3H7O3 (Purple) Rocket Fuel Skip

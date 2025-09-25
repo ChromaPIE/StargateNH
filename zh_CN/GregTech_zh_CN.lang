@@ -21680,7 +21680,7 @@ languagefile {
     S:gt.blockmachines.hatch.input.tier.14.name=输入仓（MAX）
     S:gt.blockmachines.hatch.input_battery.tier.00.name=电池输入总线（MV）
     S:gt.blockmachines.hatch.input_battery.tier.01.name=电池输入总线（EV）
-    S:gt.blockmachines.hatch.input_bus.elementalorbholder.name=数据球仓
+    S:gt.blockmachines.hatch.input_bus.elementalorbholder.name=数据球贮存仓
     S:gt.blockmachines.hatch.input_bus.me.basic.name=储备输入总线（ME）
     S:gt.blockmachines.hatch.input_bus.me.name=进阶储备输入总线（ME）
     S:gt.blockmachines.hatch.input_bus.tier.00.name=输入总线（ULV）
@@ -67052,7 +67052,7 @@ languagefile {
     S:gtplusplus.blockcasings.5.14.name=时空扭曲核心方块
     S:gtplusplus.blockcasings.5.15.name=力场玻璃
     S:gtplusplus.blockcasings.5.2.name=艾萨磨机齿轮箱
-    S:gtplusplus.blockcasings.5.3.name=元素约束机械方块
+    S:gtplusplus.blockcasings.5.3.name=元素约束壳
     S:gtplusplus.blockcasings.5.32767.name=任意本方块的子方块
     S:gtplusplus.blockcasings.5.4.name=气涤塔外围机械方块
     S:gtplusplus.blockcasings.5.5.name=加强打印机械方块
