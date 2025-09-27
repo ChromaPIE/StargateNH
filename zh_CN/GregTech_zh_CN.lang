@@ -4960,7 +4960,7 @@ languagefile {
     S:TileEntity_DESCRIPTION_01154_Index_01=大型热交换机控制器方块
     S:TileEntity_DESCRIPTION_01154_Index_02=比聚变反应堆更复杂. 确信
     S:TileEntity_DESCRIPTION_01154_Index_03=输入热冷却液或岩浆
-    S:TileEntity_DESCRIPTION_01154_Index_04=输出冷却液或熔岩岩浆，并出产(过热)蒸汽
+    S:TileEntity_DESCRIPTION_01154_Index_04=输出冷却液或绳状熔岩，并出产(过热)蒸汽
     S:TileEntity_DESCRIPTION_01154_Index_05=请阅读Wiki教程，理解其工作方式
     S:TileEntity_DESCRIPTION_01154_Index_06=然后再到Discord，理解Wiki教程
     S:TileEntity_DESCRIPTION_01154_Secondary_Index_00=§f尺寸：§7（§6宽§7x§6高§7x§6长§7）：§63§7x§64§7x§63§7§c
@@ -14932,7 +14932,7 @@ languagefile {
     S:TileEntity_DESCRIPTION_31079_Index_04=速度堪比32台大型热交换机
     S:TileEntity_DESCRIPTION_31079_Index_05=§7§m-----------------------------------------
     S:TileEntity_DESCRIPTION_31079_Index_06=输入热冷却液或岩浆
-    S:TileEntity_DESCRIPTION_31079_Index_07=输出冷却液或熔岩岩浆，并出产(过热)蒸汽
+    S:TileEntity_DESCRIPTION_31079_Index_07=输出冷却液或绳状熔岩，并出产(过热)蒸汽
     S:TileEntity_DESCRIPTION_31079_Index_08=当输入流量等于或超过以下值时，输出过热蒸汽
     S:TileEntity_DESCRIPTION_31079_Index_09=热冷却液：25,600L/s，最大：51,200L/s；最大输出10,240,000L/s的过热蒸汽
     S:TileEntity_DESCRIPTION_31079_Index_10=岩    浆：32,000L/s，最大：64,000L/s；最大输出5,120,000L/s的过热蒸汽
@@ -17762,8 +17762,8 @@ languagefile {
     S:fluid.molten.sodiumcyanide=熔融氰化钠
     S:fluid.molten.sodiumfluoride=氟化钠
     S:fluid.molten.sodiumnitrate=熔融硝酸钠
-    S:fluid.molten.solarsaltcold=太阳能盐(冷)
-    S:fluid.molten.solarsalthot=太阳能盐(热)
+    S:fluid.molten.solarsaltcold=太阳能熔盐（冷）
+    S:fluid.molten.solarsalthot=太阳能熔盐（热）
     S:fluid.molten.solderingalloy=熔融焊锡
     S:fluid.molten.solidacidcatalystmixture=固体酸催化剂混合物
     S:fluid.molten.soularium=熔融魂金
@@ -20607,7 +20607,7 @@ languagefile {
     S:gt.blockmachines.compressedfluidhatch.name=液态空气仓
     S:gt.blockmachines.coolanttower.name=冷却塔
     S:gt.blockmachines.creative_debug_scanner.name=Debug扫描仪
-    S:gt.blockmachines.cyclotron.tier.single.name=COMET-紧凑式回旋加速器
+    S:gt.blockmachines.cyclotron.tier.single.name=COMET - 紧凑式回旋加速器
     S:gt.blockmachines.debug.tt.certain.name=Debug未定元解析器
     S:gt.blockmachines.debug.tt.data.name=Debug数据仓
     S:gt.blockmachines.debug.tt.genny.name=Debug发电机
@@ -22045,7 +22045,7 @@ languagefile {
     S:gt.blockmachines.multimachine.purificationunitplasmaheater.name=极端温度波动净化单元
     S:gt.blockmachines.multimachine.purificationunituvtreatment.name=高能激光净化单元
     S:gt.blockmachines.multimachine.pyro.name=热解炉
-    S:gt.blockmachines.multimachine.reallybigheatexchanger.name=超大热交换机
+    S:gt.blockmachines.multimachine.reallybigheatexchanger.name=“法卡菲提-韦拉”超大型移热机
     S:gt.blockmachines.multimachine.solarfactory.name=日光工厂
     S:gt.blockmachines.multimachine.solidifier.name=流体塑形机
     S:gt.blockmachines.multimachine.supercapacitor.name=兰波顿超级电容库
@@ -22072,7 +22072,7 @@ languagefile {
     S:gt.blockmachines.neutron_accelerator_zpm.name=ZPM中子加速器
     S:gt.blockmachines.neutron_sensor.name=中子传感器
     S:gt.blockmachines.neutronactivator.name=中子活化器
-    S:gt.blockmachines.nuclearsaltprocessingplant.controller.tier.single.name=反应堆熔盐加工厂
+    S:gt.blockmachines.nuclearsaltprocessingplant.controller.tier.single.name=核熔盐加工厂
     S:gt.blockmachines.pipe.datastream.block.name=光缆机械方块
     S:gt.blockmachines.pipe.datastream.name=光缆
     S:gt.blockmachines.pipe.energymirror.name=激光真空反射镜
@@ -67096,7 +67096,7 @@ languagefile {
     S:gtplusplus.blockspecialcasings.1.5.name=特斯拉抑制机械方块
     S:gtplusplus.blockspecialcasings.1.6.name=太阳能塔机械方块
     S:gtplusplus.blockspecialcasings.1.7.name=盐抑制机械方块
-    S:gtplusplus.blockspecialcasings.1.8.name=热力隔绝机械方块
+    S:gtplusplus.blockspecialcasings.1.8.name=绝热外壳
     S:gtplusplus.blockspecialcasings.1.9.name=浮选机外壳
     S:gtplusplus.blockspecialcasings.2.0.name=强硬青铜机器外壳
     S:gtplusplus.blockspecialcasings.2.1.name=铝制强韧机器外壳
@@ -69064,8 +69064,8 @@ languagefile {
     S:gtplusplus.material.SodiumCyanide=氰化钠
     S:gtplusplus.material.SodiumFluoride=氟化钠
     S:gtplusplus.material.SodiumNitrate=硝酸钠
-    S:gtplusplus.material.SolarSaltCold=太阳能盐(冷)
-    S:gtplusplus.material.SolarSaltHot=太阳能盐(热)
+    S:gtplusplus.material.SolarSaltCold=太阳能熔盐（冷）
+    S:gtplusplus.material.SolarSaltHot=太阳能熔盐（热）
     S:gtplusplus.material.SolidAcidCatalystMixture=固体酸催化剂混合物
     S:gtplusplus.material.SoulSand=灵魂沙
     S:gtplusplus.material.Spessartine=锰铝榴石
