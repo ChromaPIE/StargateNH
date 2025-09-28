@@ -19,8 +19,8 @@ mbdesc.signAndFinalize.todisplay=以显示结构指导
 mbdesc.signAndFinalize.createdby=添加者:
 
 # -------- Fuel Cell: Structure Blocks
-tile.kekztech_gdcceramicelectrolyteunit_block.name=钆铈陶瓷电解质单元
-tile.kekztech_yszceramicelectrolyteunit_block.name=钇锆陶瓷电解质单元
+tile.kekztech_gdcceramicelectrolyteunit_block.name=掺钆氧化铈陶瓷电解质单元
+tile.kekztech_yszceramicelectrolyteunit_block.name=钇稳定氧化锆陶瓷电解质单元
 
 # -------- Fuel Cell: Crafting Components
 item.kekztech_crafting_item.name=Crafting Component
@@ -114,7 +114,7 @@ achievement.tile.kekztech_lapotronicenergyunit_block.10=太·终极电容（UMV�
 gui.kekztech_lapotronicenergyunit.wireless=无线模式
 gui.kekztech_lapotronicenergyunit.wireless_rebalance=重新平衡无线电网(只能使用一次)
 gui.kekztech_lapotronicenergyunit.warning.header=Warning!
-gui.kekztech_lapotronicenergyunit.warning.text=Make sure to carefully read and understand the tooltip before activating wireless mode, it can potentially brick your base. This warning won't appear again.
+gui.kekztech_lapotronicenergyunit.warning.text=在启用无线模式前，请确保已仔细阅读本机器的提示信息，知悉其可能导致的基地瘫痪风险。本警告将不会再次显示。
 
 kekztech.gui.lapotronic_super_capacitor.text.stored=Stored: %s EU
 kekztech.gui.lapotronic_super_capacitor.text.avg_eu_in=Avg EU IN: %s last 5s
