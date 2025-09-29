@@ -53,7 +53,7 @@ tile.kekztech_tfftstoragefield_block.hint.4=提示方块：4号：EV+玻璃
 
 # -------- Lapotronic Super Capacitor: Structure Blocks
 tile.kekztech_lapotronicenergyunit_block.name=Lapotronic Casing/Capacitor
-tile.kekztech_lapotronicenergyunit_block.0.name=兰波顿超级电容机械方块
+tile.kekztech_lapotronicenergyunit_block.0.name=兰波顿超级电容外壳
 tile.kekztech_lapotronicenergyunit_block.1.name=兰波顿电容（IV）
 tile.kekztech_lapotronicenergyunit_block.2.name=兰波顿电容（LuV）
 tile.kekztech_lapotronicenergyunit_block.3.name=兰波顿电容（ZPM）

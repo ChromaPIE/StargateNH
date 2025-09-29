@@ -1695,11 +1695,11 @@ GT5U.item.programmed_circuit.no_screwdriver.count=3
 GT5U.item.programmed_circuit.no_screwdriver.0=想要再空手编程电路板,嗯哼?
 GT5U.item.programmed_circuit.no_screwdriver.1=你的拇指不是螺丝刀.拿个真的过来.
 GT5U.item.programmed_circuit.no_screwdriver.2=Chuck Norris可以盯着电路板,然后电路板就自己再编程了. 但你不行.
-GT5U.item.programmed_circuit.select.header=再编程电路
+GT5U.item.programmed_circuit.select.header=再编程
 
 GT5U.item.programmed_circuit.tooltip.0=配置值 %s
 GT5U.item.programmed_circuit.tooltip.1=右击以重新配置
-GT5U.item.programmed_circuit.tooltip.2=Needs a screwdriver or programming tool
+GT5U.item.programmed_circuit.tooltip.2=也可使用螺丝刀或电路编程器调整配置值
 
 GT5U.item.cable.max_voltage=最大电压
 GT5U.item.cable.max_amperage=最大电流
@@ -3003,10 +3003,10 @@ GT5U.tooltip.pollution.produces.rocket.ignited=点燃后每秒造成%d点污染
 GT5U.tooltip.pollution.produces.rocket.flying=飞行时每秒造成%d点污染
 
 # GT structure hints
-GT5U.tooltip.structure.data_access_hatch=Data Access Hatch
+GT5U.tooltip.structure.data_access_hatch=数据访问仓
 GT5U.tooltip.structure.electromagnet_housing=Electromagnet Housing
 GT5U.tooltip.structure.laser_source_hatch=Laser Source Hatch
-GT5U.tooltip.structure.heating_coil=Heating Coil
+GT5U.tooltip.structure.heating_coil=加热线圈
 GT5U.tooltip.structure.four_item_pipe_casings=4 Item Pipe Casings
 GT5U.tooltip.structure.heat_sensor_hatch=Heat Sensor Hatch
 GT5U.tooltip.structure.degasser_control_hatch=Degasser Control Hatch

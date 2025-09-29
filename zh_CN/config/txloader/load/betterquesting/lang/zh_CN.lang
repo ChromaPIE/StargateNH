@@ -264,8 +264,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKA.name=§2§l继续前进
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKA.desc=你已收集并制作了基础蒸汽机械所需的所有材料和工具，现可进入下一阶段。请注意，即使制造最简单的物品也将消耗海量资源，建议尽可能储备本阶段所有矿石，但决定权在你。%n%n作为特殊奖励，你将获得一副全息眼镜，将其置于面具槽位并使用快捷键激活后，即可一眼看穿任何容器，知晓其内部的存储情况。%n%n[note]提示：双击NEI搜索框时，高亮搜索结果将同步显示在全息眼镜的视野之中！[/note]
 
 # Quest: Don't Burn Your Fingers!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKQ.name=§2§l别烫到你的手指!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKQ.desc=你先前决定该是时候做些美味比萨了,结果却是烫到了自己的手指头.读了本古老的秘籍后,你发现有一副魔法道具让你可以拿起任何高温的东西,包括一桶岩浆!%n%n§6§5手套要装备在Baubles饰品栏内,且需对应好左右手,当位置错误时,你会收到通知.%n%n§r手套只对你手上拿着的物品有效.我想知道是否有办法能一次多带几桶?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKQ.name=§2§l别烫着手！
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKQ.desc=你想烤块披萨吃，奈何烤盘太烫手。你翻开一本古卷，在其中发现了那双神奇魔法手套的有关记载。有了它，别说披萨了，熔岩桶都不在话下。%n%n§6§5手套必须放置于饰品栏的戒指槽位中，左右无关紧要。%n%n§r然而，手套只能阻隔持握于手中的物品带来的灼烧伤害，对物品栏的其他部分并无效用。你不禁沉思，有什么方法能让自己毫发无损地揣着满满一背包熔岩桶回家呢？
 
 # Quest: Cow Tipper
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKg.name=§2§l掀翻斗牛
@@ -1479,7 +1479,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjw.name=§6§l熔炼合金(alloy)(熔�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjw.desc=这种合金炉可以帮你生产各种石英玻璃和纯净玻璃.%n%n但是它§o不能§r制造EIO的各种合金,你需要搅拌机和(可能)电力高炉才能制造它们.
 
 # Quest: Ore Processing, Kind Of...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAkQ.name=§6§l一种矿物处理...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAkQ.name=§6§l矿物处理。勉强算是吧……
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAkQ.desc=研磨机与SAG研磨之间的战争仍在继续,看不到尽头,那么何必纠结选哪个呢?%n%nHV研磨机可获得更多的副产物,但SAG研磨机也有其闪光点:升级研磨头!SAG研磨机是一种完美的机器,可以在不使用蜜蜂和作物的情况下从矿石中获得最大的收益. 使用钨磨头可以获得额外的输出,但这并不意味着你可以以此刷材料.(比如锭,就没有额外产出)  另外,对于许多矿物,你将直接获得最终输出,而无需进一步处理.它可以很方便地处理红石获得铬!%n%nSAG对于铅、铜、锡、银、镍、红石、红宝石、青金石、石英和孔雀石矿都很有用.要是你用了足够好的磨头,还有些别的矿物也将获得更多的输出.%n%n甚至煤炭、木炭、小麦和末影珍珠都能获得额外输出.%n%n换句话说,在这方面,GT的研磨机还在后头拍马追赶呢.
 
 # Quest: Tasty...
@@ -2097,7 +2097,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAD9Q.desc=贴片元件（Surface-mount de
 
 # Quest: Workstations, Your First EV Circuit
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAD9g.name=§9§l工作站,你的第一种EV电路板
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD9g.desc=你的第一种EV电路板是工作站. 工作站是最简单的高级电路,它可以用来制造EV级别的机器. 让我们来生产一些!%n%n你可以在合金冶炼炉中将银和蓝石混合制成蓝色合金.如果你没有蓝石,用搅拌机将红石与琥珀金混合即可.玩得开心!%n%n另外,请注意,就处理蓝色合金来说,流体固化器比压模机快多了.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD9g.desc=你接触到的第一种EV电路板会是工作站。%n%n蓝色合金可在合金冶炼炉中使用银和蓝石粉混合烧制而成。如果你没有蓝石，则可用搅拌机混合红石与琥珀金粉来制作一些。保持愉悦加油干吧！%n%n另请注意，流体固化器在对付蓝色合金上要远快于压模机。
 
 # Quest: Playing With Dust
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADAQ.name=§9§l玩泥巴
@@ -13479,7 +13479,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALJg.desc=小恶魔是一种会在整个�
 
 # Quest: Time to Kill (Shulker)
 betterquesting.quest.PpBmbfhnSGqI7R_Mm_vJGw.name=Time to Kill (Shulker)
-betterquesting.quest.PpBmbfhnSGqI7R_Mm_vJGw.desc=The Shulker doesn't spawn naturally so you will need to obtain it's spawn egg to complete this quest. You can do so in the coins tab or through crafting.
+betterquesting.quest.PpBmbfhnSGqI7R_Mm_vJGw.desc=潜影贝不会自然生成，所以你需要刷怪蛋才能完成本任务。可以选择拿硬币买一些，或看看它怎么合成。
 
 # Quest: Time to Kill (Rabbit)
 betterquesting.quest.UfPfIUITQrG1E1G33eQ__g.name=Time to Kill (Rabbit)
@@ -14426,7 +14426,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAEdQ.name=§9§l风力计
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEdQ.desc=风力计可以测试当前位置的风力强度. 使用这个工具可以非常方便地让你选择放置风机的高度.
 
 # Quest: Sending the Power Back
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEeQ.name=§9§l将能量送回
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEeQ.name=§9§l送回能量
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEeQ.desc=动能发电机的兼容性得到了提升,现在无需变压器即可正常通过线缆输出能量.但在输电的时候,使用变压器升压仍然不失为一种极佳的降低损耗方式.举个例子,从160格的发电机传输到63格地表,1线损的线缆,每A电流会损失97EU,如果是HV输电,就会是97/512,将近五分之一的损失;而如果是EV输电,那么就是97/2048,不到1/20的损失,这不就是好多了嘛.(升压前需要通过一段线缆,将发电机输出的IC-EU转化为GT-EU)%n%n[warn]IC2机器不怕被雨淋,但别忘了遮盖变压器.[/warn]
 
 # Quest: GT6-Styled Pipes

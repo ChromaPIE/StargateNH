@@ -1751,11 +1751,11 @@ languagefile {
     S:TileEntity_DESCRIPTION_00002_Index_00=你的第一批蒸汽机器
     S:TileEntity_DESCRIPTION_00003_Index_00=用以制作更高等级的蒸汽机器
     S:TileEntity_DESCRIPTION_00004_Index_00=用以制作更高等级的蒸汽机器
-    S:TileEntity_DESCRIPTION_00010_Index_00=§r§r你需要§5绝§d对§4天§c马§e行§a空§b的§3想§9象§1能§5力§r来使用它。
-    S:TileEntity_DESCRIPTION_00011_Index_00=§r§r你需要§5绝§d对§4天§c马§e行§a空§b的§3想§9象§1能§5力§r来使用它。
-    S:TileEntity_DESCRIPTION_00012_Index_00=§r§r你需要§5绝§d对§4天§c马§e行§a空§b的§3想§9象§1能§5力§r来使用它。
-    S:TileEntity_DESCRIPTION_00013_Index_00=§r§r你需要§5绝§d对§4天§c马§e行§a空§b的§3想§9象§1能§5力§r来使用它。
-    S:TileEntity_DESCRIPTION_00014_Index_00=§r§r你需要§5绝§d对§4天§c马§e行§a空§b的§3想§9象§1能§5力§r来使用它。
+    S:TileEntity_DESCRIPTION_00010_Index_00=§r你需要§5绝§d对§4天§c马§e行§a空§b的§3想§9象§1能§5力§r来使用它。
+    S:TileEntity_DESCRIPTION_00011_Index_00=§r你需要§5绝§d对§4天§c马§e行§a空§b的§3想§9象§1能§5力§r来使用它。
+    S:TileEntity_DESCRIPTION_00012_Index_00=§r你需要§5绝§d对§4天§c马§e行§a空§b的§3想§9象§1能§5力§r来使用它。
+    S:TileEntity_DESCRIPTION_00013_Index_00=§r你需要§5绝§d对§4天§c马§e行§a空§b的§3想§9象§1能§5力§r来使用它。
+    S:TileEntity_DESCRIPTION_00014_Index_00=§r你需要§5绝§d对§4天§c马§e行§a空§b的§3想§9象§1能§5力§r来使用它。
     S:TileEntity_DESCRIPTION_00015_Index_00=§r§r你需要§5绝§d对§4天§c马§e行§a空§b的§3想§9象§1能§5力§r来使用它。
     S:TileEntity_DESCRIPTION_00016_Index_00=§r§r你需要§5绝§d对§4天§c马§e行§a空§b的§3想§9象§1能§5力§r来使用它。
     S:TileEntity_DESCRIPTION_00017_Index_00=§r§r你需要§5绝§d对§4天§c马§e行§a空§b的§3想§9象§1能§5力§r来使用它。
@@ -18627,9 +18627,9 @@ languagefile {
     S:gt.blockcasings10.32767.name=任意本方块的子方块
     S:gt.blockcasings10.4.name=电动压缩机外壳
     S:gt.blockcasings10.5.name=压缩机管道外壳
-    S:gt.blockcasings10.6.name=中子机械方块
-    S:gt.blockcasings10.7.name=活性中子机械方块
-    S:gt.blockcasings10.8.name=中子稳定机械方块
+    S:gt.blockcasings10.6.name=中子素外壳
+    S:gt.blockcasings10.7.name=活性中子素外壳
+    S:gt.blockcasings10.8.name=中子素稳定外壳
     S:gt.blockcasings10.9.name=冷却管道
     S:gt.blockcasings11.0.name=锡物品管道外壳
     S:gt.blockcasings11.1.name=黄铜物品管道外壳
@@ -18652,7 +18652,7 @@ languagefile {
     S:gt.blockcasings13.9.name=Nanite Replication Framework
     S:gt.blockcasings2.0.name=钢制坚固机器外壳
     S:gt.blockcasings2.1.name=防冻机器外壳
-    S:gt.blockcasings2.10.name=泵机械方块
+    S:gt.blockcasings2.10.name=液泵机器外壳
     S:gt.blockcasings2.11.name=马达机械方块
     S:gt.blockcasings2.12.name=青铜管道外壳
     S:gt.blockcasings2.13.name=钢管道外壳
@@ -18662,7 +18662,7 @@ languagefile {
     S:gt.blockcasings2.3.name=钢齿轮箱外壳
     S:gt.blockcasings2.32767.name=任意本方块的子方块
     S:gt.blockcasings2.4.name=钛齿轮机械方块
-    S:gt.blockcasings2.5.name=装配线方块
+    S:gt.blockcasings2.5.name=装配线外壳
     S:gt.blockcasings2.6.name=处理器机械方块
     S:gt.blockcasings2.7.name=数据驱动机械方块
     S:gt.blockcasings2.8.name=力场控制机械方块
@@ -18671,7 +18671,7 @@ languagefile {
     S:gt.blockcasings3.1.name=黄色路障方块
     S:gt.blockcasings3.10.name=格栅机器外壳
     S:gt.blockcasings3.11.name=过滤器机械方块
-    S:gt.blockcasings3.12.name=防辐射机械方块
+    S:gt.blockcasings3.12.name=防辐射机器外壳
     S:gt.blockcasings3.13.name=青铜燃烧室外壳
     S:gt.blockcasings3.14.name=钢燃烧室外壳
     S:gt.blockcasings3.15.name=钨钢燃烧室外壳
@@ -18741,7 +18741,7 @@ languagefile {
     S:gt.blockcasings8.3.name=黑钚采矿机械方块
     S:gt.blockcasings8.32767.name=任意本方块的子方块
     S:gt.blockcasings8.4.name=极限引擎进气机械方块
-    S:gt.blockcasings8.5.name=铕强化防辐射机械方块
+    S:gt.blockcasings8.5.name=铕强化防辐射机器外壳
     S:gt.blockcasings8.6.name=强化铆接镀铑钯外壳
     S:gt.blockcasings8.7.name=高级镀铱机器外壳
     S:gt.blockcasings8.8.name=魔法机械方块
@@ -67094,7 +67094,7 @@ languagefile {
     S:gtplusplus.blockspecialcasings.1.32767.name=任意本方块的子方块
     S:gtplusplus.blockspecialcasings.1.4.name=加强等离子涡轮机械方块
     S:gtplusplus.blockspecialcasings.1.5.name=特斯拉抑制机械方块
-    S:gtplusplus.blockspecialcasings.1.6.name=太阳能塔机械方块
+    S:gtplusplus.blockspecialcasings.1.6.name=太阳能结构外壳
     S:gtplusplus.blockspecialcasings.1.7.name=盐抑制机械方块
     S:gtplusplus.blockspecialcasings.1.8.name=绝热外壳
     S:gtplusplus.blockspecialcasings.1.9.name=浮选机外壳
