@@ -3292,7 +3292,7 @@ betterquesting.quest.8zpQos1hR1CbwmWldvxSpg.desc=Heating up the Netherite Scrap 
 
 # Quest: Netherite Materials
 betterquesting.quest.9dt9i3MYRa-NB6KROtAYFA.name=§c§lNetherite Materials
-betterquesting.quest.9dt9i3MYRa-NB6KROtAYFA.desc=Now that you've completed the Netherite line and successfully set up your Mk1 Fusion Reactor, you finally have access to the ingredients necessary for creating all of the different §4Netherite materials§r. %n%nThese will be important for the rest of the game and are used often in a variety of items and materials, so it's important to make upgrades to your line both in terms of power and recipe usage as you continue to progress through the tiers.%n%n[note]UHV power and the QFT are the biggest milestones in terms of recipe upgrades for the line.[/note]
+betterquesting.quest.9dt9i3MYRa-NB6KROtAYFA.desc=Now that you've completed the Netherite line and successfully set up your Mk1 Fusion Reactor, you finally have access to §5§lBoron Plasma§r, which is necessary for creating all of the different §4§lNetherite materials§r. %n%nThese will be important for the rest of the game and are used often in a variety of items and materials, so it's important to make upgrades to your line both in terms of power and recipe usage as you continue to progress through the tiers.%n%n[note]UHV power and the QFT are the biggest milestones in terms of recipe upgrades for the line.[/note]
 
 # Quest: Automated Mining
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyQ.name=§c§l自动挖掘
@@ -5065,7 +5065,7 @@ betterquesting.quest.-MexGhcYQ0OUrr5xgriDXQ.desc=鉴于你的神秘魔法研究�
 
 # Quest: Basic Flight Potion
 betterquesting.quest.4LY2S8QsSw-JdMGrF8FUsQ.name=Basic Flight Potion
-betterquesting.quest.4LY2S8QsSw-JdMGrF8FUsQ.desc=Tired of jetpacks? Want normal flight with no strings attached? Look no further!%n%nUsing your brand new MV Assembler and a Chicken Trophy, you can craft a basic Potion of Flight from Blood Magic, giving you 7 minutes of Creative flight with 8 uses before you have to make a new one.%n%n[note]Chicken Trophies are a rare drop from killing chickens.[/note]%n%n[note]Once you unlock Blood Magic, you can craft your own Flight Potion Flasks with a duration of up to 19 minutes, and refill them with any Filling Agent and Blood Orb in an Alchemic Chemistry set.[/note]%n
+betterquesting.quest.4LY2S8QsSw-JdMGrF8FUsQ.desc=Tired of jetpacks? Want normal flight with no strings attached? Look no further!%n%nUsing your brand new MV Assembler and a Chicken Trophy, you can craft a basic Potion of Flight from Blood Magic, giving you 7 minutes of Creative flight with 8 uses before you have to make a new one.%n%n[note]Chicken Trophies are a rare drop from killing chickens.[/note]%n%n[note]Once you unlock Blood Magic, you can craft your own Flight Potion Flasks with a duration of up to 19 minutes, and refill them with any Filling Agent in an Alchemic Chemistry set.[/note]%n
 
 # Quest: Relocator
 betterquesting.quest.8QSORTVOSOaUXC6mQurMgA.name=定位器
@@ -7505,6 +7505,10 @@ betterquesting.quest.-H2HWiVlTn-1IT2aaXhLkg.desc=These ones do 16A.
 # Quest: Can we get much higher?
 betterquesting.quest.13PWs3MhTUOgkIQq8EKhaQ.name=能更高吗？
 betterquesting.quest.13PWs3MhTUOgkIQq8EKhaQ.desc=同时更高的EU传输速率！
+
+# Quest: Energized Wireless Dynamo Hatch
+betterquesting.quest.49YfyyG5R8KKRRUKePOqfQ.name=Energized Wireless Dynamo Hatch
+betterquesting.quest.49YfyyG5R8KKRRUKePOqfQ.desc=The §5§lEnergized Wireless Dynamo Hatch§r acts just as you may expect; it will inject EU directly from an energy-producing multiblock into your wireless EU network. No need for those pesky laser conduits and LSC middlemen!%n%n[warn]The dynamo transfer rate is the same as the laser source it's crafted with: §l65kA UMV§r§r. Also has a very large internal storage.[/warn]%n%n[note]Great for §lDyson§r & §lLarge Naquadah Reactor§r.[/note]
 
 # Quest: MV Battery Hulls
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9g.name=MV电池外壳
