@@ -43,7 +43,7 @@ item.structurelib.constructableTrigger.gui.info=Many multiblocks support some de
 channels.structurelib.show_errors=When set, will highlight parts of the multiblock that is definitely wrong
 
 structurelib.tooltip.channelvalue=§7在子频道%2$s中的对应表示值为§6%1$d
-structurelib.tooltip.indicator_dnd=Drop into GUI to select this value for this channel
+structurelib.tooltip.indicator_dnd=拖入界面以将信道配置为本物品对应值
 
 structurelib.autoplace.built_stat=已放置 %s 个方块
 structurelib.autoplace.complete=§a此多方块机器已构造完成!

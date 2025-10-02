@@ -505,7 +505,7 @@ gtpp.material.SamarskiteYb=Samarskite (Yb)
 gtpp.material.Scandium=Scandium
 gtpp.material.SeleniousAcid=Selenious Acid
 gtpp.material.Selenium=Selenium
-gtpp.material.SeleniumDioxide=Selenium Dioxide
+gtpp.material.SeleniumDioxide=二氧化硒
 gtpp.material.SeleniumHexafluoride=Selenium Hexafluoride
 gtpp.material.Silicon=Silicon
 gtpp.material.SiliconCarbide=Silicon Carbide
@@ -1417,7 +1417,7 @@ GT5U.gui.text.data_stick.loaded=已从闪存中载入配置
 GT5U.gui.text.data_stick.invalid=闪存中的配置无效
 GT5U.gui.text.no_data_sticks=§7未找到闪存
 GT5U.gui.text.bio_upgrade_missing=§7启动合成需要生物仓升级
-GT5U.gui.text.nanites_missing=§7Missing nanites
+GT5U.gui.text.nanites_missing=§7缺失纳米蜂群
 GT5U.gui.text.electromagnet_missing=§7需要一块电磁铁来运行
 GT5U.gui.text.electromagnet_insufficient=§7插入的电磁铁太弱了,无法支持多安能源仓!
 GT5U.gui.text.laser_insufficient=§7激光源太弱，无法运行此配方
@@ -1474,10 +1474,10 @@ GT5U.gui.text.shutdown_duration=§4于§e%s§4时§e%s§4分§e%s§4秒前停机
 GT5U.gui.text.out_of_fluid=§4缺少下列流体：§b%s§f x §6%s L
 GT5U.gui.text.out_of_item=§4缺少下列物品：§b%s§f x §6%s
 GT5U.gui.text.out_of_stuff=§4缺少下列物质(stuffs)：§b%s§f x §6%s
-GT5U.gui.text.power_loss=§4因能量损耗导致停机。
+GT5U.gui.text.power_loss=§4停机原因：能源不足
 GT5U.gui.text.pollution_fail=§4污染排放失败
-GT5U.gui.text.structure_incomplete=§4因结构不完整导致停机。
-GT5U.gui.text.no_repair=§4因机器损坏导致停机。
+GT5U.gui.text.structure_incomplete=§4停机原因：结构不完整
+GT5U.gui.text.no_repair=§4停机原因：机器损坏
 GT5U.gui.text.no_machine_part=控制器插槽中没有正确的机器部件
 GT5U.gui.text.insufficient=§4Shut down due to insufficient dynamo size
 GT5U.gui.text.missing_item=§7缺少必要物品：§b%s§f
@@ -1497,19 +1497,19 @@ GT5U.gui.missing_casings_specific=Too few %s: need %s but have %s
 GT5U.gui.missing_hatch=缺少%s
 GT5U.gui.too_many_hatches=Too many %ses (max %s)
 GT5U.gui.text.power_panel=能量控制面板
-GT5U.gui.text.powerfail_events=Powerfail Events
+GT5U.gui.text.powerfail_events=能源断供事件
 GT5U.gui.text.too_uncertain=Too Uncertain.
 GT5U.gui.text.invalid_parameters=Invalid Parameters.
-GT5U.gui.text.enabled=§aEnabled§f
-GT5U.gui.text.disabled=§cDisabled§f
+GT5U.gui.text.enabled=§a已启用§f
+GT5U.gui.text.disabled=§c已禁用§f
 GT5U.gui.text.lma_craftingfx=Show Crafting Effects
-GT5U.gui.text.repair_tip=Click with a tool to repair.
+GT5U.gui.text.repair_tip=鼠标抓取工具时点击以修复。
 GT5U.gui.text.repair_info=Right-click hatch with Duct Tape\nor a filled Tool Box to repair all issues.
 GT5U.gui.text.apiary_missing_flowers=Missing flowers: %s
 GT5U.gui.text.microwave_energy_transmitter.x=Target X
 GT5U.gui.text.microwave_energy_transmitter.y=Target Y
 GT5U.gui.text.microwave_energy_transmitter.z=Target Z
-GT5U.gui.text.microwave_energy_transmitter.d=Target Dim
+GT5U.gui.text.microwave_energy_transmitter.d=目标维度
 GT5U.gui.text.contents=§7Contents:§r
 GT5U.gui.text.content-entry=§7%s:§9 %s§r
 GT5U.gui.text.decay-rate=§7Decay Rate:§9 %s§7%s
@@ -1524,7 +1524,7 @@ GT5U.gui.text.cluster=Cluster Decay
 GT5U.gui.text.alpha-transfer=Alpha Transfer
 GT5U.gui.text.beta-minus=Beta Minus Decay
 GT5U.gui.text.beta-plus=Beta Plus Decay
-GT5U.gui.text.invalidfluidsup=Invalid Fluid Supplied
+GT5U.gui.text.invalidfluidsup=提供的流体无效
 
 GT5U.gui.config.client=客户端
 GT5U.gui.config.client.color_modulation=颜色模块
@@ -1560,7 +1560,7 @@ GT5U.gui.config.worldgen.general=通用
 GT5U.gui.text.cannot_change_when_running=Can't change configuration when running!
 
 GT5U.gui.tooltip.purification_plant.debug_mode=Toggle debug mode.
-GT5U.gui.text.purification_plant.hit_to_start=Hit with Soft Mallet to start.
+GT5U.gui.text.purification_plant.hit_to_start=使用软槌右击以启动。
 
 GT5U.gui.tooltip.redstone_circuit.toggle_output=Toggle EU Output
 GT5U.gui.tooltip.redstone_circuit.toggle_active=Toggle Active State
@@ -1573,12 +1573,12 @@ GT5U.gui.text.fluid_limiter.threshold=Percent threshold
 GT5U.gui.text.volumetric_flask.capacity=Capacity
 GT5U.gui.text.volumetric_flask.confirm=Confirm
 
-GT5U.gui.text.wireless_maintenance_detector.extra.no_issues=No Issues
-GT5U.gui.text.wireless_maintenance_detector.extra.ge1_issues=>= 1 Issue
-GT5U.gui.text.wireless_maintenance_detector.extra.ge2_issues=>= 2 Issues
-GT5U.gui.text.wireless_maintenance_detector.extra.ge3_issues=>= 3 Issues
-GT5U.gui.text.wireless_maintenance_detector.extra.ge4_issues=>= 4 Issues
-GT5U.gui.text.wireless_maintenance_detector.extra.ge5_issues=>= 5 Issues
+GT5U.gui.text.wireless_maintenance_detector.extra.no_issues=无故障
+GT5U.gui.text.wireless_maintenance_detector.extra.ge1_issues=>= 1处故障
+GT5U.gui.text.wireless_maintenance_detector.extra.ge2_issues=>= 2处故障
+GT5U.gui.text.wireless_maintenance_detector.extra.ge3_issues=>= 3处故障
+GT5U.gui.text.wireless_maintenance_detector.extra.ge4_issues=>= 4处故障
+GT5U.gui.text.wireless_maintenance_detector.extra.ge5_issues=>= 5处故障
 GT5U.gui.text.wireless_maintenance_detector.extra.rotor_lt20=Rotor < 20%
 GT5U.gui.text.wireless_maintenance_detector.extra.rotor_0=Rotor ≈ 0%
 
@@ -1598,13 +1598,13 @@ GT5U.gui.text.wormhole_generator.max_io.large=§7Max I/O per hatch: §b%3.3e§7 
 GT5U.gui.text.status.active=Active
 GT5U.gui.text.status.online=Online
 GT5U.gui.text.status.disabled=Disabled
-GT5U.gui.text.status.incomplete=Incomplete Structure
-GT5U.gui.text.x=X: %s
-GT5U.gui.text.y=Y: %s
-GT5U.gui.text.z=Z: %s
-GT5U.gui.text.dim=Dim: %s
-GT5U.gui.text.dim.valid=Dim Valid: Yes
-GT5U.gui.text.dim.invalid=Dim Valid: No
+GT5U.gui.text.status.incomplete=结构不完整
+GT5U.gui.text.x=X：%s
+GT5U.gui.text.y=Y：%s
+GT5U.gui.text.z=Z：%s
+GT5U.gui.text.dim=维度：%s
+GT5U.gui.text.dim.valid=维度有效：是
+GT5U.gui.text.dim.invalid=维度有效：否
 
 GT5U.gui.title.unknown=Unknown
 GT5U.gui.text.item_amount=Item Amount
@@ -1664,18 +1664,18 @@ GT5U.gui.circuit.timer.description=Pulses Redstone
 GT5U.gui.circuit.timer.data_description.pulses=Pulses
 GT5U.gui.circuit.timer.data_description.time=Time
 
-GT5U.gui.text.second=%s second
-GT5U.gui.text.second.plural=%s seconds
-GT5U.gui.text.minute=%s minute
-GT5U.gui.text.minute.plural=%s minutes
-GT5U.gui.text.hour=%s hour
-GT5U.gui.text.hour.plural=%s hours
-GT5U.gui.text.day=%s day
-GT5U.gui.text.day.plural=%s days
+GT5U.gui.text.second=%s秒
+GT5U.gui.text.second.plural=%s秒
+GT5U.gui.text.minute=%s分
+GT5U.gui.text.minute.plural=%s分
+GT5U.gui.text.hour=%s时
+GT5U.gui.text.hour.plural=%s时
+GT5U.gui.text.day=%s天
+GT5U.gui.text.day.plural=%s天
 
-GT5U.gui.text.show-powerfail-layer=Show Powerfails
-GT5U.gui.chat.powerfail=%s at %s in %s powerfailed %s time %s ago
-GT5U.gui.chat.powerfail.plural=%s at %s in %s powerfailed %s times %s ago
+GT5U.gui.text.show-powerfail-layer=显示能源断供
+GT5U.gui.chat.powerfail=位于%3$s，坐标%2$s位置的%1$s于%5$s前发生了%4$s次能源断供
+GT5U.gui.chat.powerfail.plural=位于%3$s，坐标%2$s位置的%1$s于%5$s前发生了%4$s次能源断供
 GT5U.gui.chat.powerfail.waypoint=%s (%s time, %s ago)
 GT5U.gui.chat.powerfail.waypoint.plural=%s (%s times, %s ago)
 

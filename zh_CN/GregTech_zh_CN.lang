@@ -1371,7 +1371,7 @@ languagefile {
     S:Material.rarestearthresidue=罕见稀土渣
     S:Material.rarestmetalresidue=稀有金属渣
     S:Material.rawademicsteel=粗制硬钢
-    S:Material.rawfluorophlogopite=粗制氟金云母
+    S:Material.rawfluorophlogopite=氟金云母粗料
     S:Material.rawgasoline=粗汽油
     S:Material.rawradox=粗制拉多X
     S:Material.rawrubber=生橡胶
@@ -16143,7 +16143,7 @@ languagefile {
     S:bw.werkstoff.00099.tooltip=K₂SiF₆
     S:bw.werkstoff.00101.name=碳酸钾
     S:bw.werkstoff.00101.tooltip=K₂CO₃
-    S:bw.werkstoff.00102.name=粗制氟金云母
+    S:bw.werkstoff.00102.name=氟金云母粗料
     S:bw.werkstoff.00102.tooltip=K₄Al₂(SiO₂)F₆
     S:bw.werkstoff.00103.name=未定型氟金云母
     S:bw.werkstoff.00103.tooltip=KMg₃(Si₃Al)O₁F₂
@@ -53220,11 +53220,11 @@ languagefile {
     S:gt.metaitem.01.32331.name=模具(钻头)
     S:gt.metaitem.01.32331.tooltip=用于制作钻头的模具
     S:gt.metaitem.01.32332.name=蒸汽校准器（LV）
-    S:gt.metaitem.01.32332.tooltip=作覆盖板时，1,024升/t(20,480升/秒)
+    S:gt.metaitem.01.32332.tooltip=作覆盖板时，传输速率为1,024 L/t（20,480L/s）
     S:gt.metaitem.01.32333.name=蒸汽校准器（MV）
-    S:gt.metaitem.01.32333.tooltip=作覆盖板时，2,048升/t(40,960升/秒)
+    S:gt.metaitem.01.32333.tooltip=作覆盖板时，传输速率为2,048L/t（40,960L/s）
     S:gt.metaitem.01.32334.name=蒸汽校准器（HV）
-    S:gt.metaitem.01.32334.tooltip=作覆盖板时，4,096升/t(81,920升/秒)
+    S:gt.metaitem.01.32334.tooltip=作覆盖板时，传输速率为4,096L/t（81,920L/s）
     S:gt.metaitem.01.32335.name=蒸汽校准器（EV）
     S:gt.metaitem.01.32335.tooltip=作覆盖板时，8,192升/t(163,840升/秒)
     S:gt.metaitem.01.32336.name=蒸汽校准器（IV）
