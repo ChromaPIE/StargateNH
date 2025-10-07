@@ -70,7 +70,7 @@ GTPP.core.GT_Tooltip_Radioactive=§7警告: §a放射性物品! §6 未装备防
 gtpp.recipe.cokeoven=焦炉
 gtpp.recipe.matterfab2=质量发生器
 gtpp.recipe.rocketenginefuel=火箭引擎燃料
-gtpp.recipe.quantumforcesmelter=量子操纵者
+gtpp.recipe.quantumforcesmelter=量子力易形装置
 gtpp.recipe.chemicaldehydrator=脱水机
 gtpp.recipe.vacfurnace=真空炉
 gtpp.recipe.alloyblastsmelter=合金冶炼炉
@@ -3942,7 +3942,7 @@ item.BasicGenericChemItem.14.name=固体酸催化装置
 item.BasicGenericChemItem.15.name=无尽突变催化装置
 
 # Added 23/10/22
-miscutils.machines.QFTFluidMode=量子操纵者流体输出模式
+miscutils.machines.QFTFluidMode=量子力易形装置流体输出模式
 
 # Added 16/11/22
 item.BasicGenericChemItem.16.name=铂系金属催化装置

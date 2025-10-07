@@ -118,8 +118,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHNA.name=§1§l百变猪排
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHNA.desc=唯一需要注意的僵尸猪人就是吸血鬼猪人(Vampire-Pigman).它几乎不会受到任何伤害,除非你用木剑,或是有一把魔法剑.
 
 # Quest: Tell Me When We Reach 20
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHOQ.name=§1§l到20楼时和我说一声
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHOQ.desc=跳上跳下很累人,并会使你感到饥饿.%n为了降低你的食物消耗,你可能需要制作一些楼梯.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHOQ.name=§9§l一跳一个不吱声
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHOQ.desc=如果你习惯边跑边跳，应该已经发现了屏幕下方暴跌的饥饿条。%n上坡不一定非得用跳的。为了家里的存粮考虑，试试台阶吧。
 
 # Quest: Staying Cool in the Heat
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHQA.name=§1§l在高温下保持凉爽
@@ -3981,8 +3981,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKmw.name=通用酵母菌
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKmw.desc=如果你在NEI中查询如何制作,你可能会感到很困惑--需要用它制造出的液体来制造它. NEI骗了你. 与之前的配方一样,NEI没有正确显示配方(这些配方应该在NEI的同一页附近,它俩似乎也可用于生产无菌培养皿,(虽然有点不对...) 而且还要求奇怪的模块).%n%n你需要制作出腐肉菌,获取DNA样品瓶,然后得到数据球. 名字变为了(β-内酰胺酶),这是正常现象.%n%n然后,对普通酵母做同样的事情(得到正确的酵母!).%n%n然后,你需要使用某种配方来组合来自数据球的信息,并从中获取普通酵母质粒.%n%n最后,将腐肉菌,普通酵母质粒,青霉素(通过离心普通酵母菌液体获得),以及蒸馏水. 为此你需要转换模块. 100％成功.%n%n用普通配方制取更多培养皿吧,因为当你把它转化成DNA样品瓶的时候,它会变成β-内酰胺酶...
 
 # Quest: Kevlar
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAM0g.name=凯芙拉
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAM0g.desc=凯夫拉可以用于部分高阶材料合成. 虽然凯夫拉产线又臭又长, 但是nei足以帮助你完成这坨东西. %n%n[note]提示: 如果不想做这条52步长的产线, 你或许可以看看凯夫拉蜂. 如果你的科技等级足够高的话(UMV+), 量子操纵者的配方也可以帮你跳过这一切.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAM0g.name=凯夫拉
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAM0g.desc=又一种将会在各类高阶合成配方里频频现身的材料，依旧有着一条要人老命的冗长产线，但都走到这里了，别告诉我你还没用懂NEI。%n%n[note]提示：如果你不是很想给这条包含足足52个制造步骤的材料搭建自动化，可以去看看凯夫拉蜜蜂，以及全新的多方块机器——量子力易形装置。但前提是你的科技树已经到了那个程度。[/note]
 
 # Quest: Space Elevator
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAM0w.name=太空电梯
@@ -7724,7 +7724,7 @@ betterquesting.quest.EOlpI83vT36jaFwDH7pS7w.desc=To insert and extract many amps
 
 # Quest: Power Goggles
 betterquesting.quest.GvlZG9IESmW2qsEMw-hkIw.name=Power Goggles
-betterquesting.quest.GvlZG9IESmW2qsEMw-hkIw.desc=Wanna see how your LSC is doing but don't want to run to it or your information panel every time? Get yourself a pair of §6§oPower Goggles§r to see your energy storage straight from the HUD!%n%nBy §adefault§r the goggles are §cunlinked§r and will monitor the amount of energy in your wireless network.%n%nTo link the goggles to an LSC, §cRight+Click§r the controller with the goggles in your hand. §cShift+Right Click§r air to unlink.%n%nIf you wish to move or modify the display you can do so by opening the power goggles config menu!%n%n[warn]Make sure to check your keybinds! There's also a keybind for toggling the power chart![/warn]
+betterquesting.quest.GvlZG9IESmW2qsEMw-hkIw.desc=Wanna see how your LSC is doing but don't want to run to it or your information panel every time? Get yourself a pair of §6§oPower Goggles§r to see your energy storage straight from the HUD!%n%nBy §adefault§r the goggles are §cunlinked§r and will monitor the amount of energy in your wireless network.%n%nTo link the goggles to an LSC, §cRight+Click§r the controller with the goggles in your hand. §cShift+Right Click§r air to unlink.%n%nIf you wish to move or modify the display you can do so by opening the power goggles config menu!%n%n[warn]Make sure to check your keybinds! There's also a keybind for toggling the power chart!%n%nOr, if you don't wanna deal with that, you can use the /powergoggles command[/warn]
 
 # Quest: EV 64A Hatches
 betterquesting.quest.M_HRDMb8Q2GnvpgfgsRnRw.name=EV 64A Hatches
