@@ -544,7 +544,7 @@ gtpp.material.Steel=Steel
 gtpp.material.Stellite=Stellite
 gtpp.material.Stone=Stone
 gtpp.material.Strontium=Strontium
-gtpp.material.StrontiumHydroxide=Strontium Hydroxide
+gtpp.material.StrontiumHydroxide=氢氧化锶
 gtpp.material.StrontiumOxide=Strontium Oxide
 gtpp.material.Sulfur=Sulfur
 gtpp.material.Talonite=Talonite
@@ -3170,7 +3170,7 @@ GTPP.tooltip.dust-decay-hint=Only decays in a %s or a %s
 
 # GTPP structure hints
 GTPP.tooltip.structure.anvil=Anvil
-GTPP.tooltip.structure.data_orb_repository=Data Orb Repository
+GTPP.tooltip.structure.data_orb_repository=数据球贮存仓
 GTPP.tooltip.structure.many_bus_hatch=输入/输出仓、输入/输出总线、能源仓
 GTPP.tooltip.structure.rotor_assembly=Rotor Assembly
 

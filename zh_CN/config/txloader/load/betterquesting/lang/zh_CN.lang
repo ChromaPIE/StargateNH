@@ -176,8 +176,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEQ.name=§2§lSand:积沙成塔
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEQ.desc=你发现了一台大型设备,它可以为你烧制木炭,最后制成一些火把!据计算,你需要很多的沙子.
 
 # Quest: Basic Processing
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEg.name=§2§l基本加工
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEg.desc=目前大多数的材料都无法直接使用,所以我们先从简单的东西开始吧.拿一些圆石,并将他们烧成普通的石头.因为这个整合包的恶趣味,所以你需要使用木材来当燃料,是不是很棒啊？
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEg.name=§2§l基础加工
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEg.desc=目前大多数的材料都无法直接使用,所以我们先从简单的东西开始吧.拿一些圆石,并将他们烧成普通的石头.因为这个整合包的恶趣味,所以你需要使用木材来当燃料,是不是很棒啊？NEI里那么些东西，眼下大都看得见但摸不着，那就先找点简单的事做一做吧。拿点圆石，放进熔炉，烧成石头。以及你应该已经看出来了，本包主打一个不干人事，所以别指望烧木头得木炭了。你得把木头丢进去烧。多好玩啊！你说是不是？
 
 # Quest: Macerator v0.1 Alpha
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEw.name=§2§l研磨机 v0.1 Alpha
@@ -2732,7 +2732,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMAg.desc=你的老伙计单方块分子�
 betterquesting.quest.JkWQZxq_TECWjHhjywrZZA.name=§a§l四种流体在一个仓里!
 betterquesting.quest.JkWQZxq_TECWjHhjywrZZA.desc=现在您已经进入了EV级别,可以使用四重能源仓.这些仓室可以在一个舱室中容纳四种不同的液体,从而节省了多方块机器中的宝贵空间.%n%n非常适合放在您的电力高炉中.%n
 
-# Quest: EV Field Generators
+# Quest: EV Field Generator
 betterquesting.quest.Jna1jgAySNSs8nS0YMXpLw.name=§a§lEV力场发生器
 betterquesting.quest.Jna1jgAySNSs8nS0YMXpLw.desc=可以用力场发生器来做你的第一个量子箱或者量子缸了.但记得留两个用来制作T2火箭.%n%n[note]注:组装机配方更节省资源.[/note]
 
@@ -2748,6 +2748,10 @@ betterquesting.quest.kQL8JceoSMSLDU_2AFjoqw.desc=好吧,也许它并不像任务
 ## Quest Line: Tier 5 - IV
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAABw.name=第5阶-强导压（IV）
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAABw.desc=这个阶段有两件大事:铂系处理和装配线. 这两个都是非常困难的任务,但也是必要的. 可能很多人会在此阶段放弃.祝你好运!
+
+# Quest: IV Field Generator
+betterquesting.quest.6ENNFc4RS3u2sQFL5fnz1A.name=§b§lIV Field Generator
+betterquesting.quest.6ENNFc4RS3u2sQFL5fnz1A.desc=Oh look, the latest and greatest field generator! I wonder what you'll end up using these for... maybe a Tree Growth Simulator? Maybe a new Matter Manipulator?
 
 # Quest: Tier 5 (IV)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1Q.name=§b§l第5阶段（IV）
@@ -3796,7 +3800,7 @@ betterquesting.quest.AQMaWAiIRo6vNTAxqopS_Q.name=Prismarine Recycling Pt. 2
 betterquesting.quest.AQMaWAiIRo6vNTAxqopS_Q.desc=You'll notice after processing your first Prismarine Precipitates you are left with a second §2Contaminated Prismarine Solution§r. You can also recycle this for added §3Prismarine Solution§o§r and §3Prismarine-Rich Nitrobenzene Solution§r. Again, technically optional, but highly recommended.%n%n[warn]If you didn't setup the recycling for the Contaminated Hydrogen Peroxide then you'll want to now since this recycling actively produces it.[/warn]
 
 # Quest: Prismarine Solution
-betterquesting.quest.J9eklidSTbyHgMgImYT3-g.name=Prismarine Solution
+betterquesting.quest.J9eklidSTbyHgMgImYT3-g.name=海晶石溶液
 betterquesting.quest.J9eklidSTbyHgMgImYT3-g.desc=After you've managed to grab some §2Prismarine§r, you must process it with §2Industrial Strength Hydrofluoric Acid§r and §2Hydrogen Peroxide§r in the §5§lDissolution Tank§r. Using these ingredients you can make your very first batch of §3Prismarine Solution§r.%n%n[warn]After you've created your first batch of Industrial Strength HF, it's highly recommended to check the Chemical Plant recipes for further creation of it![/warn]
 
 # Quest: Prismarine!? What Do I Need That For?
@@ -3832,7 +3836,7 @@ betterquesting.quest.xQE-vyLyTeCn0SEIHjbkNQ.name=Prismatic Crystal
 betterquesting.quest.xQE-vyLyTeCn0SEIHjbkNQ.desc=After finally getting the §2Prismarine Precipitate§r, the logical next step is to crystallize the Prismarine into a §3Prismatic Crystal§r. Using a §2Magneto-Resonance Lens§r we can do this in a §5§lLaser Engraver§r with the assistance of §2Molten Crystalline Alloy§r.
 
 # Quest: Prismarine-Rich Nitrobenzene Solution
-betterquesting.quest.ydavD3O5QcKvxk2wIDtakw.name=Prismarine-Rich Nitrobenzene Solution
+betterquesting.quest.ydavD3O5QcKvxk2wIDtakw.name=富海晶石硝基苯溶液
 betterquesting.quest.ydavD3O5QcKvxk2wIDtakw.desc=After you've gotten ahold of some §2Prismarine Solution§r, combine it with §2Nitrobenzene§r in a §5§lChemical Bath§r in order to create a §3rich solution mixture§r. %n%nAdditionally, you will start to receive some §3Prismarine-Contaminated Hydrogen Peroxide§r byproduct.
 
 # Quest: Prismatic Naquadah
@@ -14494,8 +14498,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAF3Q.name=§1§l备份你的存档...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAF3Q.desc=整合包加入了AromaBackup-mod用于备份你的存档.你可以在它的配置目录'config\aroma1997'中根据需要调整备份位置,备份频率,保留的备份数量等等.你也可以用其他mod进行备份,比如ServerUtilities,或者甚至可以通过外部程序进行备份.请勿同时使用多个备份手段,否则它会莫名耗尽硬盘空间,增大CPU负担.%n%n如果你需要从备份中还原,默认情况下,请到.minecraft\backups目录下寻找AB的备份,而非游戏存档目录下.%n%n不过别忘了,大多数的备份方式不会备份旅行地图和TC节点追踪信息,所以请自行备份这些内容. 另外,神秘的数据也有点小bug,会丢失已扫描要素和魔导手册数据,所以也可以考虑备份一下此文件,文件位置在'saves\<世界名称>\playerdata\<玩家名>.thaum'.%n%n如果你需要把游戏迁移到另一个磁盘或者另一台电脑,不要忘记迁移所有的备份文件,而不只是存档文件夹. %n%n译者注:你还可以到官方的wiki https://gtnh.miraheze.org/ 查看可自行添加的mod列表,同时进修你的游戏理解. wiki中有许多非常有用的信息,还有先行者的经验之谈,尤其对新手来说,不容错过.
 
 # Quest: Nobody Wants an Explosion...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAF3w.name=§6§l没有人想爆炸...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAF3w.desc=...当然! 因此,在构建多方块时,请确保:%n%n1、不要跨区块.%n%n2、如果可以,不要依赖多方块所在区块之外的资源供应.确保你在当地供应水源.%n%n时刻注意机器不喜欢淋雨,否则附近就会着火.而机器附近的火有随机几率引爆机器.这种爆炸还会引爆其他机器,造成连锁反应,直到你的基地变成一个大坑. 这就是需要备份的原因之一. 注意安全!%n%n如果最坏的情况已经发生了,可以到 "logs/Explosion.log" 文件里追踪是什么导致的爆炸. 不过这个文件似乎会在世界加载时重置.%n%n译者注:机器六面中任何一面接触到雨,都可能会使附近着火从而引发爆炸!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAF3w.name=§6§l没人会喜欢爆炸……
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAF3w.desc=……你总不会搞特殊吧？那么在搭建多方快机器时，请确保：%n%n首先，不要让多方块结构横跨多个区块。%n%n其次，尽管在某些情况下略显严苛，但机器严重依赖的资源最好也来自其所在的区块。比如对于某些需要水维持运转的机器，用来集水的机器最好也布置在同一个区块之中。%n%n时刻牢记，大部分机器都需要耗电，而电可不喜欢受潮。机器的任何一面紧邻雨雪都可能使附近着火，机器附近一旦着火则有几率爆炸，而爆炸又能引爆其他机器。一通连锁下去，昨日工业先锋，今日平地大坑。而我们需要存档备份的原因之一也正是为了应付这种情况。请时刻注意安全！%n%n如果一切的一切已然无可挽回，去logs/Explosion.log里看看是什么点燃了最初的一把火，至少能死得明白一些吧。但注意：该文件在每次加载世界时均会重置。
 
 # Quest: Not Enough Items - Now with Bookmarks and Recent History!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAF4Q.name=§2§lNot enough items(NEI)-现在能添加书签了!
@@ -14817,6 +14821,10 @@ betterquesting.quest._zwtTNh-SG6B4wp221XPcQ.desc=The MKIII is the final upgrade 
 betterquesting.quest.a-g__0y_SGyed_E6IkIrsg.name=§6§lCreative Flight With MagLev
 betterquesting.quest.a-g__0y_SGyed_E6IkIrsg.desc=Getting annoyed trying to reach pipes and conduits around your base? Look no further than the §5§lMagLev Harness§r!%n%nWith the MagLev, you can have creative flight whenever you are within range of a MagLev Pylon and have the Harness equip.%n%nThis will work even when unpowered, however the range of the Pylon gets doubled when it's given §21A§r of it's corresponding tier of power. The MagLev will only draw power while you are in-range, not passively. A Harness can only be tethered to one Pylon at a time, but a Pylon can attach to any number of Harnesses. Will only consume 1A §nregardless§r of how many Harnesses are tethered to the Pylon§r.%n%n[note]Check the tooltip to see the range of your chosen Pylon, the MV one has a maximum range of 16 (33 x 33 x 33) when powered![/note]
 
+# Quest: Powerfail Notifications
+betterquesting.quest.a59175-ZS16kxwUW_BCuEQ.name=§6§lPowerfail Notifications
+betterquesting.quest.a59175-ZS16kxwUW_BCuEQ.desc=Congratuations on your first EBF!%n%nThroughout your GTNH gameplay you will end up creating hundreds of multiblocks, and will very likely run into a multitude of power failures at some point. %n%nFortunately, we have a dedicated system for helping you stay informed of exactly when and where these power failures occur §3(though the 'why' portion is up to you to figure out!)§r.%n%nWhen a multiblock powerfails, you will receive a notification in §5chat§r, in addition to a visible icon on §5screen§r, and an icon visible on your §5map§r. %n%n§lYou can clear these notifications by§r:%n- Clicking into the multiblock that has powerfailed%n- Deleting the notification in JourneyMap%n- Typing §4/powerfails clear§r%n%nFor those playing §2multiplayer§r, anyone who is on your §2team§r will receive the §2same notifications§r. §2§nOne person§r clearing a notification should clear it for§2 §nall players§r.%n%n[note]This feature uses the same team system as wireless EU. Use </gt §4global_energy_join§r §1[User Joining] [User to Join]§r> to team up.[/note]%n%nAll of these features can be turned off in the gregtech config. If you want the on screen icon to disappear use §4§l/powerfails hide§r. For all in-game options use §4§l/powerfails help§r.
+
 # Quest: Absolute Purity
 betterquesting.quest.bNVzOxCORxuo_lhAh13r0A.name=绝对纯净
 betterquesting.quest.bNVzOxCORxuo_lhAh13r0A.desc=绝对的重子理想态!这种多方块允许您制造极度纯净的水,即使在亚原子层级上也是纯净的.在8级纯净水中,没有一个夸克是不合适的.得益于这种纯净度,更先进的工艺流程成为可能,首先是缩短光子晶元的处理时间和提高光学芯片的产量.%n%n虽然Tooltip提示肯定没有脱气机的那么吓人,但要实现该流程的自动化并非易事.请尽情享受解谜的乐趣！
@@ -14883,6 +14891,10 @@ betterquesting.quest.xdiDnTdpTgW6POwCuDlPgg.desc=经过对第四维度的研究,
 # Quest: Trigger: Nano Boots of the Traveller Skip
 betterquesting.quest.5RrDJZBfTligyX8_wR-EDA.name=Trigger: Nano Boots of the Traveller Skip
 betterquesting.quest.5RrDJZBfTligyX8_wR-EDA.desc=
+
+# Quest: Trigger: Nightvision Goggle Skip
+betterquesting.quest.5bnuPY-USBW37JbkO5VzOw.name=Trigger: Nightvision Goggle Skip
+betterquesting.quest.5bnuPY-USBW37JbkO5VzOw.desc=Skip is here for those who get the goggles in a lootbag
 
 # Quest: Trigger: Hafnium Skip
 betterquesting.quest.5pXaevjTR-atLo3tdEZMEw.name=Trigger: Hafnium Skip

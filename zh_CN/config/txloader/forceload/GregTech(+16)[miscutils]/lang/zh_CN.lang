@@ -3320,7 +3320,7 @@ item.itemDustPotassiumNitrate.name=Potassium Nitrate Dust
 item.itemDustSodiumCyanide.name=Sodium Cyanide Dust
 item.itemDustSodiumFluoride.name=Sodium Fluoride Dust
 item.itemDustSodiumNitrate.name=Sodium Nitrate Dust
-item.itemDustStrontiumHydroxide.name=Strontium Hydroxide Dust
+item.itemDustStrontiumHydroxide.name=氢氧化锶粉
 item.itemDustStrontiumOxide.name=Strontium Oxide Dust
 item.itemDustWood'sGlass.name=Wood's Glass Dust
 
@@ -3341,7 +3341,7 @@ item.itemDustSmallPotassiumNitrate.name=Small Pile of Potassium Nitrate Dust
 item.itemDustSmallSodiumCyanide.name=Small Pile of Sodium Cyanide Dust
 item.itemDustSmallSodiumFluoride.name=Small Pile of Sodium Fluoride Dust
 item.itemDustSmallSodiumNitrate.name=Small Pile of Sodium Nitrate Dust
-item.itemDustSmallStrontiumHydroxide.name=Small Pile of Strontium Hydroxide Dust
+item.itemDustSmallStrontiumHydroxide.name=小堆氢氧化锶粉
 item.itemDustSmallStrontiumOxide.name=Small Pile of Strontium Oxide Dust
 item.itemDustSmallWood'sGlass.name=Small Pile of Wood's Glass Dust
 
@@ -3362,7 +3362,7 @@ item.itemDustTinyPotassiumNitrate.name=Tiny Pile of Potassium Nitrate Dust
 item.itemDustTinySodiumCyanide.name=Tiny Pile of Sodium Cyanide Dust
 item.itemDustTinySodiumFluoride.name=Tiny Pile of Sodium Fluoride Dust
 item.itemDustTinySodiumNitrate.name=Tiny Pile of Sodium Nitrate Dust
-item.itemDustTinyStrontiumHydroxide.name=Tiny Pile of Strontium Hydroxide Dust
+item.itemDustTinyStrontiumHydroxide.name=小撮氢氧化锶粉
 item.itemDustTinyStrontiumOxide.name=Tiny Pile of Strontium Oxide Dust
 item.itemDustTinyWood'sGlass.name=Tiny Pile of Wood's Glass Dust
 
