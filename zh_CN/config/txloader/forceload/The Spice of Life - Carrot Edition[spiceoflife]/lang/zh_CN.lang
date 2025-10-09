@@ -1,6 +1,6 @@
 # Tooltip strings
 spiceoflife.tooltip.nutritional.value=营养价值：
-spiceoflife.tooltip.eaten.recently=前%2$d次食用中占%1$s次
+spiceoflife.tooltip.eaten.recently=前%2$d次食用中占%1$s
 spiceoflife.tooltip.eaten.recently.hunger=补充的前%2$d点饥饿值中贡献%1$s点
 spiceoflife.tooltip.eaten.recently.time=最近%2$s天内食用了%1$s次
 spiceoflife.tooltip.not.eaten.recently=最近未食用过
@@ -18,7 +18,7 @@ spiceoflife.tooltip.food.group=食物组:
 spiceoflife.tooltip.food.groups=食物组:
 spiceoflife.tooltip.to.close.food.container=潜行时使用以关闭
 spiceoflife.tooltip.to.open.food.container=潜行时使用以开启
-spiceoflife.tooltip.can.spill.food=打开时食物会从中涌出
+spiceoflife.tooltip.can.spill.food=打开时食物会从中倾洒出来
 spiceoflife.tooltip.hold.key.for.details=按住%s获取详细信息
 
 spiceoflife.tooltip.diminishing=饥饿值恢复递减：

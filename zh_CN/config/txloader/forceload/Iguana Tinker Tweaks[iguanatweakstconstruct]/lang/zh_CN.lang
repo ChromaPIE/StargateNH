@@ -220,7 +220,7 @@ tooltip.pattern.noMaterials=未知材料
 
 item.iguana.tcon.clayBucket.name=粘土桶
 item.iguana.tcon.clayBucketUnfired.name=未烧制的粘土桶
-item.iguana.tcon.clayBucketFired.name=粘土桶(烤制)
+item.iguana.tcon.clayBucketFired.name=烧制黏土桶
 item.iguana.tcon.clayBucket.Water.name=粘土桶(水)
 item.iguana.tcon.clayBucket.Lava.name=粘土桶(岩浆)
 item.iguana.tcon.clayBucket.Milk.name=粘土桶(牛奶)
