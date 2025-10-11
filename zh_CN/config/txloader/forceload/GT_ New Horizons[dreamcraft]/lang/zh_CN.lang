@@ -1391,6 +1391,7 @@ tb.rec.capthauminite.page.NH.1=这对新杖端似乎比神秘杖端更为优秀,
 tc.research_name.TB.TaintFlask=浓缩腐化瓶
 tc.research_text.TB.TaintFlask=可能会出什么问题?
 tb.rec.TB.TaintFlask.page.NH.0=关于腐化的实验很成功,但你觉得自己可以做得更好.<BR>所以你尝试向腐化瓶中注入一些腐化源质.结果非常好,腐化瓶变得更加强大了,所以何不试试注入满满一罐的腐化源质?<BR>你肯定不想把自己的整个基地都变成腐化之地,所以你需要一个能控制的环境,比如注魔.<BR>但是,你最好用些世界盐来稳定这个瓶子,以确保腐化不会泄露出去.
+tb.rec.knose.page.1NH=A newborn Rosa Mysteria seems too weak for the regular soil - it dies of without any aspects supporting its growth. You've tried putting it on top of Salis Mundus - does not do the job. However, those Aspect Blocks serve like a descent enough base for the plant to grow. While growing it will accumulate aspects from the block underneath it. Once grown a Knowledge Fragment of sorts can be harvested. It will be attuned to certain aspects based on the block the Rose was growing on. Growing the rose on top of a mixed block yields a Mixed Fragment. It is up to you to discover what would happen should you grow the rose on a Tainted Block, but you have a feeling that nothing good will happen...
 tc.research_name.DiacountringsGTNH=碎片指环
 tc.research_text.DiacountringsGTNH=魔力减免
 tc.research_name.JarsealGTNH=罐子封蜡
@@ -1548,6 +1549,9 @@ tc.research_page.CRIMSONRITES=你已看到了强大魔法的使用者的踪迹.�
 tc.research_name.INCENSECRUCIBLE=Incense Crucible
 tc.research_text.INCENSECRUCIBLE=[BM] Doesn't make you smell good IRL
 tc.research_page.INCENSECRUCIBLE=Because somehow, smelling good makes you bleed more.
+
+tc.research_page.MIRROR.3fixed=Transporting items through mirrors places stress on the magical glass and to prevent it from shattering the mirror automatically slows down the rate at which items is spit out the other side. The greater the instability, the more the transfer rate is slowed.<BR>This instability slowly lessens over time, but it can also be negated by relaying Ordo vis directly to the mirror.
+tc.research_page.CAP_copper.1fixed=Copper has similar properties to iron when used as a wand cap, but is as efficient as gold when used to channel Ordo or Perditio vis.
 
 # Tinker's Construct manual contents
 item.tconstruct.manual.common.recipes=配方

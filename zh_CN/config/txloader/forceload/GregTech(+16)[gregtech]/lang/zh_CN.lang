@@ -1545,6 +1545,14 @@ GT5U.gui.text.beta-minus=Beta Minus Decay
 GT5U.gui.text.beta-plus=Beta Plus Decay
 GT5U.gui.text.invalidfluidsup=提供的流体无效
 
+
+GT5U.gui.hoverable.runningfine=Running Fine.
+GT5U.gui.hoverable.incomplete=Structure incomplete.
+GT5U.gui.hoverable.powerloss=Lost Power.
+GT5U.gui.hoverable.norepair=Machine too damaged.
+GT5U.gui.hoverable.manualshutdown=Manual shutdown (get it?).
+GT5U.gui.hoverable.error=ERROR! REPORT ME!
+
 GT5U.gui.config.client=客户端
 GT5U.gui.config.client.color_modulation=颜色模块
 GT5U.gui.config.client.color_modulation.cable_insulation=线缆绝缘材料

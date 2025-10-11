@@ -231,6 +231,10 @@ nei.options.inventory.bookmarks.showRecipeMarkerMode=配方书签标记形式
 nei.options.inventory.bookmarks.showRecipeMarkerMode.0=不显示标记
 nei.options.inventory.bookmarks.showRecipeMarkerMode.1=图标角标
 nei.options.inventory.bookmarks.showRecipeMarkerMode.2=背景高亮
+nei.options.inventory.bookmarks.showRecipeHandlerIcon=Show Handler Icon
+nei.options.inventory.bookmarks.showRecipeHandlerIcon.true=Yes
+nei.options.inventory.bookmarks.showRecipeHandlerIcon.false=No
+
 nei.options.inventory.bookmarks.recipeMarkerColor=Recipe Marker Color
 nei.options.inventory.bookmarks.ignorePotionOverlap=忽略书签与药水效果重叠
 nei.options.inventory.bookmarks.ignorePotionOverlap.true=是
