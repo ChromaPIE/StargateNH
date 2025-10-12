@@ -20289,7 +20289,7 @@ languagefile {
     S:gt.blockmachines.bw.radiohatchluv.name=LuV放射仓
     S:gt.blockmachines.bw.radiohatchuv.name=UV放射仓
     S:gt.blockmachines.bw.radiohatchzpm.name=ZPM放射仓
-    S:gt.blockmachines.bw.windmill.name=风车
+    S:gt.blockmachines.bw.windmill.name=风车磨房
     S:gt.blockmachines.cable.aluminium.01.name=1x%material线缆
     S:gt.blockmachines.cable.aluminium.02.name=2x%material线缆
     S:gt.blockmachines.cable.aluminium.04.name=4x%material线缆

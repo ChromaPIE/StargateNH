@@ -3647,7 +3647,7 @@ item.gt.depletedRodNaquadria2.name=Dual Fuel Rod (Depleted Naquadria)
 item.gt.depletedRodNaquadria4.name=Quad Fuel Rod (Depleted Naquadria)
 
 # Entities
-entity.gregtech.PowderBarrelPrimed.name=Lit Powder Barrel
+entity.gregtech.PowderBarrelPrimed.name=点燃的火药桶
 
 #mui1
 mui.button.close=x
