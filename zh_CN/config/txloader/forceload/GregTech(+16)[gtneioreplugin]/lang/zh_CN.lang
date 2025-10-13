@@ -42,9 +42,10 @@ gtnop.nei.genPositionInfo=各个区块的正中心
 gtnop.world.Overworld=主世界
 gtnop.world.Nether=下界
 gtnop.world.TheEnd=末地
-gtnop.world.Twilight=暮色森林
+gtnop.world.TwilightForest=Twilight Forest
 gtnop.world.EndAsteroid=末地小行星
 gtnop.world.Vanilla EndAsteroids=原版末地小行星
+gtnop.world.dimensionDarkWorld=The Toxic Everglades
 gtnop.world.Moon=月球
 gtnop.world.Mars=火星
 gtnop.world.Phobos=火卫一
@@ -66,7 +67,7 @@ gtnop.world.Oberon=天卫四
 gtnop.world.Proteus=海卫八
 gtnop.world.Triton=海卫一
 gtnop.world.Pluto=冥王星
-gtnop.world.Kuiperbelt=柯伊伯带
+gtnop.world.KuiperBelt=Kuiper Belt
 gtnop.world.Haumea=妊神星
 gtnop.world.MakeMake=鸟神星
 gtnop.world.CentauriA=半人马Bb
@@ -83,6 +84,18 @@ gtnop.world.Neper=奈佩里
 gtnop.world.Seth=赛特
 gtnop.world.Underdark=漆黑世界
 
+# world tiers
+gtnop.tier.0=%s
+gtnop.tier.1=T1: %s
+gtnop.tier.2=T2: %s
+gtnop.tier.3=T3: %s
+gtnop.tier.4=T4: %s
+gtnop.tier.5=T5: %s
+gtnop.tier.6=T6: %s
+gtnop.tier.7=T7: %s
+gtnop.tier.8=T8: %s
+gtnop.tier.9=T9: %s
+gtnop.tier.10=T10: %s
 
 # biome names
 gtnop.biome.none.name=无

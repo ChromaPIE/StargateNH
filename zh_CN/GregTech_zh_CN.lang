@@ -322,7 +322,7 @@ languagefile {
     S:Interaction_DESCRIPTION_Index_505=收到信号时启用(安全模式)
     S:Interaction_DESCRIPTION_Index_506=收到信号时禁用(安全模式)
     S:Interaction_DESCRIPTION_Index_507=安全模式
-    S:Interaction_DESCRIPTION_Index_508=需要稳定的黑洞
+    S:Interaction_DESCRIPTION_Index_508=需要稳态黑洞
     S:Interaction_DESCRIPTION_Index_509=需要热等静压单元
     S:Interaction_DESCRIPTION_Index_510=多方块机器等级需求：
     S:Interaction_DESCRIPTION_Index_602=使用私人频率
@@ -21359,7 +21359,7 @@ languagefile {
     S:gt.blockmachines.hatch.air.intake.tier.00.name=抽气仓
     S:gt.blockmachines.hatch.air.intake.tier.01.name=极限抽气仓
     S:gt.blockmachines.hatch.air.intake.tier.02.name=Atmospheric Intake Hatch
-    S:gt.blockmachines.hatch.blackholeutility.name=Black Hole Utility Hatch
+    S:gt.blockmachines.hatch.blackholeutility.name=黑洞实用配置仓
     S:gt.blockmachines.hatch.capacitor.tier.03.name=电容仓
     S:gt.blockmachines.hatch.catalystbulk.name=大批量催化装置供给室
     S:gt.blockmachines.hatch.catalysts.name=催化剂室

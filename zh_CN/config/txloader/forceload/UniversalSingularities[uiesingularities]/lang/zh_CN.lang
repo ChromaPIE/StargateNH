@@ -47,6 +47,7 @@ item.universalSingularities.general.meteoricIron.name=陨铁奇点
 item.universalSingularities.general.europium.name=铕奇点
 item.universalSingularities.general.gangue.name=脉石奇点
 item.universalSingularities.general.roseGold.name=Rose Gold Singularity
+item.universalSingularities.rubber.rubber.name=Rubber Singularity
 //General
 
 //Big Reactors
@@ -135,6 +136,7 @@ item.universalSingularities.tinkersConstruct.glue.name=凝胶奇点
 item.universalSingularities.tinkersConstruct.manyullyn.name=斫星奇点
 //item.universalSingularities.tinkersConstruct.pigIron.name=生铁奇点
 //Tinkers' Construct
+
 
 /*Removed
  * item.universalSingularities.general.salt.name=Salt Singularity
