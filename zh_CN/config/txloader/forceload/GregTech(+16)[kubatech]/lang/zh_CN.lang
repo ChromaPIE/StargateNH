@@ -149,7 +149,7 @@ kubatech.infodata.mia.running_mode.operating.swarmer=Operating mode (SWARMER)
 kubatech.infodata.mia.running_mode.bee_storage=Bee storage (%s/%s):
 
 #Waila
-kubatech.waila.eec.mob_type=Mob Type: %s
+kubatech.waila.eec.mob_type=怪物类型：%s
 kubatech.waila.eec.no_mob=无
 kubatech.waila.eec.ritual_mode_connected=Connected to ritual
 kubatech.waila.eec.ritual_mode_error=Not connected to ritual!

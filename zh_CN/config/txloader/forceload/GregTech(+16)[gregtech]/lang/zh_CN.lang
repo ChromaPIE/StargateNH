@@ -20,7 +20,7 @@ gt.component.platedouble=Double %s Plate
 gt.component.rod=%s Rod
 gt.component.rodlong=Long %s Rod
 gt.component.gear=%s Gear
-gt.component.smallgear=Small %s Gear
+gt.component.smallgear=小型%s齿轮
 gt.component.screw=%s Screw
 gt.component.bolt=%s Bolt
 gt.component.rotor=%s Rotor
@@ -30,7 +30,7 @@ gt.component.plasmacell=%s Plasma Cell
 gt.component.cell=%s Cell
 gt.component.nugget=%s Nugget
 gt.component.spring=%s Spring
-gt.component.smallspring=Small %s Spring
+gt.component.smallspring=小型%s弹簧
 gt.component.finewire=Fine %s Wire
 gt.component.platedense=Dense %s Plate
 gt.component.platesuperdense=Superdense %s Plate
@@ -1602,7 +1602,7 @@ GT5U.gui.text.fluid_limiter.threshold=§8Percent threshold
 GT5U.gui.text.volumetric_flask.capacity=Capacity
 GT5U.gui.text.volumetric_flask.confirm=Confirm
 
-GT5U.gui.text.wireless_maintenance_detector.extra.no_issues=无故障
+GT5U.gui.text.wireless_maintenance_detector.extra.no_issues=§8无故障
 GT5U.gui.text.wireless_maintenance_detector.extra.ge1_issues=>= 1处故障
 GT5U.gui.text.wireless_maintenance_detector.extra.ge2_issues=>= 2处故障
 GT5U.gui.text.wireless_maintenance_detector.extra.ge3_issues=>= 3处故障
