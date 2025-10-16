@@ -870,7 +870,7 @@ GT5U.MBTT.AlchemyCasingAny=Alchemically Resistant/Inert/Immune Casing
 GT5U.MBTT.AlchemicalConstructAny=Alchemical Construct
 GT5U.MBTT.SuperChest=Super/Quantum Chest
 
-GT5U.MBTT.subchannel=使用子信道§6%s§r指定%s
+GT5U.MBTT.subchannel=使用子信道§6%s§r§7指定§6%s
 
 GT5U.cracker.io_side=输入/输出仓必须处在对侧！
 

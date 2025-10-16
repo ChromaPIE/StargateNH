@@ -14650,7 +14650,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKqw.name=变压并...保持
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKqw.desc=有源变压器可以进行任意电压间的变换,而损耗仅为0.004％,如果不介意这部分损耗的话,使用有源变压器可比用一大串变压器层层变压高端多了. 不过这玩意有点贵... 同时,这台机器还可以用于转折激光仓发出的激光,说不定这才是它的正确用法!%n%n它无需维修仓,只需有输入/输出仓即可.%n%n[warn]如果不想在拆卸机器时引发爆炸,一定记得关掉'导能'按钮![/warn]
 
 # Quest: Dyson Swarm Ground Unit
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAL3w.name=戴森球地面单元
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAL3w.name=戴森云地面单位
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL3w.desc=从本质上来说,戴森球地面单元这台多方块机器就是一大块太阳能板,稍微有点不同的是,你需要插入戴森球模块(数量取决于你想要多高的功率输出),才能获得能量产出.不过它并非一劳永逸：%n-每小时m个戴森球模块中有n个会被损耗,公式：n=m(2*0.066)/(exp(-0.00005*(m-1))+exp(0.00003*cps)),cps为每秒算力.%n-每小时消耗3.6M升极寒之凛冰.%n-每台戴森球最多可插入10,000个模块.%n-接受算力上限为100k.%n%n[note]提示：已支持TecTech的多A发电仓和激光源仓.[/note]%n%n右侧所列的每个部分只是最低要求,基于使用的发电仓、输入总线、输入仓和光学接收连接器数量,你可能需要更多能量接收基座外壳、模块部署单元基座外壳或控制中心基座外壳.%n%n[warn]当发电仓满溢时这台机器会爆炸！[/warn]%n%n有趣的事实：最大输出为337B-EU/t(10,000模块上限以及在荷鲁斯最高3.37倍的维度加成系数)%n%n(如果你懒得计算每小时需要多少模块,统计下来最大为64)
 
 # Quest: Where Do I Build the Dyson Swarm?

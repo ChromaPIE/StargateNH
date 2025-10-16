@@ -20692,7 +20692,7 @@ languagefile {
     S:gt.blockmachines.diode8auxv.name=线缆二极管 8A UXV
     S:gt.blockmachines.diode8azpm.name=线缆二极管 8A ZPM
     S:gt.blockmachines.dissolution_tank.name=溶解罐
-    S:gt.blockmachines.dysonswarm.name=戴森球地面单元
+    S:gt.blockmachines.dysonswarm.name=戴森云地面单位
     S:gt.blockmachines.electricboiler.1.tier.single.name=进阶锅炉[LV]
     S:gt.blockmachines.electricboiler.2.tier.single.name=进阶锅炉[MV]
     S:gt.blockmachines.electricboiler.3.tier.single.name=进阶锅炉[HV]
@@ -21929,7 +21929,7 @@ languagefile {
     S:gt.blockmachines.luv_beamline_output_hatch.name=束流输出仓（LuV）
     S:gt.blockmachines.machine.dehydrator.tier.00.name=基础脱水机 I
     S:gt.blockmachines.machine.dehydrator.tier.01.name=基础脱水机 II
-    S:gt.blockmachines.machine.tffthatch.name=T.F.F.T多重输入/输出仓
+    S:gt.blockmachines.machine.tffthatch.name=T.F.F.T多重I/O仓
     S:gt.blockmachines.machine.tt.buck.05.name=IV降压变压器
     S:gt.blockmachines.machine.tt.buck.06.name=LuV降压变压器
     S:gt.blockmachines.machine.tt.buck.07.name=ZPM降压变压器
