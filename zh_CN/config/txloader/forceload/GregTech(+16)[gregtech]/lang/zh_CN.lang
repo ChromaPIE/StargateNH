@@ -1417,6 +1417,7 @@ GT5U.gui.text.lockedvalue=锁定为：%s
 GT5U.gui.text.success=§a配方处理中
 GT5U.gui.text.progress=§f处理进度 :
 GT5U.gui.text.amount=§f数量:
+GT5U.gui.text.per_tick=§fPer tick:
 GT5U.gui.text.per_second=§f每秒:
 GT5U.gui.text.per_minute=§f每分钟:
 GT5U.gui.text.per_hour=§f每小时:

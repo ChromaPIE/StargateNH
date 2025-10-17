@@ -26,11 +26,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAABQ.name=§1§l工具
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAABQ.desc=现在你有一个避难所、工作台和一个存放杂物的地方.该做一些基本工具了,除非你想继续空手撸树.%n%n建议先做铲子,以便更轻松地获取燧石.
 
 # Quest: You Reap...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.name=§1§l一分耕耘……
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.desc=你不能一直从任务书中得到食物奖励吧,所以是时候解决这个问题了.%n%n既然你已经合成了一把锄头,就去附近找点水开一块田吧.在此整合包,你只能在水源附近开垦农田.在这里用些木棍换点胡萝卜吧,这样你就可以开始经营自己的农场了.%n%n想要获得其他的种子,你需要对远离水源的草地使用锄头.你还能同时获得一些巫术种子,把它们储存起来以备后用.  %n%n别忘了开垦一片棉花田,这是前期的关键资源.%n%n你还可以从村庄里抄出一堆种子,或是寻找潘马斯的菜园.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.name=§9§l一分耕耘……
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.desc=并不是每个任务都会送你点口粮，所以最好趁早解决吃饭问题。%n%n既然有了锄头，就动身去找个水源，开垦农田吧。在本包中，只有在水源浸润范围内的泥土才能犁成耕地。去拿几根木棍跟我换个胡萝卜，作为大农场的启动“资金”吧。%n%n小麦的话，拿锄头右击远离水源的草方块就有机会掉落小麦种子。此外，巫术学模组的种子也可以这么来——先留着，后面才有用。%n%n另外再开一片棉花田，棉花是前期的极为关键的资源之一。%n%n种子也可以在村庄的箱子里翻到，打掉潘姆的丰收工艺模组的菜园所掉落的作物也能合成为种子拿去种。
 
 # Quest: ...What You Sow
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAABw.name=§1§l……一分收获
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAABw.name=§9§l……一分收获
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAABw.desc=如果你读到了先前的任务并种下了胡萝卜,那你就没事了.%n%n同时,你也应该把更多的水果和蔬菜变成种子,并扩大你的农场以获得稳定的食物供应.
 
 # Quest: Get That Stone
@@ -42,11 +42,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.name=§1§l爷爷，着火了！
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.desc=是不是该整点东西烧一烧了？熔炉没法用来烧木炭，但“过不了多久”，你必然会发现它的一些新用途。
 
 # Quest: Rest in Pieces
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACg.name=§1§l果人之腹，死得其所
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACg.name=§9§l果人之腹，死得其所
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACg.desc=杀几只猪，取几片肉，我要看到血流成河！
 
 # Quest: Fluffy and Red
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.name=§1§l血染白羊
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.name=§9§l血染白羊
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.desc=史诗级任务：屠杀绵羊！（顺便整点羊毛，做床。这应该不用我教吧……）
 
 # Quest: SO...TIRED...MUST...SLEEP...
@@ -75,7 +75,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABjA.desc=GTNH是一个有漫长旅途的
 
 # Quest: Even more challenges needed?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABjQ.name=§1§l还需要更多挑战?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABjQ.desc=你已经把大部分整合包都玩了几遍?也许你甚至还做了一个星门?或者你想找点不同的东西?别担心,我们还有更多的建议:%n%n- 极限模式. 无论是MC原版的极限模式, 还是BQ的极限模式(它更宽容一点)都可以.也许这听起来不可能,但确实已经有人在原版极限模式下到达了UEV+.这显然不适合所有人,但如果你想挑战的话,做好将会重启几次的准备.%n%n -绝对不做火箭.是的,这就是所谓的§o不上天挑战§r,现在这个模式已经得到了一定程度上的支持,你能做到这个包里几乎所有可以做的事情.你可以使用蜜蜂、农作物还有血魔法的流星作为主要资源来源.但是需要注意的是,这个挑战相当折磨,而且耗时不菲.例如,你可能会需要收集大量铝矿沙砾来获得你的第一个钛.%n%n- 空岛.是的这也被称作为折磨花园,无疑是非常残酷的.没有实际支持空岛的版本,但一些玩家已经发现为了迁移至空岛所需的最少的变化.试试去问问,或在官方discord频道中搜索所有的细节.但不要指望这个尝试会带来什么乐趣.%n%n- 速通.一些玩家已经开始设计基础规则并开始尝试记录速通到一个前期的目标,例如焦炉.问问周围或在官方discord频道搜索一下细节.也许你只是想看看他们是怎么做的?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABjQ.desc=你已经把这个整合包的大部分内容反复过了好几轮了？说不定连星门都造出来了？又或者，你就是想换个玩法？别犯愁，这里有几个方案供你挑选：%n%n- 开启硬核模式。可以选原版硬核，也可以选 BetterQuesting 硬核——后者稍微仁慈一点。虽说听起来像天方夜谭，但还真有人在原版硬核里打到了 UEV 甚至更高。但话说回来，你最好还是有点多开几档的心理准备。这种玩法显然不是所有人都适合的。%n%n- 绝不造火箭。如今这个所谓的“§o无火箭挑战§r”已经差不多能算是个官方支持玩法了，因为就算不造火箭也能走完包里的绝大多数内容。你可以依靠养蜂、种田和血魔法陨石来获取核心资源。但得提醒你，这条路又肝又慢。比方说你可能得靠大量收集钙铁榴石，或者做铝土矿渣的处理线才能搞到第一份钛。又或者，你得在几乎没有任何科学技术支撑的情况下早早开始养蜜蜂。%n%n- 空岛生存。没错，真的有。这种玩法也有个“折磨之园”的“美称”，俗话说没有叫错的外号，这么玩的难度堪比地狱。虽然整合包本身对空岛模式并没有官方支持，但已经有玩家摸索了出一套方案，靠一些最小的改动让它勉强可行。具体细节可以去官方 Discord 频道问问或搜一搜。不过别指望这条路有什么乐趣可言。%n%n- 速通挑战。已有玩家制定了一些基础规则，并且有在录制速通视频，目标通常是游戏前期的一些里程碑，比如焦炉。详情同样可以在官方 Discord 找到。当然了，你也可以单纯往旁边一站，鉴赏他们的操作。
 
 # Quest: Oak Trees Are Not Apple Trees
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABuA.name=§1§l橡树不是苹果树
@@ -165,7 +165,7 @@ betterquesting.quest.4g20EVdxSWyOUMhZXkcIWQ.desc=There are many more backpacks: 
 
 # Quest: A Better Furnace!
 betterquesting.quest.5EdKBIyDTYa7xhnSCUZmiQ.name=A Better Furnace!
-betterquesting.quest.5EdKBIyDTYa7xhnSCUZmiQ.desc=Build a Blast Furnace!%n%nEnjoy faster smelting for your metals!
+betterquesting.quest.5EdKBIyDTYa7xhnSCUZmiQ.desc=Build a Blast Furnace!%n%nEnjoy faster smelting for your metals!%n%n[warn]Will not process all items that a regular furnace will. Check NEI for more detail.[/warn]
 
 # Quest: Ready, Set, Go!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADw.name=§2§l准备出发!
@@ -245,7 +245,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIw.desc=你现在已经找到铜和锡�
 
 # Quest: Important Tools
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJA.name=§2§l重要的工具
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJA.desc=为了做些最基本的机器,你需要一些新的工具,这些工具在之后都可以被机器替代.而现在呢,鉴于你将需要大量的工具,从今天起,你应该熟悉每个工具的制作方法.%n%n这些新工具可以用来制作RC集水器,基于水源十分有限的状态下,这家伙可是非常实用的多方块结构.%n%n这些工具还有电动版本,有需要的话,后续可以进行升级. 另外,工具材质不同有许许多多不同版本,它们大体遵循匠魂部件的规则,涡轮也是类似. 关于GT工具的参数,你可以查阅数据表格,那里更加详细.%n%n这个任务中,你可以使用任意材料.锯的宝石版本与金属版本不同. 更高阶的工具,木棍需要用钢杆或钨钢杆替代.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJA.desc=哪怕是制造最基础的机器，你也得先搞到一套新工具。许多用于手动合成的工具在日后都能被自动化的机器所取代，但眼下，你得先熟悉它们各自的都能在合成栏里做些什么——从今天起，你将会频繁地和它们打交道。%n%n这些新工具还能用来搭建 Railcraft 的储液缸。考虑到本包启用了“有限水源”机制，这个多方块结构可谓相当实用。%n%n部分工具还有其电动版本，如果你愿意，则可以在后续升级。此外，你还可以从多种材料中任意选择来打造工具，其各方面数据的强弱基本遵循与匠魂部件类似的规则——就像涡轮机那样，选材越好，性能越强。我们有一份清单列出了格雷科技工具的材料及其属性，供你查阅。%n%n任意材质的工具均可完成本任务。宝石材质的锯子与金属材质的制作方式不同。更高阶的工具则需使用钢或钨钢杆代替木棍。%n%n[note]如果想知道某种特定材质工具的配方，记得点击配方列表顶部的放大镜图标，展开搜索框进行搜索。（不妨先做一套铁制工具吧！）[/note]
 
 # Quest: Getting Iron
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJQ.name=§2§l获得铁
