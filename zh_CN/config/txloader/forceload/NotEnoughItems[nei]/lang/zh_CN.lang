@@ -65,6 +65,7 @@ nei.itempanel.open_crafting=查询配方
 nei.itempanel.open_usage=查询用途
 nei.itempanel.copy_name=复制物品名称
 nei.itempanel.copy_oredict=复制物品矿物词典
+nei.itempanel.copy_id=Copy Item ID
 nei.itempanel.chat_link_item=发送物品链接至聊天
 
 nei.enchant=附魔
@@ -192,6 +193,7 @@ nei.options.keys.gui.next_tooltip=下一条Tooltip
 nei.options.keys.gui.copy_name=复制物品名称
 nei.options.keys.gui.craft_items=合成物品
 nei.options.keys.gui.copy_oredict=复制物品矿物词典
+nei.options.keys.gui.copy_id=Copy Item ID
 nei.options.keys.gui.chat_link_item=发送物品链接至聊天
 nei.options.keys.gui.itemzoom_toggle=切换物品展示
 nei.options.keys.gui.itemzoom_hold=按住以显示物品展示

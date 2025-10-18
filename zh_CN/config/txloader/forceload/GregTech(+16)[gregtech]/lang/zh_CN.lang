@@ -1819,6 +1819,7 @@ GT5U.multiblock.itemPipeTier=物品管道等级
 GT5U.multiblock.coilLevel=加热线圈等级
 GT5U.multiblock.preciseassemblercasing=Voltage limited by casing tier: %s
 GT5U.multiblock.runningMode=§e运行模式：
+GT5U.multiblock.startup=Starting up...
 
 # NEI recipe handlers
 GT5U.nei.heat_capacity=热容：%s K (%s)

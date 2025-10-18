@@ -22,8 +22,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAw.name=§1§l仓储大扩建
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAw.desc=现在你有了工具并准备出发去收集各种资源,是时候为这些资源准备一些存储空间了. %n拿些木头来做一个箱子,你需要4个原木,4块木板和1个燧石.
 
 # Quest: Tools
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAABQ.name=§1§l工具
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAABQ.desc=现在你有一个避难所、工作台和一个存放杂物的地方.该做一些基本工具了,除非你想继续空手撸树.%n%n建议先做铲子,以便更轻松地获取燧石.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAABQ.name=§9§l工具
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAABQ.desc=既然已经有了庇护所和工作台，是时候做点工具了——除非你打算继续徒手撸树。%n%n建议先做斧子，这能大大减轻后续获取木材的压力。
 
 # Quest: You Reap...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.name=§9§l一分耕耘……
