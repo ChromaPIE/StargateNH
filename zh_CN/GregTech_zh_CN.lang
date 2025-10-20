@@ -1181,7 +1181,7 @@ languagefile {
     S:Material.netherbrick=地狱砖
     S:Material.netherite=下界合金
     S:Material.netherquartz=下界石英
-    S:Material.netherrack=地狱岩
+    S:Material.netherrack=下界岩
     S:Material.nethersemifluid=Nether Semifluid
     S:Material.netherstar=下界之星
     S:Material.neutralizedmonaziterareearthfiltrate=中和独居石稀土滤渣
@@ -16873,7 +16873,7 @@ languagefile {
     S:comb.divided=切割蜂窝
     S:comb.draconium=龙蜂窝
     S:comb.dragon_essence=龙之精华蜂窝
-    S:comb.ectoplasma=外质蜂窝
+    S:comb.ectoplasma=灵质蜂窝
     S:comb.electrical_steel=电工钢蜂窝
     S:comb.electrotine=蓝石蜂窝
     S:comb.emerald=绿宝石蜂窝
@@ -18382,7 +18382,7 @@ languagefile {
     S:for.bees.species.dragonessence=龙之精华
     S:for.bees.species.drake=龙
     S:for.bees.species.earth=土
-    S:for.bees.species.ectoplasma=外质
+    S:for.bees.species.ectoplasma=灵质
     S:for.bees.species.electricalsteel=电工钢
     S:for.bees.species.electrotine=蓝石
     S:for.bees.species.emerald=绿宝石
@@ -69243,7 +69243,7 @@ languagefile {
     S:pollen.matrix=基质花粉
     S:propolis.Arcaneshard=奥术碎片蜂胶
     S:propolis.Dragonessence=龙之精华蜂胶
-    S:propolis.Ectoplasma=外质蜂胶
+    S:propolis.Ectoplasma=灵质蜂胶
     S:propolis.End=末影蜂胶
     S:propolis.Enderman=末影人蜂胶
     S:propolis.Endium=终末蜂胶

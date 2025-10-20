@@ -753,8 +753,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAF4w.name=§3§l制作清单,反复检查
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAF4w.desc=随着基地的扩大,你将有十多个不同的长期目标,每个目标又有很多步骤. 打造一块写字板以跟踪你需要执行的任务.%n%n[note]提示: 你可以通过Shift+右键将写字板贴到墙上. [/note]
 
 # Quest: I Ain't Afraid of no Ghost!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGAA.name=§3§l我不怕没鬼!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGAA.desc=我已经找到从死者灵魂中收集的灵气的用途了.它可以制作一种非常实用的玻璃,你可以在其上行走,但是怪物不能. 但是,怪物却认为它们可以!%n%n因此,它可以用来在你的基地周围创建护城河,以各种方式将怪物摧毁,或者只是将它们移到其他地方. 或是用在刷怪场里? 对付从地狱门中走出来的猪人? 有无限可能!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGAA.name=§3§l唯物主义这一块
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGAA.desc=关于从亡魂身上收集而来的灵质，我发现了它的一种妙用——制造一种特殊的，能挡住人但挡不住怪物的玻璃。其妙用在于，人可以在上面走，但怪物则只会“以为”它们也能！%n%n在基地周围挖一圈“护城河”并用它来封盖，便能让怪物以各种姿态命丧深渊，或者也别弄死，只要让它们别来烦你就行。把大小生物做个分流？或者用来做刷怪塔？甚至拦下从下界传送门误入主世界的猪灵？你自己看着办呗！
 
 # Quest: Factory Iron Door
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAG_Q.name=§3§l工厂的铁门
@@ -817,7 +817,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJHA.name=§3§l如何打开铁门?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJHA.desc=铁门可以使你的厂房或住房更安全.%n%n现在,让我们制作几个石制压力板和按钮来打开沉重的铁门.
 
 # Quest: Tame an Ocelot to Get a Friend
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJKg.name=§3§l驯服豹猫才能交朋友
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJKg.name=§3§l“它想跟我回家~”
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJKg.desc=拥有所需材料后,你将需要找到一只豹猫来驯服.%n%n豹猫可以在丛林生物群系中找到.%n%n如果你找不到豹猫,还可以用刷怪蛋来召唤它.%n%n你可以通过给豹猫喂生鱼来驯服它.所以在物品栏内带上生鱼,然后在快捷栏中选择生鱼.%n%n§3提示:驯服豹猫过程中,请确保周围空旷,以便为豹猫提供足够的移动空间.如果你周围的空间太小,你将无法驯服豹猫.%n%n然后,手持生鱼并保持不动.如果你移动了,会吓跑豹猫的.如果你很安静,豹猫最终会注意到你手中的鱼,向你走来.
 
 # Quest: Advanced Solar Boilers

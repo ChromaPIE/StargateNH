@@ -882,7 +882,7 @@ tile.netherBrick.14.desc=红色地狱砖
 tile.netherBrick.15.desc=小块红色地狱砖
 
 #Netherrack
-tile.chisel.netherrack.name=地狱岩
+tile.chisel.netherrack.name=下界岩
 tile.hellrock.1.desc=染血的下界砂砾
 tile.hellrock.2.desc=染血的地狱岩
 tile.hellrock.3.desc=染血的深色下界砂砾

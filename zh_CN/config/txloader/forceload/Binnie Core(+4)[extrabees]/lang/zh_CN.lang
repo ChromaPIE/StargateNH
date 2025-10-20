@@ -171,7 +171,7 @@ extrabees.item.cyaniteDust=蓝晶砂
 extrabees.block.apiaristMachine.name=养蜂员机器方块
 extrabees.block.geneticMachine.name=基因机器方块
 extrabees.block.advGeneticMachine.name=高级基因机器方块
-extrabees.block.ectoplasm.name=胶质网
+extrabees.block.ectoplasm.name=灵质
 
 tile.hive.name=蜂巢
 extrabees.block.hive.0=水生蜂巢
@@ -464,7 +464,7 @@ extrabees.species.cyanite.name=蓝晶
 extrabees.species.blutonium.name=蓝钚
 extrabees.species.mystical.name=神秘
 
-extrabees.effect.ectoplasm.name=胶化
+extrabees.effect.ectoplasm.name=灵质
 extrabees.effect.acid.name=酸液
 extrabees.effect.spawnzombie.name=生成僵尸
 extrabees.effect.spawnskeleton.name=生成骷髅

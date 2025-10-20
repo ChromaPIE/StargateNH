@@ -42,7 +42,7 @@ tile.slime.pad.name=弹跳板
 tile.blood.channel.name=血通道
 
 tile.tconstruct.stoneore.name=矿石
-MetalOre.NetherSlag.name=地狱岩碎片
+MetalOre.NetherSlag.name=下界岩碎片
 MetalOre.Cobalt.name=钴矿石
 MetalOre.Ardite.name=熔焱矿石
 MetalOre.Copper.name=铜矿石
@@ -1001,7 +1001,7 @@ material.copper=铜
 material.flint=燧石
 material.iron=铁
 material.manyullyn=斫星
-material.netherrack=地狱岩
+material.netherrack=下界岩
 material.netherrack.ability=石缚
 material.obsidian=黑曜石
 material.paper=纸
