@@ -705,8 +705,8 @@ GTPP.algae.tooltip.lifespan=Lifespan in days: %d
 GTPP.algae.tooltip.generation=Generation: %d
 
 # Power Goggles
-GT5U.power_goggles.open_config_gui=Open Goggles Config
-GT5U.power_goggles.toggle_power_chart=Toggle Power Chart
+GT5U.power_goggles.open_config_gui=Open Power Goggles Config
+GT5U.power_goggles.toggle_power_chart=Toggle Power Goggles Chart
 GT5U.power_goggles.link_lsc=Goggles linked to LSC at %d,%d,%d.
 GT5U.power_goggles.link_fail=That's not an LSC...
 GT5U.power_goggles.unlink=Goggles Unlinked.
@@ -954,6 +954,8 @@ gt.recipe.brewer.description=酿造你的饮品
 gt.recipe.metalbender=卷板机
 gt.recipe.metalbender.description=嘘,他是坏的!我们要本德! ! !
 gt.recipe.neutroniumcompressor=中子素压缩机
+gt.recipe.cable=Cable Coating
+gt.recipe.cablecoater.description=Coating Cables
 gt.recipe.canner=装罐机
 gt.recipe.canner.description=台式食物灌装机GTA4
 gt.recipe.centrifuge=离心机
@@ -3248,7 +3250,7 @@ GT5U.tooltip.volumetric_flask.empty=空
 GT5U.tooltip.volumetric_flask.set_volume=不含流体时对空气右击以设定容量
 
 GT5U.tooltip.purify.1=Throw into Cauldron to get clean Dust
-GT5U.tooltip.purify.2=Can be used as Enriched Naquadah Fuel Substitute
+GT5U.tooltip.purify.2=Throw into Cauldron to get clean crushed Ore
 GT5U.tooltip.nqgen=Can be used as Enriched Naquadah Fuel Substitute
 
 # info data
