@@ -1638,7 +1638,7 @@ languagefile {
     S:Material.tourmaline=电气石
     S:Material.tpvalloy=钛铂钒合金
     S:Material.transcendent=超时空
-    S:Material.transcendentmetal=超时空金属
+    S:Material.transcendentmetal=超越金属
     S:Material.transistor=晶体管
     S:Material.tricalciumphosphate=磷酸三钙
     S:Material.trichlorosilane=三氯硅烷
@@ -2652,7 +2652,7 @@ languagefile {
     S:TileEntity_DESCRIPTION_00357_Index_05=§7§m--------------------------------------------
     S:TileEntity_DESCRIPTION_00357_Index_06=§51§7级：需要碳纳米蜂群
     S:TileEntity_DESCRIPTION_00357_Index_07=§52§7级：需要中子纳米蜂群
-    S:TileEntity_DESCRIPTION_00357_Index_08=§53§7级：需要超时空金属纳米蜂群
+    S:TileEntity_DESCRIPTION_00357_Index_08=§53§7级：需要超越金属纳米蜂群
     S:TileEntity_DESCRIPTION_00357_Index_09=§7§m--------------------------------------------
     S:TileEntity_DESCRIPTION_00357_Index_10=当配方等级低于纳米锻炉等级时
     S:TileEntity_DESCRIPTION_00357_Index_11=机器可进行§c完美超频§7
@@ -11151,7 +11151,7 @@ languagefile {
     S:TileEntity_DESCRIPTION_12734_Index_03=用电代替爆炸物
     S:TileEntity_DESCRIPTION_12734_Index_04=最大并行：4^(等级-1)
     S:TileEntity_DESCRIPTION_12734_Index_05=等级由防护方块决定
-    S:TileEntity_DESCRIPTION_12734_Index_06=可选方块：中子、无尽、超时空金属、时空、宇宙素
+    S:TileEntity_DESCRIPTION_12734_Index_06=可选方块：中子、无尽、超越金属、时空、宇宙素
     S:TileEntity_DESCRIPTION_12734_Index_07=所安装的能源仓等级不低于(配方等级-1)
     S:TileEntity_DESCRIPTION_12734_Index_08=支持§9Tec§1Tech§7高电流能源仓
     S:TileEntity_DESCRIPTION_12734_Index_09=§7§m-----------------------------------------
@@ -17821,7 +17821,7 @@ languagefile {
     S:fluid.molten.titaniumonabariumdecacoppereikosaoxid=熔融HV超导基
     S:fluid.molten.titansteel=熔融泰坦精钢
     S:fluid.molten.tpvalloy=熔融钛铂钒合金
-    S:fluid.molten.transcendentmetal=熔融超时空金属
+    S:fluid.molten.transcendentmetal=熔融超越金属
     S:fluid.molten.trichloroaceticacid=三氯乙酸
     S:fluid.molten.trinium=熔融凯金
     S:fluid.molten.triniumnaquadahalloy=熔融硅岩-凯金合金

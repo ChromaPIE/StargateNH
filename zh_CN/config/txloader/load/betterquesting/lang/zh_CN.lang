@@ -131,7 +131,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALOg.desc=Minecraft是以区块为单位�
 
 # Quest: Permanent Offhand!
 betterquesting.quest.U7JoxM0mRaWx0MYriD2LtQ.name=§9§lPermanent Offhand!
-betterquesting.quest.U7JoxM0mRaWx0MYriD2LtQ.desc=With the release of version 2.8 of GTNH, the modern offhand slot has been backported and is available for every player. %n%nWith this, we say goodbye to the Battlegear slots of before. The three slots on either side of your hotbar, default key "G", are no longer!%n%nThis feature also works with any item that opens a GUI, like a backpack for example. This makes inventory management easier and helps with certain tedious tasks.%n%nDefault Keybind to swap between mainhand and offhand: §9F§r%n%n[warn]Any items that were in the Battlegear slots should return to your inventory or dropped on the ground if your inventory is full.[/warn]%n%n[note]You can also toggle various Torch Tweaks in Backhand's mod client configs. They are disabled by default, but you may find them useful if you love holding torches in your offhand.[/note]
+betterquesting.quest.U7JoxM0mRaWx0MYriD2LtQ.desc=The modern offhand slot has been backported.%n%nThis feature also works with any item that opens a GUI, like a backpack for example. This makes inventory management easier and helps with certain tedious tasks.%n%nDefault Keybind to swap between mainhand and offhand: §9F§r%n%n[note]You can also toggle various Torch Tweaks in Backhand's mod client configs. They are disabled by default, but you may find them useful if you love holding torches in your offhand.[/note]
 
 
 ## Quest Line: Tips and Tricks
@@ -3817,7 +3817,7 @@ betterquesting.quest.fVoSLYPcSmKd-gLhBJHK9A.desc=Finally, you can combine the §
 
 # Quest: Prismarine Precipitate
 betterquesting.quest.fc7Q6J-BThCf_NbvM0ki2Q.name=Prismarine Precipitate
-betterquesting.quest.fc7Q6J-BThCf_NbvM0ki2Q.desc=After creating the §2Prismarine-Rich Nitrobenzene Solution§r, you'll need to process it using a §5§lChemical Plant§r with §2Strontium Hydroxide§r. Once processed, you can successfully obtain your first §3Prismarine Precipitate§r.%n%n[warn]The Strontium is completely recyclable within the line, so no need to worry about it's continuous injection.[/warn]
+betterquesting.quest.fc7Q6J-BThCf_NbvM0ki2Q.desc=After creating the §2Prismarine-Rich Nitrobenzene Solution§r, you'll need to process it using a §5§lChemical Plant§r with §2Strontium Hydroxide§r. Once processed, you can successfully obtain your first §3Prismarine Precipitate§r.%n%n[warn]The Strontium is completely recyclable within the line, so no need to worry about it's continuous injection.[/warn]%n%n[note]If you have not gotten Strontium yet, you can obtain it from Strontium Oxide based on Rare Earth 3 or from Spessartine Froth.[/note]
 
 # Quest: Prismarine Recycling
 betterquesting.quest.kWoNH5tTQX2VIFmkui4YKA.name=Prismarine Recycling
@@ -4305,6 +4305,10 @@ betterquesting.quest.msIxGO5gQCWJPmEyp_JhtQ.desc=为了目前游戏中的最后�
 # Quest: Stabilized Baryonic Matter
 betterquesting.quest.n8PKF63sSSi0y8ZBb2RIKQ.name=稳化重子物质
 betterquesting.quest.n8PKF63sSSi0y8ZBb2RIKQ.desc=After automating Absolute Baryonic Perfection Purification Unit, you slowly start getting Stabilized Baryonic Matter, at a rate of 500mb/parallel every 120 seconds.
+
+# Quest: Biocatalyzed Propulsion Fluid
+betterquesting.quest.omilMDAFTVWzvZwo0SmnMw.name=Biocatalyzed Propulsion Fluid
+betterquesting.quest.omilMDAFTVWzvZwo0SmnMw.desc=Now with access to Maahes you can finally start making §5§lBiocatalyzed Propulsion Fluid§r. %n%nBPF is a superior fuel for the §9Spinmatron-2737§r, granting an additional §2§l1.25x§r parallels and allowing you to finally have access to §a§lHeavy mode§r dependent recipes.%n%n[note]If you happen to be avoiding rockets; check out the §nLumipod Sapling§r recipe[/note]
 
 # Quest: Wireless Data for Your Assembly Lines!
 betterquesting.quest.pLB6Sb0FSZ65cjWJ_Q4IIg.name=Wireless Data for Your Assembly Lines!
@@ -5883,7 +5887,7 @@ betterquesting.quest.Avz75EgSTdG48xI3HPGUMA.desc=Mining out large chunks of ston
 
 # Quest: Crystal Shulker Box
 betterquesting.quest.DSkXvzhRSKiwFLJywGDMRg.name=§6§lCrystal Shulker Box
-betterquesting.quest.DSkXvzhRSKiwFLJywGDMRg.desc=An enhanced version of the Diamond Shulker that allows you to see the contents within.%n%nHas §n108§r slots.%n%n[note]Can be Dyed![/note]
+betterquesting.quest.DSkXvzhRSKiwFLJywGDMRg.desc=An enhanced version of the Diamond Shulker that allows you to see the contents within.%n%nHas §n108§r slots.%n%n[note]Can be dyed![/note]
 
 # Quest: Obsidian Barrel
 betterquesting.quest.KfgATF33ToiE0aYS4pp04Q.name=§6§lObsidian Barrel
@@ -5895,7 +5899,7 @@ betterquesting.quest.LaLMF5rFQ0SxAZ5o-C-r5Q.desc=[quest]Advanced MagLev Pylon II
 
 # Quest: Obsidian Shulker Box
 betterquesting.quest.MbFXZcovQ1GRxQCeS2PUuw.name=§6§lObsidian Shulker Box
-betterquesting.quest.MbFXZcovQ1GRxQCeS2PUuw.desc=The portable equivalent of the Obsidian Barrel that retains it's explosion-proof qualities.%n%nHas §n108§r slots.%n%n[note]Can be Dyed![/note]
+betterquesting.quest.MbFXZcovQ1GRxQCeS2PUuw.desc=The portable equivalent of the Obsidian Barrel that retains it's explosion-proof qualities.%n%nHas §n108§r slots.%n%n[note]Can be dyed![/note]
 
 # Quest: Manipulator Upgrades
 betterquesting.quest.NKKa001sQ9qXBPAUEV4Vrg.name=Manipulator Upgrades
@@ -5907,7 +5911,7 @@ betterquesting.quest.QMlw6Z67T5-y_qflA7On2Q.desc=将钻石箱子与黑曜石结�
 
 # Quest: Iron Shulker Box
 betterquesting.quest.StA9TvxxSi2n2c7wQdCAFA.name=§2§lIron Shulker Box
-betterquesting.quest.StA9TvxxSi2n2c7wQdCAFA.desc=The portable equivalent of the Iron Barrel.%n%nHas §n54§r slots.%n%n[note]Can be Dyed![/note]
+betterquesting.quest.StA9TvxxSi2n2c7wQdCAFA.desc=The portable equivalent of the Iron Barrel.%n%nHas §n54§r slots.%n%n[note]Can be dyed![/note]
 
 # Quest: Constructing Additional Pylons!
 betterquesting.quest.U0LzQUUkRIi-cY3ZpT4uiQ.name=Constructing Additional Pylons!
@@ -5919,11 +5923,11 @@ betterquesting.quest.VFVruPLHQAeDthuV-s7HGQ.desc=混凝土.哦不，是汉麻混
 
 # Quest: Gold Shulker Box
 betterquesting.quest.YFUK2QflT1G3_WC8XBp2Wg.name=§3§lGold Shulker Box
-betterquesting.quest.YFUK2QflT1G3_WC8XBp2Wg.desc=The portable equivalent of the Gold Barrel.%n%nHas §n81§r slots.%n%n[note]Can be Dyed![/note]
+betterquesting.quest.YFUK2QflT1G3_WC8XBp2Wg.desc=The portable equivalent of the Gold Barrel.%n%nHas §n81§r slots.%n%n[note]Can be dyed![/note]
 
 # Quest: Finally, Some Real Power!
 betterquesting.quest.YxYz1jL6RSWHCxMlTHeJFw.name=Finally, Some Real Power!
-betterquesting.quest.YxYz1jL6RSWHCxMlTHeJFw.desc=The Energy Tunnel Manipulator Upgrade is incredibly useful for the heavy potential Matter Manipulator usage in §4§lUHV+§r. %n%nYou can now link directly with either the §5§lQuantum Link§r or a §5§lLaser Target Hatch§r for much quicker recharging. No need to rely on those slow wireless chargers any longer!
+betterquesting.quest.YxYz1jL6RSWHCxMlTHeJFw.desc=The Energy Tunnel Manipulator Upgrade is incredibly useful for the heavy potential Matter Manipulator usage in UHV+. %n%nYou can now link directly with either the §5§lQuantum Link§r or a §5§lLaser Target Hatch§r for much quicker recharging. No need to rely on those slow wireless chargers any longer!
 
 # Quest: Shulker Upgrades
 betterquesting.quest.Zza5BrD7TduqKby_b3wQsQ.name=§3§lShulker Upgrades
@@ -5931,7 +5935,7 @@ betterquesting.quest.Zza5BrD7TduqKby_b3wQsQ.desc=Shulker boxes in need of an upg
 
 # Quest: Diamond Shulker Box
 betterquesting.quest.aIt1E54yQaSOg4CMz-Xegw.name=§5§lDiamond Shulker Box
-betterquesting.quest.aIt1E54yQaSOg4CMz-Xegw.desc=The portable equivalent of the Diamond Barrel, you'll need to either upgrade your wand or take advantage of the Gold -) Diamond shulker box upgrade.%n%nHas §n108§r slots.%n%n[note]Can be Dyed![/note]
+betterquesting.quest.aIt1E54yQaSOg4CMz-Xegw.desc=The portable equivalent of the Diamond Barrel, you'll need to either upgrade your wand or take advantage of the Gold to Diamond Shulker Box Upgrade.%n%nHas §n108§r slots.%n%n[note]Can be dyed![/note]
 
 # Quest: Dark Steel Barrel
 betterquesting.quest.dNDuychlSiqlrMhfnEKK_w.name=§6§lDark Steel Barrel
@@ -5939,7 +5943,7 @@ betterquesting.quest.dNDuychlSiqlrMhfnEKK_w.desc=The Dark Steel barrel holds 135
 
 # Quest: Copper Shulker Box
 betterquesting.quest.dbax1OsmRpWMg6Pt4tE_ig.name=§2§lCopper Shulker Box
-betterquesting.quest.dbax1OsmRpWMg6Pt4tE_ig.desc=The portable equivalent of the Copper Barrel.%n%nHas §n45§r slots.%n%n[note]Can be Dyed![/note]
+betterquesting.quest.dbax1OsmRpWMg6Pt4tE_ig.desc=The portable equivalent of the Copper Barrel.%n%nHas §n45§r slots.%n%n[note]Can be dyed![/note]
 
 # Quest: Crystal Chest
 betterquesting.quest.e-VLKN-JSRK3V2cmDbm6rw.name=§b水晶箱子
@@ -5947,7 +5951,7 @@ betterquesting.quest.e-VLKN-JSRK3V2cmDbm6rw.desc=你已经制作了一个可以�
 
 # Quest: Silver Shulker Box
 betterquesting.quest.nc1Pqje3RIe_Yp6WoPOFzg.name=§3§lSilver Shulker Box
-betterquesting.quest.nc1Pqje3RIe_Yp6WoPOFzg.desc=The portable equivalent of the Silver Barrel.%n%nHas §n72§r slots.%n%n[note]Can be Dyed![/note]
+betterquesting.quest.nc1Pqje3RIe_Yp6WoPOFzg.desc=The portable equivalent of the Silver Barrel.%n%nHas §n72§r slots.%n%n[note]Can be dyed![/note]
 
 # Quest: Draconic Chest
 betterquesting.quest.njQqj1iCTK-64uA4HfSdVw.name=§6§lDraconic Chest
@@ -6406,10 +6410,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADEw.desc=大型钛锅炉是青铜锅炉�
 # Quest: Even More Steam? Are You Sure?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADFA.name=§6§l还要更多蒸汽？你确定吗？
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADFA.desc=在四种锅炉中,大型钨钢锅炉是最大也是最烂的.它与钛锅炉类似,只接受特定燃料,主要就是固体超级燃料,不过它输出过热蒸汽的速度相当于100％效率下的16000EU/t.如果你有更好的涡轮转子材料,比如奥利哈钢,那么你就能获得远超这个数字的功率输出,约为24000EU/t或是更高.%n%n你建造的大型锅炉数量,决定了你可能需要大量的大型涡轮.而为了解决这个问题,你可以考虑让每台涡轮进入超载状态,或者直接切换到松模式,不过只有在松模式下匹配最佳流量,这才算是个不错的选择.
-
-# Quest: Smelt All the Things...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADZg.name=§6§l熔了所有东西...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADZg.desc=一次熔炼多达九件物品听起来不错吧？只要一点点钢,你就可以做一台RC蒸汽炉.这是一个2x2x2的多方块结构.%n%n提示:所有熔炉的配方运作得都不错,但你没办法用它来将木头烧制成木炭.
 
 # Quest: Cleanroom
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADrA.name=§6§l超净间
@@ -6919,6 +6919,10 @@ betterquesting.quest.fLH_QDPRR6mgCK0PL5iWmA.desc=这台多方块机器是获取�
 # Quest: Can it!
 betterquesting.quest.gMRufFtRRRa30LE21boFNQ.name=把它装进罐子里！(Can it!)
 betterquesting.quest.gMRufFtRRRa30LE21boFNQ.desc=如果您曾经需要等待装罐机来装满锡罐,或者等待流体灌装机来制造成吨的冷却剂单元,那么请考虑下特宝灌 Pro.当您决定需要它时,这台多方块机器可以同时充当这两种机器,并具有显著的优势!
+
+# Quest: Spinmatron-2737
+betterquesting.quest.p4BZRIJZQKON4zmHeIqcoA.name=Spinmatron-2737
+betterquesting.quest.p4BZRIJZQKON4zmHeIqcoA.desc=Tired of spamming Centrifuges already? %n%nAlas, with your newfound ZPM technology you can finally fabricate a Centrifuge with some real power; §5§lThe Spinmatron-2737§r!%n%nThe Spinmatron§r comes with a litany of advantages compared to the regular centrifuge multiblock, including a §2§l3x§r Speed boost, a §2§l30%%§r reduction in EU usage, and a malleable number of parallels.%n%nUnlike the generic turbine that comes stock in a normal Centrifuge, the Spinmatron§r graciously allows you to choose the quality of the turbines that go into the machine. You can add between §9§l2-8§r turbines depending on the machine tier, each turbine will increase the parallel amount by [§94 * Turbine Material Tier§r]. §3(You'll want to avoid using smaller, non-huge turbines!)§r%n%nThis efficiency comes at a cost however, and will require [§9Recipe Tier * 10§r] L/s of §5Kerosene§r in order to run. This can optionally be switched out with §5Biocatalyzed Propulsion Fluid§r for a §2§l1.25x§r parallel multiplier once you've reached §4UEV§r.%n%nAdditionally there are three modes that come unique to the Spinmatron:%n%n- §dLight§r -> Gives increased speed in exchange for only being able to process [§9Voltage Tier - 3§r] recipes%n%n- §6Normal§r -> No changes%n%n- §aHeavy§r -> Grants the ability to craft Heavy Mode dependent recipes in exchange for reducing your parallels by §c§l32x§r and consuming §5Biocatalyzed Propulsion Fluid§r.%n%n[note]Checkout the tooltip for more information![/note]%n%n[warn]Use the GUI for adding turbines; don't add them to the rotor assemblies.[/warn]
 
 # Quest: High Voltage Multiblocks
 betterquesting.quest.pKSx6HEUS0WkL6qkwo742g.name=高压阶段的多方块结构
@@ -11676,7 +11680,7 @@ betterquesting.quest.NO4JlNzcR_-1gaQi-kb3JA.desc=Shadow Metal is an extremely us
 
 # Quest: Scanning Made Easy
 betterquesting.quest.PKOdH3D6SsG3LQN6-pFF_A.name=Scanning Made Easy
-betterquesting.quest.PKOdH3D6SsG3LQN6-pFF_A.desc=We get it; The early-game of thaumcraft sucks and you don't want to throw every one of your 1000 items on the ground and scan them. That's why we added 2 cool QoL features which makes this tedious task very quick and easy.%n%n1. You don't actually have to throw the item on the ground. You can scan it directly from your inventory! Simply hover it over the item you want to scan, and after a short duration it will be scanned.%n%n2. You've probably accumulated dozens of double chests full of junk that you don't want to sift through and scan, so there's a second feature now: Scanning entire chests! Simply shift right-click while hovering over a chest with your thaumometer and it'll scan EVERY item inside of the chest. Though be beware, this strong feature requires a bit of research. %n[note]To unlock the research, go to your Thaumonomicon, open "Basic Information" (the first tab), and complete this research path: Research -> Research Expertise -> Deconstruction Table -> Container Scanning[/note]
+betterquesting.quest.PKOdH3D6SsG3LQN6-pFF_A.desc=We get it; The early-game of Thaumcraft requires a lot of research and you don't want to throw every one of your 1000 items on the ground and scan them for aspects. That's why we added 2 cool QoL features which makes this tedious task very quick and easy.%n%n1. You don't actually have to throw the item on the ground. You can scan it directly from your inventory! Simply hover your Thaumometer over the item you want to scan, and after a short duration it will be scanned.%n%n2. You've probably accumulated dozens of double chests full of junk that you don't want to sift through and scan, so there's a second feature now: Scanning entire chests! Simply shift right-click while hovering over a chest with your thaumometer and it'll scan EVERY item inside of the chest. Though before you can do so you have to learn a bit more about deconstruction in the Thaumonomicon.%n%n[note]Hint: To unlock the research to scan entire chests, go to your Thaumonomicon, open "Basic Information" (the first tab), and complete this research path: Research -> Research Expertise -> Deconstruction Table -> Container Scanning.[/note]
 
 # Quest: More Health
 betterquesting.quest.TjJv9pSOSaW1kwzoTZ9qRw.name=更多生命值
@@ -12216,10 +12220,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFUA.desc=护盾方块-防爆-一次性�
 # Quest: What the Heck...?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFUQ.name=搞什么鬼...？
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFUQ.desc=你找到了一个黄色的发光球. 以后可能会有用.
-
-# Quest: The One Ring
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFUg.name=魔戒
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFUg.desc=你找到了,一枚由强大的黑巫师锻造的戒指.一种奇怪的感觉告诉你:穿上它.戒指似乎也在向你耳语...%n%n[note]不过你最好别这么做.除非你想获得大量的扭曲,凋灵在你的屁股后面生成,然后把你的基地炸上天.[/note]%n%n魔戒会使你§1隐身§r且§1无敌§r,但同时这枚戒指也会不断收集§5扭曲§r,并反馈到你身上.佩戴1小时后,增量会明显变快,所以除非你有的是纯净泪水,不要长时间佩戴.这枚戒指还会带来其他状态,同时戴上后想拿下来就不是那么简单的事情了.
 
 # Quest: I Don't Want to Set the World on Fire
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFXA.name=法杖核心:火焰
@@ -14385,6 +14385,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADXw.desc=铜制标枪的成本有些贵�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADYA.name=§2§l你的第一把燧石飞刀
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADYA.desc=骨弓对你来说太贵了？那就做把燧石飞刀吧!你需要燧石和木棒来做成12把刀.虽然它的耐久和伤害都非常低,但它还是能帮你从安全的距离杀死杂鱼.%n%n如果你想拾取你射出的飞刀,你需要把匠魂的飞刀放在你的物品栏中,如果飞刀在战备双持的物品栏里,则无法拾取。
 
+# Quest: Smelt All the Things...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADZg.name=§6§l熔了所有东西...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADZg.desc=一次熔炼多达九件物品听起来不错吧？只要一点点钢,你就可以做一台RC蒸汽炉.这是一个2x2x2的多方块结构.%n%n提示:所有熔炉的配方运作得都不错,但你没办法用它来将木头烧制成木炭.
+
 # Quest: Power of the Sun
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADpQ.name=§6§l太阳能
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADpQ.desc=现在我们应该研究一些别的可再生能源了.让我们从太阳能开始,最低等级的太阳能板发电量是1EU/t.这些太阳能板可以作为大部分GT机器的覆盖板使用,让这些机器能从太阳中获取能源(但前提是它可以看见太阳,即顶部没有不透明遮挡).%n%n千万记住挡雨,在机器上方放一层玻璃,也别忘了机器紧邻的方块也不能淋雨.%n%n[note]铝铁板需要MV冲压机床.[/note]
@@ -14763,11 +14767,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMzw.desc=一定有种方式,可以让纳
 
 # Quest: Prototype Matter Manipulator
 betterquesting.quest.AVth34rQQ3iuYeQaKrsSQg.name=§9§lPrototype Matter Manipulator
-betterquesting.quest.AVth34rQQ3iuYeQaKrsSQg.desc=The §4§lMatter Manipulator§r is an extremely powerful tool that you can use during your entire playthrough. It is essentially a survival version of world-edit that is custom made for the GTNH player's convenience.%n%nThe §3§lPrototype Matter Manipulator§r is expectedly the least powerful, most rudimentary version. You can only use the §5§lGeometry Mode§r to create and manipulate shapes for use in building. You will §nnot§r be able to remove blocks until you install an upgrade unlocked in §2§lEV§r.%n%nFor the most accurate and detailed information visit: [url]https://github.com/RecursivePineapple/MatterManipulator/blob/master/README.md[/url]%n%n[note]The best way to learn about it is to use it! Experiment with the UI and become familiar with how it works.[/note]%n%n[warn]Checkout the Building Better Bases tab for the complete Manipulator questline.[/warn]
+betterquesting.quest.AVth34rQQ3iuYeQaKrsSQg.desc=The §1§lMatter Manipulator§r is an extremely powerful tool that you can use during your entire playthrough. It is essentially a survival version of world-edit that is custom made for the GTNH player's convenience.%n%nAs you might expect, the §1§lPrototype Matter Manipulator§r is the least powerful, most rudimentary version. You can only use the §5§lGeometry Mode§r to create and manipulate shapes for use in building. You will [warn]not[/warn]§r be able to remove blocks until you install an upgrade unlocked in EV.%n%nYou can find detailed information from the developer on: [url]https://github.com/RecursivePineapple/MatterManipulator/blob/master/README.md[/url]%n%nBut the best way to learn about it is to use it! Experiment with the UI and become familiar with how it works.%n%n[note]Checkout the Building Better Bases tab for the complete Manipulator questline.[/note]
 
 # Quest: Matter Manipulator MKII
 betterquesting.quest.D6AFvlXcQbqDncL9y2HXEw.name=§c§lMatter Manipulator MKII
-betterquesting.quest.D6AFvlXcQbqDncL9y2HXEw.desc=The MKII is the penultimate upgrade in the Matter Manipulator line. This one being much more powerful, storing §210x§r the power, with a range of §2128 Blocks§r, and the ability to place §2256 Blocks/Second§r.%n%nIn addition to all of the MKI features you now unlock §5two powerful new modes§r:%n%n§l- Copy / Paste§r: Copy a selection of blocks and paste it as many times as you'd like. Works best with GT & AE2.%n%n§l- Move§r: Similar to Copy / Paste, but will physically relocate something already built.%n%nHere is a short list of things that are copied / moved with the MM, the more complete list is on the Readme, but this should give you a general idea of how versatile it is.%n§3§lGregTech:§r%n%n- Pipe/Cable connections%n- Machine color%n- Machine front & output directions%n- Basic machine settings (auto outputs, etc)%n- Hatch settings (sorting, stack limiting, etc)%n- Multi machine settings (void protection, batch mode, etc)%n- Multi rotation%n- Covers%n- Strong redstone output%n- Custom names%n- Ghost circuits%n- Bus/hatch item/fluid lock%n- Modes (for machines that use the new mode system)%n- Data stick data%n- TecTech machine input parameters%n- ME output bus/hatch capacity%n§3§lAE2:§r%n%n- Any coloring%n- The orientation%n- The configuration%n- The upgrades%n- Custom names%n- Any stored cells (will also automatically configure cells & install their upgrades)%n- Any patterns (will encode but not decode patterns)%n- Priority Settings%n- P2P Settings%n- OreDict / Regular Filter
+betterquesting.quest.D6AFvlXcQbqDncL9y2HXEw.desc=The MKII is the penultimate upgrade in the Matter Manipulator line. It is much more powerful, storing §210x§r the power, with a range of §2128 Blocks§r, and the ability to place §2256 Blocks/Second§r. In addition to all of the MKI features you now unlock §5§ltwo powerful new modes§r:%n%n- §5§lCopy / Paste§r: Copy a selection of blocks and paste it as many times as you'd like. Works best with GT & AE2.%n%n- §5§lMove§r: Similar to Copy / Paste, but will physically relocate something already built.%n%nHere is a short list of things that are copied / moved with the MM, the more complete list is on the Readme, but this should give you a general idea of how versatile it is.%n%n§3§lGregTech:§r%n- Pipe/Cable connections%n- Machine color%n- Machine front & output directions%n- Basic machine settings (auto outputs, etc)%n- Hatch settings (sorting, stack limiting, etc)%n- Multi machine settings (void protection, batch mode, etc)%n- Multi rotation%n- Covers%n- Strong redstone output%n- Custom names%n- Ghost circuits%n- Bus/hatch item/fluid lock%n- Modes (for machines that use the new mode system)%n- Data stick data%n- TecTech machine input parameters%n- ME output bus/hatch capacity%n%n§3§lAE2:§r%n- Any coloring%n- The orientation%n- The configuration%n- The upgrades%n- Custom names%n- Any stored cells (will also automatically configure cells & install their upgrades)%n- Any patterns (will encode but not decode patterns)%n- Priority Settings%n- P2P Settings%n- OreDict / Regular Filter
 
 # Quest: Ozonation
 betterquesting.quest.E9atHD5uR9CC0G1qEeFDmQ.name=§c§l臭氧化
@@ -14775,7 +14779,7 @@ betterquesting.quest.E9atHD5uR9CC0G1qEeFDmQ.desc=想要更快地处理晶圆?通
 
 # Quest: A Portable Barrel?
 betterquesting.quest.EDtFbLVvQX2Y5mQp84W9bw.name=§2§lA Portable Barrel?
-betterquesting.quest.EDtFbLVvQX2Y5mQp84W9bw.desc=As an upgrade to the barrels, EFR also adds the ever-familiar shulker box! The shulker box allows you to portably tote it's contents. You can find the research for them in the New Horizons tab of the Thaumonomicon.%n%nThese have seven additional tiers much like the barrels and chests that give you additional storage space. %n%nYou can dye any tier by shapelessly crafting them with a dye, and undye them by shapelessly crafting them alone. They §nwill§r retain their inventory. %n%n[note]There are many ways to obtain shulker shells:%n1. Fighting Shulkers in the Twilight Forest Lich & Ghast Queen Towers.%n2. Fighting Shulkers from the eggs in the Coins tab%n3. Manually crafting the shells[/note]
+betterquesting.quest.EDtFbLVvQX2Y5mQp84W9bw.desc=As an upgrade to the barrels, EFR also adds the ever-familiar shulker box! The shulker box allows you to comfortably tote around its contents. You can find the research for them in the New Horizons tab of the Thaumonomicon.%n%nThese have seven additional tiers much like the barrels and chests that give you additional storage space. %n%nYou can dye any tier by shapelessly crafting them with a dye, and undye them by shapelessly crafting them alone. They §nwill§r retain their inventory. %n%n[note]There are many ways to obtain shulker shells:%n1. Fighting Shulkers in the Twilight Forest Lich & Ghast Queen Towers.%n2. Fighting Shulkers from the eggs in the Coins tab.%n3. Manually crafting the shells.[/note]
 
 # Quest: Gold Barrel
 betterquesting.quest.GuylOTxSSraeAtj16fZ9-w.name=§3§lGold Barrel
@@ -14811,11 +14815,11 @@ betterquesting.quest.WqDynhbQQ4GdNMKm0BlbcQ.desc=为了获得更纯净的水,您
 
 # Quest: Matter Manipulator MKI
 betterquesting.quest.Y4bRCOWFTgyxdTJXWXjFfA.name=§b§lMatter Manipulator MKI
-betterquesting.quest.Y4bRCOWFTgyxdTJXWXjFfA.desc=The MKI is where you really start unlocking the potential of the Matter Manipulator. This new one has a §264 Block§r range and a §264 Block/Second§r speed limit.%n%nUnlike it's prototype predecessor, this now has §53 new modes§r made available to you:%n%n§l- Geometry§r: Places standard blocks in a selected and configurable shape.%n%n§l- Cable§r: Allows you to place AE and GT cables & pipes in lines (and connecting them automatically).%n%n§l- Exchange§r: Allows you to swap large swaths of blocks like the TC Equal Trade Focus.%n%nAdditionally, it can now connect to your §5AE network§r for automatically transferring items and liquids. You can link the tool in your security terminal and use it while within wireless range.%n%nWhen something is placed into the world, the tool will §3pull§r from inventories in this order:%n1 - ME system%n2 - Player's inventory%n3 - Uplink§r%n%nWhen something is removed from the world, the tool will §3push§r into inventories in this order:%n1 - ME system%n2 - Uplink%n3 - Player's inventory%n4 - The Ground (Items Only)%n%n[note]This also comes stock with the ability to remove blocks, so there is no need for another excavation upgrade.[/note]
+betterquesting.quest.Y4bRCOWFTgyxdTJXWXjFfA.desc=The MKI is where you really start unlocking the potential of the Matter Manipulator. It has a §264 Block§r range and a §264 Block/Second§r speed limit.%n%nUnlike it's prototype predecessor, you now have §5§l3 modes§r available:%n%n- §5§lGeometry§r: Places standard blocks in a selected and configurable shape.%n%n- §5§lCable§r: Allows you to place AE and GT cables & pipes in lines (and connect them automatically).%n%n- §5§lExchange§r: Allows you to swap large swaths of blocks like the TC Equal Trade Focus.%n%nAdditionally, the MKI can connect to your AE network to automatically transfer items and liquids. You can link the tool in your security terminal and use it while within wireless range.%n%nWhen something is placed in the world, the tool will §lpull§r from inventories in this order:%n1 - ME system%n2 - Player's inventory%n3 - Uplink§r%n%nWhen something is removed from the world, the tool will §lpush§r into inventories in this order:%n1 - ME system%n2 - Uplink%n3 - Player's inventory%n4 - The Ground (Items Only)%n%n[note]The MKI also comes with the ability to remove blocks, so there is no need for another excavation upgrade.[/note]
 
 # Quest: Matter Manipulator MKIII
 betterquesting.quest._zwtTNh-SG6B4wp221XPcQ.name=Matter Manipulator MKIII
-betterquesting.quest._zwtTNh-SG6B4wp221XPcQ.desc=The MKIII is the final upgrade in the Matter Manipulator series, and grants you access to it's most heightened capabilities. With §210x§r the EU storage as the MKII, it also boasts an §5§lUnlimited§r block range and can handle placing §21024 Blocks / Second§r.%n%nFeature wise, the MKIII comes with all of the same abilities as the MKII, except now with the ability to use the §3§lQuantum Uplink§r, though you won't be able to build that multiblock until §4§lUV§r.
+betterquesting.quest._zwtTNh-SG6B4wp221XPcQ.desc=The MKIII is the final upgrade in the Matter Manipulator series, and grants you access to it's most heightened capabilities. With §210x§r the EU storage as the MKII, it also boasts an §5§lunlimited§r block range and can handle placing §21024 Blocks / Second§r.%n%nThe MKIII comes with all of the features of the MKII, except now with the ability to also use the §5§lQuantum Uplink§r, though you won't be able to build that multiblock until UV.
 
 # Quest: Creative Flight With MagLev
 betterquesting.quest.a-g__0y_SGyed_E6IkIrsg.name=§6§lCreative Flight With MagLev
@@ -14851,7 +14855,7 @@ betterquesting.quest.hvukogcPRX-hht60vc0Zgw.desc=Congratulations! You have grace
 
 # Quest: Quantum Uplink
 betterquesting.quest.jZURYQZlSuitTiiasN4J8A.name=Quantum Uplink
-betterquesting.quest.jZURYQZlSuitTiiasN4J8A.desc=The §5§lQuantum Uplink§r is a multi made specifically for the Matter Manipulator that is unlocked with the aid of §4§lUV§r tech. %n%nThis allows the Matter Manipulator to connect to your ME system over an §2infinite range§r, and §3across dimensions§r. The tool can be linked by placing it into the controller while the uplink is active. The uplink will take a continous 1A of ZPM power to function.%n%nAdditionally, you can now use it to create fake ME patterns upon selecting an area. This will make it quick to order all of the parts needed for Copy & Pasting in an area. %n%n[warn]The Uplink is powerful, but at a cost. Moving all items / fluids from the AE system will cost a small amount of plasma per transfer. %n%nSpecifically: 16k EU of plasma per item / per 1000L of fluid[/warn]
+betterquesting.quest.jZURYQZlSuitTiiasN4J8A.desc=The §5§lQuantum Uplink§r is a multi made specifically for the Matter Manipulator that is unlocked with the aid of UV tech. %n%nThis allows the Matter Manipulator to connect to your ME system over an infinite range, and across dimensions. The tool can be linked by placing it into the controller while the uplink is active. The uplink will take a continous 1A of ZPM power to function.%n%nAdditionally, you can now use it to create fake ME patterns upon selecting an area. This will make it quick to order all of the parts needed for Copy & Pasting in an area. %n%n[warn]The Uplink is powerful, but at a cost. Moving all items / fluids from the AE system will cost a small amount of plasma per transfer. %n%nSpecifically: 16k EU of plasma per item / per 1000L of fluid[/warn]
 
 # Quest: NEI Next Level Search
 betterquesting.quest.kR1YVSq2R4WFu9KNM9lCZQ.name=§2§lNEI Next Level Search
@@ -14935,10 +14939,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABxw.desc=寻找"神秘水晶"并触发�
 # Quest: Trigger: Life
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAByA.name=触发生命
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAByA.desc=在凋灵死亡后触发红心容器任务.
-
-# Quest: Trigger: Ring
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFUw.name=触发:魔戒
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFUw.desc=寻找魔戒.
 
 # Quest: Trigger: Mjolnir
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFVA.name=触发:雷神之锤
