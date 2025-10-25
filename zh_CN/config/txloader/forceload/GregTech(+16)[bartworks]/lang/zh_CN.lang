@@ -138,7 +138,7 @@ tooltip.bw.yes.name=是
 tooltip.bw.no.name=否
 tooltip.bw.tier.name=等级:
 tooltip.bw.empty.name=空
-tooltip.bw.mb_via.name=%s§7 via §2BartWorks
+tooltip.bw.mb_via.name=%s§7通过§2BartWorks
 
 tooltip.bw.item.circuit.tagged=a circuit
 tooltip.bw.item.circuit.tagged.imprint=An imprint for: %s
