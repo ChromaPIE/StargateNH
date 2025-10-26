@@ -535,6 +535,7 @@ item.VoidSeed.name=虚空种子
 item.WaferTier3.name=高能晶圆
 item.MirandaStoneDust.name=天卫五尘
 item.TuffDust.name=Tuff Dust
+item.ChaoticDust.name=Chaotic Dust
 item.DeepslateDust.name=Deepslate Dust
 item.QuantumBoard.name=量子电路基板
 item.NanoBoard.name=纳米电路基板

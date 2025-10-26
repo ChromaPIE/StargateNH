@@ -1781,6 +1781,7 @@ for.config.crafting.stamps.disabled.comment=禁止某种邮票的合成表。
 
 for.config.tweaks=调整
 
+for.config.tweaks.gui.showBackpackDurability=Shows a durability bar on backpacks indicating how full they are.
 for.config.tweaks.gui.mail.alert.enabled=邮箱提醒
 for.config.tweaks.gui.mail.alert.enabled.comment=启用新邮件提醒盒子
 for.config.tweaks.gui.mail.alert.xPosition=水平位置
