@@ -1701,7 +1701,7 @@ languagefile {
     S:Material.vyroxeres=幽冥剧毒结晶
     S:Material.wasteliquid=废液
     S:Material.water=水
-    S:Material.weedex9000=除草剂-9000
+    S:Material.weedex9000=草立净-9000
     S:Material.wetrareearthoxides=湿稀土氧化物
     S:Material.wheat=小麦
     S:Material.whitedwarfmatter=白矮星物质
@@ -18326,7 +18326,7 @@ languagefile {
     S:fluid.vinylacetate=乙酸乙烯酯
     S:fluid.vinylchloride=氯乙烯
     S:"fluid.waste liquid"=废液
-    S:fluid.weedex9000=除草剂-9000
+    S:fluid.weedex9000=草立净-9000
     S:fluid.wet.concrete=湿混凝土
     S:fluid.whitedwarfmatter=白矮星物质
     S:fluid.woodgas=木炭气

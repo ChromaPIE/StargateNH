@@ -4847,7 +4847,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAGBg.name=作物自动化
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGBg.desc=作物监管机是一台LV机器,可以监控11x11x3区域的作物,并根据需要自动施肥,使用除草剂与浇水. 水可以直接泵入或使用IC2水化单元,水化单元使用后不会返还单元.%n%n作物监管机防雨,但要确保你的电源不会淋雨(你可能会找到一种奇特的方式做到),或使用LV电池供电. 锂电池大概能持续约2小时.%n%n耕地仍然需要附近有水方块才能保持湿润,因为监管机长只会浇灌作物,而不是土壤. 尝试将睡莲放在水上,这样走路就不会掉下去了,或者你可以试试花土.%n%n你需要不锈钢来制作作物收割机.  林业的多方块农场(林场)可作为作物监管机和作物收割机的替代方案,它也可以收获作物架上的作物,甚至不需要使用作物分析仪来选择正确的生长阶段即可收获!%n%n目前,作物收割机是LV机器. 林业农场可以替代作物监管机与作物收割机的功能.而且它也支持作物架,甚至无需作物分析仪也可在正确的阶段收割作物!
 
 # Quest: Weed Ex
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGBw.name=除草剂
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGBw.name=草立净
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGBw.desc=除草剂可防止杂草在空作物架上生长(消耗除草剂). 它对作物质量的损害是无稽之谈,我们检查过代码,可以向你保证.§o除非§r作物有杂草属性(奇妙花(venomilia)生长值8+,其他作物生长值24+),那么它可能会损失1点属性.而且还可以再次培育回来.且这种损失只有在使用过多下才可能出现,而作物监管机不会滥用除草剂.%n%n用法:%n当手持除草剂时,右键单击作物架以使用它. 它也可以放置在作物监管机中,自动将其应用于作物.
 
 # Quest: Reed and Resin
