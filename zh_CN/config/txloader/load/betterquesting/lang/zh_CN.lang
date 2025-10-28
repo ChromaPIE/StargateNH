@@ -5307,6 +5307,10 @@ betterquesting.quest.SxCNz5_RSym0Q-uKaG2JRA.desc=它们的耐久有限.因此可
 betterquesting.quest.U6wfKJSxTiyYvcz-f-76EA.name=异界之门
 betterquesting.quest.U6wfKJSxTiyYvcz-f-76EA.desc=神秘视界的异界传送门可以让你进入口袋世界.可以为一个口袋世界设置多个(最多四个)异界传送门,它们甚至可以让你往返于其他其他位面之间.
 
+# Quest: Chaos Locator
+betterquesting.quest._D1VyrEFSICL70afdVd1YQ.name=Chaos Locator
+betterquesting.quest._D1VyrEFSICL70afdVd1YQ.desc=This device is fashioned to greatly accelerate the hunt for chaos shards, by teleporting you straight to them! %n%nSimply enter any number from -1000 to 1000 in the coordinate fields, click the button and you will be teleported directly to a chaos island, even across dimensions. %nHow convenient!%n%n[note]You will still have to fight the chaos guardian though, this isn't a cosmic superweapon.[/note]%n%n
+
 # Quest: Speed up with the Sash
 betterquesting.quest.aXAQD7T1SnGCAu0L4iV64w.name=用腰带加速
 betterquesting.quest.aXAQD7T1SnGCAu0L4iV64w.desc=这些植物魔法的腰带能够被动地提高你的移动速度和跳跃高度,且让你能自动走上一格高的坡,仅仅需要你把它装备在腰带栏,这多方便！%n%n你会需要一种方法来为这些腰带提供能量,用魔力石板或用链接了魔力池的魔力手镜.%n%n旅居者腰带提供基础的速度加持和跳跃高度,并自动爬坡.环游者腰带提供的速度和跳跃高度是旅居者腰带的两倍.%n%n平原腰带稍微有点特别,它会随着你移动缓慢加速,最高可以为你提供11倍于旅居者腰带的速度!%n%n[note]你只需要制作一个腰带来完成任务.[/note]
