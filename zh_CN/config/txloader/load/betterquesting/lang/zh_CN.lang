@@ -443,6 +443,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKsQ.desc=众所周知,食物是伟大! �
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALPA.name=§2§l奖励小游戏(Loot Game)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALPA.desc=看起来...你在不太深的地下(实际上很接近地表)找到了一个隐藏房间. 这种隐藏房间到处都是,如果你擅长'你说我做'(simon-says)这种游戏的话,就有机会获得丰厚的奖励. 奖励只计算完成的最高难度等级,所以如果你觉得事不可为,完全可以故意输掉再去找下一处. 另外,这里是偷鸡者的地狱,所有的方块硬度都是-1(不可破坏).%n%n要是你扫雷失败了,它就会立刻爆炸.所以请确保留出了逃生的空间!%n%n请确保世界生成的时候没有在房间内留下水或者石油,否则小游戏会认为你在'作弊',击杀并毁掉你的墓碑. 这是个bug.
 
+# Quest: Coins! Coins! Coins!
+betterquesting.quest.McmojGJJS3m8fS6c4olJmQ.name=§2§lCoins! Coins! Coins!
+betterquesting.quest.McmojGJJS3m8fS6c4olJmQ.desc=Finally, a use for all of these coins!%n%nThe §5§lVending Machine§r is a unique multiblock that allows you to exchange coins for valuable resources. You will progressively unlock new trades as you complete quests. Quests that unlock Vending Machine trades upon completion will show this information under the section labeled "§lAssociated Vending Machine Exchanges§r".%n%nAlternatively you can click "§2U§r" on the Vending Machine in NEI to see all available trades and what quests they are unlocked by. If an item can be traded for it will show up when clicking "§2R§r" under the Vending Machine tab.%n%nYou can put your coins directly into the input and they will appear in the internal storage. Additional inputs §3(including non-consumable)§r should be placed here as well. There is also a button for ejecting the coins if you need to reclaim them. %n%n[warn]Be aware, some trades have much longer timeout periods between claims![/warn]%n%n
+
 # Quest: The power of prospecting!
 betterquesting.quest.bMKIeFhNQluRks9YzpqEGQ.name=§6§l勘探之力!
 betterquesting.quest.bMKIeFhNQluRks9YzpqEGQ.desc=在你的地图界面(默认按J)的顶上有多个标签页,其中一些十分有用,可以节省你大量的搜索时间!%n%nGT矿脉-此标签页会为你追踪矿脉,要保存矿脉到地图,右键一个自然生成的矿石(有些工具不能右键)%nGT地下流体-这会在之后（MV）帮助你%nTC节点-此标签页会为你追踪神秘时代节点(你得先扫描它们)%n%n[note]贫瘠矿石不是矿脉的一部份,因此无法在地图上显示为矿脉.然而矿脉会在它们的区块里生成额外的贫瘠矿石,因此它们对你的搜索仍然很有用(不是所有贫瘠矿石都生成在矿脉旁,不要被骗了)[/note]%n%n[note]另一个超棒的功能是,你可以在NEI搜索栏中使用高亮模式(双击它),然后转到地图界面,就可以突出显示匹配的未开采矿脉![/note]
@@ -10034,10 +10038,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKwg.desc=抽屉非常好用,对吧? 将�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKww.name=简易教学 - 自动合成
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKww.desc=这是AE的核心功能,让我们开始吧. 装好合成存储器和分子装配室以及样板终端,然后在分子装配室贴上ME接口(如果接口是面板形态,请确保分子装配室另一侧有供能,当然绝大多数情况下我们在这里都会使用方块形态的接口). 如果不配合ME接口使用,分子装配室内部只有一个存储样板的空间. 将空白样板放入样板终端,然后在合成栏编写样板,最后点击箭头存储. 将编写好的样板放入ME接口后,你就可以在终端直接下单合成了.%n%n至于加工样板(机器或是其他不同于传统3x3合成),需要点击右侧的按钮切换. 且需要同时标记原料与产物. 比如,可以将ME接口贴到熔炉上,结合ME输入总线用于将产物送回ME网络. 如果是能够自动输出的机器(比如多方块机器),只需要在输出口贴上ME接口即可(这样更快且还没有什么延迟).
 
-# Quest: Short Guide - P2P
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKxA.name=简易教学 - P2P
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKxA.desc=AE较复杂的部分之一,在了解并熟练掌握了P2P之后,你就可以说是基本掌握了这个mod. 首先,把你的能源接收器换成ME控制器. 它能够提供更多可用的频道. 将P2P通道贴到控制器的一面上,然后用线缆连接到远处. 请确保这条线缆内有能量(能源接收器或是石英纤维连到主网络),但不是普通线缆,需要将其与主网络频道隔离(译者注: 其实不隔离也问题不大,只是要记得P2P不能嵌套就行了,所以还是这样用起来更不容易混). 在这条线缆的另一端连接上另一个P2P通道,并在它的出口处至少放上一个致密线缆. 手持内存卡Shift+右键第一个P2P通道,然后再右键第二个P2P通道. 这样就可以将两者链接,子网络的2个频道就可以传输主网络的32个频道了(控制器的每个面也是32个频道). 对每个没有控制器的子网络(共8个频道),可以安装四对P2P通道,传输最多128个频道. 这下你知道这玩意多么有用了吧!%n%nAE2还有许多有趣且有用的玩法,多尝试,阅读任务书,看教程视频等等都可以帮助你更好地使用AE网络.
-
 # Quest: Applied Greg?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALPQ.name=应用格雷(Applied Greg)?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALPQ.desc=输入/输出总线(ME)是一种科技和...另一种科技结合的产物. 别这么看我,它就是,好不? 有了这些总线,你可以直接让GT多方块机器和ME网络进行物品输入/输出交互. 它们可以§o大幅度§r降低延迟,从而§o显著§r提升TPS,所以在服务器中,请尽早换用这些总线.%n%n只需要拆除你的普通GT总线+ME总线/ME接口,再换上输入/输出总线(ME),并直接连上AE线缆,即可完成换装. 它会使用1个频道,而其他方案一样要用1个频道.%n%n输出总线和输出仓的缓存空间是有限的.如果你需要更大的缓存,你既可以通过将其和存储组件,也可以通过向其中放入一个存储元件.一个数字奇点元件会带来近乎无限的缓存%n%n如果销毁模式未开启,ME输出仓/总线满时,多方块机器不会销毁过量流体/物品.%n%n[note]在某些机器中, 例如进阶装配线,必须将物品配置在第一格才能让机器识别到它并工作.[/note]
@@ -10109,6 +10109,10 @@ betterquesting.quest.TP2PEGHQRnGKgKYFziEjrg.desc=[quest]Equal Distribution, Fake
 # Quest: 256k Essentia Component
 betterquesting.quest.Wh0yn2MOQhS-X_8NiPiZJw.name=256k-ME源质存储组件
 betterquesting.quest.Wh0yn2MOQhS-X_8NiPiZJw.desc=与1k存储元件一样.
+
+# Quest: Vending Uplink Hatch
+betterquesting.quest._Hu6__h5TDazRXcEeZvyUg.name=Vending Uplink Hatch
+betterquesting.quest._Hu6__h5TDazRXcEeZvyUg.desc=Now that you've unlocked ME interfaces you can use this new technology to uplink with your Vending Machine!%n%nThe §5Vending Uplink Hatch§r can replace any of the pipe casing blocks and be connected directly to your AE network for automatically pulling required items.%n%n[note]Will work for both consumable and non-consumable items.[/note]%n[warn]Will not pull coins; those are manual entry only.[/warn]
 
 # Quest: Ultimate Parallelization...
 betterquesting.quest._bEWg1FHSmKu9MNhlbDlwA.name=§6§l终极并行...
