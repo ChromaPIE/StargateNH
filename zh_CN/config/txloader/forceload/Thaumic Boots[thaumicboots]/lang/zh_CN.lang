@@ -97,6 +97,9 @@ UniqueCore.1=当你研究术法现象时,你遇到了一些奇特的东西:有�
 tc.aspect.caelum=宙空
 tc.aspect.tabernus=靴子,穿越
 
+tc.aspect.help.caelum=the heavens above
+tc.aspect.help.tabernus=soles
+
 itemGroup.Thaumic Boots=神秘之靴
 
 keybinding.speedtoggle=调整速度增幅

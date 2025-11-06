@@ -115,6 +115,7 @@ itemGroup.avaritia=无尽贪婪
 container.neutron_collector=中子素收集器
 container.neutronium_compressor=中子素压缩机
 tc.aspect.terminus=游戏之终结,启示录,天启,粉碎一切
+tc.aspect.help.terminus=the culmination of all things
 crafting.extreme=有序终极合成
 crafting.extreme.shapeless=无序终极合成
 crafting.extreme_compression=中子素压缩机

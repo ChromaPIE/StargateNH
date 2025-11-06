@@ -14765,7 +14765,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMyw.desc=我在不超频的状态下,已
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMzA.name=2阶PCB工厂
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMzA.desc=随着纳米锻造塔的落成,我们可以免费提升基板产量了,但纳米蜂群需要容器.现有的机械方块还不足以承载,我们还需要另行寻找.%n%n经过一些研究,以无尽为框架,以富集钬为隔层的机械方块似乎工作良好.它可以让纳米蜂群通过直达印制机构基座,这样可以直接去除多余的材料,而无需降速.%n%n[note]在输入总线中放入银纳米蜂群,可解锁2阶配方.同时可解锁PCB工厂的并行,公式如下：并行=Log2(纳米蜂群数).[/note]
 
-# Quest: Thermosink Radiator
+# Quest: Liquid Cooling Tower Tier 2
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMzQ.name=空冻塔
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMzQ.desc=掌控时空,你已经可以让温度接近绝对零度,这使得研发更棒的冷却剂单元成为可能.特制的机械方块可使内部保持极低温度,同时纳米蜂群得益于其极小的体型,可以有效地进行热量传递.单有这些仍然不够,还需要一些冷却液,但在此温度下水会结冰,所以超级冷却液成为了我们的选择.%n%n[note]运行时,空冻塔每秒消耗10升超级冷却液,让机器进行4/4超频.输入仓位于空冻塔的底层中央.[/note]%n%n[warn]此升级与水冷塔不兼容.[/warn]
 

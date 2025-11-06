@@ -368,9 +368,9 @@ ig.structure.specialThanks=特别感谢
 ig.structure.author=添加者：
 ig.structure.and=和
 
-ig.dyson.structure.dynamo=Can use Single- and/or Multi-Amp Dynamo Hatches and/or Laser Source Hatches (1 - 12)
+ig.dyson.structure.dynamo=单/高电流发电仓及激光源仓皆可。可搭配混用（1-12个）
 ig.dyson.structure.optical=Optical Reception Connector
-ig.dyson.structure.additionally=Additionally needed:
+ig.dyson.structure.additionally=此外还需要：
 ig.dyson.structure.deployment.core=模块部署单元核心
 ig.dyson.structure.deployment.magnet=模块部署单元超导磁体
 ig.dyson.structure.deployment.base=模块部署单元基座外壳

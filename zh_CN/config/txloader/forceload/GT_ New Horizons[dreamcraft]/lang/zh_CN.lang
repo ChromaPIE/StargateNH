@@ -651,22 +651,6 @@ item.StargateDustAncients.name=远古时代的星门水晶粉
 item.StargateCrystalAncients.name=远古时代的星门核心水晶
 item.warptheory.portableshower.name=Portable Shower
 
-tc.aspect.custom1=平等,平衡,均衡
-tc.aspect.custom2=疯癫,癫狂,狂热
-tc.aspect.custom3=起始,起源,源头
-tc.aspect.custom4=星辰,星座,天国
-tc.aspect.custom5=荣耀,荣誉,声誉
-tc.aspect.custom1.name=平衡
-tc.aspect.custom2.name=癫狂
-tc.aspect.custom3.name=起源
-tc.aspect.custom4.name=星辰
-tc.aspect.custom5.name=荣耀
-tc.aspect.help.custom1=平衡的事物
-tc.aspect.help.custom2=扭曲的思想
-tc.aspect.help.custom3=新事物的起始
-tc.aspect.help.custom4=宇宙
-tc.aspect.help.custom5=荣耀
-
 tc.research_name.InfusedGoldGTNH=注魔金
 tc.research_text.InfusedGoldGTNH=[AM]向黄金中注入魔法的力量.
 tc.research_page.InfusedGoldGTNH.1=你找到了一种方法,可以将黄金与神秘锭结合起来,创造了一种新的金属---注魔金!

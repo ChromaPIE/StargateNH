@@ -1242,3 +1242,5 @@ tile.railcraft.wall.stone.brick.name=石砖墙
 tile.railcraft.worldlogic.name=硝石刷新器
 
 tooltip.wawla.tooltype.crowbar=撬棍
+
+tile.railcraft.default.name=Track

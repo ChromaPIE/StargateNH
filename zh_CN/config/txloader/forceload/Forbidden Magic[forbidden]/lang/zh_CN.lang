@@ -7,6 +7,14 @@ tc.aspect.invidia=妒忌,嫉妒,不安
 tc.aspect.superbia=傲慢,自大,轻蔑
 tc.aspect.desidia=怠惰,懒散,拖延
 tc.aspect.luxuria=欲望,欲念,无度
+
+tc.aspect.help.infernus=the fires of hell
+tc.aspect.help.ira=unchecked fury
+tc.aspect.help.gula=insatiable hunger
+tc.aspect.help.invidia=jealous hearts
+tc.aspect.help.superbia=arrogant pride
+tc.aspect.help.desidia=idle neglect
+tc.aspect.help.luxuria=tempting desires
 #
 # Items
 item.NetherShard.name=Shard
