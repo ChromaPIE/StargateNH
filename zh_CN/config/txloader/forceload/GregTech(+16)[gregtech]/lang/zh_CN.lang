@@ -3206,7 +3206,7 @@ GTPP.tooltip.meta_food.warm_touch=Warm to the touch
 GTPP.tooltip.dust-decay-hint=Only decays in a %s or a %s
 
 # GTPP structure hints
-GTPP.tooltip.structure.anvil=Anvil
+GTPP.tooltip.structure.anvil=砧
 GTPP.tooltip.structure.data_orb_repository=数据球贮存仓
 GTPP.tooltip.structure.many_bus_hatch=输入/输出仓、输入/输出总线、能源仓
 GTPP.tooltip.structure.rotor_assembly=Rotor Assembly
