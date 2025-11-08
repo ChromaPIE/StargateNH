@@ -340,6 +340,9 @@ gui.appliedenergistics2.HoldShiftClick_HIGHLIGHT_INTERFACE=按住Shift以高亮�
 gui.appliedenergistics2.Nothing=无
 gui.appliedenergistics2.VoidCellTooltip=销毁存储的§4所有物品§7
 gui.appliedenergistics2.CellView=Cell View
+gui.appliedenergistics2.Inputs=Inputs
+gui.appliedenergistics2.Outputs=Outputs
+gui.appliedenergistics2.EncodedPattern=Encoded Pattern
 gui.appliedenergistics2.Deprecated=已弃用,会在后续版本移除!
 gui.appliedenergistics2.ViewCellToggleKey=Right-click to toggle
 
