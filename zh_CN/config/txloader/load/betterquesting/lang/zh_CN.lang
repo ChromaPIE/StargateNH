@@ -1942,10 +1942,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJaQ.desc=此前你可能忽视了稀土�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJbg.name=§6§l物品太多? 不存在的!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJbg.desc=东西太多放不下? 只要把这个坏小子拍在抽屉上,你放入的所有物品超出最大储量的物品都将自动销毁! 与抽屉管理器结合使用效果更佳.
 
-# Quest: Hangover From All That Glue?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKsA.name=§6§l胶水留痕(Hangover From All That Glue)?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKsA.desc=贴片元件是更高级的电路板部件. 它们是EV+系列电路板的必需品,且制造成本更低(搭配合适的材料).你需要MV组装机和聚乙烯才能生产它们. 目前,贴片电阻可能是你唯一可以轻松制造的贴片元件.
-
 # Quest: Make a better Distillery
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL_Q.name=§6§l更好的蒸馏室
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL_Q.desc=想要更快地生产甲醇和乙醇,制造一台MV蒸馏室吧.
@@ -2095,7 +2091,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAD8w.desc=铝土矿脉蕴涵两种可以�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAD9A.name=§9§l金红石
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAD9A.desc=你已经从副产物中获得了一些金红石了对吧? 或者直接'电力高炉'了一些钛铁?%n%n金红石、氯和碳制成四氯化钛,以及一些一氧化碳.你可以回收一氧化碳补充一定的碳,或者直接销毁它们.%n%n使用HV高炉将四氯化钛与镁结合煅烧,你就能获得热钛锭,以及氯化镁. 同样,你可以用钠将这些氯化镁处理后,回收所有的镁和氯.
 
-# Quest: SMD Circuit Components
+# Quest: SMD Diodes
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAD9Q.name=§9§l贴片电路元件
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAD9Q.desc=贴片元件（Surface-mount device，SMD，即“表面贴装器件”）是更先进的电路元件。贴片元件的制造成本比基础的电容、晶体管、二极管和电阻更低，从下一阶段开始，它们将成为电路制造的必需耗材。一旦你建立了可靠的聚乙烯生产线，使用贴片元件可以节省大量资源。%n%n务必检查你现有的镓储备量。在拥有HV研磨机或蜜蜂提供的稳定供应前，使用贴片二极管和晶体管可能不太划算。同时建议研究IC2作物，这能使锌、闪锌矿和铝土矿产量提升4倍。
 
@@ -2374,6 +2370,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKBg.desc=生物实验室是一个多用�
 # Quest: Petri Dishes, Not for Eating
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKBw.name=§9§l培养皿,这可不是吃的
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKBw.desc=你需要培养皿来培养细菌. 可以用硼硅玻璃、聚苯乙烯、聚四氟乙烯制作培养皿.%n%n然后必须对培养皿进行灭菌处理,以使新的培养物可以在其上生长. 你可以使用乙醇、甲醇、氨气或氯气进行灭菌.
+
+# Quest: Hangover From All That Glue?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKsA.name=§6§l胶水留痕(Hangover From All That Glue)?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKsA.desc=贴片元件是更高级的电路板部件. 它们是EV+系列电路板的必需品,且制造成本更低(搭配合适的材料).你需要MV组装机和聚乙烯才能生产它们. 目前,贴片电阻可能是你唯一可以轻松制造的贴片元件.
 
 # Quest: Better Magnetic Rods
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALZQ.name=§9§l更好的磁化杆
@@ -15035,10 +15035,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALXQ.desc=没有描述.
 # Quest: Trigger: Obtain Sunnarium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMBg.name=触发:获得阳光化合物
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMBg.desc=没有描述.
-
-# Quest: Trigger: SMD Transistor Skip
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMjw.name=触发:跳过贴片晶体管
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMjw.desc=没有描述.
 
 # Quest: Tool: Never complete
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMrw.name=工具:不要完成
