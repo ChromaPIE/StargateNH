@@ -42,7 +42,6 @@ client.msg.nousage=未发现可参与合成.
 
 hud.msg.holdkeymoreinfo=Hold %s for more info
 
-hud.msg.none=<无>
 hud.msg.empty=<空>
 hud.msg.output=输出
 hud.msg.input=输入
