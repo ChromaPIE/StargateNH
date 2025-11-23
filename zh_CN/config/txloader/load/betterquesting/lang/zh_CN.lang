@@ -4818,7 +4818,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFAA.desc=生产朗姆酒也可以是自�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFAQ.name=朗姆酒
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFAQ.desc=好喝!
 
-# Quest: The gathering: Sugar
+# Quest: Sugar: The Gathering
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFAg.name=囤积:糖
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFAg.desc=囤积糖是不是一个好主意呢？
 
@@ -6732,12 +6732,12 @@ betterquesting.quest.wgxwGsMBScCIIWzrgyfb8w.desc=现在你拥有了钛锭,为什
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEQ.name=大批量加工
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEQ.desc=任务书的这一页展示了用于替换你的旧机器的新型高效多方块机器,以及它们何时可用. 常回来看看!
 
-# Quest: A steam-powered whirl!
+# Quest: A Steam-Powered Whirl!
 betterquesting.quest.0rUmaWIPQPaL93q-_pgKXw.name=一台蒸汽驱动的离心机!
 betterquesting.quest.0rUmaWIPQPaL93q-_pgKXw.desc=在蒸汽时代,如何对稀有材料进行离心分离?答案当然是建造和使用蒸汽分离机!通过使用蒸汽产生旋转力,这个多方块机器可以快速且轻松地离心不同的材料.%n%n如果你觉得离心需要很长时间,那么蒸汽分离器会加快速度!%n%n§3§3这个多方块机器可以处理最高 LV 级别的配方,并且处理需要输出仓的配方.但如果你想处理需要流体输入的配方,你将来可能需要建造一台 LV 离心机.
 
 # Quest: Big Beautiful Brewery
-betterquesting.quest.3SzKMSj0StOAOzVmInDjZQ.name=Big Beautiful Brewery
+betterquesting.quest.3SzKMSj0StOAOzVmInDjZQ.name=§5§lBig Beautiful Brewery
 betterquesting.quest.3SzKMSj0StOAOzVmInDjZQ.desc=Start your own local brewery with the BBB! You can use it to make tons of potions, obscure alcoholic drinks, or, more likely, industrial quantities of lubricant.
 
 # Quest: Fits The Mold
@@ -6745,10 +6745,10 @@ betterquesting.quest.6glle46JSyuwR6O4x7mLYA.name=适合不同模具
 betterquesting.quest.6glle46JSyuwR6O4x7mLYA.desc=为每种模具都制造一台流体固化器听起来很累人......幸运的是,流体成型机多方块可以通过使用§l固化器模具仓§r来处理任意数量的模具.这种多方块机器还可以升级,如果你在两端添加额外的片,就能获得更多的并行.如果速度太慢,一定要升级它!%n%n注：大型流体固化器在运行过程中也会比单方块流体固化器更快,使其更有效地进行大批量生产.
 
 # Quest: T2 Maceration Stack 
-betterquesting.quest.A4rEQOAXQsaa26Ib_nzkHg.name=T2 Maceration Stack 
+betterquesting.quest.A4rEQOAXQsaa26Ib_nzkHg.name=§9§lT2 Maceration Stack 
 betterquesting.quest.A4rEQOAXQsaa26Ib_nzkHg.desc=Upgrade your Maceration Stack by replacing all the casings with Maceration Stack Casings and then placing the Upgrade Chip into the slot in the controller.%n%nThe Tier 2 Maceration stack has 4x more parallels!
 
-# Quest: Smelt All the Things Stack-Wise...
+# Quest: Smelt All The Things Stack-Wise...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVQ.name=熔化万物...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVQ.desc=...有了这项伟大的发明!只要升级供电和线圈,就可以熔炼不可胜数的物品.
 
@@ -6756,7 +6756,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVQ.desc=...有了这项伟大的发明!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABgg.name=工业锻造锤
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABgg.desc=一台多方块锻造锤.
 
-# Quest: A volcano for your base.
+# Quest: A Volcano For Your Base.
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABhQ.name=基地里的活火山
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABhQ.desc=生产圆石的终极机器.也可以将红石大规模转化为黑曜石,以获取可再生的硅、镁、铁和氧.
 
@@ -6772,19 +6772,19 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADbA.desc=厌倦了用小单元处理化�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFjQ.name=绿巨人重拳粉碎!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFjQ.desc=大规模破坏! 或者至少,可以粉碎很多很多的矿石. 建造一台工业粉碎机来处理你获得的所有矿石.在IV阶段,你可以通过升级芯片和更好的机械方块来升级它.
 
-# Quest: The rocks in the washer...
+# Quest: The Rocks In The Washer...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFjg.name=洗矿厂里的矿石...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFjg.desc=...周而复始,24小时运作. 一个大型的洗矿厂可以将你的矿石变得干净又整洁. 通过螺丝刀可切换洗矿/简易洗矿模式和化学浸洗模式.
 
-# Quest: Dancing in circles
+# Quest: Dancing In Circles
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFjw.name=旋转,跳跃
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFjw.desc=旋转,升温--听起来像一个舞蹈. 或是热力离心机. 建造一个工业热力精炼厂,以充分利用你的矿石.%n%n只要保证至少8个热处理外壳,你就可以用噪音危险标志来代替热处理外壳.%n%n注意隔音排气仓安装在底层.
 
-# Quest: I think I'm going to be sick
+# Quest: I Think I'm Going to be Sick
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH7A.name=我想我会生病的
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH7A.desc=用多方块采矿场获得的数以千计的矿石可以交给工业离心机处理.%n%n译者注:别听他瞎说,根据自己的需要选择打粉-离心、洗矿-打粉-离心、洗矿-热离-打粉这些工序.
 
-# Quest: Bask in the currents
+# Quest: Bask In The Currents
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH7Q.name=沐浴在电流中
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH7Q.desc=成百上千玻璃的最佳来源...要这些做什么呢?我不知道,还是想点有趣的用途,给我开开眼吧!%n%n工业电弧炉的"有效"电压比能源仓要低一阶.举个例子,使用MV能源仓,机器可处理LV电弧炉的配方.%n%n这台机器还可以处理等离子电弧炉的配方.%n%n[note]这台多方块机器可以在LuV阶段制造,并且需要钍-232.[/note]%n%n译者注: 钍-232算啥,看看套娃能量核心! 不过做出来之后还是很香的.
 
@@ -6792,11 +6792,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAH7Q.desc=成百上千玻璃的最佳来�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH7g.name=搅拌/搅拌/巧克力
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH7g.desc=奶奶,你能教我们巧克力之歌吗?%n乐意之至!%n你会跟我们一起唱巧克力之歌吗?%n太棒了,跟着奶奶一起唱!%n%n搅拌,搅拌,巧克力%n搅拌,搅拌,巧克力%n搅拌,搅拌,巧克力%n搅拌,搅拌,巧克力%n%n搅拌好吃的巧克力,巧克力%n搅拌好吃的巧克力,巧克力%n搅拌,搅拌,巧克力%n搅拌,搅拌,巧克力%n%n现在不再需要单元了,好耶!%n%n译者注:《搅拌,搅拌,巧克力》(Bate-Bate-Chocolate)是墨西哥传统儿歌.任务书原文歌词部分均为西班牙文.
 
-# Quest: Play doh for big girls and boys
+# Quest: Play-Doh For Big Girls and Boys
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH7w.name=大男孩大女孩的大玩具
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH7w.desc=我不想长大,我想跟大压模机玩.%n以防你没在NEI看过主方块的tooltip,提醒一下:你可以在工业压模机上放置多个输入总线,每个总线可放入不同的模头,进入相应总线的材料会被加工成模头对应的成品.
 
-# Quest: Best thing since sliced bread
+# Quest: Best Thing Since Sliced Bread
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH8A.name=最好的切面包机
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH8A.desc=当你有了一台装满了小刀的机器,你看啥都像面包了. 使用螺丝刀可切换切割机模式和食材切片机模式.%n%nBluebine-2019!
 
@@ -6812,15 +6812,15 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAH8w.desc=我好冷啊...想要正常使�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH9A.name=上帝的锻造台
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH9A.desc=火山高炉能以难以置信的速度处理物品. 想要正常使用这台机器,你需要给它持续供应烈焰之炽焱,还得配上好的线圈.%n%n[note]这台多方块机器可以在IV阶段制造,但需要两个ZPM电路板.[/note]%n%n译者注:火山高炉没有电压等级带来的额外炉温奖励,其余机制和电力高炉一致.
 
-# Quest: Spools and spools
+# Quest: Spools and Spools
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH9Q.name=绕了一圈又一圈
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH9Q.desc=想要绕地球几圈的导线?试试这个吧.
 
-# Quest: Bender more bending
+# Quest: Bender, More Bending!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH9g.name=弯曲、辊压
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH9g.desc=当你需要成千上万的板子时... 可通过螺丝刀切换卷板机模式和冲压机床模式.
 
-# Quest: Bezos would be proud
+# Quest: Bezos Would Be Proud
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH9w.name=贝索斯的骄傲
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH9w.desc=亚马逊仓库是满足你所有打包需求的终极选择.小撮粉和小堆粉实在太多?这台机器为你而生.%n%n[note]这台多方块机器可以在LuV阶段制造.[/note]%n%n译者注:杰夫·贝索斯(Jeff Bezos)是亚马逊公司的CEO.
 
@@ -6832,11 +6832,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAH_A.desc=对于一个需要炼制§l荒�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH_Q.name=§6§l冻伤!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH_Q.desc=这台巨型真空冷冻机可以同时处理最多256个配方.
 
-# Quest: Empty the oceans
+# Quest: Empty The Oceans
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIBQ.name=把海洋捞空
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIBQ.desc=为了生物柴油,很长一段时间里,你都用鱼笼捕鱼.现在,你可以建造珠海渔场,收获成吨的鱼和副产物.
 
-# Quest: Putting all those workers out of jobs
+# Quest: Putting All Those Workers Out of Jobs
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIBg.name=把所有工人赶出工作岗位
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIBg.desc=大规模自动装配机可以为你组装大量的物品.这台多方块机器可以在ZPM阶段制造.%n%n[note]虽说相比精密组装机,它有许多缺点,比方说解锁时间晚、并行不高、不支持TecTech能源仓;不过有一点是它的优势:它支持双能源仓升压,合成下一阶段的物品.[/note]
 
@@ -6848,15 +6848,15 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJEA.desc=嗯...如果将64个蒸馏塔�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKKQ.name=电路装配线
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKKQ.desc=这些用于构建4台7片的电路装配线,足够满足一个系列的电路板制造. 如果你仅需要某个系列中的一种电路板(比如微处理器),那就把它除以4.%n%n假设你在LuV任务栏已经获得了所需的压印电路,现在就可以开始制造晶体系列的电路装配线了. 我们一上来就要求4台是因为每台电路装配线只能铭刻一次,无法移除铭刻.是的,你想用电路装配线制造的每种电路板都需要一台专用电路装配线.%n%n作为装配线,它与普通装配线的工作方式一致,每个总线按顺序提供原料,但由于是单台专用,所以用起来就容易多了,同时高阶合成表也便宜多了.%n%n电路装配线的原料是封装的,所以一次可以制造16个电路板(ULV和LV电路更多),节约时间、EU还有焊锡(或铋铅合金).在组装机中配合聚乙烯可以制造封装元件.%n%n[note]顺便一提,你可以选择安装更高级的仓/总线,不过合成时的原料顺序还是得与NEI一致.另外,电路装配线可以完美超频.[/note]
 
-# Quest: Cool Guys Don't Look at Explosions
+# Quest: Cool Guys Don't Look At Explosions
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKxQ.name=真男人从来不回头看爆炸
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKxQ.desc=他们用自动化来完成.%n%n[note]这台多方块机器可以在IV阶段制造,不过还要用到铂线和ZPM电路板.[/note]
 
-# Quest: Let me fabricate a new universe...
+# Quest: Let Me Fabricate a New Universe...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKxg.name=让我制造一个新的宇宙...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKxg.desc=这台多方块机器专用于生成UU-M和废料.它也是最难制造的GT++多方块机器之一,但只要让它正常运行,你就可以复制种类繁多的各种材料.%n%n[note]这台多方块机器可以在UV阶段制造.[/note]
 
-# Quest: I Want SOLIDS not LIQUIDS!
+# Quest: I Want SOLIDS Not LIQUIDS!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKxw.name=我要的是固体不是液体!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKxw.desc=有的时候我们需要的不是合金冶炼炉. 这台机器也使用线圈.%n%n请注意,这是GT合金炉的多方块版本,而不是GT++合金冶炼炉的固体版本.
 
@@ -6884,7 +6884,7 @@ betterquesting.quest.IlCOpa8bR9WbOjSOPxZIlA.desc=向你介绍更大(更好)的�
 betterquesting.quest.Itn1KOiISHSbXzoDd2BB8w.name=我们到撤离(提取)点了!
 betterquesting.quest.Itn1KOiISHSbXzoDd2BB8w.desc=没有什么东西能比大型流体提取机更快地将固体变成液体 - 至少现在没有. 这台机器需要你制作加热和螺线管两种线圈. %n%n[note]理论上这台多方块可以在EV制造, 但它需要大量的钨钢.[/note]
 
-# Quest: More steam, more pressure!
+# Quest: More Steam, More Pressure!
 betterquesting.quest.Plg8vg0gS9Ks2Ddc5sIVOg.name=更多蒸汽,更多压力！
 betterquesting.quest.Plg8vg0gS9Ks2Ddc5sIVOg.desc=你在蒸汽时代是怎么压缩东西的?简单,在一个地方放一堆蒸汽,在高压下,可以施加一个力来压缩东西...%n%n让我们仅仅是把它变大.有了大型蒸汽压缩机,你就可以拥有更大规模的压缩机,类似其他蒸汽多方块机器.如果你觉得压缩的配方耗时过长,这将是一个很好的解决方案.%n%n等到多方块结构成型后,请提供大量蒸汽以获得大量压缩后的物品.
 
@@ -6901,7 +6901,7 @@ betterquesting.quest.WEwrzX4ZRkSxJ3M6cBesfA.name=蒸汽搅拌机?
 betterquesting.quest.WEwrzX4ZRkSxJ3M6cBesfA.desc=既然可以用蒸汽和活塞来混合粉末,为什么还要使用复杂的导线和电路呢?大型蒸汽搅拌机是这些蒸汽多方块中最大的一个,可以满足您一段时间的搅拌需求,比LV单方块搅拌机有着更多的并行数.%n%n[note]该多方块机器只能处理LV级以下的配方并且无法处理流体配方.[/note]
 
 # Quest: Steam Fusing?
-betterquesting.quest.WGhhKERfRTiJXKZEPoRf1Q.name=Steam Fusing?
+betterquesting.quest.WGhhKERfRTiJXKZEPoRf1Q.name=§c§lSteam Fusing?
 betterquesting.quest.WGhhKERfRTiJXKZEPoRf1Q.desc=Singleblock Alloy Smelters not fast enough for you? Look no further than the Steam Fuser. This will make light work of your alloy smelter tasks at a fraction of the steam cost and a much faster speed. %n(Check out the tooltip for more info!)%n%nWhile the NEI requirements show borosilicate glass, you can substitute any HV tier glass in it's place like warded glass, quite clear glass, or fused quartz. If you end up using borosilicate; boron can be obtained from electrolyzing borax.%n%n[note]Will only process up to LV tier recipes[/note]
 
 # Quest: Taking Things Apart
@@ -6916,7 +6916,7 @@ betterquesting.quest.ZIotzqvnRiKu1_1Hb9i1dg.desc=这是§6GigaGram§rFab添加�
 betterquesting.quest._dFgSThoQTWgM696ykr2Gw.name=进阶化尘为晶
 betterquesting.quest._dFgSThoQTWgM696ykr2Gw.desc=工业高压釜可以在LuV阶段制造. 这是一台巨大的、有着许多乘区的多方块机器 - 而且相当强大. 你会需要一台来加工晶体电路需要的晶体芯片的. %n%n[note]线圈, 管道外壳和物品管道外壳对这台机器的乘区都十分重要. 使用你能得到的最高等级方块吧![/note]
 
-# Quest: ...with the power of science!
+# Quest: ...With The Power of Science!
 betterquesting.quest.bLAFkZX-RHGRFAz-C93aeQ.name=...借助科学的力量!
 betterquesting.quest.bLAFkZX-RHGRFAz-C93aeQ.desc=这个多方块结构可以让您使用物质创制机制造的所有UU物质，并不是说您没有其他东西可以用它来做...%n%n[note]这是一个UV的多方块结构.[/note]
 
@@ -6928,16 +6928,16 @@ betterquesting.quest.bkEol9zuRiiCMwMUopFHhg.desc=当您需要将你的磁体极�
 betterquesting.quest.d5Fxz8ClQQCXy9GN_m9BrA.name=§6§l将世界也裂解
 betterquesting.quest.d5Fxz8ClQQCXy9GN_m9BrA.desc=您到底需要多少石油?或者您需要的是硅岩燃料或者拉多X?无论如何,这个庞大的多方块结构都能满足,它拥有256并行.
 
-# Quest: An End to Deforestation
+# Quest: An End To Deforestation
 betterquesting.quest.fLH_QDPRR6mgCK0PL5iWmA.name=滥砍滥伐的终结
 betterquesting.quest.fLH_QDPRR6mgCK0PL5iWmA.desc=这台多方块机器是获取大量木材的完美解决方案.您是否在为木炭或者苯发电时所需的大量木材发愁?您是否苦于无法获取大量坚果来榨取种子油?亦或者因为装饰性树叶的来源而大伤脑筋?踏破铁鞋无觅处,得来全不费工夫!%n%n原木拟生场可以种植游戏内几乎全部种类的树木并且输出你砍树时会获得的正常掉落.这一切都被集成在一个3x3x3的空间中,无需忍受树木真实生长时带来的卡顿.%n%n首先,将任意一种树苗放入控制器GUI中.其次,在输入总线中放入你所需求的产物所对应的工具.最后,给机器通电,并且打开它.接着你就准备好被产物所淹没吧.%n%n树的不同部分需要不同种类的工具.%n - 锯对应木材%n - 剪枝器(GT)对应树苗%n - 剪刀对应树叶%n - 小刀对应水果%n高级工具(链锯,剪枝器(林业),...)会提供更多产出!具体请查看控制器的tooltip%n%n您甚至可以同时使用多个不同的工具,机器就能同时收获多个不同的产品!%n%n请注意,使用的工具会缓慢失去耐久值.因此,为了长期运行,你可能需要设置一些自动更换功能.%n%n[note]虽然这台机器在IV阶段就能制作,但在IV初期却相当昂贵,需要16个 ZPM电路板和一些高级合金.[/note]
 
-# Quest: Can it!
+# Quest: Can It!
 betterquesting.quest.gMRufFtRRRa30LE21boFNQ.name=把它装进罐子里！(Can it!)
 betterquesting.quest.gMRufFtRRRa30LE21boFNQ.desc=如果您曾经需要等待装罐机来装满锡罐,或者等待流体灌装机来制造成吨的冷却剂单元,那么请考虑下特宝灌 Pro.当您决定需要它时,这台多方块机器可以同时充当这两种机器,并具有显著的优势!
 
 # Quest: Spinmatron-2737
-betterquesting.quest.p4BZRIJZQKON4zmHeIqcoA.name=Spinmatron-2737
+betterquesting.quest.p4BZRIJZQKON4zmHeIqcoA.name=§b§lSpinmatron-2737
 betterquesting.quest.p4BZRIJZQKON4zmHeIqcoA.desc=Tired of spamming Centrifuges already? %n%nAlas, with your newfound ZPM technology you can finally fabricate a Centrifuge with some real power; §5§lThe Spinmatron-2737§r!%n%nThe Spinmatron§r comes with a litany of advantages compared to the regular centrifuge multiblock, including a §2§l3x§r Speed boost, a §2§l30%%§r reduction in EU usage, and a malleable number of parallels.%n%nUnlike the generic turbine that comes stock in a normal Centrifuge, the Spinmatron§r graciously allows you to choose the quality of the turbines that go into the machine. You can add between §9§l2-8§r turbines depending on the machine tier, each turbine will increase the parallel amount by [§94 * Turbine Material Tier§r]. §3(You'll want to avoid using smaller, non-huge turbines!)§r%n%nThis efficiency comes at a cost however, and will require [§9Recipe Tier * 10§r] L/s of §5Kerosene§r in order to run. This can optionally be switched out with §5Biocatalyzed Propulsion Fluid§r for a §2§l1.25x§r parallel multiplier once you've reached §4UEV§r.%n%nAdditionally there are three modes that come unique to the Spinmatron:%n%n- §dLight§r -> Gives increased speed in exchange for only being able to process [§9Voltage Tier - 3§r] recipes%n%n- §6Normal§r -> No changes%n%n- §aHeavy§r -> Grants the ability to craft Heavy Mode dependent recipes in exchange for reducing your parallels by §c§l32x§r and consuming §5Biocatalyzed Propulsion Fluid§r.%n%n[note]Checkout the tooltip for more information![/note]%n%n[warn]Use the GUI for adding turbines; don't add them to the rotor assemblies.[/warn]
 
 # Quest: High Voltage Multiblocks
@@ -6952,7 +6952,7 @@ betterquesting.quest.qDZZLi21TrmdWXwo_KimIw.desc=更大,更好,更快!这台 Lar
 betterquesting.quest.quLxATDCQFWsrZRuh_gspA.name=蒸汽动力的突破
 betterquesting.quest.quLxATDCQFWsrZRuh_gspA.desc=您现在应该已经收集了不少单方块蒸汽机器.虽然这些机器可以帮助您处理少量材料,但总有一天您需要处理大量物品.这就是蒸汽多方块机器发挥作用的地方.%n%n虽然多方块蒸汽机器的材料成本远高于单方块,但它们也有一些优势：它们使用的蒸汽更少,而且可以并行处理配方,这意味着如果提供的蒸汽足够,一个配方循环可以同时制作多个物品.%n%n§T不过,它们也有一些需要注意的怪癖：%n%n-这些多方块需要§4§l非常特殊§r的I/O方块,只能使用任务中的显示的那些方块%n%n-它们最多可以加工8件物品,其中基础等级由青铜制成,高压等级由钢铁制成(查看NEI中的多方块预览,它会显示不同的等级)%n-如果你正在查看控制器方块,可以通过WAILA查看机器的等级和并行处理的数量%n%n§W[note]通过这个任务,你已经开始了大规模生产之旅.不过,先别高兴得太早.虽然在蒸汽时代可以获得一些多方块机器,但它们中的大多数只有在EV或更高电压等级才能解锁,包括这些多方块机器的更好版本.
 
-# Quest: Steam stomping!
+# Quest: Steam Stomping!
 betterquesting.quest.s6AEHSKiQe2XveT_oDZbZg.name=蒸汽猛击!
 betterquesting.quest.s6AEHSKiQe2XveT_oDZbZg.desc=锻造锤的速度已经相当快了,为什么不制造这个升级版,让它变得更快?有了大型蒸汽锻造锤,你就可以在任何材料上充分释放蒸汽的力量.你可以看到方块分崩离析,各种杆被挤在一起,速度比以往任何时候都快----至少在你获得更先进的技术之前是这样.%n%n§3这台大型蒸汽锻造锤只能处理LV等级及以下的配方.
 
@@ -6968,7 +6968,7 @@ betterquesting.quest.w5O5rPL_Q_GDp8lxWMd0DQ.desc=你可能已经用上了蒸汽�
 betterquesting.quest.wGINqtSuSQKLI_Yk7hAdcA.name=大就是好！
 betterquesting.quest.wGINqtSuSQKLI_Yk7hAdcA.desc=在HV阶段，你已初步具备建造某些机器的超巨（Mega）版本的能力。这些工业巨兽能够将生产效率提升至前所未有的水平，但需要付出一定代价。此类多方块结构具备两大核心优势：%n- 自带256个并行。%n- 兼容TecTech的异界系列仓室，顷刻抽干基地能量，供养其无底海口。%n%n[note]要真正发挥这些超巨机器的价值，需要配合巨量的能源供应并充分利用其超高的并行处理能力——在HV阶段贸然建造超巨电力高炉前，请务必再三斟酌：你真的用得上那台大家伙吗？[/note]
 
-# Quest: Pressure washing!
+# Quest: Pressure Washing!
 betterquesting.quest.zorY0c3BQuqLJp7ThOLG-g.name=气压洗涤!
 betterquesting.quest.zorY0c3BQuqLJp7ThOLG-g.desc=如果您一直在处理挖掘到的矿石,那么您一定会遇到各种各样的粉碎的矿石.由于这些矿石比较脏,您必须将其清洗干净,才能获得某些副产物.但如何清洗这些碎矿石呢?当然是使用大型蒸汽洗矿厂!只要有稳定的蒸汽供给和少量的水,你就能洗去杂质.并在短时间内得到洗净的矿石.%n%n如果你厌倦了长时间等待洗矿,那么这就是你的解决方案!%n%n§3这个多方块结构有两种模式,默认的洗矿机模式和简易洗矿池模式.简易洗矿池模式处理矿石的速度要快得多,但不会产生副产物.与其他多方块结构一样,可以通过机器控制器UI中的相应按钮或用螺丝刀右键单击控制器来切换模式.由于所有洗矿配方都是LV电压,因此该多方块结构可以运行所有洗矿配方.
 
@@ -7455,7 +7455,7 @@ betterquesting.quest.J2ok3rFLS7quyIlHPaN0FQ.desc=在UV你解锁了给涡轮自�
 
 # Quest: Balance is Everything
 betterquesting.quest.K0_-BjVuR3qh_GZt19SReQ.name=平衡即是一切
-betterquesting.quest.K0_-BjVuR3qh_GZt19SReQ.desc=You already transcended dimensions, but as your power demands spike to absurd levels, maybe it's time to transcend matter!%n%nUsing the unbreakable stability of Proto-Halkonite, harnessing the power of [warn]Chaos[/warn] becomes a reality. The  Semi-Stable Antimatter Stabilization Sequencer introduces the concept of Semi-Stable Antimatter, created from Protomatter.%n%nBut it's a cruel mistress... fail to manage it, and antimatter could void itself into nothingness.%n%nThe Semi-Stable Antimatter is produced in 1 second cycles, the amount generated is based on the total of antimatter currently stocked in it's 16 Antimatter Hatches and consumes equal amounts of Proto Matter.%n%nEach cycle, the base production of antimatter per hatch is:%n(1/16)*(§3Antimatter§r)^(0.5 + §6§nC§r).%nThen each hatch will pull a random number from a normal distribution of 0.2 + §b§nA§r and a variance of 1, multiplying the base production with it, meaning the total antimatter change may be negative.%n%nThis causes an imbalance between the hatches. To properly automate the antimatter production, it's vital to always re-balance the amount of antimatter in the hatches. At the end of each cycle, the lowest amount of antimatter present in hatches is recorded, and any hatch that contains more than the lowest amount loses half the difference!%n%nProper use of stabilization fluids can significantly reduce energy usage and boost production:%n%nIt consumes 10,000,000 + (§3Antimatter§r * 1000)^(1.5 - §2§nM§r) EU/t passively%nMagnetic Stabilization Fluids can mitigate the passive instability and have its §2exponent§r reduced:%nMolten Purified Tengam Exponent = §2§n0.1§r%nTachyon-Rich Fluid Exponent = §2§n0.2§r%nMolten MagMatter = §2§n0.3§r%n%nFor each cycle, the SSASS uses (§3Antimatter§r * 10000)^(1.5 - §5§nG§r) EU%nBy regulating the gravity containment of the forge, this §5exponent§r can also be reduced:%nMolten Spacetime Exponent = §5§n0.05§r%nSpatially Enlarged Fluid Exponent = §5§n0.10§r%nMolten Eternity Exponent = §5§n0.15§r%n%nBy containing the antimatter more compactly, it is possible to generate larger gains per cycle. Containment Stabilization fluids alter the §6exponent§r in the production formula:%nMolten Shirabon Exponent = §6§n0,05§r%nMolten MHDSCM Exponent = §6§n0,10§r%n%nBy inserting fluids with high energy potential, it's possible to alter antimatter's flow in chaos, making their randomness more favorable. Activation Stabilization Fluids alter the §baverage§r of the gaussian distribution, lowering the risks of negative changes in antimatter and favoring better gains.%nDepleted Naquadah Fuel Mk V average = §c%n§b§n0.05§r%nDepleted Naquadah Fuel Mk VI average = §b§n0.10§r
+betterquesting.quest.K0_-BjVuR3qh_GZt19SReQ.desc=You already transcended dimensions, but as your power demands spike to absurd levels, maybe it's time to transcend matter!%n%nUsing the unbreakable stability of Proto-Halkonite, harnessing the power of [warn]Chaos[/warn] becomes a reality. The  Semi-Stable Antimatter Stabilization Sequencer introduces the concept of Semi-Stable Antimatter, created from Protomatter.%n%nBut it's a cruel mistress... fail to manage it, and antimatter could void itself into nothingness.%n%nThe Semi-Stable Antimatter is produced in 1 second cycles, the amount generated is based on the total of antimatter currently stocked in it's 16 Antimatter Hatches and consumes equal amounts of Proto Matter.%n%nEach cycle, the base production of antimatter per hatch is:%n(1/16)*(§3Antimatter§r)^(0.5 + §6§nC§r).%nThen each hatch will pull a random number from a normal distribution of 0.2 + §b§nA§r and a variance of 1, multiplying the base production with it, meaning the total antimatter change may be negative.%n%nThis causes an imbalance between the hatches. To properly automate the antimatter production, it's vital to always re-balance the amount of antimatter in the hatches. At the end of each cycle, the lowest amount of antimatter present in hatches is recorded, and any hatch that contains more than the lowest amount loses half the difference!%n%nProper use of stabilization fluids can significantly reduce energy usage and boost production:%n%nIt consumes 10,000,000 + (§3Antimatter§r * 1000)^(1.5 - §2§nM§r) EU/t passively%nMagnetic Stabilization Fluids can mitigate the passive instability and have its §2exponent§r reduced:%nMolten Purified Tengam Exponent = §2§n0.1§r%nTachyon-Rich Fluid Exponent = §2§n0.2§r%nMolten MagMatter = §2§n0.3§r%n%nFor each cycle, the SSASS uses (§3Antimatter§r * 10000)^(1.5 - §5§nG§r) EU%nBy regulating the gravity containment of the forge, this §5exponent§r can also be reduced:%nMolten Spacetime Exponent = §5§n0.05§r%nSpatially Enlarged Fluid Exponent = §5§n0.10§r%nMolten Eternity Exponent = §5§n0.15§r%n%nBy containing the antimatter more compactly, it is possible to generate larger gains per cycle. Containment Stabilization fluids alter the §6exponent§r in the production formula:%nMolten Shirabon Exponent = §6§n0.05§r%nMolten MHDCSM Exponent = §6§n0.10§r%n%nBy inserting fluids with high energy potential, it's possible to alter antimatter's flow in chaos, making their randomness more favorable. Activation Stabilization Fluids alter the §baverage§r of the gaussian distribution, lowering the risks of negative changes in antimatter and favoring better gains.%nDepleted Naquadah Fuel Mk V average = §b§n0.05§r%nDepleted Naquadah Fuel Mk VI average = §b§n0.10§r
 
 # Quest: Naquadah Based Fuel MkVI
 betterquesting.quest.KHL_yx4XTKOtsHHZ60ZZpg.name=硅岩基流体燃料-MkVI
@@ -14093,7 +14093,7 @@ betterquesting.quest.PjAewUoJTnilPpIT-Ce0tA.name=§2§lDiamond Barrel
 betterquesting.quest.PjAewUoJTnilPpIT-Ce0tA.desc=The Diamond barrel has 108 slots.
 
 # Quest: Large Molecular Assembler
-betterquesting.quest.Q10xj-OrTE67wsWuTNCAAQ.name=Large Molecular Assembler
+betterquesting.quest.Q10xj-OrTE67wsWuTNCAAQ.name=§9§lLarge Molecular Assembler
 betterquesting.quest.Q10xj-OrTE67wsWuTNCAAQ.desc=The Large Molecular Assembler is exactly how it sounds; a very quick molecular assembler with a much bigger inventory for crafting patterns. %n%nThis can handle up to 1024 crafts per second at the maximum energy usage making it up to 100x faster than a molecular assembler. Check out the Wiki for specifics: [url]https://wiki.gtnewhorizons.com/wiki/Large_Molecular_Assembler[/url]%n%nThe LMA controller hooks up directly to your main network in order to function, and all recipes must be placed inside input buses attached to the machine in order to be recognized. Will not require an output bus.%n%n[note]Super Buses are highly recommended![/note]%n%n[warn]This machine can absolutely wall-share, but be careful about the placement of your input bus or all machines may not be used.[/warn]
 
 # Quest: Compact Storage
