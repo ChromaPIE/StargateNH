@@ -230,6 +230,9 @@ gui.appliedenergistics2.IOBuses=ME输入/输出总线
 gui.appliedenergistics2.Stores=存储
 gui.appliedenergistics2.BytesUsed=字节已使用
 gui.appliedenergistics2.TimeUsed=Time Used
+gui.appliedenergistics2.CraftName=Craft Name
+gui.appliedenergistics2.Remains=Remains
+gui.appliedenergistics2.Progress=Progress
 gui.appliedenergistics2.Types=类型
 gui.appliedenergistics2.Blank=空白
 gui.appliedenergistics2.Unlinked=未链接
@@ -345,6 +348,10 @@ gui.appliedenergistics2.Outputs=Outputs
 gui.appliedenergistics2.EncodedPattern=Encoded Pattern
 gui.appliedenergistics2.Deprecated=已弃用,会在后续版本移除!
 gui.appliedenergistics2.ViewCellToggleKey=Right-click to toggle
+gui.appliedenergistics2.CPUAllowMode=Accept request
+gui.appliedenergistics2.CPUAllowAll=All
+gui.appliedenergistics2.CPUOnlyAllowNonPlayer=Only from non-player
+gui.appliedenergistics2.CPUOnlyAllowPlayer=Only from player
 
 gui.appliedenergistics2.NetworkBytesDetails=网络存储信息
 gui.appliedenergistics2.Items=物品
@@ -399,6 +406,8 @@ gui.tooltips.appliedenergistics2.Encode=编码样板
 gui.tooltips.appliedenergistics2.EncodeDescription=将输入的样板写入当前编码样板或可用的空样板;按住Shift使样板直接进入物品栏;按住Ctrl+Shift以编码整组样板.
 
 gui.tooltips.appliedenergistics2.FuzzyMode=模糊对比
+gui.tooltips.appliedenergistics2.FZPercent_1=Split Damage at 1%
+gui.tooltips.appliedenergistics2.FZPercent_10=Split Damage at 10%
 gui.tooltips.appliedenergistics2.FZPercent_25=以25%耐久为阈值划分
 gui.tooltips.appliedenergistics2.FZPercent_50=以50%耐久为阈值划分
 gui.tooltips.appliedenergistics2.FZPercent_75=以75%耐久为阈值划分
@@ -660,6 +669,15 @@ waila.appliedenergistics2.CraftingLockedByLackOfRedstoneSignal=因没有红石�
 waila.appliedenergistics2.CraftingLockedByRedstoneSignal=因红石信号而被锁定
 waila.appliedenergistics2.CraftingLockedUntilPulse=等待红石脉冲以解锁
 waila.appliedenergistics2.CraftingLockedUntilResult=等待合成产物以解锁
+waila.appliedenergistics2.CoordinateX=X
+waila.appliedenergistics2.CoordinateY=Y
+waila.appliedenergistics2.CoordinateZ=Z
+waila.appliedenergistics2.Dimension=Dimension
+waila.appliedenergistics2.Id=id
+waila.appliedenergistics2.ConnectedTo=Connected to
+waila.appliedenergistics2.Disconnected=Disconnected
+waila.appliedenergistics2.Singularity=Singularity
+
 
 # Items
 item.appliedenergistics2.ItemBasicStorageCell.1k.name=§61k§r-ME存储元件
