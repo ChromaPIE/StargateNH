@@ -14252,8 +14252,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFVQ.name=触发:球状物
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFVQ.desc=找到?或做个雷电碎片
 
 # Quest: Trigger: CtH (unlock)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAISw.name=触发:树木培育任务线(解锁)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAISw.desc=完全收集杂交树木触发.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAISw.name=Trigger: CtH (unlock)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAISw.desc=Complete collecting the hybrids to trigger
 
 # Quest: Bees Template
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIbw.name=蜜蜂模板
