@@ -3829,7 +3829,7 @@ betterquesting.quest.fVoSLYPcSmKd-gLhBJHK9A.desc=Finally, you can combine the §
 
 # Quest: Prismarine Precipitate
 betterquesting.quest.fc7Q6J-BThCf_NbvM0ki2Q.name=§b§lPrismarine Precipitate
-betterquesting.quest.fc7Q6J-BThCf_NbvM0ki2Q.desc=After creating the §2Prismarine-Rich Nitrobenzene Solution§r, you'll need to process it using a §5§lChemical Plant§r with §2Strontium Hydroxide§r. Once processed, you can successfully obtain your first §3Prismarine Precipitate§r.%n%n[warn]The Strontium is completely recyclable within the line, so no need to worry about it's continuous injection.[/warn]%n%n[note]If you have not gotten Strontium yet, you can obtain it from Strontium Oxide based on Rare Earth 3 or from Spessartine Froth.[/note]
+betterquesting.quest.fc7Q6J-BThCf_NbvM0ki2Q.desc=After creating the §2Prismarine-Rich Nitrobenzene Solution§r, you'll need to process it using a §5§lChemical Plant§r with §2Strontium Hydroxide§r. Once processed, you can successfully obtain your first §3Prismarine Precipitate§r.%n%n[warn]This line produces excess Strontium, so no need to worry about its continuous injection.[/warn]%n%n[note]If you have not gotten Strontium yet, you can obtain it from Strontium Oxide based on Rare Earth 3 or from Spessartine Froth.[/note]
 
 # Quest: Prismarine Recycling
 betterquesting.quest.kWoNH5tTQX2VIFmkui4YKA.name=§b§lPrismarine Recycling
@@ -4023,6 +4023,10 @@ betterquesting.quest.w4JcJ33CSWGlsKrmyHxnXA.desc=用镥铝石榴石制作晶体S
 # Quest: Advanced Crystal SoC Production
 betterquesting.quest.yo1cuNvYSU2JAczbJLAfjg.name=晶体SoC的进阶生产方法
 betterquesting.quest.yo1cuNvYSU2JAczbJLAfjg.desc=我们可以通过在激光蚀刻机中再蚀刻一遍晶体芯片来获得晶体SoC.随着电路板需求日益增长,这种方法也显得力不从心了.有没有什么更先进的方法能够批量生产晶体SoC？%n%n这里有一种新材料：掺铈镥铝石榴石(Ce:LuAG)%n镥铝石榴石在制作晶体SoC方面有着更好的性能表现.(实际上LuAG是一种激光材料)如果你需要更快的生产晶体SoC的速度,用镥铝石榴石应该是一个不错的主意.%n%n第一步将镥、铝、氧和一点铈搅拌混合得到"混合物",然后将混合物和熔融镥一并放入高压釜中,得到第一颗镥铝石榴石宝石.如果你已经获得了气奥你也可以直接用气奥.然后用镥铝石榴石宝石和镥铝氧混合物在高压釜中继续生产得到精致的镥铝石榴石.%n%n搞定第一颗宝石后,你当然可以继续用高压釜进行晶体生长生产.不过,用真空炉生产精致镥铝石榴石应该是一个更好的选择.当然,这取决于你的喜好.%n%n镥啊，镥，需要一大堆的镥.你怎么获取这一大堆镥呢？钍裂变或许有点过时了.看看§6Bee§r养的？或者镧系纳米萃取科技？
+
+# Quest: Elastic Singularity
+betterquesting.quest.zmLCpjodTjOklgwPb5bGSA.name=§2§l§nElastic Singularity
+betterquesting.quest.zmLCpjodTjOklgwPb5bGSA.desc=Now that you've created the Neutronium Compressor, you finally have access to the Elastic Singularity for enhancing your §5§lL.A.T.E.X.§r cable coater.%n%nWith it, you will recieve a §2§l25%%§r rubber discount, §2§l2§r additional parallels, and the ability to use multiamp hatches. %n%nYou are now truly a cable master.
 
 
 ## Quest Line: Tier 9 - UHV
@@ -6643,10 +6647,6 @@ betterquesting.quest.NVgXYF-TQvqYnLn1NLM6pw.desc=[quest]The Solar Factory![/ques
 betterquesting.quest.QfQHCy0PRn-rABmKuvwQfw.name=同步加速器(和那个催化剂没关系)
 betterquesting.quest.QfQHCy0PRn-rABmKuvwQfw.desc=要实际产生用于光刻的光，你需要在同步加速器中加速电子。与线性加速器（LINAC）一样，提供冷却剂是保持其运行的必要条件。%n%n你可以通过增加 EU/t 或同时提高内部四个天线机械方块的等级来增加产生的光子的能量。%n%n为了改善聚焦度，你可以使用更好的冷却剂，而输出量则随着 EU/t 和天线等级的增加而增加。%n%n是的，你需要四个能源仓。
 
-# Quest: Neutronium Compressor
-betterquesting.quest.XKKP2E5ORG-ju42dSDd3sw.name=中子素压缩机
-betterquesting.quest.XKKP2E5ORG-ju42dSDd3sw.desc=为了压缩无尽催化剂和奇点,你需要最强的压缩机：中子素压缩机.这种多方块式压缩机通过精心校准的活性中子素机壳来引导和控制极高的压力,但其巨大的压力无法生产方块或者致密板,因为任何插入设备的普通材料都会被压缩成奇点.理论上制作更高级的奇点是可能的,但你需要比这台机器更强大的东西......%n%n[note]注意,奇点配方需要极大量的物品！考虑使用超级输入总线或ME库存输入总线来输入所有物品.[/note]
-
 # Quest: Hundreds of Thousands of eV
 betterquesting.quest.Y1kiJC_kRGKkW7h3qOPI8A.name=成百上千的eV
 betterquesting.quest.Y1kiJC_kRGKkW7h3qOPI8A.desc=线性加速器（LINAC）可以用于提高粒子束的能量，前提是粒子束的粒子是带电的。你需要不断地为其提供冷却剂，否则每次冷却剂耗尽时，你都会遇到机器故障。%n%n输出能量可以通过增加 EU/t（随立方根比例增长）或增加长度（线性增长）来提高。然而，增加长度也会降低聚焦程度。%n%n聚焦程度可以通过使用更好/温度更低的冷却剂来提高（在tooltip中列出了选项）。%n%n请注意，粒子数量不会改变。
@@ -6891,6 +6891,10 @@ betterquesting.quest.Plg8vg0gS9Ks2Ddc5sIVOg.desc=你在蒸汽时代是怎么压�
 # Quest: Insane Voltage Multiblocks
 betterquesting.quest.RFgYQ7LAQD-p1gHMaeg5Sg.name=IV阶段多方块机器
 betterquesting.quest.RFgYQ7LAQD-p1gHMaeg5Sg.desc=当你到达IV机械国度,你可以组装更多的多方块机器并加速你的自动化!%n%n从IV阶段开始,大多数多方块机器都需要特殊的合金,像你之前用过的金属(在熔炉或者电力高炉中冶炼),这些特殊的合金也都需要冶炼,但是有些合金必须在合金冶炼炉中制成流体,然后需要固化.%n%n需要合金冶炼炉的多方块机器在更后面. 为了解锁它们的任务,你需要首先合成合金冶炼炉.然而,有不需要合金冶炼炉也能制作许多机器,只需要相应的IV单方块的对应机器以及一些其他资源.%n%n都在这里了...但如果你仔细查看NEI,也许还能找到更多.祝你好运!
+
+# Quest: L.A.T.E.X. Cable Coater
+betterquesting.quest.RV7RYWwgRSaI4oNfhfZljw.name=§5§lL.A.T.E.X. Cable Coater
+betterquesting.quest.RV7RYWwgRSaI4oNfhfZljw.desc=The §5L§raminated §5A§rpplication and §5T§rhermal §5E§rnclosure e§5X§rpert (§5L.A.T.E.X.§r) is a multiblock dedicated to coating cables.%n%nYou will be making a LOT of cables during your playthrough... Why bog down your assembler when you can use the LATEX instead? The LATEX gives §2§2§2§2§l2x§r§r§r§r the speed with a §3§3§3§3§l15%%§r§r§r§r EU discount, and generously offers §6§6§6§6§l8§r§r§r§r parallels per voltage tier.%n%nIf that's not convincing enough, you also get an additive §2§l6.25%%§r rubber discount per Item Pipe Casing tier.%n%n[note]Once you eventually reach UV, you will be able to create an Elastic Singularity for additional perks![/note] %n%n
 
 # Quest: See You Lather
 betterquesting.quest.VJN1qfd5SjCkm7CXVd9Pag.name=我们稍后再见(See You Lather)
@@ -14116,6 +14120,10 @@ betterquesting.quest.WPoaCPPwTBSyn2dmh5DcBA.desc=在搭建完UHV的[Waterline]�
 betterquesting.quest.WqDynhbQQ4GdNMKm0BlbcQ.name=高能激光纯化
 betterquesting.quest.WqDynhbQQ4GdNMKm0BlbcQ.desc=为了获得更纯净的水,您需要使用强激光来精确轰击水并去除杂质.与以往的[Waterline]一样,这个多方块提出了一个复杂的自动化难题.
 
+# Quest: Neutronium Compressor
+betterquesting.quest.XKKP2E5ORG-ju42dSDd3sw.name=中子素压缩机
+betterquesting.quest.XKKP2E5ORG-ju42dSDd3sw.desc=为了压缩无尽催化剂和奇点,你需要最强的压缩机：中子素压缩机.这种多方块式压缩机通过精心校准的活性中子素机壳来引导和控制极高的压力,但其巨大的压力无法生产方块或者致密板,因为任何插入设备的普通材料都会被压缩成奇点.理论上制作更高级的奇点是可能的,但你需要比这台机器更强大的东西......%n%n[note]注意,奇点配方需要极大量的物品！考虑使用超级输入总线或ME库存输入总线来输入所有物品.[/note]
+
 # Quest: Matter Manipulator MKI
 betterquesting.quest.Y4bRCOWFTgyxdTJXWXjFfA.name=§9§lMatter Manipulator MKI
 betterquesting.quest.Y4bRCOWFTgyxdTJXWXjFfA.desc=The MKI is where you really start unlocking the potential of the Matter Manipulator. It has a §264 Block§r range and a §264 Block/Second§r speed limit.%n%nUnlike it's prototype predecessor, you now have §5§l3 modes§r available:%n%n- §5§lGeometry§r: Places standard blocks in a selected and configurable shape.%n%n- §5§lCable§r: Allows you to place AE and GT cables & pipes in lines (and connect them automatically).%n%n- §5§lExchange§r: Allows you to swap large swaths of blocks like the TC Equal Trade Focus.%n%nAdditionally, the MKI can connect to your AE network to automatically transfer items and liquids. You can link the tool in your security terminal and use it while within wireless range.%n%nWhen something is placed in the world, the tool will §lpull§r from inventories in this order:%n1 - ME system%n2 - Player's inventory%n3 - Uplink§r%n%nWhen something is removed from the world, the tool will §lpush§r into inventories in this order:%n1 - ME system%n2 - Uplink%n3 - Player's inventory%n4 - The Ground (Items Only)%n%n[note]The MKI also comes with the ability to remove blocks, so there is no need for another excavation upgrade.[/note]
@@ -14250,10 +14258,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFVA.desc=寻找雷神之锤.
 # Quest: Trigger: Ballthingy
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFVQ.name=触发:球状物
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFVQ.desc=找到?或做个雷电碎片
-
-# Quest: Trigger: CtH (unlock)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAISw.name=Trigger: CtH (unlock)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAISw.desc=Complete collecting the hybrids to trigger
 
 # Quest: Bees Template
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIbw.name=蜜蜂模板
