@@ -651,6 +651,17 @@ item.StargateDustAncients.name=远古时代的星门水晶粉
 item.StargateCrystalAncients.name=远古时代的星门核心水晶
 item.warptheory.portableshower.name=Portable Shower
 
+achievement.item.HeavyDutyAlloyIngotT4=Rocket Plate Tier 4!
+achievement.item.HeavyDutyAlloyIngotT4.desc=On your way to the T4 Dims!
+achievement.item.HeavyDutyAlloyIngotT5=Rocket Plate Tier 5!
+achievement.item.HeavyDutyAlloyIngotT5.desc=On your way to the T5 Dims!
+achievement.item.HeavyDutyAlloyIngotT6=Rocket Plate Tier 6!
+achievement.item.HeavyDutyAlloyIngotT6.desc=On your way to the T6 Dims!
+achievement.item.HeavyDutyAlloyIngotT7=Rocket Plate Tier 7!
+achievement.item.HeavyDutyAlloyIngotT7.desc=On your way to the T7 Dims!
+achievement.item.HeavyDutyAlloyIngotT8=Rocket Plate Tier 8!
+achievement.item.HeavyDutyAlloyIngotT8.desc=On your way to the T8 Dims!
+
 tc.research_name.InfusedGoldGTNH=注魔金
 tc.research_text.InfusedGoldGTNH=[AM]向黄金中注入魔法的力量.
 tc.research_page.InfusedGoldGTNH.1=你找到了一种方法,可以将黄金与神秘锭结合起来,创造了一种新的金属---注魔金!
@@ -1776,9 +1787,10 @@ dreamcraft.welcome.report_bug=请前往Github汇报问题：
 dreamcraft.welcome.click_github=点击打开Github！
 dreamcraft.welcome.visitdiscord=我们的Discord：
 dreamcraft.welcome.click_discord=点击打开Discord！
+dreamcraft.welcome.open_to_lan=Connected to Open to LAN server. This is not officially supported. Expect more bugs than usual
 
 dreamcraft.pausemenu.bug=汇报问题
 dreamcraft.pausemenu.wiki=打开百科
-dreamcraft.pausemenu.sharetolan.tooltip=§cOpen to LAN is not supported in GTNH§r\nInstead, setup a dedicated server for multiplayer\nCheck the wiki for instructions\nYou can run the server in parallel with the\ngame client on one computer
+dreamcraft.pausemenu.sharetolan.tooltip=§cOpen to LAN is buggy in GTNH§r\nInstead, set up a dedicated server for multiplayer\nCheck the wiki for instructions\nYou can run the server in parallel with the\ngame client on the same computer
 
-dreamcraft.gui.sharetolan.message=GTNH does not support multiplayer via Open To LAN. §cExternal connections are disabled!§r
+dreamcraft.gui.sharetolan.message=§cOpen To LAN can break the GTNH questbook.§r Consider setting up a dedicated server

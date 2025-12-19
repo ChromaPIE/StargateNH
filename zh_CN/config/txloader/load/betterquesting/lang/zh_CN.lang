@@ -18,7 +18,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAg.name=§9§l棍棒与石块
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAg.desc=这本书内置深夜读书小夜灯，你可以在熬夜的时候翻翻任务解闷儿，真不错！但眼下趁着外面还没黑透，还得完成一些基础工作。出去找点沙砾和木头吧。%n%n时刻记住别把自己饿着，所以四处看看有没有潘马斯的菜园，破坏后会掉落各式果蔬，记得留点种子。或者你可以空手右击菜园，直接把它整片带回家并找个空地放下来。它会在一定区域内慢慢蔓延增殖出同样的菜园，直至达到数量上限。%n%n§3请务必阅读第一个任务引出的信息任务，内含重要信息！
 
 # Quest: Storage For Days
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAw.name=§1§l仓储大扩建
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAw.name=§9§l仓储大扩建
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAw.desc=现在你有了工具并准备出发去收集各种资源,是时候为这些资源准备一些存储空间了. %n拿些木头来做一个箱子,你需要4个原木,4块木板和1个燧石.
 
 # Quest: Tools
@@ -34,7 +34,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAABw.name=§9§l……一分收获
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAABw.desc=如果你读到了先前的任务并种下了胡萝卜,那你就没事了.%n%n同时,你也应该把更多的水果和蔬菜变成种子,并扩大你的农场以获得稳定的食物供应.
 
 # Quest: Get That Stone
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACA.name=§1§l石头到手
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACA.name=§9§l石头到手
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACA.desc=瞧瞧你手握崭新木镐的飒爽英姿！%n%n去开采一些圆石吧！顺便还能给你那泥巴火柴盒增添点“层次感”，是不是很棒？
 
 # Quest: Fire, Fire, Grandpa!
@@ -70,7 +70,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAB5A.name=§1§l听，胡萝卜破土而�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB5A.desc=你已经厌倦了等待胡萝卜成熟的漫长过程？%n%n骨粉会帮助你的作物在几秒钟就成熟.%n%n砍一些树以获得一些骨粉奖励.
 
 # Quest: Goals
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABjA.name=§1§l漫漫长路分段走
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABjA.name=§9§l漫漫长路分段走
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABjA.desc=GTNH是一个有漫长旅途的整合包,有大量的自定义内容和超过三千个任务来指引你前进.%n%n我们建议在每个阶段都设定一个小目标,看看你的旅程能走多远.%n%n游戏后期的最终目标是制造一两个星门,但是星门的配方非常离谱,只有极少数玩家做出来过.%n%n如果你需要一个大目标,我么建议看看其他不那么疯狂的东西.%n如果你是第一次玩这个整合包,不如尝试争取上一次月球.%n如果你还没有做过装配线自动化,不妨试试这个挑战.%n又或者制作一个T8火箭,这是最后一个常规火箭,你需要UHV来制作它.
 
 # Quest: Even more challenges needed?
@@ -152,7 +152,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALDw.desc=本任务涵盖了所有的覆�
 
 # Quest: Lootbag Uptiering
 betterquesting.quest.ZM4oSqeWQRW1Y-zoE01ivg.name=Lootbag Uptiering
-betterquesting.quest.ZM4oSqeWQRW1Y-zoE01ivg.desc=In GTNH, the lootbags are quite useful tools for boosting your resources. There are a wide variety of lootbag types, and those types all have upgrade paths to get better resources.%n%nThere are two paths you can take when it comes to upgrading your lootbags, you can either enchant it with fortune, or you can upgrade the bag itself. Enchanting the lootbag with fortune will increase the chances of more rare drops being given to you on opening, while upgrading the bag itself will change the item pool to that of the upgraded bag. Notably, if you uptier the bag itself, it will cost 3 of the previous bag tier, so make sure it's worthwhile to upgrade before you do so!%n%n§2If you're looking to maximize your advantage it's recommended you both uptier your lootbag AND apply the fortune upgrade. %n§r%n[note]Be sure to use NEI to see all of this information. Use 'U' on your lootbag and you will be able to see the potential drops, the drop chances based on fortune levels, and you will be able to see recipes for uptiering the bag.[/note]%n
+betterquesting.quest.ZM4oSqeWQRW1Y-zoE01ivg.desc=In GTNH, the lootbags are quite useful tools for boosting your resources. There are a wide variety of lootbag types, and those types all have upgrade paths to get better resources.%n%nThere are two paths you can take when it comes to upgrading your lootbags, you can either enchant it with fortune, or you can upgrade the bag itself. Enchanting the lootbag with fortune will increase the chances of more rare drops being given to you on opening, while upgrading the bag itself will change the item pool to that of the upgraded bag. Notably, if you uptier the bag itself, it will cost 3 of the previous bag tier, so make sure it's worthwhile to upgrade before you do so!%n%n§2If you're looking to maximize your advantage it's recommended you both uptier your lootbag AND apply the fortune upgrade. %n§r%n[note]Be sure to use NEI to see all of this information. Use 'U' on your lootbag and you will be able to see the potential drops, the drop chances based on fortune levels, and you will be able to see recipes for uptiering the bag.[/note]
 
 
 ## Quest Line: Tier 0 - Stone Age
@@ -445,7 +445,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALPA.desc=看起来...你在不太深的�
 
 # Quest: Coins! Coins! Coins!
 betterquesting.quest.McmojGJJS3m8fS6c4olJmQ.name=§a§lCoins! Coins! Coins!
-betterquesting.quest.McmojGJJS3m8fS6c4olJmQ.desc=Finally, a use for all of these coins!%n%nThe §5§lVending Machine§r is a unique multiblock that allows you to exchange coins for valuable resources. You will progressively unlock new trades as you complete quests. Quests that unlock Vending Machine trades upon completion will show this information under the section labeled "§lAssociated Vending Machine Exchanges§r".%n%nAlternatively you can click "§2U§r" on the Vending Machine in NEI to see all available trades and what quests they are unlocked by. If an item can be traded for it will show up when clicking "§2R§r" under the Vending Machine tab.%n%nYou can put your coins directly into the input and they will appear in the internal storage. Additional inputs §3(including non-consumable)§r should be placed here as well. There is also a button for ejecting the coins if you need to reclaim them. %n%n[warn]Be aware, some trades have much longer timeout periods between claims![/warn]%n%n
+betterquesting.quest.McmojGJJS3m8fS6c4olJmQ.desc=Finally, a use for all of these coins!%n%nThe §5§lVending Machine§r is a unique multiblock that allows you to exchange coins for valuable resources. You will progressively unlock new trades as you complete quests. Quests that unlock Vending Machine trades upon completion will show this information under the section labeled "§lAssociated Vending Machine Exchanges§r".%n%nAlternatively you can click "§2U§r" on the Vending Machine in NEI to see all available trades and what quests they are unlocked by. If an item can be traded for it will show up when clicking "§2R§r" under the Vending Machine tab.%n%nYou can put your coins directly into the input and they will appear in the internal storage. Additional inputs §3(including non-consumable)§r should be placed here as well. There is also a button for ejecting the coins if you need to reclaim them. %n%n[warn]Be aware, some trades have much longer timeout periods between claims![/warn]
 
 # Quest: Automated Coke Oven
 betterquesting.quest.XABK1llCToa6KKcF5Z69GA.name=§a§lAutomated Coke Oven
@@ -3609,7 +3609,7 @@ betterquesting.quest.-wpUfFlVT5GytSWoT6QAdg.desc=Why stop at §2Prismatic Naquad
 
 # Quest: Prismatic Acid
 betterquesting.quest.9CIs8MP4TBuyRgn8lDu3Mg.name=§b§lPrismatic Acid
-betterquesting.quest.9CIs8MP4TBuyRgn8lDu3Mg.desc=Almost there I promise!%n%nNow that you have obtained the §2Prismatic Gas§o§r, you must cool it down in a §5§lVacuum Freezer§r with the assistance of §2Liquid Nitrogen§r. This will give you §3Prismatic Acid§r.%n%n[warn]Aside from continuing down this line, you can also use Prismatic Acid in the processing of Gaia blocks later.[/warn]%n
+betterquesting.quest.9CIs8MP4TBuyRgn8lDu3Mg.desc=Almost there I promise!%n%nNow that you have obtained the §2Prismatic Gas§o§r, you must cool it down in a §5§lVacuum Freezer§r with the assistance of §2Liquid Nitrogen§r. This will give you §3Prismatic Acid§r.%n%n[warn]Aside from continuing down this line, you can also use Prismatic Acid in the processing of Gaia blocks later.[/warn]
 
 # Quest: Power, So Much Power!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABdw.name=能量,很多的能量!
@@ -4639,11 +4639,13 @@ betterquesting.quest.IGVryoMbRu28q08v4uwSuw.desc=你可能已经注意到了,UXV
 
 # Quest: See You Next Time!
 betterquesting.quest.KNM9ICNAQIa8NaFoXwCC9g.name=§6§l§nSee You Next Time!
-betterquesting.quest.KNM9ICNAQIa8NaFoXwCC9g.desc=Still want more? Consider doing another run! Maybe even with some restrictions if you want to spice it up a bit. Check the first quest chapter for some recommendations!%n%nThere's also roles to be earned for completing the pack two or even three times if you want an extra incentive.%n%n[note]If you are going for 100%% questbook completion, you can choose between this quest or 'The Factory Must Grow!', both are valid options.%nBe wary that choosing one will lock you out of the other though.[/note]
+betterquesting.quest.KNM9ICNAQIa8NaFoXwCC9g.desc=Still want more? Consider doing another run! Maybe even with some restrictions if you want to spice it up a bit. Check the first quest chapter for some recommendations!%n%nThere's also roles to be earned for completing the pack two or even three times if you want an extra incentive.%n%n[note]This quest and “The Factory Must Grow!” are mutually exclusive; completing one will lock the other.
+%n
+%nIf you are going for 100%% questbook completion, don't panic, finishing either quest still allows the tab to receive a green check (much like the previous XOR quests).[/note]
 
 # Quest: The Factory Must Grow!
 betterquesting.quest.OCv5OWo6Q9KDfqe1w0ET9w.name=§6§l§nThe Factory Must Grow!
-betterquesting.quest.OCv5OWo6Q9KDfqe1w0ET9w.desc=A single stargate pair wasn't enough for you?%n%nWell then, time to build a network.%n%nWelcome to the post-stargate tier! %n%nNow that you successfully managed to make a stargate, what about crafting them in industrial quantities? Try to craft 5 pairs of gates in the least amount of time, then come in #screenshot-brag and post your time to see where your infrastructure stands in the community!%n%n[note]If you are going for 100%% questbook completion, you can choose between this quest or 'See You Next Time!', both are valid options.%nBe wary that choosing one will lock you out of the other though.%n%nEnjoy your round of Minesweeper![/note]%n
+betterquesting.quest.OCv5OWo6Q9KDfqe1w0ET9w.desc=A single stargate pair wasn't enough for you?%n%nWell then, time to build a network.%n%nWelcome to the post-stargate tier! %n%nNow that you successfully managed to make a stargate, what about crafting them in industrial quantities? Try to craft 5 pairs of gates in the least amount of time, then come in #screenshot-brag and post your time to see where your infrastructure stands in the community!%n%n[note]This quest and “See You Next Time!” are mutually exclusive; completing one will lock the other.%n%nIf you are going for 100%% questbook completion, don't panic, finishing either quest still allows the tab to receive a green check (much like the previous XOR quests).[/note]%n%n§dEnjoy your round of Minesweeper!
 
 # Quest: Assembling on Space Steroids
 betterquesting.quest.UVG21mYSQJex90gQWdkpIw.name=在宇宙星辰间组装
@@ -5089,7 +5091,7 @@ betterquesting.quest.-MexGhcYQ0OUrr5xgriDXQ.desc=鉴于你的神秘魔法研究�
 
 # Quest: Basic Flight Potion
 betterquesting.quest.4LY2S8QsSw-JdMGrF8FUsQ.name=Basic Flight Potion
-betterquesting.quest.4LY2S8QsSw-JdMGrF8FUsQ.desc=Tired of jetpacks? Want normal flight with no strings attached? Look no further!%n%nUsing your brand new MV Assembler and a Chicken Trophy, you can craft a basic Potion of Flight from Blood Magic, giving you 7 minutes of Creative flight with 8 uses before you have to make a new one.%n%n[note]Chicken Trophies are a rare drop from killing chickens.[/note]%n%n[note]Once you unlock Blood Magic, you can craft your own Flight Potion Flasks with a duration of up to 19 minutes, and refill them with any Filling Agent in an Alchemic Chemistry set.[/note]%n
+betterquesting.quest.4LY2S8QsSw-JdMGrF8FUsQ.desc=Tired of jetpacks? Want normal flight with no strings attached? Look no further!%n%nUsing your brand new MV Assembler and a Chicken Trophy, you can craft a basic Potion of Flight from Blood Magic, giving you 7 minutes of Creative flight with 8 uses before you have to make a new one.%n%n[note]Chicken Trophies are a rare drop from killing chickens.[/note]%n%n[note]Once you unlock Blood Magic, you can craft your own Flight Potion Flasks with a duration of up to 19 minutes, and refill them with any Filling Agent in an Alchemic Chemistry set.[/note]
 
 # Quest: Relocator
 betterquesting.quest.8QSORTVOSOaUXC6mQurMgA.name=定位器
@@ -5325,7 +5327,7 @@ betterquesting.quest.U6wfKJSxTiyYvcz-f-76EA.desc=神秘视界的异界传送门�
 
 # Quest: Chaos Locator
 betterquesting.quest._D1VyrEFSICL70afdVd1YQ.name=Chaos Locator
-betterquesting.quest._D1VyrEFSICL70afdVd1YQ.desc=This device is fashioned to greatly accelerate the hunt for chaos shards, by teleporting you straight to them! %n%nSimply enter any number from -1000 to 1000 in the coordinate fields, click the button and you will be teleported directly to a chaos island, even across dimensions. %nHow convenient!%n%n[note]You will still have to fight the chaos guardian though, this isn't a cosmic superweapon.[/note]%n%n
+betterquesting.quest._D1VyrEFSICL70afdVd1YQ.desc=This device is fashioned to greatly accelerate the hunt for chaos shards, by teleporting you straight to them! %n%nSimply enter any number from -1000 to 1000 in the coordinate fields, click the button and you will be teleported directly to a chaos island, even across dimensions. %nHow convenient!%n%n[note]You will still have to fight the chaos guardian though, this isn't a cosmic superweapon.[/note]
 
 # Quest: Speed up with the Sash
 betterquesting.quest.aXAQD7T1SnGCAu0L4iV64w.name=用腰带加速
@@ -6894,7 +6896,7 @@ betterquesting.quest.RFgYQ7LAQD-p1gHMaeg5Sg.desc=当你到达IV机械国度,你�
 
 # Quest: L.A.T.E.X. Cable Coater
 betterquesting.quest.RV7RYWwgRSaI4oNfhfZljw.name=§5§lL.A.T.E.X. Cable Coater
-betterquesting.quest.RV7RYWwgRSaI4oNfhfZljw.desc=The §5L§raminated §5A§rpplication and §5T§rhermal §5E§rnclosure e§5X§rpert (§5L.A.T.E.X.§r) is a multiblock dedicated to coating cables.%n%nYou will be making a LOT of cables during your playthrough... Why bog down your assembler when you can use the LATEX instead? The LATEX gives §2§2§2§2§l2x§r§r§r§r the speed with a §3§3§3§3§l15%%§r§r§r§r EU discount, and generously offers §6§6§6§6§l8§r§r§r§r parallels per voltage tier.%n%nIf that's not convincing enough, you also get an additive §2§l6.25%%§r rubber discount per Item Pipe Casing tier.%n%n[note]Once you eventually reach UV, you will be able to create an Elastic Singularity for additional perks![/note] %n%n
+betterquesting.quest.RV7RYWwgRSaI4oNfhfZljw.desc=The §5L§raminated §5A§rpplication and §5T§rhermal §5E§rnclosure e§5X§rpert (§5L.A.T.E.X.§r) is a multiblock dedicated to coating cables.%n%nYou will be making a LOT of cables during your playthrough... Why bog down your assembler when you can use the LATEX instead? The LATEX gives §2§l2x§r the speed with a §3§l15%%§r EU discount, and generously offers §6§l8§r parallels per voltage tier.%n%nIf that's not convincing enough, you also get an additive §2§l6.25%%§r rubber discount per Item Pipe Casing tier.%n%n[note]Once you eventually reach UV, you will be able to create an Elastic Singularity for additional perks![/note]
 
 # Quest: See You Lather
 betterquesting.quest.VJN1qfd5SjCkm7CXVd9Pag.name=我们稍后再见(See You Lather)
@@ -10084,7 +10086,7 @@ betterquesting.quest.JejpWZ7ATZq-0uomP4c7UA.desc=与1k存储元件一样.
 
 # Quest: Hyper Acceleration!
 betterquesting.quest.KM9gm3HCTa2OGPWlHHl4fw.name=Hyper Acceleration!
-betterquesting.quest.KM9gm3HCTa2OGPWlHHl4fw.desc=Hyper-Acceleration cards are a faster version of the basic acceleration cards. %n%n[note]Hyper-Acceleration cards can only be placed in:[/note]%n%n§cME IO Port (3)%nME Fluid Import Bus (4)%nME Fluid Export Bus (4)%n%n§rIn an IO Port, the Hyper-Acceleration Card will transfer items at a rate of: %n%n§61x Cards: 4,096 items/tick%n2x Cards: 32,768 items/tick%n3x Cards: 262,144 items/tick%n%n§rIn ME Fluid Buses, the Hyper-Acceleration Card will transfer fluids at a rate of:%n%n§61x Cards: 4,096,000 mb/tick%n2x Cards: 32,768,000 mb/tick%n3x Cards: 262,144,000 mb/tick%n
+betterquesting.quest.KM9gm3HCTa2OGPWlHHl4fw.desc=Hyper-Acceleration cards are a faster version of the basic acceleration cards. %n%n[note]Hyper-Acceleration cards can only be placed in:[/note]%n%n§cME IO Port (3)%nME Fluid Import Bus (4)%nME Fluid Export Bus (4)%n%n§rIn an IO Port, the Hyper-Acceleration Card will transfer items at a rate of: %n%n§61x Cards: 4,096 items/tick%n2x Cards: 32,768 items/tick%n3x Cards: 262,144 items/tick%n%n§rIn ME Fluid Buses, the Hyper-Acceleration Card will transfer fluids at a rate of:%n%n§61x Cards: 4,096,000 mb/tick%n2x Cards: 32,768,000 mb/tick%n3x Cards: 262,144,000 mb/tick
 
 # Quest: Advanced Neutronium Tech
 betterquesting.quest.LsZndSrhSAGSi60QlbnDtg.name=Advanced Neutronium Tech
@@ -10148,7 +10150,7 @@ betterquesting.quest.iwN50p7pSyyCHDkM-O-D7w.desc="它们"可以存储 33,554,432
 
 # Quest: Going Superluminal
 betterquesting.quest.kBjBqQR5Q-GWh4olyHmXXg.name=Going Superluminal
-betterquesting.quest.kBjBqQR5Q-GWh4olyHmXXg.desc=The Superluminal Acceleration card is the fastest AE card that you can use to transfer items or fluids.%n%n[note]Superluminal Acceleration cards can only be placed in:[/note]%n%n§cME IO Port (3)§r%n%nIn an IO Port, the Superluminal Acceleration Card will transfer items at a rate of:%n%n§61x Cards: 33,554,432 items/tick%n2x Cards: 2,147,483,648 items/tick%n3x Cards: 137,438,953,472 items/tick%n%n§rIn an IO Port, the Superluminal Acceleration Card will transfer fluids at a rate of:%n%n§61x Cards: 33,554,432,000 mb/tick%n2x Cards: 2,147,483,648,000 mb/tick%n3x Cards: 137,438,953,472,000 mb/tick%n%n
+betterquesting.quest.kBjBqQR5Q-GWh4olyHmXXg.desc=The Superluminal Acceleration card is the fastest AE card that you can use to transfer items or fluids.%n%n[note]Superluminal Acceleration cards can only be placed in:[/note]%n%n§cME IO Port (3)§r%n%nIn an IO Port, the Superluminal Acceleration Card will transfer items at a rate of:%n%n§61x Cards: 33,554,432 items/tick%n2x Cards: 2,147,483,648 items/tick%n3x Cards: 137,438,953,472 items/tick%n%n§rIn an IO Port, the Superluminal Acceleration Card will transfer fluids at a rate of:%n%n§61x Cards: 33,554,432,000 mb/tick%n2x Cards: 2,147,483,648,000 mb/tick%n3x Cards: 137,438,953,472,000 mb/tick
 
 # Quest: Fluid Void Cell
 betterquesting.quest.krGyRorETXqDuJdbU3K5tA.name=Fluid Void Cell
@@ -11769,7 +11771,7 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFw.desc=囊括扭曲.
 
 # Quest: Smoke Your Normal Warp Away
 betterquesting.quest.6pH9sRoUSbCDG8eWqXS_ow.name=Smoke Your Normal Warp Away
-betterquesting.quest.6pH9sRoUSbCDG8eWqXS_ow.desc=Having too much normal warp? Sanitizing Soap is too expensive for you?%n%nWell, luckily for you, you can remove your Warp using a Silverwood Smoking Pipe and some Relaxing Tobacco. This is a fairly cheap and sustainable option for removing your Normal warp (assuming you have a good option to get a lot of Vis).%n%nIt also has a chance to reduce your temporary warp.%n%n[note]The chance to reduce your normal warp per Relaxing Tobacco is 10%%, so you'll be needing a bunch of it.[/note]%n
+betterquesting.quest.6pH9sRoUSbCDG8eWqXS_ow.desc=Having too much normal warp? Sanitizing Soap is too expensive for you?%n%nWell, luckily for you, you can remove your Warp using a Silverwood Smoking Pipe and some Relaxing Tobacco. This is a fairly cheap and sustainable option for removing your Normal warp (assuming you have a good option to get a lot of Vis).%n%nIt also has a chance to reduce your temporary warp.%n%n[note]The chance to reduce your normal warp per Relaxing Tobacco is 10%%, so you'll be needing a bunch of it.[/note]
 
 # Quest: Adept Thaumaturgy
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABBA.name=熟练的神秘使
@@ -12049,7 +12051,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMyA.desc=这不是个好主意,但不应
 
 # Quest: The BEST Soap!
 betterquesting.quest.Jl453zbkSfC4pl9kglgy6A.name=The BEST Soap!
-betterquesting.quest.Jl453zbkSfC4pl9kglgy6A.desc=Finally, you can now reduce your permanent warp.%n%nThe chance to reduce your permanent warp is 10%%, increased to 25%% if you have the Warp Ward effect and further increased to 40%% if you're standing in Purifying Liquid. %n%n[warn]This soap has some side effects. Make sure you have a way to remove your normal (and temporary) warp.[/warn]%n%n
+betterquesting.quest.Jl453zbkSfC4pl9kglgy6A.desc=Finally, you can now reduce your permanent warp.%n%nThe chance to reduce your permanent warp is 10%%, increased to 25%% if you have the Warp Ward effect and further increased to 40%% if you're standing in Purifying Liquid. %n%n[warn]This soap has some side effects. Make sure you have a way to remove your normal (and temporary) warp.[/warn]
 
 # Quest: ...or are they?
 betterquesting.quest.LIZCdBLfQquQpULGmFDixw.name=......还是?
@@ -12065,7 +12067,7 @@ betterquesting.quest.TBMfXgORRHuggrozS7vsVA.desc=Don't want to spend your Salis 
 
 # Quest: Who Came Up With This Name??
 betterquesting.quest.lMDEhTDISSG1u2HYaZVg9w.name=Who Came Up With This Name??
-betterquesting.quest.lMDEhTDISSG1u2HYaZVg9w.desc=Sanitizing Soap isn't strong enough to keep up? %n%nThis soap has a 50%% Chance to reduce your normal warp, increased to 75%% if you have the Warp Ward effect (obtained by Purifying Bath Salts) and increased to 100%% if you're standing inside of the purifying fluid. %nThis soap also has a 100%% chance to cleanse §lall§r of your temporary warp!%n%nIn case you're wondering how to pronounce it: Don't even bother trying.%n
+betterquesting.quest.lMDEhTDISSG1u2HYaZVg9w.desc=Sanitizing Soap isn't strong enough to keep up? %n%nThis soap has a 50%% Chance to reduce your normal warp, increased to 75%% if you have the Warp Ward effect (obtained by Purifying Bath Salts) and increased to 100%% if you're standing inside of the purifying fluid. %nThis soap also has a 100%% chance to cleanse §lall§r of your temporary warp!%n%nIn case you're wondering how to pronounce it: Don't even bother trying.
 
 # Quest: Research Completer
 betterquesting.quest.q9PTMZlaR-GCnyoGNoO8Pw.name=Research Completer
@@ -12504,7 +12506,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMxg.desc=...蜜蜂绝不可能生产魔�
 
 # Quest: Mana Fountain
 betterquesting.quest.EP-xPjNWRnKCWRJjGzySvQ.name=Mana Fountain
-betterquesting.quest.EP-xPjNWRnKCWRJjGzySvQ.desc=The Mana Fountain allows for quick and seamless automation of Mana Pool recipes.%n%nYou can assemble the multiblock as specified in the Lexica Botania / NEI. After it's assembled, right clicking it using the Wand of the Forest will show you whether it's complete and the amount of internally stored mana.%n%nYou can send the controller mana directly by either using a spreader or a spark much like a Mana Pool. Technically you don't have to use the Mana Pool in the center of the multiblock for it to function, but it is placed conveniently so that you can (plus, it doesn't hurt to have an extra buffer).%n%nItems are allowed to input from any side of the controller, but can only output from the bottom. For early automation, it's recommended to just use hoppers. Once you uinlock AE2 however you can simply place an interface underneath the controller with the appropriate patterns and it should push and pull items automatically.%n%n[warn]You cannot craft Alchemy or Conjuration recipes using this multiblock, those are separate multiblocks that you will unlock with more advanced robot arm technology.[/warn]%n%n[note]This structure can absolutely wall-share. It has the perfect design to be able to share 4 different Mana Fountains between the center pool.[/note]%n
+betterquesting.quest.EP-xPjNWRnKCWRJjGzySvQ.desc=The Mana Fountain allows for quick and seamless automation of Mana Pool recipes.%n%nYou can assemble the multiblock as specified in the Lexica Botania / NEI. After it's assembled, right clicking it using the Wand of the Forest will show you whether it's complete and the amount of internally stored mana.%n%nYou can send the controller mana directly by either using a spreader or a spark much like a Mana Pool. Technically you don't have to use the Mana Pool in the center of the multiblock for it to function, but it is placed conveniently so that you can (plus, it doesn't hurt to have an extra buffer).%n%nItems are allowed to input from any side of the controller, but can only output from the bottom. For early automation, it's recommended to just use hoppers. Once you uinlock AE2 however you can simply place an interface underneath the controller with the appropriate patterns and it should push and pull items automatically.%n%n[warn]You cannot craft Alchemy or Conjuration recipes using this multiblock, those are separate multiblocks that you will unlock with more advanced robot arm technology.[/warn]%n%n[note]This structure can absolutely wall-share. It has the perfect design to be able to share 4 different Mana Fountains between the center pool.[/note]
 
 # Quest: Asgardandelion
 betterquesting.quest.M7CE2a0uSOSZZsyNloB0zg.name=Asgardandelion
