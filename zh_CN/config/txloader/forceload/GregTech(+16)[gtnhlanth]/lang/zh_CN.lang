@@ -8,7 +8,7 @@ gtnhlanth.tt.beaminfo=用§b扫描仪§7右键来获取多方块输入输出信�
 gtnhlanth.tt.blueprint=请参考§9Structure§2Lib§7的全息投影来构建主体结构。
 gtnhlanth.tt.pc=§6部分消耗：§7在工作中损耗耐久
 
-gtnhlanth.tt.hintdot=提示方块：%s号
+gtnhlanth.tt.hintNumber=Hint block with number %s
 
 GT5U.gui.text.gtnhlanth.nocoolant=机器内没有冷却液！
 GT5U.gui.text.gtnhlanth.inscoolant=机器内冷却液不足！
