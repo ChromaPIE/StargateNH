@@ -1738,6 +1738,7 @@ for.plugin.growthcraft.description=生长工艺(GrowthCraft)兼容组件。
 for.plugin.erebus.description=Erebus兼容组件。
 for.plugin.rotarycraft.description=旋转工艺(RotaryCraft)兼容组件
 for.plugin.minefactoryreloaded.description=我的工厂(MineFactoryReloaded)兼容组件
+for.plugin.etfuturum.description=Compatibility plugin for EtFuturumRequiem
 
 ####################
 # CONFIG FILES

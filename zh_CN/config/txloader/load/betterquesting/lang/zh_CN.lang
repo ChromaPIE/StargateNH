@@ -1427,7 +1427,7 @@ betterquesting.quest.b47jlBoHTFGGB3j7nq60Zw.desc=Are you tired of storing Shapes
 
 # Quest: Refined Firestone
 betterquesting.quest.njE33db1TxaiJhEBA16E4A.name=§2§lRefined Firestone
-betterquesting.quest.njE33db1TxaiJhEBA16E4A.desc=Cut Firestone is the basic shape for producing Refined Firestone.%nUse a Diamond Lens or Flint Lens for cutting.%nIt is then fired with lava in the EBF.%n%nLastly it is thrown into lava and charged by absorbing lava blocks around it.%nIt needs 5000 lava blocks to be fully charged, so a large lava lake is required, preferably in the Nether.%n%n[note]If the firestone breaks, it can be repaired with lava in the EBF and recharged.[/note]
+betterquesting.quest.njE33db1TxaiJhEBA16E4A.desc=Cut Firestone is the basic shape for producing Refined Firestone.%nUse a Diamond Lens or Flint Lens for cutting.%nIt is then fired with lava in the EBF.%n%nLastly it is thrown into lava and charged by absorbing lava blocks around it.%nIt needs 5000 lava blocks to be fully charged, so a large lava lake is required, preferably in the Nether.%n%nThis is most often used to heat up Steam Boilers very quickly or as a fuel. Additionally, it can function as a Flint and Steel.%n%n[note]If the firestone breaks, it can be repaired with lava in the EBF and recharged.[/note]
 
 # Quest: Precision Laser Engraver
 betterquesting.quest.vV8Pw_lTTSiMmWOLqkyIWg.name=§2§lPrecision Laser Engraver
@@ -2440,7 +2440,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAug.desc=你在火星可以找到一些�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuw.name=§a§k§l§r§a§l目标:火卫一
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuw.desc=火卫一上有不少新矿物,收集一些吧!%n%n[note]坦白说,除了地牢以外,现阶段的所有矿石都可以在火卫一找到.[/note]
 
-# Quest: Dimensional goal: Deimos
+# Quest: Dimensional Goal: Deimos
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvA.name=§a§l目标:火卫二
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvA.desc=实际上,从其他两个星球上面你可以找到现阶段所需的所有矿石,但到火卫二转转有什么不好呢?
 
@@ -5915,10 +5915,6 @@ betterquesting.quest.DSkXvzhRSKiwFLJywGDMRg.desc=An enhanced version of the Diam
 betterquesting.quest.KfgATF33ToiE0aYS4pp04Q.name=§6§lObsidian Barrel
 betterquesting.quest.KfgATF33ToiE0aYS4pp04Q.desc=The Obsidian barrel holds as many items as the Diamond one, and is also immune to explosions.
 
-# Quest: Double the Radius = Double the Fun!
-betterquesting.quest.LaLMF5rFQ0SxAZ5o-C-r5Q.name=Double the Radius = Double the Fun!
-betterquesting.quest.LaLMF5rFQ0SxAZ5o-C-r5Q.desc=[quest]Advanced MagLev Pylon II (HV)[/quest]%n%nThe HV Pylon has a §c32§r block radius (65x65x65 cube centered around the pylon)%n%nRadius is §9halved§r if the pylon is unpowered. 
-
 # Quest: Obsidian Shulker Box
 betterquesting.quest.MbFXZcovQ1GRxQCeS2PUuw.name=§6§lObsidian Shulker Box
 betterquesting.quest.MbFXZcovQ1GRxQCeS2PUuw.desc=The portable equivalent of the Obsidian Barrel that retains it's explosion-proof qualities.%n%nHas §n108§r slots.%n%n[note]Can be dyed![/note]
@@ -5934,10 +5930,6 @@ betterquesting.quest.QMlw6Z67T5-y_qflA7On2Q.desc=将钻石箱子与黑曜石结�
 # Quest: Iron Shulker Box
 betterquesting.quest.StA9TvxxSi2n2c7wQdCAFA.name=§2§lIron Shulker Box
 betterquesting.quest.StA9TvxxSi2n2c7wQdCAFA.desc=The portable equivalent of the Iron Barrel.%n%nHas §n54§r slots.%n%n[note]Can be dyed![/note]
-
-# Quest: Constructing Additional Pylons!
-betterquesting.quest.U0LzQUUkRIi-cY3ZpT4uiQ.name=Constructing Additional Pylons!
-betterquesting.quest.U0LzQUUkRIi-cY3ZpT4uiQ.desc=[quest]Advanced MagLev Pylon III (EV)[/quest]%n%nThe EV Pylon has a §c48§r block radius (97x97x97 cube centered around the pylon)%n%nRadius is §9halved§r if the pylon is unpowered. %n%n[note]The Protoss would be very happy with you[/note]
 
 # Quest: A Modern Technology
 betterquesting.quest.VFVruPLHQAeDthuV-s7HGQ.name=一项现代科技
@@ -9740,10 +9732,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ1A.desc=显然,如果你将这个连接
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ1Q.name=奥术合成终端
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ1Q.desc=奥术合成终端是奥术工作台的终端版本. 除了法杖,它还可以在内部保留一套vis减免装备. 你还能将其与要素中继接口链接,这样就能为终端内的法杖充能.%n%n源质终端与流体终端的工作方式类似.
 
-# Quest: The Fluid Terminal
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ1g.name=流体终端
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ1g.desc=ME流体终端使你能直接通过桶、单元或者其他容器输入/输出网络中的流体. 在终端的左下插槽中放入装满的单元或者其他物品,即可将其内的流体送入网络中,而单元会移动到右侧的输出插槽. 与之相对的,在终端内选择一种流体然后在左侧放入空单元,它会装满这种流体,移动到输出槽.
-
 # Quest: Illuminated Panels
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ1w.name=照明面板
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ1w.desc=所有的终端都是由此合成出来的. 所以你应该需要不少.
@@ -10056,10 +10044,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKww.desc=这是AE的核心功能,让我�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALPQ.name=应用格雷(Applied Greg)?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALPQ.desc=输入/输出总线(ME)是一种科技和...另一种科技结合的产物. 别这么看我,它就是,好不? 有了这些总线,你可以直接让GT多方块机器和ME网络进行物品输入/输出交互. 它们可以§o大幅度§r降低延迟,从而§o显著§r提升TPS,所以在服务器中,请尽早换用这些总线.%n%n只需要拆除你的普通GT总线+ME总线/ME接口,再换上输入/输出总线(ME),并直接连上AE线缆,即可完成换装. 它会使用1个频道,而其他方案一样要用1个频道.%n%n输出总线和输出仓的缓存空间是有限的.如果你需要更大的缓存,你既可以通过将其和存储组件,也可以通过向其中放入一个存储元件.一个数字奇点元件会带来近乎无限的缓存%n%n如果销毁模式未开启,ME输出仓/总线满时,多方块机器不会销毁过量流体/物品.%n%n[note]在某些机器中, 例如进阶装配线,必须将物品配置在第一格才能让机器识别到它并工作.[/note]
 
-# Quest: AE2 Fluid Crafting
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMsg.name=AE2流体合成(AE2FC)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMsg.desc=流体合成已经直接集成到了你的ME网络.这怎么可能!%n%n多亏了AE2FC,一个为了GTNH而从高版本移植的、强大的AE2附属mod.%n%n现在,需要什么才能让这个美妙的玩意运作呢?%n每个ME系统都需要一个ME流体离散器,它支持按需合成.虽然没有流体离散器,你也可以使用AE2FC转运流体;但它是自动合成必需的.%n%n然后你还需要一个ME流体样板终端或是ME增广流体样板终端,后者用于装配线.%n%n书写样板时,你会注意到流体放置的样式就如同物品一样.%n完成书写的样板看着是蓝色的.将其放置在ME二合一接口中,能使AE2"同时"发送流体和物品.注意,"同时"是说"两者都会",而在先后顺序上,AE2会先发送流体,再发送物品.%n如果想将流体储存在二合一接口中,你可以点击GUI右上角以切换设置界面.%n%n如果你在普通接口界面中使用蓝色样板(流体样板),AE2会以流体包的形式发送流体.这只是用物品的形式来代表流体.ME流体封包解码器可以将其变回流体,并储存在流体槽中.%n%n你可以使用一个原材料缓存仓(大型或是普通的),这样你由样板发送的物品和流体就都能存储在一个方块内部了.普通的原材料缓存仓可以存储9组物品和4种流体,大型的则是27组物品和7种流体.你可以使用它同物品和流体导管实现自动化,但不一定要这样做.%n%n如果你想自动化单方块机器,那就如同节食期间吃巧克力蛋糕一样简单:%n书写样板,制造一个二合一接口,当当当当--完成!它会自动把流体塞到单方块机器的流体格子里.%n%n即使是像装配线这样更困难的事情,在这些工具的帮助下自动化也变得容易多了%n%n如果你需要更详细的信息,请访问Wiki:%n%n[url]https://wiki.gtnewhorizons.com/wiki/AE2FC[/url]%n%n[note]更多存储单元2(ExtraCells2)mod现在已经被移除了.任何旧的元件和单元都已经尽可能地被转换为AE2和AE2FC的元件和单元了.[/note]
-
 # Quest: Starting Your AE2 Journey
 betterquesting.quest.BKJ_IdnHR6ideLC6NnyyPg.name=§5§lStarting Your AE2 Journey
 betterquesting.quest.BKJ_IdnHR6ideLC6NnyyPg.desc=§nApplied Energistics 2 is an integral part of GTNH gameplay. %n§r%nAE2 is the primary networking and logistics management mod in GTNH for Items, Fluids, and Crafting. You will use it starting from EV and onward for most automations you perform. Given the sheer density of this modpack there are a variety of unique tools and features added specifically to aid in your adventure. Most of these tools are covered in this quest tab.%n%nThere is a lot to learn, but don't feel overburdened! Your abilities will continue to grow the more time you spend with it. There are a wide variety of helpful resources to take advantage of in addition to this book when it comes to learning:%n%n§21. The Wiki: §r[url]https://wiki.gtnewhorizons.com/wiki/Applied_Energistics_2[/url]%n%n- The Wiki has a lot of great starter information on what various systems do. They also have a lot of machine specific automation tutorials so be sure to check the Wiki if you're struggling or want a point of reference.%n%n§22. The Discord: §r[url]https://discord.gg/gtnh[/url]%n%n- The Discord is full of experienced AE2ers', check out #ae2-help to find plenty of people who will take time to help you figure something out.%n%n§23. Video Tutorials: §r[url]https://www.youtube.com/watch?v=LUYVmIAEC-I[/url]%n%n- There are a lot of great GTNH content creators who make high quality video tutorials for this. Here is a link to AE2 Fundamentals by IX. There's an advanced version as well.
@@ -10182,7 +10166,7 @@ betterquesting.quest.soyN9ODlQmmjrKEyKBNENA.desc=就像储备输入总线一样�
 
 # Quest: Even More Basic Cards! 
 betterquesting.quest.suQSf7Z-QICknl3I1RfymA.name=Even More Basic Cards! 
-betterquesting.quest.suQSf7Z-QICknl3I1RfymA.desc=[quest]Overflow Void, Pattern Refiller, and Sticky Cards[/quest]%n%n§6Overflow Void Card:§r %n%nOverflow Void Cards will cause the ME Storage Cell to void excess inputs%n%n§6Pattern Refiller Card:§r %n%nThe Pattern Refiller card will refill empty patterns in your Processing and Fluid Processing Terminals.%n%n§6Sticky Card:§r %n%nSticky Cards are useful if you want your ME System to only store a filtered item in one location across your entire network. %n%n[warn]Be careful with where you use sticky cards as they can lead to your passive systems jamming. [/warn]
+betterquesting.quest.suQSf7Z-QICknl3I1RfymA.desc=[quest]Overflow Void, Pattern Refiller, and Sticky Cards[/quest]%n%n§6Overflow Void Card:§r %n%nOverflow Void Cards will cause the ME Storage Cell to void excess inputs%n%n§6Pattern Refiller Card:§r %n%nThe Pattern Refiller card will refill empty patterns in your Regular Pattern and Processing Pattern Terminals.%n%n§6Sticky Card:§r %n%nSticky Cards are useful if you want your ME System to only store a filtered item in one location across your entire network. %n%n[warn]Be careful with where you use sticky cards as they can lead to your passive systems jamming. [/warn]
 
 # Quest: Wireless HUBs
 betterquesting.quest.tM8pT_W3RCqZNDAovERxFg.name=Wireless HUBs
@@ -11720,6 +11704,10 @@ betterquesting.quest.TvVeFhtYQCSmlekVCdADaQ.desc=在你的旅途中,你听说过
 betterquesting.quest.UAWjHTM_SAW95_Cji-9PiA.name=需要更多糖?
 betterquesting.quest.UAWjHTM_SAW95_Cji-9PiA.desc=随着你使用治愈草,你可能也想扩大你的糖产能.%n%n芦苇是直接种植在草方块上而不是耕地上的,并且他会自己蔓延繁殖.一旦它完全成熟,你可以同时收获糖和甘蔗.
 
+# Quest: Thaumic Dendrology
+betterquesting.quest.VJvOr8S8R3SMamYdt0yyFw.name=Thaumic Dendrology
+betterquesting.quest.VJvOr8S8R3SMamYdt0yyFw.desc=Thaumcraft saplings can be quite useful early on, now that you have access to infusion you can create them. Each type has a special trait:%n%n§6§lGolden Oak§r - Drops Golden Apples as opposed to regular Apples.%n%n§c§lNether§r - Creates a miniature nether biome upon placement that can spawn mobs- be careful! Placing the leaves from this tree on top of a block will cause that block to turn into its nether counterpart.%n%n§d§lEnder§r - Creates a miniature end biome upon placement that can also spawn mobs. Placing the leaves from this tree on top of a block will cause that block to turn into its end counterpart. (§3A great source of Endstone§r)%n%n§b§lPeaceful§r - Gathers passive creatures underneath its leaves. The types of animals attracted depends on the biome its planted in.
+
 # Quest: Keeping Out the Riff-Raff
 betterquesting.quest._N4B3gVMTZOoUdf9--7aPQ.name=将乌合之众拒之门外
 betterquesting.quest._N4B3gVMTZOoUdf9--7aPQ.desc=为了确保没有不速之客入侵,你不得不把一切都造得像堡垒一样,你开始厌倦了.没错,在这个世界上生活的本质就是这样,每个黑暗角落都会徘徊着无尽的、不安分的亡灵.但难道要求有比门更方便的入口是一件很过分的事吗?%n%n现在不再是这样了.在没有任何东西放在其上时,守卫者铺路石将会在其上方投射出一个两格高的隐形力场,阻止非玩家生物通过,至少阻止那些乌合之众通过.它还有一个额外的好处,蜘蛛无法攀爬这个力场,因此也不需要悬挑结构来防止它们进入.%n%n话虽如此,由于力场无法区分你发射的箭和别人§o向你§r发射的箭,普通物体仍然可以穿过力场.此外,力场在阻挡视线方面的效果与§o隐形§r这个词的效果完全一样.%n%n当然,你并不需要担心这一点.能够在敌人无法接近你的情况下用十字弓射击东西,对§o你§r完全是有利的.
@@ -11755,6 +11743,10 @@ betterquesting.quest.gVqhKJAoTfudKA5xUWMzMg.desc=当你中毒或被虚弱时,一
 # Quest: Counting Items
 betterquesting.quest.jvbdUzcgTfGX820wUPhxCQ.name=物品计数
 betterquesting.quest.jvbdUzcgTfGX820wUPhxCQ.desc=远程比较器使得从你想要的任何方块中获取比较器信号变得更加容易,但看着你的储物箱,你不禁觉得没有理由去费心.如果它们快满了怎么办?你想知道它们因§o什么§r而满.%n%n计数盒可以指向一个容器——可以是直接指向,也可以通过远程比较器远程指向——并通过符文白名单来指定你希望计数盒发送红石信号的条件.数量、元数据和NBT匹配都是选项,使用基本名称过滤器也是可以的.%n%n请注意,红石侧总是与读取侧相对,远程比较器必须放置在计数盒的顶部才能一起工作,这意味着在这种情况下,红石信号总是从下方输出.%n%n[note]不幸的是,符文白名单不允许使用NEI虚拟物品来设置过滤器.[/note]
+
+# Quest: Magical Plants
+betterquesting.quest.oNdPEYVuQc2t0oqunOovUg.name=Magical Plants
+betterquesting.quest.oNdPEYVuQc2t0oqunOovUg.desc=Now that you've made a crucible you can create a bunch of unique Thaumcraft plants. Some of these are incredibly useful so you'll want to take a close look.%n%nThe research for most of these can be found under Thaumic Bases, starting with "Thaumic Nature".%n%n[note]Aside from these, there are more plant types unlocked in the future as you continue to progress.[/note]
 
 # Quest: Tube Madness
 betterquesting.quest.xoH_knd-RV-22QEfLUtuDA.name=我为管道狂
@@ -11916,10 +11908,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.desc=终极附魔设备--你可以�
 # Quest: Crying Obsidian...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABMQ.name=尖叫黑曜石
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABMQ.desc=这个神奇的石头在你死后会找到你的灵魂,有些时候这很方便.把两个尖叫黑曜石垂直放置在一起,触摸它后你就可以把你的出生点设置到这个位置,而不需要一张床了.你可以想象一下如何使用它.(魔导手册神秘基础中的研究内容)
-
-# Quest: Useful Trees
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABMg.name=有用的树
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABMg.desc=虽然和其他植物类似,但是这几种树有一些特别的能力,可以吸引各种"友好"或者"不友好"的生物. (前提是你没有将他们种植在荒凉的生物群系)
 
 # Quest: Purge Your Warp
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADQQ.name=清除你的扭曲
@@ -14136,7 +14124,7 @@ betterquesting.quest._zwtTNh-SG6B4wp221XPcQ.desc=The MKIII is the final upgrade 
 
 # Quest: Creative Flight With MagLev
 betterquesting.quest.a-g__0y_SGyed_E6IkIrsg.name=§6§lCreative Flight With MagLev
-betterquesting.quest.a-g__0y_SGyed_E6IkIrsg.desc=Getting annoyed trying to reach pipes and conduits around your base? Look no further than the §5§lMagLev Harness§r!%n%nWith the MagLev, you can have creative flight whenever you are within range of a MagLev Pylon and have the Harness equip.%n%nThis will work even when unpowered, however the range of the Pylon gets doubled when it's given §21A§r of it's corresponding tier of power. The MagLev will only draw power while you are in-range, not passively. A Harness can only be tethered to one Pylon at a time, but a Pylon can attach to any number of Harnesses. Will only consume 1A §nregardless§r of how many Harnesses are tethered to the Pylon§r.%n%n[note]Check the tooltip to see the range of your chosen Pylon, the MV one has a maximum range of 16 (33 x 33 x 33) when powered![/note]
+betterquesting.quest.a-g__0y_SGyed_E6IkIrsg.desc=Getting annoyed trying to reach pipes and conduits around your base? Look no further than the §5§lMagLev Harness§r!%n%nWith the MagLev, you can have creative flight whenever you are within range of a MagLev Pylon and have the Harness equip.%n%nThis will work at half of the range when unpowered, you unlock the full range when it's given §21A§r of it's corresponding tier of power. The MagLev will only draw power while you are in-range, not passively. A Harness can only be tethered to one Pylon at a time, but a Pylon can attach to any number of Harnesses. Will only consume 1A §nregardless§r of how many Harnesses are tethered to the Pylon§r.%n%nThe §6MV Pylon§r has a §c16§r block radius (33x33x33 cube centered around the pylon)%n%nThe §5HV Pylon§r has a §c32§r block radius (65x65x65 cube centered around the pylon)%n%nThe §8EV Pylon§r has a §c48§r block radius (97x97x97 cube centered around the pylon)
 
 # Quest: Powerfail Notifications
 betterquesting.quest.a59175-ZS16kxwUW_BCuEQ.name=§6§lPowerfail Notifications
