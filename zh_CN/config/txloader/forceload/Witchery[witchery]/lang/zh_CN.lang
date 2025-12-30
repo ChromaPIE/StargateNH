@@ -620,8 +620,8 @@ item.witchery:poppet.protectArmor.name=护甲保护娃娃
 
 item.witchery:babashat.name=芭芭雅嘎之帽
 item.witchery:babashat.tip={5为玩家注魔,使得他们在受到攻击时有几率被{0|{5传送而非承受打击{0||{9二次叠加 +25% 几率{0|{9三次叠加 +25% 几率{0
-item.witchery:boline.name=伯莱恩匕首
-item.witchery:boline.tip=类似剪刀,但能够收割被捕获的植物和蜘蛛网.
+item.witchery:boline.name=博林仪式刀
+item.witchery:boline.tip=类似剪刀，但能够完整地采集陷阱植物和蜘蛛网。
 
 witchery.infuse.infusionrequired=注魔后才拥有此能力.
 witchery.infuse.nocharges=魔力不足无法使用该能力.
@@ -1596,7 +1596,7 @@ witchery.vampirepower.ustorm=唤雨(%d)
 
 witchery:vampirebook.toc=[next=ritual1][h1 观察日记：永生者] [ 异端学者禾西与吸血鬼 木乃喵的对话]
 witchery:vampirebook.ritual1=[next=ritual2]我真不愿意写下我所见闻的 事情,我目睹的不应为常 人所知.记住,以我所说 的为戒...
-witchery:vampirebook.ritual2=[next=ritual3][br]...今夜的晚餐上,他 回忆了他“初生”的经历， 那邪恶的事儿...[br][br]...「在骷髅头颅上用伯莱恩匕首 屠宰一只鸡，用玻璃高脚 杯去收集留下的血液，是 无比残忍的事情」，我告 诉他...
+witchery:vampirebook.ritual2=[next=ritual3][br]...今夜的晚餐上,他 回忆了他“初生”的经历， 那邪恶的事儿...[br][br]...「在骷髅头颅上用博林仪式刀 屠宰一只鸡，用玻璃高脚 杯去收集留下的血液，是 无比残忍的事情」，我告 诉他...
 witchery:vampirebook.ritual3=[next=ritual4][br]...显然，这是早已被 遗忘的仪式的开始（我画 了个草图）...夜，以 月，线，红石，火把，及 骷髅头颅为引...
 witchery:vampirebook.ritual4=[next=ritual5][br][br]...斟血入颅...[br][br]...他低吟着将带领她 步入熔岩之湖...   ...下界...
 witchery:vampirebook.ritual5=[next=transfix|1][br]...他对她证明了他的价值...[br][br][br]...而那玻璃高脚杯装载的，真有 人会喝这种东西？...
