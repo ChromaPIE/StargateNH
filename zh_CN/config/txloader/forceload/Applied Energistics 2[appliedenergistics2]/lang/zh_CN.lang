@@ -432,6 +432,7 @@ gui.tooltips.appliedenergistics2.NumberOfItems=物品数量
 gui.tooltips.appliedenergistics2.ItemName=物品名称
 gui.tooltips.appliedenergistics2.PowerUnits=能源单位
 gui.tooltips.appliedenergistics2.IOMode=输入/输出模式
+gui.tooltips.appliedenergistics2.ExtractionMode=Extraction Mode
 gui.tooltips.appliedenergistics2.CondenserOutput=ME聚合器-输出
 gui.tooltips.appliedenergistics2.PartitionStorage=分区存储
 gui.tooltips.appliedenergistics2.Clear=清除
@@ -446,6 +447,8 @@ gui.tooltips.appliedenergistics2.Singularity=每%s个物品\n聚合为一个奇�
 gui.tooltips.appliedenergistics2.Read=只读
 gui.tooltips.appliedenergistics2.Write=只写
 gui.tooltips.appliedenergistics2.ReadWrite=双向
+gui.tooltips.appliedenergistics2.Strict=Strict - Network sees only filtered items
+gui.tooltips.appliedenergistics2.Loose=Loose - Network sees everything
 
 gui.tooltips.appliedenergistics2.AlwaysActive=总是激活
 gui.tooltips.appliedenergistics2.ActiveWithoutSignal=无信号时激活

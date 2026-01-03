@@ -34,6 +34,7 @@ gt.component.smallspring=小型%s弹簧
 gt.component.finewire=Fine %s Wire
 gt.component.platedense=Dense %s Plate
 gt.component.platesuperdense=Superdense %s Plate
+gt.component.sheetmetal=%s Sheetmetal
 
 # Crops
 gt.crop.argentia.name=Argentia
@@ -826,7 +827,6 @@ GT5U.MBTT.Tiers.Turbine=Sum of Turbine
 GT5U.MBTT.Tiers.Glass=玻璃
 GT5U.MBTT.Steam.Speed=%s faster than using single block steam machines of the same pressure
 GT5U.MBTT.Steam.Eff=Only consumes steam at %s of the steam flowrate normally required
-GT5U.MBTT.Structure.Complex=Structure is too complex!
 GT5U.MBTT.Structure.SeeStructure1=To see the structure, use a
 GT5U.MBTT.Structure.SeeStructure2=Hologram Projector on the Controller!
 GT5U.MBTT.Structure.MinGlassForLaser=-tier §fGlass§7 required for §9Tec§1Tech§7 Laser Hatches
@@ -3121,7 +3121,7 @@ GTPP.multiblock.duration=NEI时间
 GTPP.multiblock.multimachine.metal=模式:金属. 可充当压缩机(20号电路板),车床(21号电路板)或磁化机(22号电路板).
 GTPP.multiblock.multimachine.fluid=模式：流体. 可充当发酵槽(电路板20), 流体提取机(电路板21) 或提取机(电路板22).
 GTPP.multiblock.multimachine.misc=模式：杂项. 可充当激光蚀刻机(电路板20), 高压釜(电路板21) 或流体固化器(电路板22).
-
+GTPP.multiblock.ap.tier=Tier: %s
 
 GTPP.waila.steam.use=当前消耗：§e%s§r L/s 蒸汽
 
@@ -3257,6 +3257,14 @@ GT5U.tooltip.mega_apiary.only_producer=Will only be produced in mega Apiary
 
 GT5U.tooltip.electric.tier=Tier: %d
 GT5U.tooltip.electric.tier.s=Tier: %s
+
+GT5U.tooltip.typefilter.set_to=Filter set to %s
+GT5U.tooltip.typefilter.ore_prefix=Ore prefix: %s
+GT5U.tooltip.typefilter.size=Filter size: %s
+
+GT5U.die.frozen=%s froze to death
+GT5U.die.boiled=%s was boiled alive
+GT5U.die.exploded=%s exploded
 
 gt.coilheattooltip=基础供热温度 =
 gt.coilunittooltip=Kelvin

@@ -6950,6 +6950,10 @@ betterquesting.quest.qDZZLi21TrmdWXwo_KimIw.desc=更大,更好,更快!这台 Lar
 betterquesting.quest.quLxATDCQFWsrZRuh_gspA.name=蒸汽动力的突破
 betterquesting.quest.quLxATDCQFWsrZRuh_gspA.desc=您现在应该已经收集了不少单方块蒸汽机器.虽然这些机器可以帮助您处理少量材料,但总有一天您需要处理大量物品.这就是蒸汽多方块机器发挥作用的地方.%n%n虽然多方块蒸汽机器的材料成本远高于单方块,但它们也有一些优势：它们使用的蒸汽更少,而且可以并行处理配方,这意味着如果提供的蒸汽足够,一个配方循环可以同时制作多个物品.%n%n§T不过,它们也有一些需要注意的怪癖：%n%n-这些多方块需要§4§l非常特殊§r的I/O方块,只能使用任务中的显示的那些方块%n%n-它们最多可以加工8件物品,其中基础等级由青铜制成,高压等级由钢铁制成(查看NEI中的多方块预览,它会显示不同的等级)%n-如果你正在查看控制器方块,可以通过WAILA查看机器的等级和并行处理的数量%n%n§W[note]通过这个任务,你已经开始了大规模生产之旅.不过,先别高兴得太早.虽然在蒸汽时代可以获得一些多方块机器,但它们中的大多数只有在EV或更高电压等级才能解锁,包括这些多方块机器的更好版本.
 
+# Quest: Thermic Heating Device
+betterquesting.quest.rVvLhN6YTUKhminacygRVg.name=§9§lThermic Heating Device
+betterquesting.quest.rVvLhN6YTUKhminacygRVg.desc=The §5§lThermic Heating Device§r is the multiblock edition of the Fluid Heater, offering §6§l8§r parallels per voltage tier at over §2§l2x§r the speed and for only §3§l90%%§r of the EU cost.%n%nThis can be useful now for Bauxite and Ruthenium processing but if you choose not to use it then definitely keep it in mind for later as you will eventually want it for Growth Catalyst!
+
 # Quest: Steam Stomping!
 betterquesting.quest.s6AEHSKiQe2XveT_oDZbZg.name=蒸汽猛击!
 betterquesting.quest.s6AEHSKiQe2XveT_oDZbZg.desc=锻造锤的速度已经相当快了,为什么不制造这个升级版,让它变得更快?有了大型蒸汽锻造锤,你就可以在任何材料上充分释放蒸汽的力量.你可以看到方块分崩离析,各种杆被挤在一起,速度比以往任何时候都快----至少在你获得更先进的技术之前是这样.%n%n§3这台大型蒸汽锻造锤只能处理LV等级及以下的配方.
@@ -9756,10 +9760,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ2w.desc=这种设备会根据ME网络�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ3A.name=为什么我需要知道有多少粪浆?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ3A.desc=这些是流体版本.
 
-# Quest: Out of Polytetrafluoroethylene? Turn on the LCR!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ3Q.name=缺聚四氟乙烯? 启动大型化学反应釜!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ3Q.desc=它与流体探测覆盖板基本相同,不同的是它检测的是你ME网络中的流体. 右键打开GUI,用单元在空位处标记流体并设置数量,再次单击取消设置.
-
 # Quest: Essentia Level Emitter
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ3g.name=源质发信器
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ3g.desc=与另外两种发信器类似,源质版本.
@@ -11825,10 +11825,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABGA.desc=眼睛.对,眼睛! 宝贝我需
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABGQ.name=真的(真的!)黑暗魔法
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABGQ.desc=傻瓜.我说他们是一群傻瓜! 他们什么都不知道!这本书会指引我.是的!是的!我的宝贝. 它将让我们拥有更加强大的力量!  可在本地的书商买到,或击杀血腥骑士、血腥主教掉落获得.
 
-# Quest: Secrets
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABGg.name=秘密
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABGg.desc=我感觉到了!是的,是的是的是的是的!!!!!! 我们将获得更大的力量,力量!!!!我的宝贝!. 这些声音给了我一个线索,有一个难以置信充满了魔法力量的维度. 我必须去那,我必须去! 邪术教徒们知道这个秘密.我会将他们撕成碎片...嘿嘿嘿他们会告诉我的!%n%n§3注意:你可能需要一个刷怪笼,你下一个任务所需的书,掉落几率不太高. 另外,它们由邪术祭坛生成,且不会重复生成.
-
 # Quest: Find the Key
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABGw.name=找到钥匙
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABGw.desc=不!不不不不! 他们把它藏起来了! 我必须找到...找到钥匙!必须找到它! 我需要这个石板来打开大门!我的宝贝!
@@ -13598,6 +13594,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAxQ.desc=你不能让热量聚集在反�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2Q.name=§2§l做一把好剑
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2Q.desc=现在是时候做一把匠魂剑了!首先你需要制作剑刃、某种护手以及手柄.在匠魂冶炼炉里面熔化一些青铜来铸造这些零件.拿去工具组装台把它们装好,这样你就有你第一把匠魂的剑了.%n%n有4种护手,改变护手类型会得到不同类型的剑,请查阅匠魂手册以获取更多信息.
 
+# Quest: Time To Kill (Crimson Knight)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABGg.name=秘密
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABGg.desc=我感觉到了!是的,是的是的是的是的!!!!!! 我们将获得更大的力量,力量!!!!我的宝贝!. 这些声音给了我一个线索,有一个难以置信充满了魔法力量的维度. 我必须去那,我必须去! 邪术教徒们知道这个秘密.我会将他们撕成碎片...嘿嘿嘿他们会告诉我的!%n%n§3注意:你可能需要一个刷怪笼,你下一个任务所需的书,掉落几率不太高. 另外,它们由邪术祭坛生成,且不会重复生成.
+
 # Quest: Magical Waystones
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABSg.name=神奇的传送核心
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABSg.desc=如果你的快捷栏中有绑定的仙域珍珠,仙域召唤核心即可将你传送回相应的仙域之门. 优先激活快捷栏最左侧的珍珠,所以你可以同时携带多个珍珠到处旅行!
@@ -14088,7 +14088,7 @@ betterquesting.quest.PjAewUoJTnilPpIT-Ce0tA.desc=The Diamond barrel has 108 slot
 
 # Quest: Large Molecular Assembler
 betterquesting.quest.Q10xj-OrTE67wsWuTNCAAQ.name=§9§lLarge Molecular Assembler
-betterquesting.quest.Q10xj-OrTE67wsWuTNCAAQ.desc=The Large Molecular Assembler is exactly how it sounds; a very quick molecular assembler with a much bigger inventory for crafting patterns. %n%nThis can handle up to 1024 crafts per second at the maximum energy usage making it up to 100x faster than a molecular assembler. Check out the Wiki for specifics: [url]https://wiki.gtnewhorizons.com/wiki/Large_Molecular_Assembler[/url]%n%nThe LMA controller hooks up directly to your main network in order to function, and all recipes must be placed inside input buses attached to the machine in order to be recognized. Will not require an output bus.%n%n[note]Super Buses are highly recommended![/note]%n%n[warn]This machine can absolutely wall-share, but be careful about the placement of your input bus or all machines may not be used.[/warn]
+betterquesting.quest.Q10xj-OrTE67wsWuTNCAAQ.desc=The Large Molecular Assembler is exactly how it sounds; a very quick molecular assembler with a much bigger inventory for crafting patterns. %n%nThis can handle up to 1024 crafts per second at the maximum energy usage making it up to 100x faster than a molecular assembler. Check out the Wiki for specifics: [url]https://wiki.gtnewhorizons.com/wiki/Large_Molecular_Assembler[/url]%n%nThe LMA controller hooks up directly to your main network in order to function, and all recipes must be placed inside input buses attached to the machine in order to be recognized. Will not require an output bus.%n%n[note]High capacity Input Buses are highly recommended![/note]%n%n[warn]This machine can absolutely wall-share, but be careful about the placement of your input bus or all machines may not be used.[/warn]
 
 # Quest: Compact Storage
 betterquesting.quest.QNsm_wc0QO2g9C6_-vj2fA.name=§2§l紧凑的存储

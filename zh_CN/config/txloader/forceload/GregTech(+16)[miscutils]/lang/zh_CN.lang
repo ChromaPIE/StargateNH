@@ -97,6 +97,7 @@ gtpp.recipe.multidehydrator=工业脱水机
 gtpp.recipe.semifluidgeneratorfuels=半流质发电机燃料
 gtpp.recipe.flotationcell=浮选机
 gtpp.recipe.treefarm=原木拟生场
+gtpp.recipe.algae_pond=Algae Pond
 
 # Recipe categories
 gtpp.recipe.category.abs_non_alloy_recipes=合金冶炼炉非合金配方
@@ -137,6 +138,7 @@ gtpp.nei.tgs.info-1=机器的电压等级
 gtpp.nei.tgs.info-2=和工具类型
 gtpp.nei.tgs.info-3=会进一步提升产量
 
+gtpp.nei.ap.tier=Algae Pond Tier: %s
 
 # Thermal Foundation Stuff
 item.MiscUtils.bucket.bucketPyrotheum.name=烈焰之炽焱桶
