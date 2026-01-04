@@ -235,10 +235,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIA.desc=在你找到方法运水后,你
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.name=§2§l匠魂时间
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.desc=用燧石玩意去烧猪猪或牛群确实挺有趣的,但它们并不耐用,何况还不能修.再加上它这点伤害会让精英怪嘲笑你的. 不过,你发现了一种新的工具不仅可以被修复还可以升级!但你绝对需要更进阶的制作技术.  如果你想要使用橡木以外的其他木材来制作台子,可以将它们转换为默认的橡木样式以完成此任务.
 
-# Quest: Zinc Gravel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIg.name=§2§l锌矿砂砾
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIg.desc=你可以在地表的沙砾堆中发现这种矿物砂砾的存在。%n%n尽可能省着用。等到踏入蒸汽时代，便可利用粉碎机获取双倍的产出。%n%n如果实在找不到，可以在任务书的硬币区买一些。%n%n等到进入了LV阶段，手上有了足够的锌矿石，且有条件进行完整的矿物处理，还可从中获取镓来合成砷化镓。
-
 # Quest: Making Bronze
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIw.name=§2§l制作青铜
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIw.desc=你现在已经找到铜和锡了,应该做些青铜.试着用你的榔头锤...我是说研钵,捣碎些铜锭和锡锭,然后再搅拌它们!
@@ -1990,6 +1986,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMjQ.desc=第二步,让我们将四氯化
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMjg.name=§6§l头疼(Salty)的硅产线?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMjg.desc=如果你对提纯硅所需的各种资源感到头疼的话,我这有个好消息! 你可以通过电解处理产物盐(Salt),回收所有的氯和钠!%n%n%n[warn]当然也可以使用锌来代替钠，第一步反应会慢一点，但回收锌粉速度远比用钠要快。[/warn]
 
+# Quest: Dislocator Inhibitor
+betterquesting.quest.epVKHW7jSUiiLW4BPCqv9g.name=§6§lDislocator Inhibitor
+betterquesting.quest.epVKHW7jSUiiLW4BPCqv9g.desc=Tired of your magnet picking up everything? Fortunately, with the advent of Dark Steel this no longer needs to be an issue.%n%nThe Dislocator Inhibitor will restrict the function of the Draconic Evolution Item Dislocator within a customizable range of up to 16 blocks. You can stop it from picking up items entirely, or configure a whitelist or blacklist of your choosing. Additionally, you can choose whether it is always active or only enabled by a redstone signal.
+
 
 ## Quest Line: Tier 3 - HV
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAABQ.name=第3阶-高压（HV）
@@ -2747,10 +2747,6 @@ betterquesting.quest.JkWQZxq_TECWjHhjywrZZA.desc=现在您已经进入了EV级�
 # Quest: EV Field Generator
 betterquesting.quest.Jna1jgAySNSs8nS0YMXpLw.name=§a§lEV力场发生器
 betterquesting.quest.Jna1jgAySNSs8nS0YMXpLw.desc=可以用力场发生器来做你的第一个量子箱或者量子缸了.但记得留两个用来制作T2火箭.%n%n[note]注:组装机配方更节省资源.[/note]
-
-# Quest: Supersized Buses
-betterquesting.quest.Mt25IP2aShSSUBhZ1GGItg.name=§b§l超大型总线
-betterquesting.quest.Mt25IP2aShSSUBhZ1GGItg.desc=输入和输出总线不够用?%n%n将总线升级到超级总线,享受更多槽位.
 
 # Quest: EXTREME MIXING
 betterquesting.quest.kQL8JceoSMSLDU_2AFjoqw.name=§a§l极限搅拌
@@ -6647,7 +6643,7 @@ betterquesting.quest.Y1kiJC_kRGKkW7h3qOPI8A.desc=线性加速器（LINAC）可�
 
 # Quest: Playing with Colors!
 betterquesting.quest.Z_jn8qzFQr6FWHzmt2i3Aw.name=§6§lPlaying with Colors!
-betterquesting.quest.Z_jn8qzFQr6FWHzmt2i3Aw.desc=Multiblock machines enforce input separation based on hatch color. Inputs from Input Buses and Input Hatches will only interact if they share the same color. Un-dyed inputs act as wildcards compatible with any color.%n%nColor can be applied using a Spray Can and removed with a Spray Can Solvent. An Infinite Spray Can becomes available later in progression.%n%n§6Now §2go §3have §4fun§5!!!
+betterquesting.quest.Z_jn8qzFQr6FWHzmt2i3Aw.desc=Multiblock machines enforce input separation based on hatch color. Inputs from Input Buses and Input Hatches will only interact if they share the same color. Un-dyed inputs act as wildcards compatible with any color.%n%nColor can be applied using a Spray Can and removed with a Spray Can Solvent. An Infinite Spray Can becomes available later in progression.%n%n[note]For more advanced users, note that the priority of dyed hatches is ordered exactly how the vanilla dyes are in NEI, from highest (black) to lowest (white).[/note]%n%n§6Now §2go §3have §4fun§5!!!
 
 # Quest: Decay Warehouse
 betterquesting.quest.bLz_cD33RE24mtOb2aLxXg.name=Decay Warehouse
@@ -14128,7 +14124,7 @@ betterquesting.quest.a-g__0y_SGyed_E6IkIrsg.desc=Getting annoyed trying to reach
 
 # Quest: Powerfail Notifications
 betterquesting.quest.a59175-ZS16kxwUW_BCuEQ.name=§6§lPowerfail Notifications
-betterquesting.quest.a59175-ZS16kxwUW_BCuEQ.desc=Congratuations on your first EBF!%n%nThroughout your GTNH gameplay you will end up creating hundreds of multiblocks, and will very likely run into a multitude of power failures at some point. %n%nFortunately, we have a dedicated system for helping you stay informed of exactly when and where these power failures occur §3(though the 'why' portion is up to you to figure out!)§r.%n%nWhen a multiblock powerfails, you will receive a notification in §5chat§r, in addition to a visible icon on §5screen§r, and an icon visible on your §5map§r. %n%n§lYou can clear these notifications by§r:%n- Clicking into the multiblock that has powerfailed%n- Deleting the notification in JourneyMap%n- Typing §4/powerfails clear§r%n%nFor those playing §2multiplayer§r, anyone who is on your §2team§r will receive the §2same notifications§r. §2§nOne person§r clearing a notification should clear it for§2 §nall players§r.%n%n[note]This feature uses the same team system as wireless EU. Use </gt §4global_energy_join§r §1[User Joining] [User to Join]§r> to team up.[/note]%n%nAll of these features can be turned off in the gregtech config. If you want the on screen icon to disappear use §4§l/powerfails hide§r. For all in-game options use §4§l/powerfails help§r.
+betterquesting.quest.a59175-ZS16kxwUW_BCuEQ.desc=Congratuations on your first EBF!%n%nThroughout your GTNH gameplay you will end up creating hundreds of multiblocks, and will very likely run into a multitude of power failures at some point. %n%nFortunately, we have a dedicated system for helping you stay informed of exactly when and where these power failures occur §3(though the 'why' portion is up to you to figure out!)§r.%n%nWhen a multiblock powerfails, you will receive a notification in §5chat§r, in addition to a visible icon on §5screen§r, and an icon visible on your §5map§r. %n%n§lYou can clear these notifications by§r:%n- Clicking into the multiblock that has powerfailed%n- Deleting the notification in JourneyMap%n- Typing §4/powerfails clear§r%n%nFor those playing §2multiplayer§r, anyone who is on your §2team§r will receive the §2same notifications§r. §2§nOne person§r clearing a notification should clear it for§2 §nall players§r.%n%n[note]This feature uses the same team system as wireless EU. Use <§c/sp invite§r §1[Player Name]§r> to team up.[/note]%n%nAll of these features can be turned off in the gregtech config. If you want the on screen icon to disappear use §4§l/powerfails hide§r. For all in-game options use §4§l/powerfails help§r.
 
 # Quest: Absolute Purity
 betterquesting.quest.bNVzOxCORxuo_lhAh13r0A.name=绝对纯净
