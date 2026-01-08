@@ -873,6 +873,10 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAw.desc=第一个"电压"的阶段.
 betterquesting.quest.53iZp0DzRzidBo4-kUsWGg.name=§5§l处理资源就像个Bo$$ #1
 betterquesting.quest.53iZp0DzRzidBo4-kUsWGg.desc=人类工程的伟大壮举，在此刻任您差遣！%n%n这台机器允许你按照机器配方类型进行过滤，使你能够轻而易举地设置自动化流程。使用方法很简单，只需将任意类型的机器放入界面中即可配置过滤，例如，放入一台粉碎机将使该机器只接受可粉碎处理的物品。同时，界面中还有一个可启用黑名单的按钮，在上述例子中，则可使机器将可粉碎物品排除在外。
 
+# Quest: Certus Quartz Tank
+betterquesting.quest.7S9hEFF5TsW3ud7wK8_wVQ.name=§2§lCertus Quartz Tank
+betterquesting.quest.7S9hEFF5TsW3ud7wK8_wVQ.desc=Finally, a cool looking tank! It can store up to §932,000 L§r, just like the Ultra Low Voltage Fluid Tank or Large Aluminium Fluid Cell, and comes with some nice QoL features:%n%n- They stack up to 64 items per slot, making it possible to store §92,048,000 L§r in a single slot!%n%n- Tanks can be placed on top of each other to form a connected tower. When filling higher tanks, the fluid will automatically flow down. You can also drain fluid from higher tanks even if the fluid is only stored in tanks below.%n%n- You can use an §lEmpty Cell§r, a §lLarge Fluid Cell§r or any other §lfluid container§r to fill or drain a tank on right click. If the fluid container in your hand is not empty, right-click will always try to fill the tank from it.%n%n[warn]§lNote: The tank keeps its contents only when right-clicked with a wrench. Breaking it with a pickaxe will void the stored fluid.§r[/warn]
+
 # Quest: Welcome to Tier 1, LV
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWA.name=§5§l欢迎来到第1阶段，LV
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWA.desc=哎呀,你好呢!看来你已经进入了电气时代.但是,请不要扔了你的蒸汽机器.在进入MV阶段之前,你可能还需要使用它们一段时间.%n%n为了让你自己更轻松些,首先你需要专注于制作轧线机和卷板机...否则在制作那些机器部件时你会很痛苦的.%n%n在此之后,磁化机、组装机、车床和化学反应釜+流体固化器(用于橡胶)都可以帮助你降低造价.%n%nLV机器比比蒸汽设备更节能,因为蒸汽设备将蒸汽转为能量的效率是50%%,而LV蒸汽涡轮机的效率为85%%. %n%nULV?不存在的.
