@@ -148,6 +148,7 @@ neicustomdiagram.generators.gregtech5.materialparts.rotorslot=转子
 neicustomdiagram.generators.gregtech5.materialparts.casingslot=机械方块
 neicustomdiagram.generators.gregtech5.materialparts.barsslot=条
 neicustomdiagram.generators.gregtech5.materialparts.frameboxslot=框架
+neicustomdiagram.generators.gregtech5.materialparts.sheetmetalslot=Sheetmetal
 neicustomdiagram.generators.gregtech5.materialparts.wiresslot=导线
 neicustomdiagram.generators.gregtech5.materialparts.finewireslot=细导线
 neicustomdiagram.generators.gregtech5.materialparts.cablesslot=线缆

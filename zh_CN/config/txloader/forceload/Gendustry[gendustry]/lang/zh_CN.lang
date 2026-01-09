@@ -80,6 +80,17 @@ gendustry.upgrades.scrubber.name=花粉洗涤塔升级
 
 # ==== GUI AND TOOLTIPS ====
 
+gendustry.label.mutagen_producer.title=Mutagen Producer
+gendustry.label.mutatron.title=Mutatron
+gendustry.label.mutatron_adv.title=Advanced Mutatron
+gendustry.label.apiary.title=Industrial Apiary
+gendustry.label.imprinter.title=Genetic Imprinter
+gendustry.label.sampler.title=Genetic Sampler
+gendustry.label.extractor.title=DNA Extractor
+gendustry.label.liquifier.title=Protein Liquifier
+gendustry.label.replicator.title=Genetic Replicator
+gendustry.label.transposer.title=Genetic Transposer
+
 gendustry.label.template.crafting=基因样本可以被添加到模板中. 在工作台中就可以完成此操作. 多个样本可以一次添加到同一模板中.
 
 gendustry.label.charges=充能: %s

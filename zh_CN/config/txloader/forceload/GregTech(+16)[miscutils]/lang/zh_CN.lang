@@ -98,6 +98,7 @@ gtpp.recipe.semifluidgeneratorfuels=半流质发电机燃料
 gtpp.recipe.flotationcell=浮选机
 gtpp.recipe.treefarm=原木拟生场
 gtpp.recipe.algae_pond=Algae Pond
+gtpp.recipe.multiblockrockbreaker=Boldarnator
 
 # Recipe categories
 gtpp.recipe.category.abs_non_alloy_recipes=合金冶炼炉非合金配方

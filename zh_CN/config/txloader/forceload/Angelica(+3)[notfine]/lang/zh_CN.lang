@@ -69,3 +69,4 @@ options.total_stars=星星密度
 options.total_stars.tooltip=星星密度
 options.void_fog=虚空迷雾
 options.void_fog.tooltip=虚空迷雾
+options.background.random=Random
