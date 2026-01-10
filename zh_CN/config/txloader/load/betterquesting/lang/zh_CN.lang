@@ -1427,7 +1427,7 @@ betterquesting.quest.b47jlBoHTFGGB3j7nq60Zw.desc=Are you tired of storing Shapes
 
 # Quest: Refined Firestone
 betterquesting.quest.njE33db1TxaiJhEBA16E4A.name=§2§lRefined Firestone
-betterquesting.quest.njE33db1TxaiJhEBA16E4A.desc=Cut Firestone is the basic shape for producing Refined Firestone.%nUse a Diamond Lens or Flint Lens for cutting.%nIt is then fired with lava in the EBF.%n%nLastly it is thrown into lava and charged by absorbing lava blocks around it.%nIt needs 5000 lava blocks to be fully charged, so a large lava lake is required, preferably in the Nether.%n%nThis is most often used to heat up Steam Boilers very quickly or as a fuel. Additionally, it can function as a Flint and Steel.%n%n[note]If the firestone breaks, it can be repaired with lava in the EBF and recharged.[/note]
+betterquesting.quest.njE33db1TxaiJhEBA16E4A.desc=Cut Firestone is the basic shape for producing Refined Firestone.%nUse a Diamond or Firestone Lens for cutting.%nIt is then fired with lava in the EBF.%n%nLastly it is thrown into lava and charged by absorbing lava blocks around it.%nIt needs 5000 lava blocks to be fully charged, so a large lava lake is required, preferably in the Nether.%n%nThis is most often used to heat up Steam Boilers very quickly or as a fuel. Additionally, it can function as a Flint and Steel.%n%n[note]If the firestone breaks, it can be repaired with lava in the EBF and recharged.[/note]
 
 # Quest: Precision Laser Engraver
 betterquesting.quest.vV8Pw_lTTSiMmWOLqkyIWg.name=§2§lPrecision Laser Engraver
@@ -1545,10 +1545,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAC3A.desc=将植物球磨碎成为植物�
 # Quest: Bio Chaff
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC3Q.name=§6§l糠
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC3Q.desc=植物团块必须经过离心变成糠--生物质的基础原料.你需要一至二台MV离心机来运作新的生产线.
-
-# Quest: Way One: IC2 Fluid Canner
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC3g.name=§6§l方法一:IC2流体/固体装罐机
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC3g.desc=第一个制作生物质的方法是使用IC2流体/固体装罐机.一桶水以及一个糠可以制成一桶的生物质.%n%n[warn]这个选择并不真的推荐. 你应该关注GT机器, 而不是IC2的. 它与普通单元的交互也有一些问题,你可能需要使用通用流体单元.[/warn]
 
 # Quest: Way Two: Brewery
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC3w.name=§6§l方法二:酿造
