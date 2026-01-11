@@ -102,7 +102,14 @@ tile.projectred.expansion.machine2|11.name=自动工作台
 tile.projectred.expansion.machine2|12.name=盒子破坏机
 item.projectred.expansion.solar_panel.name=太阳能电池板
 enchantment.projectred.expansion.fuel_efficiency=燃油效率
-
+gui.projectred.expansion.machine1|0.title=Inductive Furnace
+gui.projectred.expansion.machine1|1.title=Electrotine Generator
+gui.projectred.expansion.machine2|2.title=Block Placer
+gui.projectred.expansion.machine2|3.title=Filtered Importer
+gui.projectred.expansion.machine2|5.title=Battery Box
+gui.projectred.expansion.machine2|6.title=Charging Bench
+gui.projectred.expansion.machine2|10.title=Project Bench
+gui.projectred.expansion.machine2|11.title=Auto Crafting Bench
 
 
 
@@ -507,8 +514,14 @@ item.projectred.integration.gate|31.name=数据储存器
 item.projectred.integration.gate|32.name=分段显示门
 item.projectred.integration.gate|33.name=减速随机发生器
 item.projectred.integration.gate|34.name=IC门
-
-
+tile.projectred.integration.icblock.name=IC工作台/印刷机
+tile.projectred.integration.icblock|0.name=IC工作台
+tile.projectred.integration.icblock|1.name=IC印刷机
+gui.projectred.integration.icblock|0.title=IC Workbench
+gui.projectred.integration.icblock|0.detail=detail
+gui.projectred.integration.icblock|0.scale=scale
+gui.projectred.integration.icblock|0.redraw=redraw
+gui.projectred.integration.icblock|1.title=IC Printer
 
 
 itemGroup.trans=红石计划:线缆
@@ -589,6 +602,3 @@ item.projectred.fabrication.icblueprint.name=IC蓝图
 item.projectred.fabrication.icchip.name=IC芯片
 item.projectred.fabrication.icchip|0.name=IC芯片
 item.projectred.fabrication.icchip|1.name=创造模式IC芯片
-tile.projectred.integration.icblock.name=IC工作台/印刷机
-tile.projectred.integration.icblock|0.name=IC工作台
-tile.projectred.integration.icblock|1.name=IC印刷机
