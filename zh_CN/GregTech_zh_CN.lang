@@ -801,7 +801,7 @@ languagefile {
     S:Material.ferrocenesolution=二茂铁溶液
     S:Material.ferrocenewaste=二茂铁废水
     S:Material.ferrosilite=铁辉石
-    S:Material.fierysteel=炽热的钢
+    S:Material.fierysteel=炽热钢
     S:Material.filledceriumextractingnanoresin=满溢的铈萃取纳米树脂
     S:Material.filleddysprosiumextractingnanoresin=满溢的镝萃取纳米树脂
     S:Material.fillederbiumextractingnanoresin=满溢的铒萃取纳米树脂
@@ -17191,7 +17191,7 @@ languagefile {
     S:fluid.fermentedbiomass=发酵生物质
     S:"fluid.ferrocene solution"=二茂铁溶液
     S:"fluid.ferrocene waste"=二茂铁废水
-    S:fluid.fieryblood=炽热的血液
+    S:fluid.fieryblood=炽热之血
     S:"fluid.filled cerium extracting nano resin"=满溢的铈萃取纳米树脂
     S:"fluid.filled dysprosium extracting nano resin"=满溢的镝萃取纳米树脂
     S:"fluid.filled erbium extracting nano resin"=满溢的铒萃取纳米树脂
@@ -17541,7 +17541,7 @@ languagefile {
     S:"fluid.molten.extremely unstable naquadah"=熔融极不稳定硅岩
     S:fluid.molten.fairy=熔融精灵
     S:fluid.molten.fermium=熔融镄
-    S:fluid.molten.fierysteel=熔融炽热的钢
+    S:fluid.molten.fierysteel=熔融炽热钢
     S:fluid.molten.flerovium_gt5u=熔融
     S:fluid.molten.fluorinateduraniumhexafluoridefuf6=氟化六氟化铀(F-UF6)
     S:fluid.molten.fluorinespargedtbsalt=氟涤枯竭钍铍熔盐
@@ -66223,7 +66223,7 @@ languagefile {
     S:gt.metaitem.99.344.tooltip=Co₅Cr₂NiMo
     S:gt.metaitem.99.345.name=熔融%material单元
     S:gt.metaitem.99.345.tooltip=Cu*
-    S:gt.metaitem.99.346.name=熔融炽热的血液单元
+    S:gt.metaitem.99.346.name=熔融炽热之血单元
     S:gt.metaitem.99.346.tooltip=Fe₅C
     S:gt.metaitem.99.348.name=熔融%material单元
     S:gt.metaitem.99.348.tooltip=(CuAg₄)(BiZnCu₃)(Fe₅C)₂(Ni(AuAgCu₃)(Fe₅C)₃)₄
