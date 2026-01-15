@@ -75,7 +75,7 @@ tile.dungeonPuzzle.distr.spread.lit.name=地牢谜题(发光)(传播分散)
 tile.dungeonPuzzle.distr.square.unlit.name=地牢谜题(无光)(方形分散)
 tile.dungeonPuzzle.distr.square.lit.name=地牢谜题(有光)(方形分散)
 tile.energyCluster.name=能量星团
-tile.cinder.name=炉渣
+tile.cinder.name=熔渣
 tile.persegrit.name=紫沙砾
 tile.laboratoryObsidian.name=实验黑曜石
 tile.laboratoryFloor.name=实验台阶
@@ -223,15 +223,15 @@ item.curse.name=诅咒
 item.curse.eternal=永恒诅咒
 item.curse.teleportation.name=传送诅咒
 item.curse.confusion.name=混乱诅咒
-item.curse.tranquility.name=平静诅咒
+item.curse.tranquility.name=宁静诅咒
 item.curse.slowness.name=缓慢诅咒
 item.curse.weakness.name=虚弱诅咒
 item.curse.blindness.name=失明诅咒
 item.curse.death.name=死亡诅咒
-item.curse.decay.name=衰变诅咒
+item.curse.decay.name=腐朽诅咒
 item.curse.vampire.name=吸血鬼诅咒
 item.curse.rebound.name=荆棘诅咒
-item.curse.loss.name=湮灭诅咒
+item.curse.loss.name=遗失诅咒
 
 item.itemNumber.name=数字
 
@@ -306,8 +306,8 @@ compendium.smoothText.line1=如果您感受极差请开启它
 compendium.smoothText.line2=字体缩放(测试版)
 compendium.smoothText.mode=模式
 compendium.smoothText.disabled=关闭
-compendium.crafting.changed=配方被其他mod修改
-compendium.crafting.removed=配方被其他mod移除
+compendium.crafting.changed=配方已被其他模组修改
+compendium.crafting.removed=配方已被其他模组移除
 
 key.openCompendium=末地概要
 key.openCompendium.bacon=培根概要
@@ -319,7 +319,7 @@ music.missingResourcePack=未安装资源包
 achievement.viewAchievements=查看成就
 achievement.viewChallenges=查看挑战
 
-achievement.enderCompendium=你将知道更多
+achievement.enderCompendium=你知道的越多……
 achievement.enderCompendium.desc=按 '%1$s' 打开末地概要
 achievement.enderCompendium.desc.bacon=按 '%1$s' 打开培根概要
 achievement.newAdventures=开始新的冒险!

@@ -644,7 +644,7 @@ languagefile {
     S:Material.cosmic=寰宇
     S:Material.cosmicneutronium=宇宙中子素
     S:Material.crackedradox=裂化拉多X
-    S:Material.creon=克利昂
+    S:Material.creon=克瑞翁
     S:Material.creosote=杂酚油
     S:Material.crudeoil=原油
     S:Material.cruderhodiummetal=粗制铑金属
@@ -17489,7 +17489,7 @@ languagefile {
     S:fluid.molten.copperiisulfate=熔融硫酸铜(II)
     S:fluid.molten.copperiisulfatepentahydrate=熔融五水合硫酸铜(II)
     S:fluid.molten.cosmicneutronium=熔融宇宙中子素
-    S:fluid.molten.creon=熔融克利昂
+    S:fluid.molten.creon=熔融克瑞翁
     S:fluid.molten.crudesteel=熔融复合粘土
     S:fluid.molten.crystallinealloy=熔融晶化合金
     S:fluid.molten.crystallinepinkslime=熔融晶化粉红史莱姆
@@ -17964,7 +17964,7 @@ languagefile {
     S:fluid.plasma.cobalt=钴等离子体
     S:fluid.plasma.copper=铜等离子体
     S:fluid.plasma.cosmicneutronium=宇宙中子素等离子体
-    S:fluid.plasma.creon=克利昂等离子体
+    S:fluid.plasma.creon=克瑞翁等离子体
     S:fluid.plasma.curium=锔等离子体
     S:fluid.plasma.desh=戴斯等离子体
     S:fluid.plasma.deuterium=氘等离子体

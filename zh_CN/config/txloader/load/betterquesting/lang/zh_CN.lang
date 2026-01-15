@@ -7,7 +7,7 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAA.desc=最初的阶段，0阶。�
 
 # Quest: Your First Night
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAA.name=§9§l夜的第一章
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAA.desc=你好，新员工。欢迎来到格雷科技：新视野！%n%n先别忙着享受温暖的阳光了，因为大概十分钟之后太阳就会落山。而且和原版Minecraft不同，这里的黑夜伸手不见五指，不过那些恐怖的怪物还是能找到你的。所以你的第一项任务是寻找食物和避难所，平安度过夜晚。好在你将在本章任务结束时拥有一张床来改善一下你的生活质量。%n%n至于这本书？你不需要留着这本书。即使没带在身上也可以用"~"键打开任务书……当然先得把那个碍事的键位冲突解决了。%n%n如果你需要进一步帮助，或者只是想找个地方闲逛聊天，都可以到我们的Discord服务器：[url]https://discord.gg/gtnh[/url] -这些链接是可以点击的。请在#role-select频道选择自己的科技等级——这能帮助别人根据你的情况给出合适的建议。%n%n我们的官方wiki上也有许多GTNH的主题帖:[url]https://wiki.gtnewhorizons.com/wiki/Main_Page[/url] 某些机器设备确实非常复杂,仅靠任务书稍显不足,wiki可以提供更加详细的解释,以及图片. 另外,如果你感觉任务书上的指导还不够,可以看一下wiki上的"beginner's-guides"初学者指南. wiki上还有可选mod列表,适用于那些想要玩点花的人.%n%n另外,在这里[url]https://bit.ly/gtnh-datasheets[/url] 还有你所需要的所有数据.%n%n如果你的整合包是通过[warn]CurseForge§r[/warn]的启动器启动,整合包可能无法稳定运行.Curse启动器无法稳定运行整合包内我们修改过的部分mod.所以当你遇到任何问题,最佳解决方式是先尝试换个启动器,比如MultiMC、Prism或是Technic.wiki同样包括这部分教程. 最新整合包版本会在Discord的#announcements频道发布,或带着!download指令.%n%n希望在读这一大段话的时候,你没被怪物嚼碎了.%n%n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAA.desc=朋友，你好，欢迎来到GTNH！%n%n别太贪恋当下的安逸，因为大约十分钟后太阳就会下山，而且与原版不同的是，这里的夜晚真可谓是伸手不见五指，而且会有大量的精英怪找上门来。所以你的首要任务是寻找食物和庇护所，以便在这险象环生的夜晚保得万全。%n%n不过，当你完成本页的任务后，你将拥有一张床，大大改善当下棘手的现状。%n%n你并不需要把这本书随身揣着。即便书不在身上，你也可以随时按下 ~ 键来打开任务界面……除非你动了键位绑定设置。%n%n如果你需要额外的帮助，抑或只是想聊聊天，都欢迎访问我们的Discord服务器：[url]https://discord.gg/gtnh[/url]。没错，这些链接是可以点击的！你可以在其中的#role-select频道里选择你当前的科技等级，以便大家根据你的实际情况提供更有针对性的建议。%n%n许多关于本包的内容都可以在我们的百科网站上找到解释：[url]https://wiki.gtnewhorizons.com/wiki/Main_Page[/url]。虽然它的叙述结构和涵盖范围与任务书不尽相同，但对于某些方面来说，图文并茂的表格要比纯文字更加直观！对于其他一些于游玩本包息息相关的话题，百科也有所涉猎，例如哪些附加模组可以与本整合包兼容、如何在新近的Java版本上运行GTNH，以及如何搭建服务器。%n%n此外，这里还有一个电子表格：[url]https://www.gtnewhorizons.com/spreadsheet[/url]，里面包含了那些适合用表格来清晰罗列的数据型信息。%n%n如果你使用的是依赖[warn]CurseForge[/warn]的启动器，请注意它并不总能正常工作。本整合包中的相当一部分模组均使用了自有的修改版，而这类启动器往往和它们不太兼容。因此，如果你遇到任何问题，请首先尝试更换其他启动器，如MultiMC、Prism或Technic。同样地，百科上也能查到与之相关的操作指南。你可以在Discord的#announcements频道找到整合包的更新资讯，或通过输入!download命令获取整合包的最新版本。%n%n希望你在读到这里的时候尚未沦为怪物的盘中餐，祝你好运！
 
 # Quest: Where's the Flint?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAQ.name=§9§l燧石在哪儿？
@@ -1259,7 +1259,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAEbg.desc=GT++中的LV进阶锅炉可以�
 
 # Quest: Lossless LV Cables
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEcA.name=§5§l无损低压线缆
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEcA.desc=在32EU/t的电压下如何进行无损传输呢？为什么不试试无损低压线缆呢? 红石合金可制成超导导线并可无损传输你的能量.%n%n红石合金是一种新的合金,需要使用电力高炉烧制. 将红石、硅粉和煤粉混合,虽然用手也可以,但用搅拌机效果更佳.%n%n[note]别把它和红色合金弄混了,那是ULV的.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEcA.desc=来点没有线损的32 EU线缆如何？红石合金是一种超导体，可以无损传输能量。%n%n红石合金是一种需要电力高炉烧炼制成的新型合金。你可以手工混合红石、硅粉和煤粉，或使用搅拌机以提升产出。%n%n[note]可别把它和红色合金搞混了，那是属于ULV级的。[/note]
 
 # Quest: A New Alloy - Magnalium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEfQ.name=§5§l新的合金-镁铝合金
@@ -1546,7 +1546,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAC3A.desc=将植物球磨碎成为植物�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC3Q.name=§6§l糠
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC3Q.desc=植物团块必须经过离心变成糠--生物质的基础原料.你需要一至二台MV离心机来运作新的生产线.
 
-# Quest: Way Two: Brewery
+# Quest: Way One: Brewery
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC3w.name=§6§l方法二:酿造
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC3w.desc=如果你比较走运,找到了一个酿造台;或者已经开始探索神秘时代mod,有能力制作一个酿造台的话,就可以用1000mB水加上一个糠得到1000mB生物质.换用蒸馏水后,产率更高且速度更快.
 
@@ -1950,7 +1950,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJbg.desc=东西太多放不下? 只要�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL_Q.name=§6§l更好的蒸馏室
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL_Q.desc=想要更快地生产甲醇和乙醇,制造一台MV蒸馏室吧.
 
-# Quest: Way Three: Pyrolyse Oven
+# Quest: Way Two: Pyrolyse Oven
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL_g.name=§6§l路线三：热解炉
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL_g.desc=使用GT的热解炉,你可以享受升级线圈带来的速度加成.%n%n你还可以避开发酵槽.请查看NEI决定哪条路最适合你. GT++的工业焦炉也可以做到这一点.%n%n(你只需提交其中之一)%n%n
 
@@ -6267,7 +6267,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAALQ.desc=整整576桶的容积，应该�
 
 # Quest: You Are Now Prepared, Hopefully!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAASg.name=§f§k§f§l§6§l希望你已经准备好了!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAASg.desc=不论你的冶炼炉是从哪来的,反正你已经有了.做些铸件吧!%n%n如果你找不到地表的铝矿砂砾,那么可以将铝矿莓种植于作物架上,然后熔炼获得用于制作铸模的铝.%n%nPS：这本书告诉你的是一个3X3的底座,但是你可以用一个较小的底座搭建一个冶炼炉,更高更大的冶炼炉可以同时做更多的物品以节约燃料.%n%n[note]在GTNH冶炼炉处理矿石没有双倍产出.稍后会有机器帮你实现类似的效果.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAASg.desc=不管你这个冶炼炉是从哪里搞来的，反正有就是有了。来吧，开始浇铸！%n%n注意：书上只说了要做一个3x3的底座，但实际上底座更小或更大的冶炼炉都是可以的。更高或更宽的冶炼炉能一次处理更多的物品，从而节省燃料。%n%n[note]在GTNH中，冶炼炉并不会倍产矿物。若要倍矿，则需用到后面的机器。[/note]
 
 # Quest: The Water Dilemma
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAASw.name=§6§l水源困境
@@ -11245,7 +11245,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJNw.desc=这个被腐化的岛屿大部�
 
 # Quest: Visit the Fiery Island
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJOA.name=探索燃烧岛屿
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJOA.desc=这是一种火系生物群系,有巨大的山脉、大量的洞穴和矿石.  除了默认矿石外,该生物群系还有火成岩.%n%n此生物群系有两种变体-灼烧和矿山.%n%n灼烧变体有大块的炉渣,到处流淌的岩浆还有火莲.  每个岛屿还有一个地牢谜题.  这里是火傀儡和灼热之眼的唯一生成地.%n%n矿山变体生成幽魂矿工,它们保护着矿坑(末地和岩浆中的矿洞)和长条的主世界矿石.%n%n并非所有的主世界矿石都存在于同一个岛中,通常随机缺少一两种矿石.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJOA.desc=一个拥有巨大山脉以及大量洞穴和矿石的火焰主题生物群系。除了默认矿石外，该生物群系还富含火成岩矿石。该生物群系有两种变体——灼烧变体和矿山变体。%n%n灼烧变体火莲遍地，熔渣丛生，兼有四处流淌乃至汇聚成池的熔岩，每个岛屿还可能包含一个地牢谜题。火傀儡和灼热之眼只能在这里生成。%n%n矿井变体中会生成幽魂矿工，它们守护着资源坑（内有末地矿石和熔岩的坑洞）以及呈长条状生成的主世界矿石。单个岛屿上并不会存在所有种类的主世界矿石，通常会随机缺失一两种。
 
 # Quest: Ghost Amulet
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJOQ.name=幽魂护符
@@ -11337,7 +11337,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJTg.desc=强化祭坛具有一个或多�
 
 # Quest: Curse Master
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJTw.name=诅咒大师
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJTw.desc=传送诅咒%n随机传送实体.%n%n混乱诅咒%n使怪物混乱.爬行者会立即自爆,怪物也会自相残杀.%n%n平静诅咒%n怪物不会攻击你.对BOSS无效.%n%n缓慢诅咒%n使怪物减速.%n%n虚弱诅咒%n使怪物攻击更弱.%n%n失明诅咒%n使怪物失明.%n%n死亡诅咒%n对怪物施加1.5魔法伤害,造成其流血.%n%n衰变诅咒%n物品和护甲会随着时间的流逝而损坏.%n%n血族诅咒%n怪物对阳光更敏感,受到更多伤害.%n%n反伤诅咒%n反弹怪物的攻击.%n%n湮灭诅咒%n物品将从你的物品栏中掉出,掉出的物品可能会被摧毁.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJTw.desc=传送诅咒%n随机传送周围的实体。%n%n混乱诅咒%n迷惑生物。苦力怕会瞬间爆炸且没有引信时间，或者生物会自相残杀。%n%n宁静诅咒%n阻止生物攻击你。对Boss生物无效。%n%n缓慢诅咒%n赋予生物缓慢效果。%n%n虚弱诅咒%n赋予生物虚弱效果。%n%n失明诅咒%n赋予生物失明效果。%n%n死亡诅咒%n对生物造成1.5点魔法伤害。生物会流血一段时间并损失生命值。%n%n腐朽诅咒%n物品和护甲会随时间推移而受损。%n%n吸血鬼诅咒%n生物变得惧怕阳光并受到更多伤害。%n%n反弹诅咒%n为生物增加反伤效果。%n%n遗失诅咒%n物品会从你的物品栏中移除并被销毁或掉落在地上。
 
 # Quest: Charm Master
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJUA.name=护符大师
@@ -13187,6 +13187,10 @@ betterquesting.quest.s4B77B7FSamWlvHY8hfqqA.desc=陨星仪式是GTNH中你能使
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAJQ.name=杀戮时刻
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAJQ.desc=这世界充满了污秽的东西.是时候杀了它们提高你的声望了.
 
+# Quest: Time To Kill (Crimson Knight)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABGg.name=秘密
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABGg.desc=我感觉到了!是的,是的是的是的是的!!!!!! 我们将获得更大的力量,力量!!!!我的宝贝!. 这些声音给了我一个线索,有一个难以置信充满了魔法力量的维度. 我必须去那,我必须去! 邪术教徒们知道这个秘密.我会将他们撕成碎片...嘿嘿嘿他们会告诉我的!%n%n§3注意:你可能需要一个刷怪笼,你下一个任务所需的书,掉落几率不太高. 另外,它们由邪术祭坛生成,且不会重复生成.
+
 # Quest: Kill Baba Yaga
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABjg.name=猎杀芭芭雅嘎
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABjg.desc=芭芭雅嘎是一个女巫(或同名三姐妹之一),看上去是一个畸形和/或凶残的老妇人.她坐在一个臼中飞来飞去,挥舞着杵.她住在森林深处,据说是长有鸡脚的一间小屋里,屋外筑有用人头骨装饰的篱笆.芭芭雅嘎可以帮助或阻碍那些遇到或寻找她的人.
@@ -13589,10 +13593,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAxQ.desc=你不能让热量聚集在反�
 # Quest: Making a Better Sword
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2Q.name=§2§l做一把好剑
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2Q.desc=现在是时候做一把匠魂剑了!首先你需要制作剑刃、某种护手以及手柄.在匠魂冶炼炉里面熔化一些青铜来铸造这些零件.拿去工具组装台把它们装好,这样你就有你第一把匠魂的剑了.%n%n有4种护手,改变护手类型会得到不同类型的剑,请查阅匠魂手册以获取更多信息.
-
-# Quest: Time To Kill (Crimson Knight)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABGg.name=秘密
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABGg.desc=我感觉到了!是的,是的是的是的是的!!!!!! 我们将获得更大的力量,力量!!!!我的宝贝!. 这些声音给了我一个线索,有一个难以置信充满了魔法力量的维度. 我必须去那,我必须去! 邪术教徒们知道这个秘密.我会将他们撕成碎片...嘿嘿嘿他们会告诉我的!%n%n§3注意:你可能需要一个刷怪笼,你下一个任务所需的书,掉落几率不太高. 另外,它们由邪术祭坛生成,且不会重复生成.
 
 # Quest: Magical Waystones
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABSg.name=神奇的传送核心
