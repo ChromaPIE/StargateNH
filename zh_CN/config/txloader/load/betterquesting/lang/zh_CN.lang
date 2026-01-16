@@ -7938,7 +7938,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALzA.name=最大出油口
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALzA.desc=无论如何,你的石油需求都会越来越大.虚拟流体田可能非常大,但低阶油/气/流体钻井平台只能抽取其中的一部分...但现在,有了几组钨钢之后,你就可以建造4阶油/气/流体钻井平台,并一次抽取整个虚拟流体田中所有区块的流体(任意位置即可覆盖整个8x8区块范围). %n%n如果一台钻机不够快,那就再造几台!它们会从同一个油田中抽取,并一起输出.如果你把它们放在相邻的虚拟流体田上,你就可以一次抽取多个完整的虚拟流体田,并把它们输出到一个中心位置.在本阶段解锁末影储罐之后,运输会变得更加容易.
 
 # Quest: Buffered Dynamo
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALzQ.name=发电仓[缓冲]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALzQ.name=缓存型发电仓
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALzQ.desc=手上有几组钨钢不知道做啥用?造台新的、更强大的发电设备吧,但你还不能马上运行它.就像之前的大型内燃引擎一样,没有一个足够强大的发电仓是无法运行IV级发电机的.%n%n想要在提高模式和非提高模式都适用,你需要一个IV发电仓[缓冲].相信我,它的输出功率不会让你失望的.
 
 # Quest: Extreme Combustion Engine
@@ -14012,7 +14012,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMcw.desc=希望不要超过一手之数.
 
 # Quest: Infinite Turbines
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMeA.name=无尽涡轮
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMeA.desc=某些涡轮材料对你还不太适用,要么是因为你还没有这种材料,要么是因为涡轮发电仓不够处理等离子体的输出功率.在UHV阶段情况会有所不同,届时你可以再次将每台涡轮的最大输出x4,并且还能解锁无尽锭,作为涡轮转子的一种可选材料.%n%n大型无尽涡轮,效率270％,输出功率4,354,560-EU/t%n大型无尽催化剂涡轮,效率200％,输出功率806,400-EU/t%n%n是的,基本上就是这样.你可以使用此前涡轮任务中提到的任何材料,不过当你造出8阶火箭并可以开采无尽催化剂后,就多了这两个选择. 显然,无尽的性能要好得多,但这种材料也贵得多. 如果你坚持聚变发电的话,你就需要不少这样的涡轮,帮助你步入游戏终章.请记住,你可以输入超出最佳流量的等离子体,以损失燃料效率为代价,使得每台涡轮可以输出更高功率.%n%n制造一个UHV发电仓(普通或缓冲的)即可完成此任务.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMeA.desc=有些涡轮材料你现在没法采用，要么是因为你还没实打实拿到这种材料，要么是因为涡轮里的发电仓无法承受等离子的产能功率，而到了UHV阶段，事情就得另说了，到时候你可以再次将每台涡轮的最大产能功率翻两番，并有条件制造新的涡轮材料——无尽。%n%n巨型无尽涡轮 300%% 6,451,200 EU/t%n巨型无尽触媒涡轮 231%% 1,236,480 EU/t%n%n对，差不多就这样。你可以继续使用之前涡轮相关任务中涉及的任何材料来制造涡轮，但当你造出八级火箭并能够开采无尽触媒时，上面两个选项就可以考虑起来了。当然了，无尽要比触媒好得多，但也贵得多。要是你坚持走聚变，你得要好几个这样的涡轮才能度过大后期。记住，你可以以超过最优值的速率供给等离子，付出牺牲燃料效率的代价充分榨取每个涡轮的产能价值。%n%n制造一个普通或缓存型的UHV发电仓来完成本任务。
 
 # Quest: Gas Planets
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMiQ.name=气态行星

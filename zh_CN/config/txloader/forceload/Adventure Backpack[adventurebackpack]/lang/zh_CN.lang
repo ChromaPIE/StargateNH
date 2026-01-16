@@ -121,7 +121,7 @@ adventurebackpack:tooltips.hose.key.tank=更换储罐
 adventurebackpack:tooltips.hose.key.mode=切换模式
 adventurebackpack:tooltips.hose.dump1=将软管放入可穿戴背包的输出栏中
 adventurebackpack:tooltips.hose.dump2=清空对应储罐
-adventurebackpack:tooltips.hose.dump.warn=警告! 液体将被倾倒并丢失. 覆水难收.
+adventurebackpack:tooltips.hose.dump.warn=§l警告！§c液体将被直接清除，无法挽回。
 
 ## Skins
 adventurebackpack:skin.name.standard=标准
