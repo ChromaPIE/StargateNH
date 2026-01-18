@@ -4520,10 +4520,6 @@ betterquesting.quest.U7Ta5d7PSii76sbIPbltlw.desc=With total mastery of the Forge
 betterquesting.quest.XoEzTtuPQjyeHTyqp9eY8Q.name=维度收敛
 betterquesting.quest.XoEzTtuPQjyeHTyqp9eY8Q.desc=在长时间运行你的DTPF[note](8小时)[/note]之后,可以让多维空间完美对齐.%n%n凭借你新获得的技术,你现在可以完美同步地利用这些空间,让你的等离子锻炉以难以置信的速度运行.%n%n使用[note]超维校准矩阵[/note]可以让DTPF以完美超频的方式运行.要做到这一点,您需要让DTPF达到最大效率状态,而额外的电力成本可以通过使用更多相同的催化剂来抵消.%n%n总的来说,它的效率更高,而且完全值得.%n%n这个过程极其耗费催化剂.确保生产足够的催化剂来维持它保持运转.%n%n对于没有催化剂的配方,必须在GUI中右击维度收敛按钮来指定催化剂,否则将默认为粗制超维度催化剂.[/note]%n%n[note]写给好奇者的数学计算：%n%n为了弄清楚后台到底发生了什么.下面以一个例子来解释额外催化剂消耗值是如何计算的：%n%n所选的示例配方是使用平凡超维度催化剂的熔融中子素配方.以64AUMV(8,589,934,592EU/t)运行.%n%n在不使用超频或DTPF催化剂减免的情况下.每次配方运行使用了14,753升平凡超维度催化剂和36,484,545,600EU.催化剂减免触发后.催化剂用量减半.即7,376.5升催化剂.四舍五入后为7,376升.由于机器配备了64AUMV.配方超频3次.即每个配方实际使用36,484,545,600*2^3=291,876,364,800EU.%n%n知道了OC的数量和配方的基本电压.就可以计算出每个配方在有完美OC和没有完美OC的情况下所需EU的差值.即291,876,364,800-36,484,545,600=255,391,819,200的额外EU使用(由于不完美OC而多使用的EU).%n%n要得出所需的额外催化剂值.必须将这一额外的EU值除以相关催化剂的能量密度.在本例中为平凡超维度催化剂.%n%n除数等于255,391,819,200EU/66,768,460EU/L=3,825.037L.四舍五入为每个配方额外需要3,825L平凡超维度催化剂.在最后一步中.该值必须乘以0.5.因为它会受到催化剂减免的影响.这意味着配方中额外添加的催化剂总量为3,825升*0.5=1,912.5升.四舍五入为1,912升.%n%n用一个公式来概括：%n每个配方的额外催化剂数量=(B*((2^x)-1))/2L%n其中：%nB是配方的基本EU消耗%nx是超频次数%nL是相关催化剂的EU/L[/note]%n
 
-# Quest: What Do I Use This Stuff On?
-betterquesting.quest._Cwgzi_VR5ChWJSIIrzUvg.name=§c§l§nWhat Do I Use This Stuff On?
-betterquesting.quest._Cwgzi_VR5ChWJSIIrzUvg.desc=White Dwarf Matter, your first main EOH material! I must be able to craft all sorts of cool endgame things with this... right?%n%n[note]Currently, besides EOH casing upgrades, White Dwarf Matter is not used anywhere on its own, often paired with Black Dwarf Matter or other later materials. Save it up for now and keep upgrading that EOH![/note]
-
 # Quest: Black Dwarf Matter
 betterquesting.quest.bPYTUdlkSCiRi0eDHHw7tw.name=黑矮星物质
 betterquesting.quest.bPYTUdlkSCiRi0eDHHw7tw.desc=用白矮星的物质来强化你的机壳是个好主意.%n%n你现在可以加速太阳系,直到黑矮星形成.这种材料很可能是观察和了解接下来会发生什么的关键.%n%n这是你的三种鸿蒙之眼材料中的第二种.用它将你的机壳升级到T7.%n%n[note]一旦所有机壳都达到7级,鸿蒙之眼的产能将大于耗能.[/note]
