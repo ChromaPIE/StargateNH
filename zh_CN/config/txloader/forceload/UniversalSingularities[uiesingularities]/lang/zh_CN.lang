@@ -8,7 +8,7 @@
 item.universalSingularities.vanilla.coal.name=煤炭奇点
 item.universalSingularities.vanilla.diamond.name=钻石奇点
 item.universalSingularities.vanilla.emerald.name=绿宝石奇点
-//Vanilla
+item.universalSingularities.vanilla.water.name=Water Singularity
 
 //General
 item.avaritia_singularity.name=Singularity
@@ -55,8 +55,6 @@ item.universalSingularities.rubber.silicone.name=Silicone Rubber Singularity
 item.universalSingularities.rubber.polyphenylene.name=Polyphenylene Sulfide Singularity
 item.universalSingularities.rubber.pvc.name=Polyvinyl Chloride Singularity
 item.universalSingularities.rubber.elastic.name=弹性奇点
-
-
 
 //Big Reactors
 item.universalSingularities.bigReactors.blutonium.name=蓝钚奇点
