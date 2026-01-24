@@ -248,6 +248,7 @@ gui.appliedenergistics2.MolecularAssembler=分子装配室
 gui.appliedenergistics2.ProcessingPattern=处理样板
 gui.appliedenergistics2.Crafts=合成
 gui.appliedenergistics2.HoldShift=Hold [LSHIFT] to show Ingredients
+gui.appliedenergistics2.PatternView=Press [%s] to view pattern
 gui.appliedenergistics2.Result=Result
 gui.appliedenergistics2.Results=Results
 gui.appliedenergistics2.Ingredients=Ingredients
@@ -958,3 +959,6 @@ key.appliedenergistics2.category=应用能源2
 key.toggle_focus.desc=切换是否选中搜索框
 key.search_connected_inventories.desc=Search network inventories for item
 key.control_operation.desc=Control operation
+
+# NEI
+nei.options.keys.gui.pattern_view=View Pattern
