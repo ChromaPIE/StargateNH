@@ -1,3 +1,9 @@
+item.AbsoluteZeroDisc.name=Cosmic Music Disc
+item.record.dreamcraft:absolute_zero.desc="Absolute Zero" by Sol IX
+item.FloraDisc.name=Primal Music Disc
+item.record.dreamcraft:flora.desc="Flora" by Sol IX
+item.SweetDreamsDisc.name=Technological Music Disc
+item.record.dreamcraft:sweet_dreams.desc="Sweet Dreams" by Aviators
 item.TenKCell.name=10K冷却剂单元外壳
 item.ThirtyKCell.name=30K冷却剂单元外壳
 item.SixtyKCell.name=60K冷却剂单元外壳
@@ -245,9 +251,10 @@ item.SoulariumBars.name=魂金栏杆
 item.EnderiumBaseBars.name=末影粗胚栏杆
 item.EnderiumBars.name=末影栏杆
 tile.SandClayMix.name=沙粘土混合
+tile.ZincGravelOre.name=Zinc Gravel Ore
 tile.CallistoColdIce.name=木卫四玄冰块
 tile.Ledox.name=深铅块
-tile.MysteriousCrystal.name=神秘水晶块
+tile.MysteriousCrystalBlock.name=Mysterious Crystal Block
 tile.Mytryl.name=深空秘银块
 tile.Quantinum.name=量子块
 tile.PistonBlock.name=活塞块
@@ -1773,8 +1780,6 @@ item.tconstruct.manual.weaponry.crossbow=\n\n十字弓： \n那些麻烦的金�
 item.tconstruct.manual.weaponry.projectiles=投射物\n对于这些弹药而言：弹药越重,甲后造成的伤害越大.\n\n箭矢： \n每个游侠的武器食粮.箭矢可以由多种不同材料制成.制作箭矢需要箭头,箭杆和箭羽.\n材料的选择可以在伤害,箭矢数量,准确性和脆弱性之间取得平衡.箭头材料对箭矢的重量至关重要.\n脆弱的箭矢在撞击地面时有可能断裂.箭矢在击中目标时总是会断裂.不过,耐久能给箭矢增加一定几率在撞击后保持完整.
 item.tconstruct.manual.weaponry.part_materials=\n\n有效的箭杆材料：\n* 木棍\n* 甘蔗\n* 骨头\n* 烈焰棒\n\n有效的箭羽材料：\n* 树叶\n* 史莱姆树叶\n* 羽毛\n* 史莱姆水晶
 item.tconstruct.manual.weaponry.bolts=\n\n弩箭：\n制作弩箭是一个精细的过程.首先,你需要一个作为核心的手柄.\n将这个工具杆放入冶炼炉浇筑台上,倒入一些金属,以在箭头上涂上一种更具杀伤力的材料.\n完成这个过程后,添加箭羽.弩箭就可以使用了.\n\n由于弩箭的核心和箭头更坚硬,它们比普通箭矢更重,非常适合对抗装甲目标.
-
-block.ore.gravel.zinc.name=锌矿砂砾
 
 dreamcraft.mobsinfocompat.limitedropcount=每人仅掉落%s次
 dreamcraft.gui.quitmessage=确认退出游戏?
