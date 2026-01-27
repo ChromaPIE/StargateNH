@@ -2152,6 +2152,10 @@ nei.options.tools.dump.gt5u.recipe_lockings=尚未支持配方锁定的机器
 nei.options.tools.dump.gt5u.warn_env=You're outside of the pack. Some IDs present in the full pack might be missing in this dump.
 nei.options.tools.dump.gt5u.mode.0=可用
 nei.options.tools.dump.gt5u.mode.1=已使用
+nei.options.inventory.search.chemicalFormulaSearchMode=Chemical Formula Search
+nei.options.inventory.search.chemicalFormulaSearchMode.0=Always
+nei.options.inventory.search.chemicalFormulaSearchMode.1=Prefix: %s
+nei.options.inventory.search.chemicalFormulaSearchMode.2=Never
 
 # Waila
 GT5U.waila.cover=覆盖板（%s）：%s

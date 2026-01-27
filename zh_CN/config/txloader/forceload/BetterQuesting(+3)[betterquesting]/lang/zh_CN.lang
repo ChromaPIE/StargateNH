@@ -212,6 +212,7 @@ betterquesting.cmd.check_all.line=%s %s
 betterquesting.cmd.check.true=%s 已完成 %s
 betterquesting.cmd.check.false=%s 未完成 %s
 betterquesting.cmd.complete=完成任务 %s 给 %s
+betterquesting.cmd.complete_all=Completed %s quests for %s
 betterquesting.cmd.default.save=任务数据保存为默认
 betterquesting.cmd.default.save2=任务数据保存到 %s
 betterquesting.cmd.default.load=重载默认的任务数据
