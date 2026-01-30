@@ -116,7 +116,7 @@ ae2fc.tooltip.ultra_terminal.WIRELESS_ESSENTIA_TERMINAL=模式：源质终端
 ae2fc.tooltip.ultra_terminal.WIRELESS_INTERFACE_TERMINAL=模式：接口终端
 ae2fc.tooltip.ultra_terminal.WIRELESS_FLUID_PATTERN_TERMINAL_EX=模式：处理样板终端
 ae2fc.tooltip.ultra_terminal=潜行时右击以切换模式
-ae2fc.tooltip.ultra_terminal.tips=ToolTips:
+ae2fc.tooltip.ultra_terminal.tips=Tooltips:
 ae2fc.tooltip.ultra_terminal.tips.desc=1.你可以将它放入饰品栏并使用快捷键打开.\n2.接口模式下，按住§3Shift§7切换接口重命名按钮.\n3.在合成计划界面中.\n按住§3Shift§7点击取消按钮，可以自动将缺少的物品添加到NEI书签.
 ae2fc.tooltip.ultra_terminal.restock.on=Restock activated
 ae2fc.tooltip.ultra_terminal.restock.off=Restock deactivated
@@ -208,7 +208,7 @@ ae2fc.gui.magnet.nbt=Ignore NBT Data
 ae2fc.gui.magnet.meta=Ignore Meta Data
 ae2fc.gui.magnet.ore=Use Ore Dictionary
 ae2fc.gui.magnet.whitelist=Whitelisting
-ae2fc.gui.magnet.blacklist=BlackListing
+ae2fc.gui.magnet.blacklist=Blacklisting
 
 ae2fc.gui.color.StateNone=00000000
 ae2fc.gui.color.StateIdle=FF55FF55
