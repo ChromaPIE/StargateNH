@@ -845,7 +845,7 @@ eoh.rightclick.wirecutter.2=Retrieved %s Astral Array Fabricators
 
 # Antimatter
 gt.blockmachines.antimatterForge.name=半稳定反物质稳定序列器
-gt.blockmachines.antimatterGenerator.name=屏蔽拉格朗日湮灭矩阵
+gt.blockmachines.antimatterGenerator.name=覆罩拉格朗日湮灭矩阵
 
 achievement.gt.spacetime_compression_field_generator.0=简易时空压缩场发生器
 achievement.gt.spacetime_compression_field_generator.1=初级时空压缩场发生器

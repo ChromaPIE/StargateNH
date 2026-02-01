@@ -135,7 +135,7 @@ serverutilities.world.forced_spawn_dimension_weather=强制出生点维度天气
 serverutilities.world.disable_player_suffocation_damage=禁用玩家受到窒息伤害
 serverutilities.world.show_playtime=在左上角显示游玩时间
 serverutilities.world.players_sleeping=§f%s§6 is now sleeping. %s/%s (%s%%)
-serverutiltiies.world.skip_night=§6Wakey, wakey, rise and shine... Good Morning everyone!
+serverutilities.world.skip_night=§6Wakey, wakey, rise and shine... Good Morning everyone!
 
 serverutilities.world.logging=记录中
 serverutilities.world.logging.include_creative_players=包括创造模式玩家
@@ -160,6 +160,9 @@ serverutilities.debugging.log_chunkloading=记录区块加载
 serverutilities.general.clientless_mode=无客户端模式
 serverutilities.general.replace_reload_command=替换 /reload 命令
 serverutilities.general.merge_offline_mode_players=合并离线模式玩家数据
+serverutilities.general.toggle_cheats=Toggle Cheats
+serverutilities.general.enable_cheats=Enable Cheats
+serverutilities.general.disable_cheats=Disable Cheats
 
 serverutilities.teams=组
 serverutilities.teams.autocreate_sp=单人游戏自动创建组

@@ -18640,9 +18640,9 @@ languagefile {
     S:gt.blockcasings11.5.name=量子物品管道外壳
     S:gt.blockcasings11.6.name=通流琥珀金物品管道外壳
     S:gt.blockcasings11.7.name=黑钚物品管道外壳
-    S:gt.blockcasings12.10.name=Alchemically Resistant Thaumium Casing
-    S:gt.blockcasings12.11.name=Alchemically Inert Void Casing
-    S:gt.blockcasings12.12.name=Alchemically Immune Ichorium Casing
+    S:gt.blockcasings12.10.name=炼金抗性神秘外壳
+    S:gt.blockcasings12.11.name=炼金惰性虚空外壳
+    S:gt.blockcasings12.12.name=炼金免疫灵宝外壳
     S:gt.blockcasings12.32767.name=任意本方块的子方块
     S:gt.blockcasings13.32767.name=Any Sub Block of this one
     S:gt.blockcasings13.5.name=Precision Field Sync Casing
@@ -18670,7 +18670,7 @@ languagefile {
     S:gt.blockcasings3.0.name=黄色路障方块
     S:gt.blockcasings3.1.name=黄色路障方块
     S:gt.blockcasings3.10.name=格栅机器外壳
-    S:gt.blockcasings3.11.name=过滤器机械方块
+    S:gt.blockcasings3.11.name=过滤机器外壳
     S:gt.blockcasings3.12.name=防辐射机器外壳
     S:gt.blockcasings3.13.name=青铜燃烧室外壳
     S:gt.blockcasings3.14.name=钢燃烧室外壳
@@ -18746,7 +18746,7 @@ languagefile {
     S:gt.blockcasings8.7.name=高级镀铱机器外壳
     S:gt.blockcasings8.8.name=魔法机械方块
     S:gt.blockcasings9.0.name=PBI管道外壳
-    S:gt.blockcasings9.1.name=进阶过滤器机械方块
+    S:gt.blockcasings9.1.name=进阶过滤机器外壳
     S:gt.blockcasings9.10.name=惰性过滤机械方块
     S:gt.blockcasings9.11.name=凯金抗热机器外壳
     S:gt.blockcasings9.12.name=超能硅岩强化无菌净水厂机械方块
@@ -19438,7 +19438,7 @@ languagefile {
     S:gt.blockmachines.algaefarm.controller.tier.single.name=藻类农场
     S:gt.blockmachines.amazonprime.controller.tier.single.name=亚马逊仓库
     S:gt.blockmachines.antimatterforge.name=半稳定反物质稳定序列器
-    S:gt.blockmachines.antimattergenerator.name=屏蔽拉格朗日湮灭矩阵
+    S:gt.blockmachines.antimattergenerator.name=覆罩拉格朗日湮灭矩阵
     S:gt.blockmachines.antimatterhatch.name=反物质仓
     S:gt.blockmachines.automation.chestbuffer.tier.00.name=超低压缓存器
     S:gt.blockmachines.automation.chestbuffer.tier.01.name=低压缓存器
@@ -64903,7 +64903,7 @@ languagefile {
     S:gt.metaitem.03.32756.tooltip=用来制作钻头的超强恒星模头
     S:gt.metaitem.03.32757.name=时间碎片
     S:gt.metaitem.03.32757.tooltip=小心戴帽子的孩子
-    S:gt.metaitem.03.32758.name=超维校准矩阵
+    S:gt.metaitem.03.32758.name=跨维度对齐矩阵
     S:gt.metaitem.03.32758.tooltip=支持跨维度空间对齐的设备。\n在DTPF上启用维度收敛。
     S:gt.metaitem.03.32759.name=热能超导体
     S:gt.metaitem.03.32759.tooltip=With the power of second sound!
