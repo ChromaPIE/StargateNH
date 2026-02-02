@@ -388,7 +388,6 @@ item.FacadePhased.name=多阶伪装板
 item.FacadePhased.state=%s：%s
 item.FacadePhased.state_default=默认:%s
 item.FacadePhased.state_transparent=透明度
-item.pipePlug.name=Pipe Plug
 item.PipePlug.name=管塞
 item.pipeLens.name=Lens
 item.Lens.name=透镜
@@ -443,6 +442,7 @@ tile.spring.oil.name=油泉
 tile.spring.water.name=水泉
 tile.stampingTableBlock.name=压印台
 tile.tankBlock.name=储罐
+tile.tankBlock.tooltip=Stores up to 16 Buckets of one Liquid\n§4Not portable, use a dolly
 tile.zonePlan.name=区域规划机
 
 tile.architect.rotate=旋转:开

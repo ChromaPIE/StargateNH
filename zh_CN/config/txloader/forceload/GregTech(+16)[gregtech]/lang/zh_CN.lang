@@ -164,7 +164,7 @@ gt.item.desc.fluid_info=%sL / %sL
 gt.item.desc.miss_coord=Missing Coordinates!
 gt.item.desc.device_at=Device at:
 gt.item.desc.state=State: %s
-gt.item.desc.breeder_tip=Bath with neutron in a hot reactor
+gt.item.desc.breeder_tip=Bathe with neutrons in a hot reactor
 gt.item.desc.progress=Progress: %s/%s
 gt.item.desc.haz_rad=Radiation Hazard
 gt.item.desc.turbine_eff=Turbine Efficiency (Loose): %s
@@ -267,7 +267,7 @@ gt.interact.desc.issues=%s Issues
 gt.interact.desc.issue_rotor_low=Rotor < 20%%
 gt.interact.desc.issue_rotor_dead=Rotor ≈ 0%%
 gt.interact.desc.filtering_fuild=Filtering Fluid: %s - %s
-gt.interact.desc.ban_screwdriver=Do not attempt to use screwdriver!
+gt.interact.desc.ban_screwdriver=Do not attempt to use a screwdriver!
 
 # GT++ items
 item.GTPP.air_intake_hatch.name=抽气仓
@@ -647,7 +647,7 @@ GTPP.tooltip.decayables_chest.2=右击以放置
 # Butterfly Killer
 GTPP.tooltip.butterfly_killer.0=Kills Forestry Butterflies, Bats and other pests
 GTPP.tooltip.butterfly_killer.1=Use either Formaldehyde or Hydrogen cyanide
-GTPP.tooltip.butterfly_killer.2=Be weary of your neighbours
+GTPP.tooltip.butterfly_killer.2=Be wary of your neighbours
 
 # Volumetric Flask Setter
 GTPP.tooltip.volumetric_flask_setter.0=Easy Flask Configuration
@@ -702,7 +702,7 @@ GTPP.algae.yellow-green_algae.name=Yellow-Green Algae
 GTPP.algae.tooltip.requires_light=Requires Light: %s
 GTPP.algae.tooltip.salt_water=Salt Water: %s
 GTPP.algae.tooltip.fresh_water=Fresh Water: %s
-GTPP.algae.tooltip.temp_tolerance=Temp Tolerance: %d
+GTPP.algae.tooltip.temp_tolerance=Temperature Tolerance: %d
 GTPP.algae.tooltip.growth=Growth: %d
 GTPP.algae.tooltip.production=Production: %d
 GTPP.algae.tooltip.lifespan=Lifespan in days: %d
@@ -1294,6 +1294,7 @@ GT5U.machines.invert_redstone.tooltip=反转红石信号
 GT5U.machines.buffer_stocking_mode.tooltip=启用储备模式
 GT5U.machines.buffer_stocking_mode.tooltip.extended=§7并非单次传输此数量的物品，而是在目标容器保持此数量的物品.
 GT5U.machines.buffer_stocking_mode.tooltip.extended.1=§7这个模式对服务器不太友好.
+GT5U.machines.target_stack_size.tooltip=Target stack size
 GT5U.machines.sorting_mode.tooltip=整理堆叠
 GT5U.machines.one_stack_limit.tooltip=限制输入
 GT5U.machines.one_stack_limit.tooltip.extended=§7每种物品最多输入一组
@@ -1302,6 +1303,7 @@ GT5U.machines.allow_nbt.tooltip=允许含有NBT的物品
 GT5U.machines.allow_nbt.tooltip.extended=§7默认情况下,所有带NBT的物品都会被阻止.
 GT5U.machines.ignore_nbt.tooltip=忽略物品NBT
 GT5U.machines.ignore_nbt.tooltip.extended=§7默认情况下,物品的NBT必须匹配.
+GT5U.machines.item_distributor.distribution.tooltip=Items per side
 GT5U.machines.stocking_bus.cannot_set_slot=§8自动拉取模式启用时无法进行手动设置
 GT5U.machines.stocking_bus.auto_pull.tooltip.1=点击切换自动从ME网络拉取物品
 GT5U.machines.stocking_bus.auto_pull.tooltip.2=右击以配置额外参数.
