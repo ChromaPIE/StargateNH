@@ -19,7 +19,8 @@ ae2stuff.waila.wireless.notconnected=非连接
 ae2stuff.waila.wireless.channels=频道: %s
 ae2stuff.waila.wireless.power=能量使用: %s AE/t
 ae2stuff.waila.wireless.name=名称: %s
-
+ae2stuff.waila.wireless.channel.used=Linked to %s %s %s | %s channels used
+ae2stuff.waila.wireless.sneak.info=§c[Sneak]§r to see full connections list
 ae2stuff.gui.lock.on=锁定-不能自动移除
 ae2stuff.gui.lock.off=解锁-能够自动移除
 ae2stuff.gui.lock.note=如果中间的槽非空或者正在进行中将不能处理

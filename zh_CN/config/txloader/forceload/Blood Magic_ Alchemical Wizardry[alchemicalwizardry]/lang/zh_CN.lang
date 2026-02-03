@@ -281,6 +281,7 @@ text.recipe.alchemicCalcinator.reagent=%s AR
 nei.recipe.meteor.category=陨星仪式
 nei.recipe.meteor.cost=消耗: %s LP
 nei.recipe.meteor.tooExpensive=Insufficient LP in Soul Network
+nei.recipe.meteor.cost.gui=%s
 nei.recipe.meteor.radius=半径: %s
 nei.recipe.meteor.diameter=Diameter: %d (2r + 1)
 nei.recipe.meteor.chance=几率: %s%%
