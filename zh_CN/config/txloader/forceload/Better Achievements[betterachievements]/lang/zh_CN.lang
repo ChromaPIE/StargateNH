@@ -1,4 +1,5 @@
 betterachievements.gui.old=旧式视图
+betterachievements.gui.title=%s Achievements
 betterachievements.config.cantUnlockArrowColour=无法解锁箭头颜色
 betterachievements.config.canUnlockArrowColour=可以解锁箭头颜色
 betterachievements.config.completeArrowColour=箭头颜色解锁完毕

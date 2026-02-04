@@ -2283,7 +2283,6 @@ tile.blockFishTrap.name=捕鱼笼
 tile.blockInfiniteFluidTank.name=无限流体储罐
 tile.blockMiningExplosives.name=矿用炸药
 tile.blockHellFire.name=地狱之火
-tile.blockProjectBench.name=工程台
 tile.blockTradeBench.name=贸易台
 tile.blockModularity.name=模块化工作台
 tile.blockBlackGate.name=凋灵笼子
@@ -3062,12 +3061,8 @@ item.GTPP.BattPack.09.name.name=Charge Pack [UHV]
 
 # Added 13/3/19
 item.gtpp.debug.scanner.name=GT++Debug扫描器
-item.RawWaste.name=动物粪便单元
-item.ManureSlurry.name=粪浆单元
-item.FertileManureSlurry.name=肥沃的粪浆单元
 item.itemDustTinyDemicheleiteBr.name=小撮溴硫铋(Br)
 item.itemDustSmallDemicheleiteBr.name=小堆溴硫铋(Br)
-tile.blockPooCollector.name=农业下水道
 tile.Block of Lithium 7.name=锂-7块
 
 # Added 14/3/19
@@ -3085,8 +3080,6 @@ item.itemBombUnf.name=可投掷炸弹(未完成)
 item.itemBombCasing.name=炸弹框架
 item.gtpp.throwable.bomb.name=可投掷炸弹
 item.itemDetCable.name=炸弹保险丝
-tile.blockPooCollector.0.name=农业下水道
-tile.blockPooCollector.8.name=生物复合收集器
 item.itemIngotBakelite.name=电木锭
 item.itemDustBakelite.name=电木粉
 item.itemDustTinyBakelite.name=小撮电木粉
@@ -3316,7 +3309,6 @@ item.itemDustIndalloy140.name=Indalloy 140 Dust
 item.itemDustLFTRFuel1.name=LFTR Fuel 1 Dust
 item.itemDustLFTRFuel2.name=LFTR Fuel 2 Dust
 item.itemDustLFTRFuel3.name=LFTR Fuel 3 Dust
-item.itemDustManureByproducts.name=粪肥副产物粉
 item.itemDustMixTumbaga.name=Tumbaga Mix Dust
 item.itemDustOrganicFertilizer.name=有机肥料粉
 item.itemDustPotassiumNitrate.name=Potassium Nitrate Dust
@@ -3331,13 +3323,11 @@ item.itemDustSmallAmmoniumNitrate.name=Small Pile of Ammonium Nitrate Dust
 item.itemDustSmallCopperIISulfate.name=Small Pile of Copper(II) Sulfate Dust
 item.itemDustSmallCopperIISulfatePentahydrate.name=Small Pile of Copper(II) Sulfate Pentahydrate Dust
 item.itemDustSmallCyanoaceticAcid.name=Small Pile of Cyanoacetic Acid Dust
-item.itemDustSmallDirt.name=Small Pile of Dried Earth Dust
 item.itemDustSmallFormaldehydeCatalyst.name=Small Pile of Formaldehyde Catalyst Dust
 item.itemDustSmallIndalloy140.name=Small Pile of Indalloy 140 Dust
 item.itemDustSmallLFTRFuel1.name=Small Pile of LFTR Fuel 1 Dust
 item.itemDustSmallLFTRFuel2.name=Small Pile of LFTR Fuel 2 Dust
 item.itemDustSmallLFTRFuel3.name=Small Pile of LFTR Fuel 3 Dust
-item.itemDustSmallManureByproducts.name=小堆粪肥副产物粉
 item.itemDustSmallMixTumbaga.name=Small Pile of Tumbaga Mix Dust
 item.itemDustSmallOrganicFertilizer.name=小堆有机肥料粉
 item.itemDustSmallPotassiumNitrate.name=Small Pile of Potassium Nitrate Dust
@@ -3358,7 +3348,6 @@ item.itemDustTinyIndalloy140.name=Tiny Pile of Indalloy 140 Dust
 item.itemDustTinyLFTRFuel1.name=Tiny Pile of LFTR Fuel 1 Dust
 item.itemDustTinyLFTRFuel2.name=Tiny Pile of LFTR Fuel 2 Dust
 item.itemDustTinyLFTRFuel3.name=Tiny Pile of LFTR Fuel 3 Dust
-item.itemDustTinyManureByproducts.name=小撮粪肥副产物粉
 item.itemDustTinyMixTumbaga.name=Tiny Pile of Tumbaga Mix Dust
 item.itemDustTinyOrganicFertilizer.name=小撮有机肥料粉
 item.itemDustTinyPotassiumNitrate.name=Tiny Pile of Potassium Nitrate Dust
@@ -3797,8 +3786,8 @@ item.itemBasicTurbine_2.name=基础钢涡轮
 interaction.voidexcess.enabled=禁用溢出停机
 interaction.voidexcess.disabled=启用溢出停机
 
-interaction.separateBusses.enabled=输入总线互相独立
-interaction.separateBusses.disabled=输入总线共为整体
+interaction.separateBuses.enabled=Input buses are separated
+interaction.separateBuses.disabled=Input buses are not separated
 
 # Added 29/11/21
 
@@ -4025,11 +4014,11 @@ gtpp.tooltip.cover_item.connection.deny=允许连接：否
 gtpp.tooltip.cover_item.change_state=Shift Rmb to change state before applying
 gtpp.tooltip.dark_world_portal.frame.0=Use this to access the Toxic Everglades.
 gtpp.tooltip.dark_world_portal.frame.1=Assembled in the same shape as the Nether Portal.
-gtpp.tooltip.dark_world_portal.0=Place this if you are lazy to create the portal structure, slacker.
+gtpp.tooltip.dark_world_portal.0=Place this if you are too lazy to create the portal structure, slacker.
 gtpp.tooltip.dark_world.ground=Will burn very quickly if it happens to catch fire.
-gtpp.tooltip.dark_world.polluted_dirt=Maybe you can do something with this?.
+gtpp.tooltip.dark_world.polluted_dirt=Maybe you can do something with this?
 gtpp.tooltip.dark_world.polluted_dirt.1=This smells worse than a bean fart...
-gtpp.tooltip.alkalus_disk.0=Shines the way, towards the far away Everglades.
+gtpp.tooltip.alkalus_disk.0=Shines the way towards the far away Everglades.
 gtpp.tooltip.alkalus_disk.1=This item produces such a temperature, that you'd hate to use it incorrectly.
 gtpp.tooltip.tool.durability=耐久度：
 gtpp.tooltip.tool.turbine_efficiency=Turbine Efficiency:
