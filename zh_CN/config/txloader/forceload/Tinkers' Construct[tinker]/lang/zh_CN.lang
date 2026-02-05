@@ -187,34 +187,6 @@ item.InfiTool.Shortbow.name=短弓
 item.InfiTool.Arrow.name=箭矢
 item.InfiTool.Mattock.name=鹤嘴锄
 
-infitool.pickaxe=镐
-infitool.shovel=锹
-infitool.hatchet=斧头
-infitool.broadsword=宽剑
-infitool.longsword=长剑
-infitool.rapier=西洋剑
-infitool.fryingpan=煎锅
-infitool.battlesign=战斗牌子
-infitool.dagger=匕首
-infitool.chisel=凿子
-infitool.scythe=镰刀
-infitool.lumberaxe=伐木斧
-infitool.cleaver=劈刀
-infitool.excavator=开掘铲
-infitool.hammer=锤
-infitool.battleaxe=战斧
-infitool.cutlass=弯刀
-infitool.arrow=箭矢
-infitool.mattock=鹤嘴锄
-infitool.shortbow=短弓
-infitool.longbow=长弓
-infitool.crossbow=十字弓
-infitool.arrowammo=箭头
-infitool.boltammo=弩箭
-infitool.shuriken=手里剑
-infitool.throwingknife=飞刀
-infitool.javelin=标枪
-
 item.tconstruct.PotionLauncher.name=药水发射器
 
 item.tool.randomarrow=随机箭
@@ -1049,6 +1021,7 @@ tool.boltammo=弩箭
 tool.shuriken=回旋镖
 tool.throwingknife=飞刀
 tool.javelin=标枪
+tool.boneana=Bonæna
 
 # Customization of default tool names based on tool and material
 #tool.shovel.wood=Wooden Shovel

@@ -1029,7 +1029,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACIQ.desc=我没想歪，你想歪了。%
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACIw.name=§5§l石油提纯
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACIw.desc=用石油做内燃发电机的燃料是一种非常低效率且浪费的事情(1桶石油燃烧后仅提供20,000EU的电量).是时候提纯石油了!%n%n你需要用编程电路选择某一种需要的产物.之后的多方块蒸馏塔可以获得所有产物,但离现在还有一段距离.%n%n你还可以蒸馏出许多其他流体!有两种流体很有用,但蒸馏需要很长时间,所以你最好提前做好它们的自动化.这两种流体分别是:%n润滑油(来自杂酚油)和蒸馏水(来自水).
 
-# Quest: Light Sulfuric Fuel
+# Quest: Sulfuric Light Fuel
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACJA.name=§5§l含硫轻燃油
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACJA.desc=将你的石油提炼成含硫轻燃油吧,这种燃料燃烧值比较低,1单位(1000mB)理论燃烧值仅有40KEU.
 
@@ -5951,6 +5951,10 @@ betterquesting.quest.Zza5BrD7TduqKby_b3wQsQ.desc=Shulker boxes in need of an upg
 betterquesting.quest.aIt1E54yQaSOg4CMz-Xegw.name=§5§lDiamond Shulker Box
 betterquesting.quest.aIt1E54yQaSOg4CMz-Xegw.desc=The portable equivalent of the Diamond Barrel, you'll need to either upgrade your wand or take advantage of the Gold to Diamond Shulker Box Upgrade.%n%nHas §n108§r slots.%n%n[note]Can be dyed![/note]
 
+# Quest: Advanced Concrete Backfiller
+betterquesting.quest.b-YCbvcNT4uEjg2pN-H6jw.name=Advanced Concrete Backfiller
+betterquesting.quest.b-YCbvcNT4uEjg2pN-H6jw.desc=The §5Advanced Concrete Backfiller§r has the same general functionality as the regular one except it boasts an impressive §364x64§r range and operates at §24x§r the speed. %n%nIt's a good idea to consider using one of these as your base continues to expand across more area. Filled space saves TPS!
+
 # Quest: Dark Steel Barrel
 betterquesting.quest.dNDuychlSiqlrMhfnEKK_w.name=§6§lDark Steel Barrel
 betterquesting.quest.dNDuychlSiqlrMhfnEKK_w.desc=The Dark Steel barrel holds 135 items! And is also immune to explosions.
@@ -5970,6 +5974,10 @@ betterquesting.quest.nc1Pqje3RIe_Yp6WoPOFzg.desc=The portable equivalent of the 
 # Quest: Draconic Chest
 betterquesting.quest.njQqj1iCTK-64uA4HfSdVw.name=§6§lDraconic Chest
 betterquesting.quest.njQqj1iCTK-64uA4HfSdVw.desc=The Draconic Chest is a special upgrade of the compressed chest. In addition to a large inventory size and being able to retain it's contents, it has a crafting station and a furnace integrated directly into it. %n%nThe smelting module can be powered by EU or RF and has an internal buffer of it's own. It can smelt up to 5 items at a time.
+
+# Quest: Concrete Backfiller
+betterquesting.quest.uYT4jmFtQhOo5PoJLDyh-w.name=Concrete Backfiller
+betterquesting.quest.uYT4jmFtQhOo5PoJLDyh-w.desc=Tired of all those mob noises coming from the depths? Consider making the §5Concrete Backfiller§r. This multiblock will fill the area underneath it with concrete in a §316x16§r range; patching all caves and air spots that might be lying underneath. %n%nSimply provide it with Light Concrete and let it do the rest!
 
 
 ## Quest Line: Forestry and Multifarms
@@ -8298,10 +8306,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMbw.desc=随着反应堆的落成,是时
 # Quest: The Fission Finale
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMcA.name=裂变终章
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMcA.desc=我们到了,裂变的终章.%n%n此刻,你已经迈入聚变阶段多时.事实上,最后的裂变装置与2级聚变不相伯仲,所以你可能正在同时运行裂变和聚变,尽管修建完成之后,通常后者更简单也更有效.%n%n裂变的终极目标之一是填满一座高温气冷反应堆,或是它的小弟,钍高温反应堆,它们都是非常昂贵的多方块机器,并可以为你提供无限的能量或增殖产物. 然而,拥有那些激发核燃料的大型硅岩反应堆可以做到更多! 硅岩燃料产线就是基于此而创造出来的,它可以替代3级聚变和那堆涡轮阵列,拥有超越它们的发电量.%n%n这些燃料并不完全是核裂变,也不是核聚变,更像一条化工产线,所以在这里没有相关任务.如果感兴趣的话,请查看NEI了解详情吧.
-
-# Quest: Pebble Reactor Fuels and Outputs
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMcQ.name=球床反应堆燃料和输出
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMcQ.desc=钍、铀和钚.就这样,任务完成,继续吧.怎么每次一有问题,最后总是归于这哥仨,我确实也觉得有点好笑.%n%n对于这些元素中的任何一种,制造燃料丸都是一个多步骤的过程.想要制造燃料丸,需要投入大量的主要放射性燃料,以及用于充当外壳的一些材料(碳、硅和石墨粉).%n%n对于一座完整的反应堆,你需要数千组这些材料,远超任务所能要求的数量.无论如何,枯竭的燃料丸可以通过离心回收大部分材料(碳、硅和石墨),用于合成最终的燃料丸,另外还有较小几率可以获得每种燃料丸的主要核材料.最重要的是,你会获得大量增殖输出：钍->镥；铀->氪；钚->氙.
 
 # Quest: Tin Plasma From T2
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMcg.name=2级聚变 锡等离子体
@@ -14104,7 +14108,7 @@ betterquesting.quest.PjAewUoJTnilPpIT-Ce0tA.desc=The Diamond barrel has 108 slot
 
 # Quest: Large Molecular Assembler
 betterquesting.quest.Q10xj-OrTE67wsWuTNCAAQ.name=§9§lLarge Molecular Assembler
-betterquesting.quest.Q10xj-OrTE67wsWuTNCAAQ.desc=The Large Molecular Assembler is exactly how it sounds; a very quick molecular assembler with a much bigger inventory for crafting patterns. %n%nThis can handle up to 1024 crafts per second at the maximum energy usage making it up to 100x faster than a molecular assembler. Check out the Wiki for specifics: [url]https://wiki.gtnewhorizons.com/wiki/Large_Molecular_Assembler[/url]%n%nThe LMA controller hooks up directly to your main network in order to function, and all recipes must be placed inside input buses attached to the machine in order to be recognized. Will not require an output bus.%n%n[note]High capacity Input Buses are highly recommended![/note]%n%n[warn]This machine can absolutely wall-share, but be careful about the placement of your input bus or all machines may not be used.[/warn]
+betterquesting.quest.Q10xj-OrTE67wsWuTNCAAQ.desc=The §5Large Molecular Assembler§r is exactly how it sounds; a very quick molecular assembler with a much bigger inventory for crafting patterns. %n%nThis can handle up to 1024 crafts per second at the maximum energy usage making it up to 100x faster than a molecular assembler. Check out the Wiki for specifics: [url]https://wiki.gtnewhorizons.com/wiki/Large_Molecular_Assembler[/url]%n%nThe LMA controller hooks up directly to your main network in order to function, and all recipes must be placed inside input buses attached to the machine in order to be recognized. Will not require an output bus.%n%nAdditionally, you must place a §2Data Orb§r inside of the controller or else it won't function.%n%n[note]High capacity Input Buses are highly recommended![/note]%n%n[warn]This machine can absolutely wall-share, but be careful about the placement of your input bus or all machines may not be used.[/warn]
 
 # Quest: Compact Storage
 betterquesting.quest.QNsm_wc0QO2g9C6_-vj2fA.name=§2§l紧凑的存储
