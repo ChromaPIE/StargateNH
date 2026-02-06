@@ -1037,6 +1037,8 @@ gt.recipe.unpackager=解包器
 gt.recipe.unpackager.description=从箱子里取出物品
 gt.recipe.wiremill=线材轧机
 gt.recipe.wiremill.description=更有效地生产导线
+gt.recipe.drawerframer=Drawer Framer
+gt.recipe.drawerframer.description=Frames drawers exactly like the Framing Table
 
 # RecipeMaps that are not listed on MachineType enum
 gt.recipe.fakeAssemblylineProcess=装配线加工
@@ -1575,6 +1577,7 @@ GT5U.gui.config.client=客户端
 GT5U.gui.config.client.color_modulation=颜色模块
 GT5U.gui.config.client.color_modulation.cable_insulation=线缆绝缘材料
 GT5U.gui.config.client.color_modulation.machine_metal=机器金属(默认GUI颜色)
+GT5U.gui.config.client.color_modulation.gui_metal=Gui Metal (Default GUI Color)
 GT5U.gui.config.client.interface=接口
 GT5U.gui.config.client.preference=偏好设置
 GT5U.gui.config.client.blockoverlay=GT Tool Block Overlay

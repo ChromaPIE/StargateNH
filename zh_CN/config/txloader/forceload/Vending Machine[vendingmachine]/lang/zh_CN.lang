@@ -17,6 +17,7 @@ vendingmachine.gui.single_coin_type_eject_hint=Shift点击以提取
 vendingmachine.gui.search=搜索
 vendingmachine.gui.required_inputs=需要：
 vendingmachine.gui.nc_inputs=Requires (Not Consumed):
+vendingmachine.gui.alternative_oredict=Accepts Oredict:
 vendingmachine.gui.nc_inputs_overlay_color=FDD835
 vendingmachine.gui.trade_hint=Shift点击以付款
 vendingmachine.gui.display_mode=显示样式：
@@ -31,7 +32,9 @@ vendingmachine.gui.cooldown_display.minute=分
 vendingmachine.gui.cooldown_display.hour=时
 vendingmachine.gui.cooldown_display.day=天
 
+vendingmachine.gui.error.incomplete_structure=Incomplete Structure.
 vendingmachine.gui.error.player_using=售货机正被占用。
+vendingmachine.chat.trade_restock=Vending Machine Restocked: %s
 
 gt.blockmachines.multimachine.vendingmachine.name=售货机
 gt.blockmachines.multimachine.vendingmachine.name.gui=Vending Machine
