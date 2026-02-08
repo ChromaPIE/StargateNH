@@ -62,7 +62,9 @@ ae2stuff.visualiser.set=模式变更为 %s
 ae2stuff.visualiser.mode.full=显示所有
 ae2stuff.visualiser.mode.nodes=显示节点
 ae2stuff.visualiser.mode.channels=显示频道
-ae2stuff.visualiser.mode.nonum=显示频道与节点
+ae2stuff.visualiser.mode.no_num=Show Channels and Nodes
+ae2stuff.visualiser.mode.nodes_one_channel=Show Nodes and one Channel
+ae2stuff.visualiser.mode.one_channel=Show one Channel
 ae2stuff.visualiser.mode.p2p=显示P2P连接
 ae2stuff.visualiser.mode.proxy=Show Crafting Input Proxy Links
 
