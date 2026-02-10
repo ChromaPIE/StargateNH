@@ -3241,7 +3241,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMEA.desc=(以及钆)%n%n简单吧?别担
 betterquesting.quest.CW9oIeA0ShWo7euZXUx72A.name=§b§l在IV阶段获取钐
 betterquesting.quest.CW9oIeA0ShWo7euZXUx72A.desc=将氯化钐粉与氯化钠粉混合在一起,再交给电解机处理,就可以分离出钐了.%n%n钠和氯都可以完全回收.%n%n此外还有一些没啥用的副产物,可能以后会有用吧.
 
-# Quest: The sane option
+# Quest: Quick and dirty
 betterquesting.quest.SIqmtgRmTj-EsZlXpCdyWQ.name=§b§l明智的选择
 betterquesting.quest.SIqmtgRmTj-EsZlXpCdyWQ.desc=所以你选择了明智的两步加工方案?%n%n很好的选择.%n%n开始时,你需要创建一个钛级化工厂,§n至少HV级机身.§r  可以是 HV 级外壳,因为两个 HV 级能量仓可以将多方块机器超频到 EV 级.%n%n完成后,放入硼砂粉.然后在第二步中向你的钍粉中加入一些蒸馏水.%n%n然后,你就能轻松地获得钍 232 粉.
 
@@ -3257,7 +3257,7 @@ betterquesting.quest.VoQ7oLYhTjuomLCz_ddOhA.desc=此工具可以很快的开采�
 betterquesting.quest.ZXyJX8zNTQW6swu0OsE03Q.name=§b§l浓缩钐
 betterquesting.quest.ZXyJX8zNTQW6swu0OsE03Q.desc=用草酸将钐离子沉淀下来。然后用氢氯酸洗涤草酸钐，得到氯化钐（不纯）。这氯化钐粉便是提取钐的基础材料了。%n%n从材料里分离钐这儿有两种方法，一种适用当前IV阶段，一种稍后在LuV阶段解锁。
 
-# Quest: Wait are you sure?
+# Quest: Long term planner?
 betterquesting.quest.fvz-5lJaRAqfsM1hcAYOng.name=§b§l等下你确定?
 betterquesting.quest.fvz-5lJaRAqfsM1hcAYOng.desc=出于一些原因你选择了电力高炉的方案。%n%n那么就准备做一条产线吧。%n%n首先你需要让钍粉与氢氟酸和八桶硝酸反应。希望你有硝酸产线。%n%n然后硝酸钍与氢氧化钠反应制备氢氧化钍，再与更多的氢氟酸反应制成四氟化钍。%n%n然后转移到离心机来分离普通的钍和钍-232。可惜钍-232仍然还是液体形式，所以你将需要把它和氯化锌与钙粉共同放进高炉中处理。%n%n最后再把锌钍合金锭用高炉煅烧来分离出钍-232粉并回收液态的锌。%n%n希望你和电高炉法产钍-232产线玩得愉快。
 
@@ -6187,10 +6187,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAIVw.desc=高槿树有最高的多汁属�
 # Quest: U-238 Tu-Wait, Seriously?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAK0w.name=铀-238,等等,你确定?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAK0w.desc=如果想要多方块农场支持IC2作物,你就需要这个.从钍中获得铀-238,然后通过作物掉落、洗劫村庄或者HV阶段的正常方式获得末影之眼.为了防止延迟过高,它同样只会检索多方块农场上6格.所以向堆叠说再见吧,这没有任何意义.%n%n最大尺寸支持约1100株作物,而最小尺寸支持约600株作物,这取决于你的布局.这是因为在此模式下,它会检索比正常模式多5格的作物(在基本方向上,虽然貌似在角落可以达到更远,不过这很难描述,试试看吧.).它们的大小与以前的版本相同,因此你无需重新调整它们的大小.%n
-
-# Quest: BEGONE, LAG! Also, Bats
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAK1A.name=滚开,延迟!还有,蝙蝠
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAK1A.desc=在此,延迟=蝴蝶,因为连区块加载范围之外都会被它们堆满.而且它们会将常规树木转换为更多的林业树木,每次转换一块叶子,非常烦人.这会导致更多的蝴蝶生成.幸好我们的默认设置不会让它们同时显示太多,但它们还是很烦人.%n%n最佳解决方式就是把它们屠杀一空.还有蝙蝠!愚蠢的神秘扭曲!害虫杀手(可能还没做好)可以消灭它们.%n%n注意:氢氰酸现在有合成了.它和甲醛都需要用到化工厂.但好像甲醛没啥用.范围显然是5x5区块而不是5x5格.约30秒运行一次?%n%n[note]PS：如果使用过程中遇到了问题(而这里还没有提到),请到github上发issue吧.[/note]
 
 # Quest: Papaya
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKIA.name=木瓜
