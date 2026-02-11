@@ -49,7 +49,6 @@ tile.blockCircuitProgrammer.name=电路编程器
 tile.blockDecayablesChest.name=铅封盒
 tile.blockVolumetricFlaskSetter.name=容量瓶配置器
 tile.blockSuperLight.name=闪耀之星
-tile.blockPestKiller.name=害虫杀手
 tile.blockSuperJukebox.name=Sir Mixalot[循环唱片机]
 tile.blockSuperJukebox.deprecated=§c§l已弃用§r§c，请换用电动唱片机
 
@@ -3517,9 +3516,6 @@ item.GTPP.bauble.fireprotection.0.name.name=Supreme Pizza Gloves
 # Added 16/5/19
 item.itemCellSeleniumDioxide.name=二氧化硒单元
 item.itemCellSeleniousAcid.name=亚硒酸单元
-
-# Added 25/7/19
-container.pestkiller=害虫杀手
 
 # Added 15/8/19
 gtpp.nei.decayables=可衰变箱子(铅封盒)
