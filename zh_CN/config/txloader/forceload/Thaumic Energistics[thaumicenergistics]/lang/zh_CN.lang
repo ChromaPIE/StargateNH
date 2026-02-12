@@ -68,6 +68,7 @@ thaumicenergistics.item.cell.microscope.name=元件显微镜
 #Tooltips
 thaumicenergistics.tooltip.itemstack.details=按住§eCTRL§f查看详细信息.
 thaumicenergistics.tooltip.essentia.cell.contains=包含
+thaumicenergistics.tooltip.essentia.cell.creative=Supplies all essentia types infinitely.
 thaumicenergistics.tooltip.essentia.cell.bytes=%s / %s 字节已使用.
 thaumicenergistics.tooltip.essentia.cell.types=%s / %s 源质类型储存.
 thaumicenergistics.tooltip.button.void=允许清空
@@ -90,24 +91,17 @@ thaumicenergistics.tooltip.advanced.infusion.provider.advanced=高级供应器
 thaumicenergistics.tooltip.advanced.infusion.provider.totalbind=Total bound to %d matrices
 
 #GUI
-thaumicenergistics.gui.arcane.crafting.terminal.title=奥术终端
-thaumicenergistics.gui.essentia.cell.title=源质元件
-thaumicenergistics.gui.essentia.cell.workbench.title=源质元件工作台
 thaumicenergistics.gui.arcane.assembler.title=奥术装配室
 thaumicenergistics.gui.knowledge.inscriber.title=Knowledge Inscriber
 thaumicenergistics.gui.distillation.encoder.title=Distillation Pattern Encoder
-thaumicenergistics.gui.essentia.ImportBus.title=Essentia Import Bus
-thaumicenergistics.gui.essentia.ExportBus.title=Essentia Export Bus
-thaumicenergistics.gui.essentia.levelemitter.title=Essentia Level Emitter
-thaumicenergistics.gui.essentia.StorageBus.title=Essentia Storage Bus
-thaumicenergistics.gui.essentia.terminal.title=Essentia Terminal
-thaumicenergistics.gui.priority.title=Priority
 
 thaumicenergistics.gui.selected.amount=数量
 thaumicenergistics.gui.selected.aspect=要素
 thaumicenergistics.gui.digivis.source.name=数位魔力源
 thaumicenergistics.gui.vibration.chamber.stored=存储：%d %s
 thaumicenergistics.gui.vibration.chamber.processing=正在处理：%s
+
+thaumicenergistics.gui.essentia=Essentia
 
 #Research Tab
 tc.research_category.thaumicenergistics=神秘能源
@@ -139,14 +133,6 @@ thaumicenergistics.research_page.TEIO.2=§l储存总线§r<BR>将输入和输出
 tc.research_name.thaumicenergistics.TEARCANETERM=奥术合成终端
 tc.research_text.thaumicenergistics.TEARCANETERM=利用魔法§o与科技§r来合成
 thaumicenergistics.research_page.TEARCANETERM.1=你已发现将初始要素注入§l终端§r和§l奥术工作台§r,就能赋予终端合成奥术物品的能力.<BR>终端仍保有其访问ME网络中物品的能力,保证了快速高效的合成,还提供了储存并交换护甲的能力,在你需要快速减免Vis消耗时你会用到的.
-
-# Research Essentia terminal
-tc.research_name.thaumicenergistics.TEESSTERM=源质终端
-tc.research_text.thaumicenergistics.TEESSTERM=已知你有多少源质.
-thaumicenergistics.research_page.TEESSTERM.1=§l源质终端§r让你能看到网络中储存了多少源质,并提供了用源质容器向终端输入源质或从中抽取源质的方法.§l源质发信器§r会持续监测网络中的源质等级,并在条件符合时发出红石信号.
-thaumicenergistics.research_page.TEESSTERM.2=§l源质储存监控器§r和§l源质交换监控器§r则能让你看到此刻有多少某源质存储于网络之中.转换监视器还能让你向网络中输入或从中抽取源质.<BR>使用扳手右键将会锁定/解锁监视器.<BR>手持标签,装有源质的罐子或者安瓿右击解锁状态下的监视器将会设定当前显示的要素种类,空手右键则会清空.<BR>右击锁定的交换监视器可以填充要素罐子或安瓿,潜行并右击则会清空罐子或安瓿并将源质导入网络.<BR>潜行并右键双击将会清空你物品栏里所有的源质,并导入进网络.
-thaumicenergistics.research_page.TEESSTERM.3=§l源质发信器§r可在网络中源质低于或高于指定水平时发出红石信号.
-thaumicenergistics.research_page.TEESSTERM.4=§l源质储存监控器§r和§l源质交换监控器§r可以让你知道在某一刻时网络内有多少指定要素源质.源质交换监控器还可以让你将源质输入网络,或是从网络中提取源质.<BR>使用扳手右击即可锁定/解锁监控器.<BR>手持罐子标签或者填满的罐子或填满的安瓿右击未锁定的监控器可设定显示的要素种类,空手右击则可清空.<BR>右击锁定的监控器可填满罐子或安瓿,按住Shift右击则可清空它们.<BR>按住Shift时右键双击可清空你物品栏中的所有源质.
 
 # Research Essentia Provider
 tc.research_name.thaumicenergistics.TEESSPROV=源质供应器

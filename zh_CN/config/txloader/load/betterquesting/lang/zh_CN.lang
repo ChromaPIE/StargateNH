@@ -4653,7 +4653,7 @@ betterquesting.quest.bHFEDKAiTwGxaiyZEsmdjg.desc=The final external structural u
 
 # Quest: Simulating a Solar System
 betterquesting.quest.hNdNrT_aSKaYi_TnT7cowA.name=§4§l§nSimulating a Solar System
-betterquesting.quest.hNdNrT_aSKaYi_TnT7cowA.desc=Almost as expensive as the real one, right? Not to worry, this stargate and the current are only just the beginning.%n%n[note]Our journey reaches the current end, entering the UXV, aka EOH era.%n%nThe year is 2023, and the game continues to be pushed further and further. The EOH exists now, along with machine parts up to UXV. Multiblocks have gained endless amounts of quality of life, including sub 1-tick OC, batch mode, void protection, and numerous AE2 additions like Crafting Input Buses, Stocking Hatches, Level Maintainers and more. Automation has never been easier, yet the goal has never been placed farther. Naquadah Fuel now has many tiers and can compete into the late-game, even competing with (now fixed) Dyson, but outclassed by the huge amount of power a maximized EOH can make (12.8 TEU/t!).%n%nInitially the stargate recipe seemed impossible, requiring months of runtime on hundreds of maximized EOHs, requiring some adjustments to be more realistic to attain. After this was changed, the race began again, this time between §aJohny709§r and §aGDCloud§r. §aJohny§r burned out towards the end, and §aGDCloud§r was surpassed by a silent contender, §aStarStack§r, being the first to conquer this challenge on the §a26th of June, 2023§r.%n%nBeyond just the first, this era marked the beginning of the Group Run Era, with large runs such as §aBallers Run§r (setting this era into motion), §aBee Run§r (affecting wide change on the NH project and its management as a whole), and §aCell Run 2§r (the fastest ever Stargate run, in only 73 days, popularizing many automation techniques like Level Maintained lines).%n%nAdditionally, this version saw the first player achieve GTNH Gods, reaching Stargate in a 3rd run, earned by §aGDCloud§r as a part of §aCell Run 2§r on the §a23rd of June, 2024§r. Later this Stargate would see three others reach this goal, §aRamspace§r on the §a29th of September, 2024§r, and §aStaffiX§r and §aserenibyss§r in a group run on the §a17th of November, 2024§r.%n%nP.S.: Here's the list as usual:%n-Many new processing multiblocks like HILE, Fluid Shaper, Industrial Autoclave, etc.%n-Forge of the Gods, Black Hole Compressor, Antimatter power generation, Precise Assembler T4%n-DTPF Convergence, Component Assembly Line tiered bonuses, Mega Vac Subspace Cooling, MK5 fusion skips for Metastable Oganesson%n-Wireless Data Hatches, Wireless Optical Hatches, Uncertainty Resolution%n-Artificial Universe Cells, smart blocking mode[/note]
+betterquesting.quest.hNdNrT_aSKaYi_TnT7cowA.desc=Almost as expensive as the real one, right? Not to worry, this stargate and the current are only just the beginning.%n%n[note]Our journey reaches the current end, entering the UXV, aka EOH era.%n%nThe year is 2023, and the game continues to be pushed further and further. The EOH exists now, along with machine parts up to UXV. Multiblocks have gained endless amounts of quality of life, including sub 1-tick OC, batch mode, void protection, and numerous AE2 additions like Crafting Input Buses, Stocking Hatches, Level Maintainers and more. Automation has never been easier, yet the goal has never been placed farther. Naquadah Fuel now has many tiers and can compete into the late-game, even competing with (now fixed) Dyson, but outclassed by the huge amount of power a maximized EOH can make (12.8 TEU/t!).%n%nInitially the stargate recipe seemed impossible, requiring months of runtime on hundreds of maximized EOHs, requiring some adjustments to be more realistic to attain. After this was changed, the race began again, this time between §aJohny709§r and §aGDCloud§r. §aJohny§r burned out towards the end, and §aGDCloud§r was surpassed by a silent contender, §aStarStack§r, being the first to conquer this challenge on the §a26th of June, 2023§r.%n%nBeyond just the first, this era marked the beginning of the Group Run Era, with large runs such as §aBallers Run§r (setting this era into motion), §aBee Run§r (affecting wide change on the NH project and its management as a whole), and §aCell Run 2§r (the fastest ever Stargate run at the time, only 73 days, popularizing many automation techniques like Level Maintained lines).%n%nAdditionally, this version saw the first player achieve GTNH Gods, reaching Stargate in a 3rd run, earned by §aGDCloud§r as a part of §aCell Run 2§r on the §a23rd of June, 2024§r. Later this Stargate would see three others reach this goal, §aRamspace§r on the §a29th of September, 2024§r, and §aStaffiX§r and §aserenibyss§r in a group run on the §a17th of November, 2024§r.%n%nP.S.: Here's the list as usual:%n-Many new processing multiblocks like HILE, Fluid Shaper, Industrial Autoclave, etc.%n-Forge of the Gods, Black Hole Compressor, Antimatter power generation, Precise Assembler T4%n-DTPF Convergence, Component Assembly Line tiered bonuses, Mega Vac Subspace Cooling, MK5 fusion skips for Metastable Oganesson%n-Wireless Data Hatches, Wireless Optical Hatches, Uncertainty Resolution%n-Artificial Universe Cells, smart blocking mode[/note]
 
 # Quest: T3 Exo-Foundry
 betterquesting.quest.iLn_-6-LSk-wEOfi9muW3w.name=§4§l§nT3 Exo-Foundry
@@ -5953,7 +5953,7 @@ betterquesting.quest.aIt1E54yQaSOg4CMz-Xegw.desc=The portable equivalent of the 
 
 # Quest: Advanced Concrete Backfiller
 betterquesting.quest.b-YCbvcNT4uEjg2pN-H6jw.name=Advanced Concrete Backfiller
-betterquesting.quest.b-YCbvcNT4uEjg2pN-H6jw.desc=The §5Advanced Concrete Backfiller§r has the same general functionality as the regular one except it boasts an impressive §364x64§r range and operates at §24x§r the speed. %n%nIt's a good idea to consider using one of these as your base continues to expand across more area. Filled space saves TPS!
+betterquesting.quest.b-YCbvcNT4uEjg2pN-H6jw.desc=The §5Advanced Concrete Backfiller§r has the same general functionality as the regular one except it boasts an impressive §364§r block radius and operates at §24x§r the speed. %n%nIt's a good idea to consider using one of these as your base continues to expand across more area. Filled space saves TPS!
 
 # Quest: Dark Steel Barrel
 betterquesting.quest.dNDuychlSiqlrMhfnEKK_w.name=§6§lDark Steel Barrel
@@ -5977,7 +5977,7 @@ betterquesting.quest.njQqj1iCTK-64uA4HfSdVw.desc=The Draconic Chest is a special
 
 # Quest: Concrete Backfiller
 betterquesting.quest.uYT4jmFtQhOo5PoJLDyh-w.name=Concrete Backfiller
-betterquesting.quest.uYT4jmFtQhOo5PoJLDyh-w.desc=Tired of all those mob noises coming from the depths? Consider making the §5Concrete Backfiller§r. This multiblock will fill the area underneath it with concrete in a §316x16§r range; patching all caves and air spots that might be lying underneath. %n%nSimply provide it with Light Concrete and let it do the rest!
+betterquesting.quest.uYT4jmFtQhOo5PoJLDyh-w.desc=Tired of all those mob noises coming from the depths? Consider making the §5Concrete Backfiller§r. This multiblock will fill the area underneath it with concrete in a §316§r block radius; patching all caves and air spots that might be lying underneath. %n%nSimply provide it with Light Concrete and let it do the rest!
 
 
 ## Quest Line: Forestry and Multifarms
@@ -8952,10 +8952,6 @@ betterquesting.quest.rfqcIf4uT--m6nYPenl8PQ.desc=人工重力发生器让你能�
 betterquesting.quest.wB7bY61aRE6Fh0VOZjeclQ.name=生成氧气的更好方式
 betterquesting.quest.wB7bY61aRE6Fh0VOZjeclQ.desc=这是一种一体化氧气生产方案.只需要给它一个小麦种子然后持续提供能量即可.
 
-# Quest: Fast Fancy Stripes!
-betterquesting.quest.zLE6OyCFT8ih5eSJVainBQ.name=§o超§r炫酷!
-betterquesting.quest.zLE6OyCFT8ih5eSJVainBQ.desc=离子推进器是火箭引擎的进阶版本.每个离子推进器方块提供25M牛顿的推力,最多可以装载2,000L的氙.它还需要电力.
-
 
 ## Quest Line: Basic Automation
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAADg.name=基础自动化
@@ -9740,7 +9736,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ1Q.desc=奥术合成终端是奥术工�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ1w.name=照明面板
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ1w.desc=所有的终端都是由此合成出来的. 所以你应该需要不少.
 
-# Quest: Easier AL automation
+# Quest: Easier AL Automation
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ2A.name=更简单的装配线自动化
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ2A.desc=不同于普通的样板终端,这种增广样板终端没有合成模式，取而代之的是多得多的输入、输出空间,并且输入与输出的格数可以交换. 这将是你装配线模板的最佳选择. 或者, 为什么不直接做流体版本的呢? 只需要一点简单的升级.
 
@@ -9760,14 +9756,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ2w.desc=这种设备会根据ME网络�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ3A.name=为什么我需要知道有多少粪浆?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ3A.desc=这些是流体版本.
 
-# Quest: Essentia Level Emitter
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ3g.name=源质发信器
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ3g.desc=与另外两种发信器类似,源质版本.
-
-# Quest: Was I Out of Nebrisum, or Was it Terminus?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ3w.name=我缺少欺骗(Nebrisum)源质,还是天启(Terminus)?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ3w.desc=这些是源质版本.
-
 # Quest: Beam Me Up, Scotty
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ4Q.name=传送我吧,斯科蒂(Beam Me Up,Scotty)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ4Q.desc=如果想整体移动一片空间,你需要一个插入空间存储元件的空间IO端口,再加上至少6个空间塔方块. 空间塔方块用于标出X、Y和Z三轴边界,别忘了空间IO端口还需要一个空间塔方块用于合成. 如果效率低于100％,那么能量消耗将急剧增加,因此请添加更多的空间塔方块以提高效率. 使用红石信号激活空间IO端口,空间塔内部的方块就会被装入空间IO端口内部维度,空间存储元件将被移到输出槽,这样你就能带着这片空间到处跑了. 如果你想将其用作传送器,那么正确的操作非常重要. 否则你会被困在那里头... 同时你的网络必须存储足够的能量,所以需要至少1个能源元件. 每个控制器(网络)只能有一个空间塔,所以可以考虑子网络.%n%n在X和Z轴使用2个空间塔方块,在Y轴中使用3个,将为你划出一个1x2x1的空间来传送自己. 在传送的收发两端都需要有一个空间IO端口. 但是你仍然需要设计一个红石电路来正确激活地它们!  %n%n如果你想进一步了解空间IO接口和更大的结构,请阅读此文章: [url]https://old.reddit.com/r/feedthebeast/comments/3c2b2r/a_treatise_on_nocheat_smp_ae2_spatial_io/[/url] %n如果你想看传送器的例子,也请参阅此地址: [url]https://old.reddit.com/r/feedthebeast/comments/2mhrf8/ae2_spatial_transporters/[/url] %n%n[warn]空间存储元件,某种意义的一次性用品,首次使用时的XYZ三轴不会变化,且此元件无法被格式化或重新合成. 所以最好在创造模式先测试一下![/warn]%n%n[warn]都怪AE,它可能会让你的世界有1秒的延迟.[/warn]
@@ -9775,10 +9763,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ4Q.desc=如果想整体移动一片空�
 # Quest: Spring Cleaning
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ4g.name=春季大扫除
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ4g.desc=当你第一次搭出AE网络,你一定向1K-ME存储元件里头扔了一堆东西,现在你需要清空它们用于合成更高级的存储元件. ME-IO端口可以用于装满或者清空你的元件.%n%n你还可以用元件工作台配置你的元件,这样它们就只会存储你指定的物品了. 不过别忘了,物品种类的增多意味着总体空间的缩小. 比如,你可以设置一个元件只存储青金石,然后将其放入ME-IO端口从网络中填充,这样此元件就只会存储青金石了. 相信你以前一直用抽屉来存储巨量物品,记得控制好优先级,别让物品既进入了抽屉又在网络中占用类型! 如果你想把抽屉里的家当打包带走,放入一个新元件,倒空老元件,或者暂时切断你的抽屉系统与网络的连接.%n%n流体存储元件一样可以用元件工作台配置(任意包含流体的容器都可用于标记).%n%n元件工作台不必连接到网络也不需要频道.
-
-# Quest: Formatting Gas-er, Essentia
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ4w.name=为比气体更气体的--源质--编码
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ4w.desc=这是源质版本的元件工作台.
 
 # Quest: Alpha and Omega
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ5A.name=阿尔法和欧米茄(Alpha and Omega)

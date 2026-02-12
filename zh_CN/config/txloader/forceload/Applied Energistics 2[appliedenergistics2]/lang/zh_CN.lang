@@ -524,6 +524,10 @@ gui.tooltips.appliedenergistics2.ItemsStored=存储物品: %s
 gui.tooltips.appliedenergistics2.ItemCount=物品总数: %s
 gui.tooltips.appliedenergistics2.ItemsRequestable=可请求: %s
 gui.tooltips.appliedenergistics2.P2PFrequency=频率: %s
+gui.tooltips.appliedenergistics2.ExtractFromNetworkToContainer=§e%s + Left-click§f to extract §b%s§f from network
+gui.tooltips.appliedenergistics2.InsertFromContainerToNetwork=§e%s + Right-click§f to insert §b%s§f into network
+gui.tooltips.appliedenergistics2.HoldShiftProcessStack=Hold Shift to process the entire stack
+gui.tooltips.appliedenergistics2.RegisterContainerContent=Hold §e%s§f to register as §b%s§f
 gui.tooltips.appliedenergistics2.OreFilterHint=使用矿词名
 gui.tooltips.appliedenergistics2.OreFilter=过滤物品
 gui.tooltips.appliedenergistics2.SearchStringTooltip=右键以清空搜索栏
@@ -966,7 +970,7 @@ key.appliedenergistics2.category=应用能源2
 key.pick_block.desc=AE2 Pick Block
 key.toggle_focus.desc=切换是否选中搜索框
 key.search_connected_inventories.desc=Search network inventories for item
-key.control_operation.desc=Control operation
+key.container_interaction.desc=Container Item Interaction
 
 # NEI
 nei.options.keys.gui.pattern_view=View Pattern
