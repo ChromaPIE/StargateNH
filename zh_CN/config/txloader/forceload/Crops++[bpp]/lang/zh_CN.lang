@@ -10,6 +10,7 @@ item.berry.blue.name=蓝莓
 item.berry.black.name=黑莓
 item.berry.geo.name=醋栗
 item.foodGoldfish.name=金鱼草
+item.foodGoldfish.tooltip=Hozuki no Reitetsu! A truely hellish planimal?!
 item.cppLens.name=植物透镜
 item_Modifier_Space.name=空间之花(产出uum)
 item_Modifier_Magic.name=源质
