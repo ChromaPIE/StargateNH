@@ -1421,6 +1421,10 @@ betterquesting.quest.JRrD8MoLRuCHCD-fFpeNvQ.desc=人类工程的伟大壮举，�
 betterquesting.quest.b47jlBoHTFGGB3j7nq60Zw.name=§5§l保持整洁
 betterquesting.quest.b47jlBoHTFGGB3j7nq60Zw.desc=Are you tired of storing Shapes and/or Molds near your Extruders and Solidifiers instead of inside them? Today must be your lucky day, because these item holders let you do exactly that!%n%nThey allow your machines to hold a small number of extra items, though each slot can only store one item at a time. There are three versions of this cover, each offering a different amount of storage:%n%nBasic Item Holder: 9 slots%nGood Item Holder: 12 slots%nAdvanced Item Holder: 15 slots%n%n[note]If that's still not enough space and you are already using the highest tier, you can simply attach multiple holders to your machine of choice.[/note]
 
+# Quest: Void Buses
+betterquesting.quest.kYGqUPpnQqq4aQJJTQakqw.name=§2§lVoid Buses
+betterquesting.quest.kYGqUPpnQqq4aQJJTQakqw.desc=Another good use for Trash Cans is combining them in the Assembler with either an Input Bus or an Input Hatch to create a Void Bus or Void Hatch. These handy buses allow you to instantly void any desired item or fluid output from a multiblock.%n%nYou may or may not find these useful now, depending on whether you are taking advantage of steam multiblocks, but you will definitely find them useful later when you start creating electric multiblocks.
+
 # Quest: Refined Firestone
 betterquesting.quest.njE33db1TxaiJhEBA16E4A.name=§2§lRefined Firestone
 betterquesting.quest.njE33db1TxaiJhEBA16E4A.desc=Cut Firestone is the basic shape for producing Refined Firestone.%nUse a Diamond or Firestone Lens for cutting.%nIt is then fired with lava in the EBF.%n%nLastly it is thrown into lava and charged by absorbing lava blocks around it.%nIt needs 5000 lava blocks to be fully charged, so a large lava lake is required, preferably in the Nether.%n%nThis is most often used to heat up Steam Boilers very quickly or as a fuel. Additionally, it can function as a Flint and Steel.%n%n[note]If the firestone breaks, it can be repaired with lava in the EBF and recharged.[/note]
@@ -2327,6 +2331,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHVA.desc=想要用废料生产UU增幅�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHVQ.name=§9§lUU物质(UU-M)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHVQ.desc=通过物质创制机,你现在可以真正制造UU物质(UU-M)了. 其实,从技术上来说,你可以不用UU-A,直接制造UU-M,但这样会很贵. 想要让物质创制机只在有UU-A的情况下运行,可以在槽位中放一个编程电路(任意配置值). UU-M用于一些非常特殊的物品合成,比如复制§o某些§r材料(请查看NEI,元素周期表上的大部分/所有);配合作物,对矿物进行增产;参与某些特定的高阶配方合成,以及...坐在UU物质里头可以获得'生命恢复'状态.%n%n物质创制机的能量使用与超频不同于普通GT机器.为了使所有等级的EU-UUM转化率一致,这台机器进行的是2/2完美超频.而且起始阶段LV时需要大电流.下面这张表更加清楚:%n%n电压等级    电流          功率      时间%n  LV          8A           256          160%n  MV          4A           512          80%n  HV          2A           1024         40%n  EV          1A           2048         20%n  IV          0.5A          4096         10%n  等等...%n%n输入能量(最好还有UU-A),然后输出UU-M. 你还得知道物质创制机和增幅液产生器无法放入处理阵列.%n%n目前而言,制造出来的UU-M还没什么用,存着就行. 想要使用UU-M需要复制机并配合数据球,这些会在下一阶段讲解. %n%n[note]你只需完成其中一项要求即可.[/note]
 
+# Quest: MV Field Generator
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHWA.name=§a§l力场发生器（MV）
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHWA.desc=力场发生器是一种强大但昂贵的设备.
+
 # Quest: HV Advanced Steam Boiler
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHbQ.name=§5§l§6§l§9§l进阶锅炉[HV]
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHbQ.desc=GT++的进阶锅炉[HV]可以比MV版本更高效地产生蒸汽.除非启动时就蒸汽不足,否则它不会耗尽燃料,所以它非常高效.%n%n译者注:除此之外,当温度高于一定程度时就会自动停止消耗燃料.
@@ -2648,10 +2656,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHVg.desc=数据球是高阶的闪存,用
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHVw.name=§a§l用纯能量创造新材料
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHVw.desc=你可以使用扫描仪,扫描特定物品(请查看复制机的NEI配方),并将元素信息储存到数据球,这样你就可以用复制机复制这些元素了. 基于不同元素,这一过程会消耗不同数量的UU-M及时间. 而扫描过程也极其漫长.%n%n你可能需要复制的元素包括:%n铟%n铂系金属比如铱和锇%n液态空气蒸馏的极稀有产物氖、氪、氙%n鿫%n%n对于某些元素(鿫),这可能是唯一可以量产的方式.
 
-# Quest: MV Field Generator
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHWA.name=§a§l力场发生器（MV）
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHWA.desc=力场发生器是一种强大但昂贵的设备.
-
 # Quest: Critical Materials
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHYw.name=§a§l关键材料
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHYw.desc=钨钢是你不可或缺的一种材料,但你首先得在火星上找到戴斯、白钨、钨酸盐三者混合的矿脉.请搜索Y=5-40.戴斯同样是一种非常重要的材料(下一阶火箭),除了此矿脉以外,只能通过贫瘠矿获取.%n%n[note]现在你大概率已经拥有了多方块采矿场,所以你可以用粉碎矿石替代矿石提交任务.这也适用于其他类似任务.[/note]
@@ -2736,6 +2740,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALpA.desc=EV高压釜用于处理钨以�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMAg.name=§a§l来自核能的太阳之力
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMAg.desc=你的老伙计单方块分子重组仪已经一去不回了.那么如何获取阳光化合物呢? 有几种方法,不过在EV阶段,你只有让萤石在核电中接受辐射,再将其转化为阳光化合物这一条路.%n%n将萤石燃料棒放置在IC2反应堆中的任意燃料棒旁,萤石燃料棒会缓慢充能.充能速度为每秒`(相邻燃料棒数量)*(向下取整(当前堆温/3000)+1)`.在此情况下,一根二联燃料棒等于两根燃料棒,而一根四联燃料棒等于四根燃料棒,萤石燃料棒不会产生热能,也不会使其他组件产生热能,在IC2核电模拟器中,你可以将萤石燃料棒当成反应堆隔板.%n%n正如你所见,充能速度是直接与堆温和燃料棒数量成正比的,在极端情况下,你可以在不到半分钟的时间内完全充能一根萤石燃料棒,并每10秒输出一个阳光化合物(平均来说,因为每个燃料棒的充能速度因其位置而异),但那会需要相当多的资源.还需要你用一台真空冷冻机来为冷却剂单元降温,并使反应堆在66000+的堆温下运行.明智地平衡你的资源和需求.不管怎样,如果你需要快速充能,这是一个在IC2核电模拟器上可行的方案:%n%nerp=bpO50cpsdtJElVqn4hObFJc0tiOE0JpEHYpqTxJHvyezjSKRjUuwgouXzNOlU4a3hFBRygM=%n%n将密封反应堆隔板替换为萤石燃料棒即可.你也可以减少隔板数量以适配更小的反应堆.
 
+# Quest: Niobium-Titanium
+betterquesting.quest.EYcEN-yhRDyXfOGtQjWyLg.name=§8§lNiobium-Titanium
+betterquesting.quest.EYcEN-yhRDyXfOGtQjWyLg.desc=Niobium-Titanium isn't used for much, but it does make a decent LuV-capable cable. It can also be used to make an HV Field Generator... let's make enough for one right now!
+
 # Quest: Four fluids in the one Hatch!
 betterquesting.quest.JkWQZxq_TECWjHhjywrZZA.name=§a§l四种流体在一个仓里!
 betterquesting.quest.JkWQZxq_TECWjHhjywrZZA.desc=现在您已经进入了EV级别,可以使用四重能源仓.这些仓室可以在一个舱室中容纳四种不同的液体,从而节省了多方块机器中的宝贵空间.%n%n非常适合放在您的电力高炉中.%n
@@ -2743,6 +2751,10 @@ betterquesting.quest.JkWQZxq_TECWjHhjywrZZA.desc=现在您已经进入了EV级�
 # Quest: EV Field Generator
 betterquesting.quest.Jna1jgAySNSs8nS0YMXpLw.name=§a§lEV力场发生器
 betterquesting.quest.Jna1jgAySNSs8nS0YMXpLw.desc=可以用力场发生器来做你的第一个量子箱或者量子缸了.但记得留两个用来制作T2火箭.%n%n[note]注:组装机配方更节省资源.[/note]
+
+# Quest: HV Field Generator
+betterquesting.quest.R1fjb3jrS1-qPPNcQrRJBg.name=§8§lHV Field Generator
+betterquesting.quest.R1fjb3jrS1-qPPNcQrRJBg.desc=The HV Field Generator isn't used frequently, but it does have something to offer for those who prefer upgraded Super Chests or Super Tanks. It can also be used to make the Grandmaster Magic Energy Absorber if you're deep enough into Thaumcraft.%n%n[note]Don't forget to look closely at NEI when choosing your recipe.[/note]
 
 # Quest: EXTREME MIXING
 betterquesting.quest.kQL8JceoSMSLDU_2AFjoqw.name=§a§l极限搅拌
@@ -4178,6 +4190,14 @@ betterquesting.quest.3yz1WCEzQ_KQxW8p7_29-Q.desc=对于无尽的需求难以招�
 betterquesting.quest.4MzUrkH5QsWnE_4APuHhNg.name=好刺眼! #2
 betterquesting.quest.4MzUrkH5QsWnE_4APuHhNg.desc=光学处理器集群是第二级光学电路.它是UHV等级的电路.
 
+# Quest: NAC™: Advanced Routing Package
+betterquesting.quest.8PiGBrdnSHOVIA7tHinlOA.name=§5§l§nNAC§r§5§n™§r§5§n§l: Advanced Routing Package
+betterquesting.quest.8PiGBrdnSHOVIA7tHinlOA.desc=Sometimes, basic automation isn't enough. We've heard you - we are now offering the §5§nAdvanced Routing Package§r to allow more complex automation of your components!%n%nThe Nanopart Splitter allows splitting, merging and filtering of your components between different colored VCI and VCO hatches. In the configuration GUI, you can define rules such as:%n- Merging any colors of your choice into one color%n- Evenly splitting inputs from one color into many output colors%n- Filtering specific components from one color to another%nand many more!%n%nAdditionally, if you purchase the Premium Package, you gain access to the Splitter Redstone Input hatch, allowing for fine-grained redstone control of your routing. Each redstone hatch has a "channel" setting, which can then be configured in a rule for it to use that specific hatch's redstone signal.
+
+# Quest: NAC™: Fundamentals Package
+betterquesting.quest.94ivNBMMTAC7qATq_uroGw.name=§5§l§nNAC§r§5§n™§r§5§n§l: Fundamentals Package
+betterquesting.quest.94ivNBMMTAC7qATq_uroGw.desc=We get it, this isn't the most exciting piece of the puzzle. However, the §5§nFundamentals Package§r is essential to the entire operation.%n%nAllowing things such as:%n- Part Preparation for your surface mounted devices%n- Wafer Cutting for your advanced silicon parts among others%n- Wire Tracing for all your fine wires%n- Superconductor Splitting for your most expensive circuits%n- Encasement Wrapping for all your mainframe needs%n- Board Immersion for the base of your circuits*%n%n§oNote*: The Full-Board Immersion Device requires a proper setup to ensure fluid purity. Read the owner's manual (tooltip) to see how to properly utilize this module.§r%n%n
+
 # Quest: Awakened Core
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0w.name=觉醒核心
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0w.desc=到目前为止,一定还有什么东西,沉睡在你制作和研究的所有龙之进化材料的深处.是时候唤醒它了!
@@ -4242,6 +4262,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMpw.desc=其构造是你无法理解的.
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMsA.name=龙血
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMsA.desc=你需要龙血制造第一批海珀珍.也许你已经有了些龙血,是很久以前击杀末影龙掉落的,正躺在某个地方.不过还有两个其他选择:蜜蜂和龙之进化聚合制造器.%n%n对于蜜蜂路线,你需要深入研究蜜蜂培育线,但说不定你已经完成了?不论如何,看看"蜜蜂育种"任务栏吧.%n%n在龙之进化聚合制造器中有两个配方.较好的一个要用到巫术mod的无限之蛋.如果你没有巫术进度的话,就只能用普通龙蛋,使用较弱的配方了.%n%n只要你有了些海珀珍,就能以此开始在超维度等离子锻炉(DTPF)中制造更多,而不需要龙血了.我不知道为何这么设计,要抱怨就找Colen吧.不过,你最终还是需要更多的龙血,以制造UMV超导.%n%n%n[note]实际上还有另一种方法获得龙血,这与龙之进化聚合制造器的配方相似,不过是用搅拌机.它的速度更慢,资源利用率更低.尤其要注意的是,这个配方会消耗龙蛋.所以只有在你需要完全避开魔法和蜜蜂线的时候,才会使用这个配方.[/note]%n%n[note]流体任务目标只要求你物品栏内某个容器中有相应的流体.(单元、通用流体单元、大型单元、容量瓶,等等.)[/note]
 
+# Quest: Metastable Oganesson
+betterquesting.quest.AOBApHluTUurGwTeOzxj4g.name=亚稳态鿫
+betterquesting.quest.AOBApHluTUurGwTeOzxj4g.desc=你以为你已经完成了所有的核聚变内容?
+
 # Quest: Infinity Boots
 betterquesting.quest.AzTPKiXuRWaBTOFhTeV83Q.name=无尽靴子
 betterquesting.quest.AzTPKiXuRWaBTOFhTeV83Q.desc=配得上神的盔甲.这双靴子提供永久的跳跃提升并且会增强跑步速度%n%n一旦你穿戴了全套的装备,你将完全无法被杀死.
@@ -4254,6 +4278,10 @@ betterquesting.quest.BFpBG-zDQSCr3DieB6Cw5g.desc=以前所未有的方式抽取�
 betterquesting.quest.E851J_UMQl6d9EwLLLg6AQ.name=无尽护腿
 betterquesting.quest.E851J_UMQl6d9EwLLLg6AQ.desc=配得上神的盔甲.这条护腿没有单独的效果,但是完整的套装需要它%n%n一旦你穿戴了全套的装备,你将完全无法被杀死.
 
+# Quest: NAC™: Crystal Package
+betterquesting.quest.FlFle6Z7TZSkgpJjPi4ucA.name=§5§l§nNAC§r§5§n™§r§5§n§l: Crystal Package
+betterquesting.quest.FlFle6Z7TZSkgpJjPi4ucA.desc=Now that you have the core pieces of the NAC™ platform, it's time to decide what circuit you would like to make. The §5§nCrystal Package§r allows for the creation of Crystal Circuits much more efficiently than other methods. See the attached owner's manual for installation instructions.%n%n§oIf you purchase in the next 72 hours, this package is 50%% off! Please... make a NAC™ for crystal circuits, CALs aren't as good we promise...§r%n%n%n§n§lUltra-high Energy Etching Array Owner's Manual:§r%n%nThe NAC™ will track the most recent 100,000 circuits crafted, and can be calibrated to a specific circuit type by reaching a certain percentage of circuits of this type. At 60%% (60,000) crystal circuits crafted, the NAC™ will become "fully calibrated" to crystal circuits.%n%nOnce that has been met, the Laser Source Hatch on the Etching Array will provide two bonuses:%n- The §nEU Cost§r will be divided by each amperage interval over 256A. Example - 1,024A will divide by 2, 4,096A will divide by 3, etc.%n- The §nRecipe Duration§r will be divided by (hatch tier - 9). Example - UIV will divide by 2, UMV will divide by 3, etc.
+
 # Quest: Dreams of Rainbow... Stargates?
 betterquesting.quest.H3Tvy4ZKSyiQGT16Og90bA.name=Rainbow之梦... 星门?
 betterquesting.quest.H3Tvy4ZKSyiQGT16Og90bA.desc=UEV能源仓?好极了!是时候获得第二座星门的奖杯了.%n和上次一样,要获得奖杯你必须提交等价于两座星门的材料.%n%n§3第二座奖杯把我们带到了<GT:NH>过去之旅的第二章,早期的UEV时代.%n%n在2022年早些时候,UEV等级的内容虽然还很空虚,但已经变得比以前有用的多了.UEV-UMV能源仓现在有了适当的配方(虽然使用的是UEV部件),光学贴片元件现在也投入使用了,万幸.%n终于有比普通等离子涡轮垃圾更好的动力源选择了,那就是硅岩燃料和压缩聚变反应堆+XL等离子涡轮阵列.从技术上讲,戴森球也可以投入使用了,但它存在严重的漏洞,而且其“合法”动力输出合理地说不会超过60亿eu/t(与全力生产氦等离子体的压缩聚变MK4差不多).%n一些有用的多方块机器包括精密组装机PrAss、超巨化学反应釜MCR和巨型石油裂解器被引入了,此外,在巨型多方块机器上的上的超频现在已经可以超过MAX电压.%n星门再次成为了一个遥不可及的目标,他现在需要极大数量的无尽催化剂和生物处理器,要去你把新技术的利用推向极限.%n%n%n两个玩家,§aPhineasor§3和§aGDCloud§3决心第一个完成这个目标,经过几个月的激烈角逐,胜负已定.§a%nGDCloud§3赢得了比赛并在§a2022年5月27日§3征服了这轮nerf.%n%n附注：如果您想尽可能忠实于曾经的挑战,请尝试在不使用任何当时不存在的现代功能的情况下完成此任务：PCB工厂,太空电梯,元件装配线,进阶装配线AAL,电力聚爆压缩机EEC,极限工业温室EIG,巨型合金冶炼炉MABS%n-任何与蜜蜂有关的GT机器%n-任何UEV或以上的多方块机器(除了有BUG的低产能戴森球和硅岩燃料精炼厂)%n-大型源质发电机LEG%n-低于1tick的超频,批处理模式,多方块机器上的产物溢出保护%n-并行数超过64的处理阵列(如果使用UEV机器,它们会自动降级为UHV)%n-ME指令缓存器,AE流体制作(AE流体合成套件),库存总线/仓,合成输入缓存器,ME输出总线/仓%n%n附注2:同样,混乱电容库也被排除在外,原因与UV星门任务中所述的相同.对了,星门零件以前是UXV配方,但由于UMV仓室已经无法在UEV等级中制作,所以它们被下放到了UIV中,使其可以在UEV中制作.%n
@@ -4261,6 +4289,12 @@ betterquesting.quest.H3Tvy4ZKSyiQGT16Og90bA.desc=UEV能源仓?好极了!是时�
 # Quest: Assembling in Space
 betterquesting.quest.H_S9zi1_SUKG7JkEYgJIiA.name=在太空中组装
 betterquesting.quest.H_S9zi1_SUKG7JkEYgJIiA.desc=这个新的太空电梯模块可以用来更方便地制造兰波顿能量球,以及制造光学电路的原材料.
+
+# Quest: NAC™: Wetware and Bioware Package
+betterquesting.quest.NAUxWAKzTHifGrUSGPcb5w.name=§5§l§nNAC§r§5§n™§r§5§n§l: Wetware and Bioware Package
+betterquesting.quest.NAUxWAKzTHifGrUSGPcb5w.desc=So you've chosen the §5§nWetware and Bioware Package§r for your newly purchased NAC™. A wise choice, as these are some of the most important circuits you will make. See the attached owner's manual for installation instructions.%n%n§oGet it while you can! A two-for-one deal on circuit lines!§r%n%n§n§lAccelerated Biological Coordinator Owner's Manual:§r
+%n
+%nThe NAC™ will track the most recent 100,000 circuits crafted, and can be calibrated to a specific circuit type by reaching a certain percentage of circuits of this type. At 60%% (60,000) wetware circuits crafted, the NAC™ will become "fully calibrated" to wetware circuits, and the same applies to bioware circuits.%n%nDepending on which calibration has been achieved, the Biological Coordinator will provide one of two bonuses:%n- If calibrated to §nWetware§r, usage of Growth Catalyst Medium is reduced to zero%n- If calibrated to §nBioware§r, usage of both Growth Catalyst Medium and Bio Catalyst Medium is reduced to zero
 
 # Quest: My Eyes Hurt! #1
 betterquesting.quest.U4zxsdwqTUKsbTATYEJirg.name=好刺眼! #1
@@ -4286,6 +4320,10 @@ betterquesting.quest._TtL1y6-SfCCNKRrWSvrNQ.desc=最终,你做到了.超维度�
 betterquesting.quest._hHt1iRERrywJiRVFpOnxw.name=UEV能源仓
 betterquesting.quest._hHt1iRERrywJiRVFpOnxw.desc=另一个电压等级,另一个能源仓.你可以用它们把装配线超频到UIV来给它加加速.
 
+# Quest: Introducing the NAC™
+betterquesting.quest.c9yhGUSqSBKfUE-I0l_kbw.name=§5§l§nIntroducing the NAC§r§5§n™§r§5§n§l
+betterquesting.quest.c9yhGUSqSBKfUE-I0l_kbw.desc=You've gotten this far, you know the drill. You've made more circuits than you can count, but what if that isn't enough? It's time to stop scaling the old way, and start manufacturing like the late game engineer you are.%n%nThe Nanochip Assembly Complex isn't just a fancier CAL or Assembly Line - it is the core of your entire operation. For the low price of a small craft* for your machines to chew on, you can be the proud owner of the latest innovation in circuit crafting technology! %n%n§oNote*: "Small craft" may not accurately reflect the state of your industrialization and the company holds no accountability or liability for professional mishaps like "that's way too much UHV Superconductor" or "we need to scale our HILEs yesterday"§r%n%n§oNAC™ sold as-is. Functionality available via separately crafted modules
+
 # Quest: Cheaper ZPM Circuits
 betterquesting.quest.dYvLkQ-xRnWL8Egy_MnoIg.name=更廉价的ZPM电路板
 betterquesting.quest.dYvLkQ-xRnWL8Egy_MnoIg.desc=活性生物芯片可以同时处理更多的任务,你的ZPM电路板也更便宜了!%n%n[note]这个配方会消耗不少海珀珍,也许你可以等到海珀珍更加便宜的时候再使用这个配方.[/note]
@@ -4306,6 +4344,10 @@ betterquesting.quest.iO7VxrxPTbutGjRtrcoAxw.desc=利用新的光学电路基板�
 betterquesting.quest.k9PA3buhTvK1EJpPfA8ZAg.name=第10阶段（UEV）
 betterquesting.quest.k9PA3buhTvK1EJpPfA8ZAg.desc=欢迎来到UEV!鉴于你已经开始制造你的第一块无尽,是时候扩张规模了.在这个阶段,所有的部件都需要无尽.做好制作成吨无尽的准备吧.你在这个阶段的主要目标是制作超维度等离子锻炉,英文简称"DTPF".这个巨大的多方块机器会解锁新的制作无尽,中子素以及其它一系列特殊材料的强力配方.
 
+# Quest: NAC™: Automation Package
+betterquesting.quest.lonEUE4hRuWYuP3JKbeLaw.name=§5§l§nNAC§r§5§n™§r§5§n§l: Automation Package
+betterquesting.quest.lonEUE4hRuWYuP3JKbeLaw.desc=Our most popular addon for the NAC™ platform, the §5§nAutomation Package§r allows for easily routing components between modules* for all your processing needs! Simply attach a Vacuum Conveyor Output to the core of the NAC, color it the same color as your input bus(es), and now you can route components to modules using Vacuum Conveyor Pipes!%n%n§oNote*: Modules sold separately§r
+
 # Quest: One Last Time
 betterquesting.quest.msIxGO5gQCWJPmEyp_JhtQ.name=最后一次
 betterquesting.quest.msIxGO5gQCWJPmEyp_JhtQ.desc=为了目前游戏中的最后一条电路板产线,你需要制作的最后一个电路组装机.
@@ -4318,9 +4360,17 @@ betterquesting.quest.n8PKF63sSSi0y8ZBb2RIKQ.desc=After automating Absolute Baryo
 betterquesting.quest.omilMDAFTVWzvZwo0SmnMw.name=§5§l§nBiocatalyzed Propulsion Fluid
 betterquesting.quest.omilMDAFTVWzvZwo0SmnMw.desc=Now with access to Maahes you can finally start making §5§lBiocatalyzed Propulsion Fluid§r. %n%nBPF is a superior fuel for the §9Spinmatron-2737§r, granting an additional §2§l1.25x§r parallels and allowing you to finally have access to §a§lHeavy mode§r dependent recipes.%n%n[note]If you happen to be avoiding rockets; check out the §nLumipod Sapling§r recipe[/note]
 
+# Quest: NAC™: Optical Package
+betterquesting.quest.oyyde6hbRUOyVcAf7IP5HA.name=§5§l§nNAC§r§5§n™§r§5§n§l: Optical Package
+betterquesting.quest.oyyde6hbRUOyVcAf7IP5HA.desc=You may have noticed that Optical Circuits the way you're used to in the CAL and Assembly Line are far more expensive than any other circuit line. The NAC™ has just the solution for you!%n%nWe are offering the new §5§nOptical Package§r, allowing for much more efficient production of your optical circuits! See the attached owner's manual for installation instructions.%n%n§oAn external review has been conducted and has found the company §nnot responsible§r§o for changes to other methods of producing optical circuits. The benefits of a NAC™ for optical circuits are merely coincidental.§r§r%n%n§l§nOptically Optimized Organizer Owner's Manual§r%n%nThe Optically Optimized Organizer requires two different grades of purified water to function. However, these are not just an extra running cost! Each grade of water 3 and above provides a bonus to the module's running stats:%n- Grade 3 (1000L/s): 0.8x Water Cost (applies to both)%n- Grade 4 (800L/s): 0.6x Water Cost (applies to both)%n- Grade 5 (800L/s): 0.9x Recipe Duration Modifier%n- Grade 6 (600L/s): 0.7x Recipe Duration Modifier%n- Grade 7 (600L/s): 0.9x Recipe EU Cost%n- Grade 8 (400L/s): 0.7x Recipe EU Cost%n%nWater is only consumed while the module is running. Similar water bonuses (such as Grade 5 + Grade 6) can be applied together.%n%nThe NAC™ will track the most recent 100,000 circuits crafted, and can be calibrated to a specific circuit type by reaching a certain percentage of circuits of this type. At 60%% (60,000) optical circuits crafted, the NAC™ will become "fully calibrated" to optical circuits.%n%nOnce that has been met, the bonuses from each chosen water type are applied twice.%n%n
+
 # Quest: Wireless Data for Your Assembly Lines!
 betterquesting.quest.pLB6Sb0FSZ65cjWJ_Q4IIg.name=§5§l§nWireless Data for Your Assembly Lines!
-betterquesting.quest.pLB6Sb0FSZ65cjWJ_Q4IIg.desc=Wireless Data Bank Transmission Connector and Wireless Assembly line Reception Connector lets you avoid building and connecting dozens of Data Banks and Optical Fiber Cable for the upcoming Assembly Lines you might have to build.%n%nTo use it, you have to screwdriver the Data Bank that is storing the data sticks, place a Wireless Data Bank Transmission Connector into the Data Bank, then Wireless Assembly line Reception Connector for the Assembly Lines.%n%n[note]Wireless Data Hatches are N:M instead of 1:1[/note]
+betterquesting.quest.pLB6Sb0FSZ65cjWJ_Q4IIg.desc=Wireless Data Bank Transmission Connector and Wireless Assembly line Reception Connector lets you avoid building and connecting dozens of Data Banks and Optical Fiber Cable for the upcoming Assembly Lines you might have to build.%n%nTo use it, you have to screwdriver the Data Bank that is storing the data sticks, place a Wireless Data Bank Transmission Connector into the Data Bank, then Wireless Assembly line Reception Connector for the Assembly Lines.%n%n[note]These Wireless Data Hatches are N:M (Many:Many)[/note]
+
+# Quest: NAC™: Assembling Package
+betterquesting.quest.qirJLnNZT6Wmb7oQJ1IOLg.name=§5§l§nNAC§r§5§n™§r§5§n§l: Assembling Package
+betterquesting.quest.qirJLnNZT6Wmb7oQJ1IOLg.desc=You might be saying, "So I've just purchased this thing, now what?" We have just the solution for you!%n%nThe §5§nAssembling Package§r is the most important upgrade to the NAC™ platform, allowing for the creation of circuits with your processed components. This isn't just another assembler - it's the most important machine you'll ever own.%n%nProvide the Nanochip Assembly Matrix with a Vacuum Conveyor Input (sold separately) containing the necessary components, and all the circuits you have ever wanted will be yours!%n%n§oPower costs may be high. The NAC™ offers a guarantee that modules will not powerfail, but offers no guarantees on your existing power network. 
 
 # Quest: UEV Superconductors
 betterquesting.quest.s6BLu9oMS86AXyR1FQ1imA.name=UEV超导
@@ -4378,10 +4428,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMpQ.desc=希望你已经准备好了大�
 # Quest: UMV Circuits
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMqg.name=UMV电路板
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMqg.desc=Pico电路,光学主机的直接升级版本,未来的合成会大量需要这种UMV电路.%n%n%n[note]你需要UMV级别的装配线.[/note]
-
-# Quest: Metastable Oganesson
-betterquesting.quest.AOBApHluTUurGwTeOzxj4g.name=亚稳态鿫
-betterquesting.quest.AOBApHluTUurGwTeOzxj4g.desc=你以为你已经完成了所有的核聚变内容?
 
 # Quest: The Real Planet Eater
 betterquesting.quest.GHobGJFEQzK1q96l6oC8wQ.name=真正的星球吞噬者
@@ -4554,7 +4600,7 @@ betterquesting.quest.kazCPEWoSmiZhR4bkHlEBQ.desc=那么你已经制作了一些�
 
 # Quest: Storing Computation in the Cloud
 betterquesting.quest.lBuQcNYjQ8-YsMFqW6U1tQ.name=§c§l§nStoring Computation in the Cloud
-betterquesting.quest.lBuQcNYjQ8-YsMFqW6U1tQ.desc=Wireless Computation is similar to Wireless Data, Cloud Computation Server Hatches send computation to Cloud Computation Client Hatches, which other multiblocks can use.%n%nPlace down a Server Hatch on a Quantum Computer, screwdriver the controller to enable Wireless Mode, then after placing down a Client Hatch, you have to set how much computation it should request from the Server Hatch.%n%n[note]Wireless Data Hatches are N:M instead of 1:1[/note]
+betterquesting.quest.lBuQcNYjQ8-YsMFqW6U1tQ.desc=Wireless Computation is similar to Wireless Data, Cloud Computation Server Hatches send computation to Cloud Computation Client Hatches, which other multiblocks can use.%n%nPlace down a Server Hatch on a Quantum Computer, screwdriver the controller to enable Wireless Mode, then after placing down a Client Hatch, you have to set how much computation it should request from the Server Hatch.%n%n[note]These Cloud Computation Hatches are N:M (Many:Many)[/note]
 
 # Quest: Shirabon
 betterquesting.quest.o8_pX-OSRJKBGzDsGujvNw.name=调律源金
@@ -10100,10 +10146,6 @@ betterquesting.quest._bEWg1FHSmKu9MNhlbDlwA.desc=允许单个接口并行,你再
 betterquesting.quest.auchuNiGTH6NWh_cz8XxcQ.name=ME高级流体存储外壳
 betterquesting.quest.auchuNiGTH6NWh_cz8XxcQ.desc=高阶流体存储组件需要使用此外壳才能制成可用的元件.
 
-# Quest: Crafting Input Proxy
-betterquesting.quest.cEFNSTdoRvysoNgmtDLdvg.name=黑奴并不好(Slavery is Bad)
-betterquesting.quest.cEFNSTdoRvysoNgmtDLdvg.desc=你已经掌握了跨维度物流和在多方块结构中共用仓室,为什么不把它们结合起来呢?%n%n你可以将用闪存右键合成输入总线或合成输入缓存器与它们起来,用它来处理多台机器的处理样板,就像在多方块结构中共用了合成输入总线/缓存器一样,虽然物理上没有共享仓室.%n%n[note]或许这能降低卡顿?[/note]
-
 # Quest: Level Maintainer
 betterquesting.quest.dmUrFrCfSESWj1ybHqTGNg.name=Level Maintainer
 betterquesting.quest.dmUrFrCfSESWj1ybHqTGNg.desc=The ME Level Maintainer is another cool addition of AE2FC. Choose an item or fluid and an amount to maintain, and the Level Maintainer will attempt to call patterns to keep crafting the item until it reaches the threshold you configured. You can also configure the crafting batch size.%n%n[note]For fluid crafts, put in a fluid drop and don't drag from NEI.[/note]
@@ -10119,6 +10161,10 @@ betterquesting.quest.kBjBqQR5Q-GWh4olyHmXXg.desc=The Superluminal Acceleration c
 # Quest: Fluid Void Cell
 betterquesting.quest.krGyRorETXqDuJdbU3K5tA.name=Fluid Void Cell
 betterquesting.quest.krGyRorETXqDuJdbU3K5tA.desc=[warn]Caution! Use with utmost care! This cell does exactly what it says. It deletes everything you put on there. So better make sure you have precise control over what can actually go there.[/warn]%n%n[note]Will only void fluids, not items[/note]
+
+# Quest: Block Container
+betterquesting.quest.lLjNj5KXT2WLn_r7E_Ctsw.name=Block Container
+betterquesting.quest.lLjNj5KXT2WLn_r7E_Ctsw.desc=Block Container Cells are a special variant of cell. They are unique because, despite using a 1k storage component, each one can hold up to 520k items rather than just 8.13k!%n%nOf course, all of that power comes with the limitation that they can only store one type of item, so they aren’t quite as flexible. They are great for bulk storage or for scenarios where you might want only one item per drive- Assembly Line automation for example.
 
 # Quest: ...with Fluid Support!
 betterquesting.quest.mk3rQ7LUQjC96FsFvDedKA.name=§6§l...已加入流体支持!
@@ -12888,7 +12934,7 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAHA.desc=当普通魔法不够的时
 
 # Quest: Incense Crucible
 betterquesting.quest.1PpNSMRMR_-6fCQnguQX-A.name=Incense Crucible
-betterquesting.quest.1PpNSMRMR_-6fCQnguQX-A.desc=The forefather of the 1.12.2 Incense Altar.%n%nThe bonuses it gives are mostly similar, but the way it works is completely different.%nEach incense is meant to be tiered one after another. Currently you can only use §eWood Ash§r and §4Byrrus (Red)§r.%n%nWhite smoke will come out when there is an incense in the crucible, and the crucible will light up when it finds a player to increase the incense value of.%nOnce the player has an incense value greater than 0, their sacrificial knife will get super-charged, allowing the player to completely sacrifice all of their hearts but one.%n%nPutting §eWood Ash§r in the crucible will increase the incense value from §90§r to §9400§r.%n§4Byrrus§r increases it from §9400§r to §9800§r. It cannot get you from §90§r to §9800§r alone.%n%nThe LP you get from self-sacrifice will get a boost depending on your §9Incense Value§r.%n%n§dLP§r = §d200LP§r * §cHeartSacrificed§r * §bIncenseModifier§r%n%n§bIncenseModifier§r = §9IncenseValue§r * 0.001
+betterquesting.quest.1PpNSMRMR_-6fCQnguQX-A.desc=The forefather of the 1.12.2 Incense Altar.%n%nThe bonuses it gives are mostly similar, but the way it works is completely different.%nEach incense is meant to be tiered one after another. Currently you can only use §eWood Ash§r and §4Byrrus (Red)§r.%n%nWhite smoke will come out when there is an incense in the crucible, and the crucible will light up when it finds a player to increase the incense value of.%nOnce the player has an incense value greater than 0, their sacrificial knife will get super-charged, allowing the player to completely sacrifice all of their hearts but one.%n%nPutting §eWood Ash§r in the crucible will increase the incense value from §90§r to §9400§r.%n§4Byrrus§r increases it from §9400§r to §9800§r. It cannot get you from §90§r to §9800§r alone.%n%nThe LP you get from self-sacrifice will get a boost depending on your §9Incense Value§r.%n%n§dLP§r = §d200LP§r * §cHeartSacrificed§r * §bIncenseModifier§r%n%n§bIncenseModifier§r = 1 + §9IncenseValue§r * 0.001
 
 # Quest: Tier 2 Sigils
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5A.name=2阶印记
@@ -14150,6 +14196,10 @@ betterquesting.quest.a59175-ZS16kxwUW_BCuEQ.desc=Congratuations on your first EB
 betterquesting.quest.bNVzOxCORxuo_lhAh13r0A.name=绝对纯净
 betterquesting.quest.bNVzOxCORxuo_lhAh13r0A.desc=绝对的重子理想态!这种多方块允许您制造极度纯净的水,即使在亚原子层级上也是纯净的.在8级纯净水中,没有一个夸克是不合适的.得益于这种纯净度,更先进的工艺流程成为可能,首先是缩短光子晶元的处理时间和提高光学芯片的产量.%n%n虽然Tooltip提示肯定没有脱气机的那么吓人,但要实现该流程的自动化并非易事.请尽情享受解谜的乐趣！
 
+# Quest: Crafting Input Proxy
+betterquesting.quest.cEFNSTdoRvysoNgmtDLdvg.name=黑奴并不好(Slavery is Bad)
+betterquesting.quest.cEFNSTdoRvysoNgmtDLdvg.desc=你已经掌握了跨维度物流和在多方块结构中共用仓室,为什么不把它们结合起来呢?%n%n你可以将用闪存右键合成输入总线或合成输入缓存器与它们起来,用它来处理多台机器的处理样板,就像在多方块结构中共用了合成输入总线/缓存器一样,虽然物理上没有共享仓室.%n%n[note]或许这能降低卡顿?[/note]
+
 # Quest: pH Neutralization
 betterquesting.quest.eon8hLumTS-E7MYJ4TFT3w.name=pH中和
 betterquesting.quest.eon8hLumTS-E7MYJ4TFT3w.desc=如果您想大幅提升铕掺杂晶圆的加工速度,这台机器就是您的最佳选择.使用从这台机器获得的pH中性水,您可以将晶圆处理速度提高一倍.%n%n这是[Waterline]中第一个真正复杂的自动化挑战,您需要弄清楚如何处理pH中和过程.祝您玩得开心!%n%n[note]这个多方块对酸和碱的仓室位置非常挑剔.如果你不知道为什么它没有形成,很可能是你忘记将这些仓室放在正确的位置.使用全息投影仪查看它们的位置.[/note]
@@ -14400,6 +14450,10 @@ betterquesting.quest.ThhwoFJASzGjsSjyGqCROQ.desc=No Description
 # Quest: Trigger: Rocket Tier 1 Skip
 betterquesting.quest.VoVbERmlQRGNglekP68u-Q.name=Trigger: Rocket Tier 1 Skip
 betterquesting.quest.VoVbERmlQRGNglekP68u-Q.desc=No Description
+
+# Quest: Trigger: Air-Filter
+betterquesting.quest.aB29SdZcQ3KcyLSPGsZPiw.name=§6§lTrigger: Air-Filter
+betterquesting.quest.aB29SdZcQ3KcyLSPGsZPiw.desc=No Description
 
 # Quest: Trigger: Rocket Tier 5 Skip
 betterquesting.quest.aPHM7QnaQEmVjOJwYbMp8Q.name=Trigger: Rocket Tier 5 Skip
