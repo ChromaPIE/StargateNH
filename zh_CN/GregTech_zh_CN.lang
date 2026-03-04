@@ -18653,7 +18653,7 @@ languagefile {
     S:gt.blockcasings2.0.name=钢制坚固机器外壳
     S:gt.blockcasings2.1.name=防冻机器外壳
     S:gt.blockcasings2.10.name=液泵机器外壳
-    S:gt.blockcasings2.11.name=马达机械方块
+    S:gt.blockcasings2.11.name=马达机器外壳
     S:gt.blockcasings2.12.name=青铜管道外壳
     S:gt.blockcasings2.13.name=钢管道外壳
     S:gt.blockcasings2.14.name=钛管道外壳
@@ -18661,11 +18661,11 @@ languagefile {
     S:gt.blockcasings2.2.name=青铜齿轮箱外壳
     S:gt.blockcasings2.3.name=钢齿轮箱外壳
     S:gt.blockcasings2.32767.name=任意本方块的子方块
-    S:gt.blockcasings2.4.name=钛齿轮机械方块
+    S:gt.blockcasings2.4.name=钛齿轮箱外壳
     S:gt.blockcasings2.5.name=装配线外壳
-    S:gt.blockcasings2.6.name=处理器机械方块
+    S:gt.blockcasings2.6.name=处理器机器外壳
     S:gt.blockcasings2.7.name=数据驱动机械方块
-    S:gt.blockcasings2.8.name=力场控制机械方块
+    S:gt.blockcasings2.8.name=容控力场机器外壳
     S:gt.blockcasings2.9.name=装配线外壳
     S:gt.blockcasings3.0.name=黄色路障方块
     S:gt.blockcasings3.1.name=黄色路障方块
