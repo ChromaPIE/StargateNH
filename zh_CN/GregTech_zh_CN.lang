@@ -18590,8 +18590,8 @@ languagefile {
     S:gt.blockcasings.10.name=镀青铜砖块
     S:gt.blockcasings.11.name=隔热机器外壳
     S:gt.blockcasings.12.name=维度级超凡外壳
-    S:gt.blockcasings.13.name=维度注入机械方块
-    S:gt.blockcasings.14.name=维度桥接方块
+    S:gt.blockcasings.13.name=维度注入外壳
+    S:gt.blockcasings.14.name=维度桥接器
     S:gt.blockcasings.15.name=超导线圈方块
     S:gt.blockcasings.2.name=MV机器外壳
     S:gt.blockcasings.3.name=HV机器外壳
@@ -18802,7 +18802,7 @@ languagefile {
     S:gt.blockcasingsTT.0.name=高能外壳
     S:gt.blockcasingsTT.1.name=电子计算机械方块
     S:gt.blockcasingsTT.10.name=传输机械方块
-    S:gt.blockcasingsTT.11.name=维度联络机械方块
+    S:gt.blockcasingsTT.11.name=维度桥接发生器
     S:gt.blockcasingsTT.12.name=终极分子外壳
     S:gt.blockcasingsTT.13.name=终极进阶分子外壳
     S:gt.blockcasingsTT.14.name=终极遏制场发生器
@@ -21901,7 +21901,7 @@ languagefile {
     S:gt.blockmachines.industrialsifter.controller.tier.single.name=工业筛选机
     S:gt.blockmachines.industrialthermalcentrifuge.controller.tier.single.name=工业热力精炼厂
     S:gt.blockmachines.industrialwashplant.controller.tier.single.name=工业洗矿厂
-    S:gt.blockmachines.industrialwiremill.controller.tier.single.name=工业线缆机
+    S:gt.blockmachines.industrialwiremill.controller.tier.single.name=工业线材加工厂
     S:gt.blockmachines.infinite.chest.tier.01.name=无限物品箱
     S:gt.blockmachines.largeessentiasmeltery.name=大型源质冶炼厂
     S:gt.blockmachines.largefusioncomputer1.name=压缩核聚变反应堆控制电脑MK-I
@@ -69235,8 +69235,8 @@ languagefile {
     S:miscutils.blockcasings.3.name=隔热焦炉外壳
     S:miscutils.blockcasings.32767.name=任意本方块的子方块
     S:miscutils.blockcasings.4.name=辊压机机械方块
-    S:miscutils.blockcasings.5.name=电解机机械方块
-    S:miscutils.blockcasings.6.name=线材轧机机械方块
+    S:miscutils.blockcasings.5.name=电解机外壳
+    S:miscutils.blockcasings.6.name=线材加工厂外壳
     S:miscutils.blockcasings.7.name=粉碎机机械方块
     S:miscutils.blockcasings.8.name=质量发生线圈
     S:miscutils.blockcasings.9.name=物质创制机外壳
