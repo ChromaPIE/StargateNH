@@ -1326,10 +1326,6 @@ gt.blockmachines.debug.tt.genny.desc.0=凭空而生的能量
 gt.blockmachines.debug.tt.genny.desc.1=一个无限的能源生产/消耗设备
 gt.blockmachines.debug.tt.genny.desc.2=我只是想要一个...
 gt.blockmachines.debug.tt.genny.desc.3=使用螺丝刀将其切换为激光模式.
-gt.blockmachines.debug.tt.writer.name=Debug结构打印机
-gt.blockmachines.debug.tt.writer.desc.0=扫描周围的方块
-gt.blockmachines.debug.tt.writer.desc.1=打印多方块非实体的结构样式编码
-gt.blockmachines.debug.tt.writer.desc.2=ABC轴沿机器正面确定
 gt.blockmachines.debug.tt.certain.desc.0=确定！
 gt.blockmachines.debug.tt.certain.desc.1=薛定谔的猫逃出了盒子
 
@@ -2028,11 +2024,6 @@ tt.gui.text.debug.sum=SUM: %s
 tt.gui.text.debug.tier=TIER: %s
 
 tt.gui.text.debug_pollutor.pollution=Pollution
-
-tt.gui.text.debug_structure_writer.structure_size=Structure size
-tt.gui.text.debug_structure_writer.my_position=My position
-tt.gui.text.debug_structure_writer.changing_scan_size=(Changing scan size)
-tt.gui.text.debug_structure_writer.moving_origin=(Moving origin)
 
 tt.gui.text.hatch.uncertainty.status.ok=Status: OK
 tt.gui.text.hatch.uncertainty.status.ng=Status: NG

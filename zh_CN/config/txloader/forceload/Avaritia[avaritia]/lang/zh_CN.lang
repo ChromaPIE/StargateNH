@@ -68,6 +68,7 @@ tile.alfheim_deadrock1.name=死岩砖
 tile.alfheim_deadrock2.name=苔死岩砖
 tile.alfheim_deadrock3.name=裂死岩砖
 tile.alfheim_deadrock4.name=錾制死岩砖
+tile.cluster_opener.name=Matter Cluster Decompressor
 #
 # Tooltips
 tooltip.armok.desc=手持时可存储无限的原始生命本质。
@@ -89,6 +90,9 @@ tooltip.matter_cluster.counter=物品
 tooltip.morvinabox.desc=即时住房。
 tooltip.morvinabox.subdesc=在加拿大，Morvy是成袋装的。
 tooltip.claybalance.desc=无 限 平 衡!!!!
+tooltip.matter-cluster-decompressor.line1=Extracts items from Matter Clusters.
+tooltip.matter-cluster-decompressor.line2=Only GT and AE can pull items from decompressors.
+tooltip.matter-cluster-decompressor.line3=Fluid drops will be converted to fluids automatically.
 #
 # Achievements
 achievement.avaritia:crystal_matrix=第一枚纹章
