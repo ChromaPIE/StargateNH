@@ -219,6 +219,8 @@ item.nanotool.mode.shovel=锹
 item.nanotool.mode.wrench=扳手
 item.battery-using-item.powerlevel=电源
 
+schematic.shuttle.name=Shuttle Rocket
+
 entity.robotVillager.name=机器人村民
 entity.porcodon.name=帕克顿
 entity.sentryRobot.name=哨兵

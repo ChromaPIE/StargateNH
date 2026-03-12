@@ -44,7 +44,7 @@ neicustomdiagram.generators.enderstorage.tankoverview.personallabel=私人频道
 neicustomdiagram.generators.enderstorage.tankoverview.frequencyslot=频道
 neicustomdiagram.generators.enderstorage.tankoverview.tankslot=储罐库存
 neicustomdiagram.generators.enderstorage.tankoverview.nodataheader=没有储罐数据！
-neicustomdiagram.generators.enderstorage.tankoverview.nodatasubheader=抱歉，在服务器中，储罐数据不可用
+neicustomdiagram.generators.enderstorage.tankoverview.nodatasubheader=Sorry, if on a server, tank data is not available.
 
 neicustomdiagram.generators.forge.fluidcontainers.groupname=Forge流体容器
 neicustomdiagram.generators.forge.fluidcontainers.fluidlabel=流体
