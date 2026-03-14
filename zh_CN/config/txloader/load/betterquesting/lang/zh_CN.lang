@@ -409,7 +409,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHPA.desc=...但她永远不会停下,因
 
 # Quest: No Self-Healing Tools Here...Yet
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHSA.name=§2§l工具自动修复？有，但不是现在
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHSA.desc=新手可能会惊讶于在NEI里查不到匠魂苔藓球的实际合成配方。在本整合包中，你需要先精通神秘时代方能制作此物。%n%n踏上成为强大巫师的征程，你将获得合成苔藓球所需的力量，使工具能够自我修复。当然，在启程之前，你需要先前往暮色森林获取若干铝锭。%n%n苔藓球的配方位于魔导手册的GTNH分类下，需通过奥术注魔完成。魔导手册中还记载着诸多秘宝，但需警惕扭曲侵蚀。%n%n饮一杯啤酒，为你漫长的冒险之旅壮行吧！
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHSA.desc=在本整合包中，你需要先精通神秘时代方能制作匠魂苔藓球。踏上成为强大巫师的征程，你将获得合成苔藓球所需的力量，使工具能够自我修复。当然，在启程之前，你需要先前往暮色森林获取若干铝锭。%n%n苔藓球的配方位于魔导手册的GTNH分类下，需通过奥术注魔完成。魔导手册中还记载着诸多秘宝，但需警惕扭曲侵蚀。%n%n饮一杯啤酒，为你漫长的冒险之旅壮行吧！
 
 # Quest: Options For Finding Zinc
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHSg.name=§2§l本阶段的寻锌途径若干
