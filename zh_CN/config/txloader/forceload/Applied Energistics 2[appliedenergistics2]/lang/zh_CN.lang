@@ -68,6 +68,8 @@ tile.appliedenergistics2.BlockMolecularAssembler.name=分子装配室
 tile.appliedenergistics2.BlockPatternOptimizationMatrix.name=样板优化矩阵
 tile.appliedenergistics2.BlockSingularityCraftingStorage.name=奇点合成存储器
 tile.appliedenergistics2.BlockPaint.name=Paint
+tile.appliedenergistics2.BlockSpatialLinkChamber.name=Spatial Link Chamber
+tile.appliedenergistics2.BlockSpatialNetworkRelay.name=Spatial Network Relay
 
 # Stairs
 tile.appliedenergistics2.ChiseledQuartzStairBlock.name=錾制刻定石英楼梯
@@ -228,6 +230,9 @@ gui.appliedenergistics2.MultipliedBy=乘以
 gui.appliedenergistics2.CurrentPatternOutput=当前样板输出
 gui.appliedenergistics2.NewPatternOutput=新的样板输出
 gui.appliedenergistics2.Optimize=优化
+gui.appliedenergistics2.SpatialChamber=Spatial Link Chamber
+gui.appliedenergistics2.TeleportInside=Dive in
+gui.appliedenergistics2.TeleportOutside=Dive out
 
 gui.appliedenergistics2.FormationPlane=成型面板
 gui.appliedenergistics2.VibrationChamber=谐振仓

@@ -335,6 +335,7 @@ entity.etfuturum.shulker.name=Shulker
 entity.etfuturum.shulker_candy.name=Shulker Bullet
 entity.etfuturum.chest_boat.name=运输船
 entity.etfuturum.new_boat.name=船
+entity.etfuturum.new_boat_seat.name=Boat
 
 entity.etfuturum.stray.name=Stray
 entity.etfuturum.husk.name=Husk
