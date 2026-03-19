@@ -22029,8 +22029,8 @@ languagefile {
     S:gt.blockmachines.multimachine.oildrill4.name=油/气/流体钻井平台 IV
     S:gt.blockmachines.multimachine.oildrillinfinite.name=无尽油/气/流体钻井平台
     S:gt.blockmachines.multimachine.oredrill1.name=采矿场
-    S:gt.blockmachines.multimachine.oredrill2.name=采矿场 II
-    S:gt.blockmachines.multimachine.oredrill3.name=采矿场 III
+    S:gt.blockmachines.multimachine.oredrill2.name=大型钻矿机 II
+    S:gt.blockmachines.multimachine.oredrill3.name=大型钻矿机 III
     S:gt.blockmachines.multimachine.oredrill4.name=采矿场 IV
     S:gt.blockmachines.multimachine.oreprocessor.name=集成矿石处理厂
     S:gt.blockmachines.multimachine.pcbfactory.name=PCB工厂
