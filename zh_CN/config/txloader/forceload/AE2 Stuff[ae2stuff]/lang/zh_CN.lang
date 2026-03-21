@@ -2,6 +2,7 @@ tile.ae2stuff.Encoder.name=样板编码台
 tile.ae2stuff.Grower.name=晶体催生仓
 tile.ae2stuff.Inscriber.name=高级压印器
 tile.ae2stuff.Wireless.name=无线接入器
+tile.ae2stuff.Wireless.colorTip=Can be colored
 tile.ae2stuff.WirelessHub.name=Wireless Hub
 
 gui.ae2stuff.Encoder.title=Pattern Encoder

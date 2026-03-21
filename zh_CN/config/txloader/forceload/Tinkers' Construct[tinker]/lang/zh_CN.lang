@@ -13,9 +13,11 @@ crafters.PartBuilder=部件加工台
 crafters.PatternShaper=模具加工台
 crafters.CraftingStation=合成站
 inventory.PatternChest=模具箱
+inventory.PartChest=Part Chest
 crafters.Smeltery=冶炼炉
 crafters.Frypan=煎锅
 inventory.knapsack=背包
+toolstation.partholder=Part Chest
 
 nei.options.keys.gui.tinkers_belt=切换旅行者腰带
 
@@ -23,6 +25,7 @@ tile.ToolStation.name=工具装配台
 ToolStation.Crafter.name=工具装配台
 ToolStation.Parts.name=部件加工台
 ToolStation.PatternChest.name=模具箱
+ToolStation.PartChest.name=Part Chest
 ToolStation.PatternShaper.name=模具加工台
 ToolStation.CastingTable.name=浇铸台
 tile.FurnaceSlab.name=半砖熔炉
@@ -923,6 +926,18 @@ gui.toolstation20=保护：
 gui.toolstation21=弹药：
 gui.toolstation22=箭矢损毁几率：
 gui.toolstation23=最大攻击：
+
+gui.partcrafter.durability=Durability: %s
+gui.partcrafter.mininglevel=Mining Level: %s
+gui.partcrafter.miningspeed=Mining Speed: %s
+gui.partcrafter.attack=Attack: %s
+gui.partcrafter.handlemodifier=Handle Modifier: %s
+gui.partcrafter.drawspeed=Draw Speed: %s s
+gui.partcrafter.arrowspeed=Arrow Speed: %s
+gui.partcrafter.arrow=Arrow
+gui.partcrafter.bolt=Bolt
+gui.partcrafter.weight=Weight: %s
+gui.partcrafter.breakchance=Break Chance: %s %%
 
 gui.mining1=石头
 gui.mining2=铁
