@@ -34,7 +34,7 @@ vendingmachine.gui.cooldown_display.day=天
 
 vendingmachine.gui.error.incomplete_structure=Incomplete Structure.
 vendingmachine.gui.error.player_using=售货机正被占用。
-vendingmachine.chat.trade_restock=Vending Machine Restocked: %s
+vendingmachine.chat.trade_restock=售货机已补充%s存货
 
 gt.blockmachines.multimachine.vendingmachine.name=售货机
 gt.blockmachines.multimachine.vendingmachine.name.gui=Vending Machine
