@@ -265,9 +265,6 @@ BW.NEI.display.radhatch.0=辐射剂量: %s Sv
 BW.NEI.display.radhatch.1=质量: %s kg
 BW.NEI.display.radhatch.2=时间: %s s
 
-misc.BatchModeTextOn=开启批量处理
-misc.BatchModeTextOff=关闭批量处理
-
 tooltip.cal.imprintedWith=已压印：
 chat.cal.mode.0=电路装配线模式
 chat.cal.mode.1=电路组装机模式

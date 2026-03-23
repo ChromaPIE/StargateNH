@@ -1252,8 +1252,8 @@ tile.chisel.glass2.name=玻璃
 tile.glass2.0.desc=非对称式格栅铅框玻璃
 
 #Sandstone
-tile.chisel.sandstone.name=沙石
-tile.chisel.sandstone2.name=沙石
+tile.chisel.sandstone.name=砂岩
+tile.chisel.sandstone2.name=砂岩
 
 tile.sandstone.0.desc=雕文沙石
 tile.sandstone.1.desc=沙圆石
@@ -1268,7 +1268,7 @@ tile.sandstone.8.desc=光滑又平整的沙石
 tile.sandstone.9.desc=抛光沙石柱顶石
 tile.sandstone.10.desc=抛光矮式沙石柱
 tile.sandstone.11.desc=抛光沙石柱基石
-tile.sandstone.12.desc=沙石块
+tile.sandstone.12.desc=砂岩块
 tile.sandstone.13.desc=方砖沙石
 tile.sandstone.14.desc=镶嵌图案沙石
 tile.sandstone.15.desc=层叠沙石瓷砖

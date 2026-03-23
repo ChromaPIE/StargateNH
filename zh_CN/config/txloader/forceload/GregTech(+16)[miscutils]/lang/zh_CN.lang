@@ -22,10 +22,6 @@ death.attack.plasmabolt=%s 死于滚烫的等离子体.
 death.attack.plasmabolt.player=%1$s 被 %2$s 使用等离子体击杀.
 death.attack.gtpp.grinder=%s 被艾萨磨机磨成了渣渣.
 
-# Batch mode chat message
-misc.BatchModeTextOn=开启批量处理 (会销毁溢出物品, 推荐使用ME输出总线)
-misc.BatchModeTextOff=关闭批量处理
-
 # Alternative Materials
 item.itemPlateBatteryAlloy.name=电池合金板
 item.itemIngotBatteryAlloy.name=电池合金锭
