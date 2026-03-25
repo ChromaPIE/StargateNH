@@ -21954,7 +21954,7 @@ languagefile {
     S:gt.blockmachines.multimachine.adv.blastfurnace.name=火山高炉
     S:gt.blockmachines.multimachine.adv.chisel.name=工业3D打印机
     S:gt.blockmachines.multimachine.adv.distillationtower.name=丹格特蒸馏厂
-    S:gt.blockmachines.multimachine.adv.implosioncompressor.name=进阶聚爆压缩机
+    S:gt.blockmachines.multimachine.adv.implosioncompressor.name=密次方
     S:gt.blockmachines.multimachine.adv.industrialfreezer.name=超低温冷冻机
     S:gt.blockmachines.multimachine.adv.vacuumfurnace.name=“乌图普-塔努利”真空炉
     S:gt.blockmachines.multimachine.airfilter.01.name=大型空气过滤机T1
@@ -21978,7 +21978,7 @@ languagefile {
     S:gt.blockmachines.multimachine.concretebackfiller1.name=混凝土回填机
     S:gt.blockmachines.multimachine.concretebackfiller3.name=进阶混凝土回填机
     S:gt.blockmachines.multimachine.cracker.name=石油裂化机
-    S:gt.blockmachines.multimachine.decay-warehouse.name=Decay Warehouse
+    S:gt.blockmachines.multimachine.decay-warehouse.name=衰变储仓
     S:gt.blockmachines.multimachine.defusioncrafter.name=龙之进化聚合制造器
     S:gt.blockmachines.multimachine.dieselengine.name=大型内燃引擎
     S:gt.blockmachines.multimachine.distillationtower.name=蒸馏塔

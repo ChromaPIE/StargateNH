@@ -19,7 +19,9 @@ vendingmachine.gui.required_inputs=需要：
 vendingmachine.gui.nc_inputs=Requires (Not Consumed):
 vendingmachine.gui.alternative_oredict=Accepts Oredict:
 vendingmachine.gui.nc_inputs_overlay_color=FDD835
+vendingmachine.gui.shared_trades_tooltip=Shares cooldown with %s other trade(s)
 vendingmachine.gui.trade_hint=Shift点击以付款
+vendingmachine.gui.favourite_hint=Ctrl-Click to Toggle as Favourite
 vendingmachine.gui.display_mode=显示样式：
 vendingmachine.gui.display_mode_tile=方块
 vendingmachine.gui.display_mode_list=列表
@@ -40,6 +42,7 @@ gt.blockmachines.multimachine.vendingmachine.name=售货机
 gt.blockmachines.multimachine.vendingmachine.name.gui=Vending Machine
 hatch.vendinguplink.me.name=ME Vending Uplink Hatch
 
+vendingmachine.category.favourites=Favourites
 vendingmachine.category.unknown=未知分类
 vendingmachine.category.all=所有物品
 vendingmachine.category.components=部件
