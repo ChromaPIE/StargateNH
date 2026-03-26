@@ -8578,7 +8578,7 @@ languagefile {
     S:TileEntity_DESCRIPTION_09400_Secondary_Index_05=§6   1x §r§7坚实钨钢机器外壳
     S:TileEntity_DESCRIPTION_09400_Secondary_Index_06=§6   25x §r§7任意相同等级玻璃
     S:TileEntity_DESCRIPTION_09400_Secondary_Index_07=§f   输入总线：§7任意钛制稳固机器外壳
-    S:TileEntity_DESCRIPTION_09400_Secondary_Index_08=不需要维修仓
+    S:TileEntity_DESCRIPTION_09400_Secondary_Index_08=无需维修仓
     S:TileEntity_DESCRIPTION_09400_Secondary_Index_09=   §7§m------------------------------
     S:TileEntity_DESCRIPTION_09400_Secondary_Index_10=§f结构过于复杂！
     S:TileEntity_DESCRIPTION_09400_Secondary_Index_11=§f对控制器方块使用§9Structure§1Lib§r的§f全息投影仪§f来查看结构！
