@@ -1,6 +1,6 @@
 # Components
-gt.oreprefix.bolted_material_casing=Bolted %s Casing
-gt.oreprefix.rebolted_material_casing=Rebolted %s Casing
+gt.oreprefix.bolted_material_casing=铆接%s外壳
+gt.oreprefix.rebolted_material_casing=加固铆接%s外壳
 
 itemGroup.GT2C=GT2兼容
 item.GT_Rockcutter_Item_LV.name=岩石切割机LV
@@ -272,6 +272,9 @@ BW.NEI.display.radhatch.2=时间: %s s
 tooltip.cal.imprintedWith=已压印：
 chat.cal.mode.0=电路装配线模式
 chat.cal.mode.1=电路组装机模式
+
+chat.proxy.reverse.false=§aRegular§r Recipe Order
+chat.proxy.reverse.true=§dReversed§r Recipe Order
 #Liquids
 
 # gui
