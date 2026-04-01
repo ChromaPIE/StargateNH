@@ -302,6 +302,9 @@ nei.options.inventory.guirecipe.handlerInfo.tip=Use shift+d while in the Recipes
 nei.options.inventory.guirecipe.handlerInfo.true=Enabled
 nei.options.inventory.guirecipe.handlerInfo.false=Disabled
 nei.options.inventory.guirecipe.maxHeight=最大长度
+nei.options.inventory.guirecipe.chance=Show Change
+nei.options.inventory.guirecipe.chance.true=Yes
+nei.options.inventory.guirecipe.chance.false=No
 nei.options.inventory.showItemQuantityWidget=显示物品数量栏(右下角)
 nei.options.inventory.showItemQuantityWidget.true=是
 nei.options.inventory.showItemQuantityWidget.false=否
@@ -519,6 +522,8 @@ nei.options.tools.dump.itempanel.mode.2=Json
 nei.options.tools.dump.itempanel.mode.3=PNG
 nei.options.tools.dump.itempanel.icon.dumped=物品面板图标已保存到.minecraft/e%s
 nei.options.tools.dump.itempanel.icon.cancelled=保存取消
+nei.options.tools.dump.itempanel.icon.warning.1=§cWARNING§r: You are about to dump %s items at %sx%s resolution
+nei.options.tools.dump.itempanel.icon.warning.2=Hold %s while clicking this button to proceed
 nei.options.tools.dump.handlers=NEI预设
 nei.options.tools.dump.handlers.dumped=预设(handlers)已存至 %s
 nei.options.tools.dump.handlers.mode.0=CSV
@@ -545,6 +550,7 @@ nei.debug.RecipeHandler.checkbox.on=On
 nei.debug.RecipeHandler.checkbox.off=Off
 nei.debug.RecipeHandler.yes=Yes
 nei.debug.RecipeHandler.no=No
+nei.debug.RecipeHandler.reset=Reset
 
 nei.recipe.page=第 %s/%s 页
 nei.recipe.tooltip=合成表
@@ -554,6 +560,10 @@ nei.recipe.shapeless=无序合成
 nei.recipe.furnace=烧制
 nei.recipe.fuel=燃料
 nei.recipe.fuel.smeltCount=可冶炼%s个物品
+nei.recipe.chance=Chance: %s%%
+nei.recipe.chance.nc=NC
+nei.recipe.chance.ncp=NC(P)
+
 # Deprecated
 nei.recipe.fuel.required=需要%s个
 # Deprecated
