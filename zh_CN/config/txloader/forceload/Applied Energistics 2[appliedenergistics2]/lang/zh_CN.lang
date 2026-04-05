@@ -353,6 +353,7 @@ gui.appliedenergistics2.Sticky=粘性
 gui.appliedenergistics2.Contains=包含物品
 gui.appliedenergistics2.HoldShiftForTooltip=按住Shift以查看拓展tooltip
 gui.appliedenergistics2.HoldShiftClick_HIGHLIGHT_INTERFACE=按住Shift以高亮接口
+gui.appliedenergistics2.Accepts=Accepts:
 gui.appliedenergistics2.Nothing=无
 gui.appliedenergistics2.VoidCellTooltip=销毁存储的§4所有物品§7
 gui.appliedenergistics2.CellView=Cell View
