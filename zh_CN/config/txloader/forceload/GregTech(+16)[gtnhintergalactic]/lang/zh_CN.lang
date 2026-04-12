@@ -346,6 +346,7 @@ ig.nei.siphon.depth=深度
 
 # Structure and Tooltip
 ig.siphon.structure.ControllerPos=正面底部中央
+ig.siphon.structure.HatchRequirement=Must have exactly §61§7 of each hatch!
 ig.siphon.structure.AnySiphonCasing=Any Planetary Siphon Casing
 ig.siphon.structure.PillarMiddle=1x4x1的立柱(基座中央)
 ig.siphon.structure.Sides=1x3x1立柱的每个侧面与上方
