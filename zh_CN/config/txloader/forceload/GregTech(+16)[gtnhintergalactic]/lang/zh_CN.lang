@@ -346,6 +346,7 @@ ig.nei.siphon.depth=深度
 
 # Structure and Tooltip
 ig.siphon.structure.ControllerPos=正面底部中央
+ig.siphon.structure.ControllerPos2=Front bottom
 ig.siphon.structure.HatchRequirement=Must have exactly §61§7 of each hatch!
 ig.siphon.structure.AnySiphonCasing=Any Planetary Siphon Casing
 ig.siphon.structure.PillarMiddle=1x4x1的立柱(基座中央)
@@ -354,6 +355,7 @@ ig.siphon.structure.Base=3x1x3的基座
 ig.siphon.structure.SiphonCasing=Planetary Siphon Casing
 ig.siphon.structure.FrameTungstensteel=钨钢框架
 ig.siphon.structure.ReboltedRhodiumPalladiumCasing=强化铆接镀铑钯外壳
+ig.siphon.structure.ReboltedStainlessSteelCasing=Rebolted Stainless Steel Casing
 ig.elevator.structure.ProjectModule=项目模块
 ig.elevator.structure.Motor=太空电梯加速轨道
 ig.elevator.structure.FrameNeutronium=中子素框架
