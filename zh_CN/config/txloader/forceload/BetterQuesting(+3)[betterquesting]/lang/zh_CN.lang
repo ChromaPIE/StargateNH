@@ -66,6 +66,8 @@ betterquesting.btn.bookmark_quest=添加书签
 betterquesting.btn.unbookmark_quest=取消书签
 betterquesting.btn.share_quest=分享到聊天窗口
 betterquesting.btn.copy_quest=复制任务ID
+betterquesting.btn.view_dependencies=View Dependencies
+betterquesting.btn.view_dependants=View Dependants
 betterquesting.btn.force_monochrome=Show Quest Colors
 
 betterquesting.home.exit=退出

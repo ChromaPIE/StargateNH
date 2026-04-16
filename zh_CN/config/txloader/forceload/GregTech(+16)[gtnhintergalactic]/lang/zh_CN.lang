@@ -355,7 +355,6 @@ ig.siphon.structure.Base=3x1x3的基座
 ig.siphon.structure.SiphonCasing=Planetary Siphon Casing
 ig.siphon.structure.FrameTungstensteel=钨钢框架
 ig.siphon.structure.ReboltedRhodiumPalladiumCasing=强化铆接镀铑钯外壳
-ig.siphon.structure.ReboltedStainlessSteelCasing=Rebolted Stainless Steel Casing
 ig.elevator.structure.ProjectModule=项目模块
 ig.elevator.structure.Motor=太空电梯加速轨道
 ig.elevator.structure.FrameNeutronium=中子素框架

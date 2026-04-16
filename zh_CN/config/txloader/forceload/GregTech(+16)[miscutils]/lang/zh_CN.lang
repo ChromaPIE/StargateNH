@@ -119,6 +119,8 @@ gtpp.nei.tgs.1=树苗不消耗
 gtpp.nei.tgs.2=如果提供%s
 gtpp.nei.tgs.3=则输出树苗
 gtpp.nei.tgs.sapling=如果提供%s则输出树苗
+gtpp.nei.chemical_plant.not_consumed=Does not always get consumed in the process
+gtpp.nei.chemical_plant.higher_tier_casing=Higher tier pipe casings allow this item to last longer
 
 gtpp.nei.tgs.tooltip.sapling=放入控制器插槽
 gtpp.nei.tgs.tooltip.saw=放入输入总线以收获原木
@@ -4131,7 +4133,7 @@ miscutils.blockcasings.0.name=Centrifuge Casing
 miscutils.blockcasings.1.name=Structural Coke Oven Casing
 miscutils.blockcasings.2.name=Heat Resistant Coke Oven Casing
 miscutils.blockcasings.3.name=Heat Proof Coke Oven Casing
-miscutils.blockcasings.4.name=Material Press Machine Casing
+miscutils.blockcasings.4.name=Metalworking Machine Casing
 miscutils.blockcasings.5.name=Electrolyzer Casing
 miscutils.blockcasings.6.name=Wire Factory Casing
 miscutils.blockcasings.7.name=Maceration Stack Casing
