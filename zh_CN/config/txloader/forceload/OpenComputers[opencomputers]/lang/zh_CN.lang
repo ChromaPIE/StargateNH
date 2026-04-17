@@ -143,6 +143,7 @@ item.oc.UpgradeContainerUpgrade0.name=T1升级组件插槽
 item.oc.UpgradeContainerUpgrade1.name=T2升级组件插槽
 item.oc.UpgradeContainerUpgrade2.name=T3升级组件插槽
 item.oc.UpgradeCrafting.name=合成升级
+item.oc.UpgradeArcaneCrafting.name=Arcane Crafting Upgrade
 item.oc.UpgradeDatabase0.name=T1数据库升级
 item.oc.UpgradeDatabase1.name=T2数据库升级
 item.oc.UpgradeDatabase2.name=T3数据库升级
