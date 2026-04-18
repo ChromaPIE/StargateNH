@@ -77,7 +77,6 @@ tile.fluid_auto_filler.name=ME流体自动装填器
 tile.certus_quartz_tank.name=刻定石英水槽 - %s
 tile.certus_quartz_tank_empty.name=刻定石英水槽
 
-ae2fc.waila.speed=速度
 ae2fc.waila.enable=启用
 ae2fc.waila.disable=禁用
 
@@ -120,14 +119,11 @@ ae2fc.tooltip.ultra_terminal.tips=Tooltips:
 ae2fc.tooltip.ultra_terminal.tips.desc=1.你可以将它放入饰品栏并使用快捷键打开.\n2.接口模式下，按住§3Shift§7切换接口重命名按钮.\n3.在合成计划界面中.\n按住§3Shift§7点击取消按钮，可以自动将缺少的物品添加到NEI书签.
 ae2fc.tooltip.ultra_terminal.restock.on=Restock activated
 ae2fc.tooltip.ultra_terminal.restock.off=Restock deactivated
-ae2fc.tooltip.infinity_fluid=§a无限§r
 ae2fc.tooltip.fluid_storage.void=Where nothing is everything, and everything is nothing
 
 ae2fc.tooltip.quantum_bridge_card.desc=允许无线终端连接到量子桥，实现无限距离的使用。
 ae2fc.tooltip.energy_card.desc=为无线终端提供无限的能源。
 
-ae2fc.tooltip.cell_contents=包含流体:
-ae2fc.tooltip.cell_empty=元件是空的
 ae2fc.tooltip.cell_portable=右键来打开其界面.它的工作原理与背包一样,但你在使用前要给它充电.
 ae2fc.tooltip.fluid_terminal=啊哈，所以我们不再需要 更多存储单元2(Extra Cells 2)了吧？
 ae2fc.tooltip.level_terminal=嗯..
@@ -157,14 +153,17 @@ ae2fc.tooltip.prio.hint=启用
 ae2fc.tooltip.submit=提交
 ae2fc.tooltip.enable=已启用
 ae2fc.tooltip.disable=已禁用
-ae2fc.tooltip.edit=编辑
+ae2fc.tooltip.rename=Rename
 ae2fc.tooltip.view=查看
 ae2fc.tooltip.fill_pattern=自动填充空白样板
 ae2fc.tooltip.not_fill_pattern=自动填充空白样板
 ae2fc.tooltip.fill_pattern.hint=启用
 ae2fc.tooltip.not_fill_pattern.hint=禁用
-ae2fc.tooltip.open_configuration=打开设置
+ae2fc.tooltip.open_gui=Open GUI
 ae2fc.tooltip.block_highlight=高亮方块
+ae2fc.tooltip.level_terminal.hint_rename=§6SHIFT§8 - §7Rename
+ae2fc.tooltip.level_terminal.hint_open_gui=§6CTRL§8 - §7Open GUI
+ae2fc.tooltip.level_terminal.hint_other_dimension=§eCannot perform any action: target is in another dimension
 
 ae2fc.tooltip.magnet_card.off=Magnet Card
 ae2fc.tooltip.magnet_card.off.hint=Off
@@ -179,8 +178,6 @@ ae2fc.tooltip.restock.on.hint=Enable
 ae2fc.tooltip.restock.off=Toggle Restock
 ae2fc.tooltip.restock.off.hint=Disable
 
-ae2fc.gui.part_fluid_pattern_terminal=ME流体样板终端
-ae2fc.gui.part_fluid_pattern_terminal_ex=ME增广流体样板终端
 ae2fc.gui.part_level_terminal=储量维持终端
 ae2fc.gui.fluid_pattern_encoder=流体样板编码台
 ae2fc.gui.fluid_packet_decoder=ME流体封包解码器
@@ -196,11 +193,6 @@ ae2fc.gui.fluid_interface.4=西
 ae2fc.gui.fluid_interface.5=东
 ae2fc.gui.oc_pattern_editor=OC样板编辑器
 ae2fc.gui.button.set=设置
-ae2fc.gui.part_fluid_level_emitter=ME流体标准发信器
-ae2fc.gui.part_fluid_import=ME流体输入总线
-ae2fc.gui.part_fluid_export=ME流体输出总线
-ae2fc.gui.part_fluid_terminal=ME流体终端
-ae2fc.gui.part_fluid_storage_bus=ME流体存储总线
 ae2fc.gui.fluid_auto_filler=ME流体自动装填器
 
 ae2fc.gui.magnet=Magnet Filter
