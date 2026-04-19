@@ -4981,8 +4981,8 @@ betterquesting.quest.-9Qf3tBHQbKZrhhefIRApg.desc=A great source of gold.%n%nAuro
 
 # Quest: Mutation Titration
 betterquesting.quest.0P-0LIDsRa-0r0SDSfZTUg.name=Mutation Titration
-betterquesting.quest.0P-0LIDsRa-0r0SDSfZTUg.desc=Before going any further you really should craft a lot,[note] and I mean a lot[/note], of crop sticks. Hope you like chopping trees and crafting saws! §o§oYou should've seen the old recipe...%n%n§o§rEach of the adjacent quest groupings represent a different category of crops found within the mod. I would recommend you look first at the quests focusing on [warn]Improving Your Crops[/warn] and [warn]Controlled Breeding[/warn].
-%n%nWhile not every crop will produce a useful harvest, they very well may deterministically breed into a useful crop.%n%nCertain crops need more than just two parents to breed. For those crops, simply surround a single double cropstick with all 3-4 crops needed and continue as normal.%n%n[note]Be free farmhand~![/note]
+betterquesting.quest.0P-0LIDsRa-0r0SDSfZTUg.desc=Before going any further you really should craft a lot,[note] and I mean a lot[/note], of crop sticks. Hope you like chopping trees and crafting saws! §o§oYou should've seen the old recipe...%n%n§o§rEach of the adjacent quest groupings represent a different category of crops found within the mod. If you haven't yet, I would highly recommend you review the in depth guide quests focusing on [warn]Crop Stats[/warn] and [warn]Crop Nutrients[/warn].
+%n%nWhile not every crop will produce a useful harvest, they very well may deterministically breed into a useful crop or open up a useful pool. So don't throw away new species just because they don't seem immediately useful.%n%nCertain crops need more than just two parents to breed. For those crops, simply surround a single double cropstick with all 3-4 crops needed and continue as normal.%n%n[note]Be free farmhand~![/note]
 
 # Quest: Vanilla Agriculture
 betterquesting.quest.0pG3BaWpTQWJLWKudvCdcw.name=Vanilla Agriculture
@@ -5000,11 +5000,11 @@ betterquesting.quest.1rhK6oRBQ-qc6YJxPn4CuQ.desc=Maybe this will stop you from t
 betterquesting.quest.20MjFyzJQhWPEPkK0EZDeA.name=Passive Production
 betterquesting.quest.20MjFyzJQhWPEPkK0EZDeA.desc=One of the main reasons for getting into CropsNH is the passive production of resources. 
 %n
-%nThe many crops attached to this quest will generally provide you the direct resource you are looking for. This can be perfect for getting that extra bit of aluminium you need to push through MV, or for generating a passive amount of basic minerals long before any other techniques become available.%n%nKeep in mind the sub-soil requirements for these crops especially. To passively produce aluminium, you will first need blocks of aluminium or bauxite ore.
+%nThe many crops attached to this quest will generally provide you the direct resource you are looking for. This can be perfect for getting that extra bit of aluminium you need to push through MV, or for generating a passive amount of basic minerals long before any other techniques become available.%n%n§4Keep in mind the sub-soil requirements for these crops especially. §rTo passively produce aluminium, you will first need blocks of aluminium or bauxite ore.
 
 # Quest: Controlled Breeding
 betterquesting.quest.39AFOCfITcSl7WMmATD3Aw.name=Controlled Breeding
-betterquesting.quest.39AFOCfITcSl7WMmATD3Aw.desc=To breed more advanced crops, you will have to start taking advantage of Breeding Pools. Pools represent groups of species which share a genetic background, and can therefore randomly mutate into each other when breeding on crop sticks. %n%nWhen breeding, deterministic mutations will §oalways§r take priority over pools.%n%nWhether by pools or determinism, new crops will only be produced if the environment of the relevant double crop sticks matches the required environment of the new crop.%n%nFor you, this will be a key concept to take advantage of when attempting to breed many of the different species of Liliums found in CropsNH.
+betterquesting.quest.39AFOCfITcSl7WMmATD3Aw.desc=With your Stone Lily in hand, get ready to breed all the other species of §oLilliums§r! You can use deterministic breeding of course, but with pools and some undersoil management it shouldn't take too long at all.%n%nRemember that whether by pools or determinism, new crops will only be produced if the environment of the relevant double crop sticks matches the required environment of the new crop.
 
 # Quest: Oh-Oh-Oh-Olivia
 betterquesting.quest.3GtBaKquRvWXh6S4VqcD3Q.name=Oh-Oh-Oh-Olivia
@@ -5033,7 +5033,7 @@ betterquesting.quest.5vhRsuqOTjeLbozeMGcweA.desc=These modules each simulate a s
 
 # Quest: Tools of the Trade 3 - Feeding(?) Your Crops
 betterquesting.quest.6HEnaqUVQuWHhHc3MAgQnA.name=Tools of the Trade 3 - Feeding(?) Your Crops
-betterquesting.quest.6HEnaqUVQuWHhHc3MAgQnA.desc=That water source block doesn't really do it for your little guys. They will need a bit more attention, so use a watering can to increase their water stat.%n%nCurrently you must directly right click the crop sticks with the watering can to apply the hydration.
+betterquesting.quest.6HEnaqUVQuWHhHc3MAgQnA.desc=That water source block doesn't really do it for your little guys. They will need a bit more attention, so use a watering can to increase their water stat.
 
 # Quest: Other Fruits
 betterquesting.quest.7UxcGl38S4yX3bIg7EdN-Q.name=Other Fruits
@@ -5071,7 +5071,7 @@ betterquesting.quest.A21peFIQTEKAgY7eH4tjLw.desc=Easy rubber wood and sticky res
 # Quest: Speed Up Your Plant Growth
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC0g.name=加快你的植物生长进度
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC0g.desc=为了加快生长过程,你可以使用些肥料.你会注意到,无论如何,骨粉不再起作用了.在化学反应釜中,用水搅拌些木灰、磷灰石或方解石,就能得到你需要的肥料.
-%n2. Using fertilizer prevents stat loss during crop breeding. Meaning the only options for stat changes become (0,+1+,+2, etc).%n%nBefore you get access to a Chemical Reactor, use bonemeal instead for a small bump of fertilizer!
+%n2. Preventing stat loss during crop breeding. This simply prevents stat loss; it doesn't increase the likelihood of a stat increase.%n%n4 Seperate items can be used to apply fertilizer to your crops, each providing a different amount of fertilizer points:%n%n- Crops NH Fertilizer: 100 points%n- Forestry Compost: 50 points%n- Forestry Fertilizer: 25 points%n- Bone Meal: 5 points%n%n[note]While Bone Meal may seem weak, it's ability to still prevent stat loss when breeding is key if you intend to start crops before you can make a Chemical Reactor.[/note]%n%nThe Crop Managers and the Industrial Farm both also accept liquid fertilizers. Right now there is 2 of them:%n%n- Fertilizer: 1 point per L%n- Enriched Fertilizer: 10 points per L
 
 # Quest: Becoming a Florist
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC1Q.name=花的力量
@@ -5083,9 +5083,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAC1Q.desc=在作物架上种植染料？�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAE9g.name=铲子时间到
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAE9g.desc=多功能铲结合了除草铲、锄头和锹的功能.如果你有点分不太清楚,请仅在必要时使用它,因为很容易弄乱,不知道自己是要除草还是收获作物,很容易不小心打坏作物. %n%n手持多功能铲§6右键§r§9没有完全成熟§r的作物,有极低的几率获得种子. 而[warn]左键[/warn]§9没有完全成熟§r的作物不会有任何收获.%n%n当作物§a完全成熟§r后,§6左键§r掉落种子的几率会更高. 而[warn]右键[/warn]§a完全成熟§r的作物,种子的掉落几率反而会比正常左键低.%n%n注意,高阶/高属性作物掉落种子的几率更低,而且是低得多.%n%n[note]公式是:1+tanh((-1)(X+5((-抗性/2)+生长+产量)/21)/12); X为作物等级(0-16).  别问我这个公式算出来的几率是左键还是右键,问Bart去,或者直接看源码.[/note]
 %n
-%n1 resist = 3%%
-%n10 resist = 32%%
-%n21 resist = 100%%
+%n1 Resist = 3%%
+%n10 Resist = 32%%
+%n31 Resist = 100%%%n%n[note]If you're removing a crop with your spade, sneaking will let you remove the crop without having to worry about the spade breaking the crop stick.[/note]
 
 # Quest: Hops, The Source of Beer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFCA.name=啤酒花--啤酒原料
@@ -5220,7 +5220,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAIAA.desc=放弃了在暮色森林里寻�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJZQ.name="盆栽"树
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJZQ.desc=你可以直接将原版树苗放置在作物架上.这样你就能获得"盆栽"树.盆栽树的产物与普通树相同,还能节约树木生长、被砍伐时的CPU计算.%n%n而这些通常是消耗服务器资源的大头,所以如果你想玩得流畅,就用盆栽树为你的热解炉提供木材吧.它们同样可以以极快的速度出产成吨的木材,尤其是属性提高后,你还有什么理由不将其用在你的自动化树场呢.
 
-# Quest: Improving Your Crops
+# Quest: Crop Stats
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAK0g.name=最适作物/最强作物
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAK0g.desc=将粘性甘蔗(stickreed)培育到20/31/10(译者注:其实极限是21/31/0),然后用它来杂交出其他作物,新作物即可继承三围属性.当然这样的粘性甘蔗还可以与需要提高自身三围的其他作物杂交.%n%n在沼泽/雨林生物群系,高度130格左右建立农场,或是用各种改变生物群系的方法也可以达到同样的效果.这样不止可以让作物快速生长获得产物,还可以快速培育作物.%n%n推荐使用多方块农场(林业).如果你的作物长得飞快,可同时再加上作物收割机.或是添加更多齿轮箱.%n%n深色玻璃很适合矿莓类作物.%n%n为了避免杂草成灾,将林业农场搭建成上下错位的棋盘格吧.虽然这样看起来很傻...成长值上限可从23提升到31,还能获得2点空气质量值加成!%n%n肥料花(fertilia)可以产出更多肥料.%n%n如果忽略怪物的其他掉落物的话,用农场代替怪物屠宰场是个不错的主意.虽说精英怪会掉落一些特殊物品.%n%n如果需要的话,可使用实体方块(TE)模式的世界加速器加速作物生长.主要用于加速杂交培育,初始生长,以及专供元始浆果作物(primordial-berry).%n%n随着你的电压等级不断提升,你可以用UU-M配合机器直接制出31/31/0的作物.这是否值得取决于你.%n%n如果想要获得EV以上的材料,你得考虑考虑养蜂了.
 
@@ -5252,13 +5252,17 @@ betterquesting.quest.ExzkZigMSNafnvdI-5apjg.desc=A source of platinum.%n%nPlatin
 betterquesting.quest.FB6XbhKLRk-QQEo2PsjGjA.name=Basic Lilies
 betterquesting.quest.FB6XbhKLRk-QQEo2PsjGjA.desc=These Liliums aren't the most useful, but if you're wanting to build with say Tuff or Andesite this should ease your search for resources somewhat.%n%nRemember that these crops can only be bred when their environmental requirements are met. In this case, use those stones from before as your sub-soil.
 
+# Quest: Taking Pools Seriously
+betterquesting.quest.FWt08gVmSWi7Wa5PX80kDg.name=Taking Pools Seriously
+betterquesting.quest.FWt08gVmSWi7Wa5PX80kDg.desc=With that 31/31/31 seed now in hand you will (ideally) §lnever have to complete %nthe entire statting process again. §r%n%nOnce replicated, you can cross this perfect seed with itself (keep them fertilized!) to access the pools that it has access to! §c§c§4§nThis is the intended path for early game crop discovery. §rWhile it is much more random than deterministic breeding, it will let you collect a wider range of species quicker.%n%nKeep in mind that: when pool breeding occurs, the offspring has a chance to be any crop found within any of the pools shared by 2 or more of the parent crops.§lThe mutation selection occurs prior to the check for enviroment. §rIn practice this means that if you're searching for a specific species in say, the Food pool, it will take much longer to appear than one in the Reed pool because there are fewer alternative species. [warn]No matter the environment.[/warn]%n%nOnce you've gotten your hands on a solid number of species, deterministic breeding becomes a simpler and more effective method for obtaining new species.
+
 # Quest: Golden Berries
 betterquesting.quest.FXUYD5RRT4K7AHMMpnvOIw.name=Golden Berries
 betterquesting.quest.FXUYD5RRT4K7AHMMpnvOIw.desc=It's like a golden goose but... not.
 
 # Quest: Gem Crops
 betterquesting.quest.F_Ef5AtKQbSGmM24_LottQ.name=Gem Crops
-betterquesting.quest.F_Ef5AtKQbSGmM24_LottQ.desc=These crops crystalize and produce their related crystals and dusts straight from the soil.%n%nAll* of these crops will need a sub-soil of their related material whether block or ore.
+betterquesting.quest.F_Ef5AtKQbSGmM24_LottQ.desc=These crops crystalize and produce their related crystals and dusts straight from the soil.%n%n§4Most of these crops will need a sub-soil of their related material whether block or ore.
 
 # Quest: Leafy... Grains?
 betterquesting.quest.FugIhOU6Q12Iq764ZRoMEA.name=Leafy... Grains?
@@ -5274,16 +5278,16 @@ betterquesting.quest.Hgj_XYnbRj2JGb8I-8QnLQ.desc=Each crop has a set of preferre
 %n%nHaving the proper biome tags will provide a significant Nutrient Point boost to your crops (§l+14 Points§r per tag).%n%nYou can only benefit from up to 2 biome tags (§l+28 Points§r).
 %n%nIt is possible to emulate a single preferred biome tag by planting your crops in a high-humidity location. The bonus scales linearly with humidity between 50%% and 80%%. Values below 50%% provide no bonus, while values above 80%% will hit the cap at an equivalent of 1 preferred biome tag (§l+14 Points).%n
 %n§l§rIf any favored biome tag is present in the current biome, the high humidity bonus will be ignored.
-%n%n%nThe Nature's Compass will allow you to view the tags of each biome as subtext within its menu.
+%n%n%n§4§n§n§r§4The Nature's Compass will allow you to view the tags of each biome as subtext within its menu. Sorting biomes by tags is the simplest method.
 
 # Quest: Evil...
 betterquesting.quest.If475S_dQ5y_f8KcSRHeXQ.name=Evil...
-betterquesting.quest.If475S_dQ5y_f8KcSRHeXQ.desc=While it can't produce certus quartz crystals, it will give you plenty of the relevant nether crystal dusts as well as straight nether quartz.%n%n*Only needs netherack soil, no sub-soil neccesary here.
+betterquesting.quest.If475S_dQ5y_f8KcSRHeXQ.desc=While it can't produce certus quartz crystals, it will give you plenty of the relevant nether crystal dusts as well as straight nether quartz.%n%n§2Only needs netherack soil, no sub-soil neccesary here.
 
 # Quest: A Summary of Crossbreeding
 betterquesting.quest.Ik4r-iNLSEK_uq5FXqspQA.name=A Summary of Crossbreeding
 betterquesting.quest.Ik4r-iNLSEK_uq5FXqspQA.desc=When crops breed, the resulting stats are the average of the parents' stats plus a random value between -2 and 4.%n%nEssentially, the variation in stats is a fixed (-2 -> +4). If all parents have fertilizer in them, stat loss is prevented in all cases (0 -> 4). %n%nDeterministic breeding is similar to how bees work, where you must bring the right species together.
- Some situations require more than two parents.%n%n[note]Advanced crops (§5MV§r and above materials) will require the breeding machine.[/note]%n%nMost crops will also have access to breeding pools, where similar crops may be bred with others of the same “type” to produce other similar crops. When first starting out, it can be helpful to use these pools to collect many different types of crops. They are a bit more complicated so we will get into them after you breed the stonelily.%n%nIf you find the process of breeding new crops deterministically too slow, maybe try statting up one species and using it to create a bunch of 31/31/31 seeds for crops in pools it shares. Remember that fertilizer prevents stat loss in all cases, this includes breeding.
+ Some situations require more than two parents.%n%n[note]Advanced crops (§5MV§r and above materials) will require the breeding machine.[/note]%n%nMost crops will also have access to breeding pools. Breeding pools are like a set of tags associated with each crop. When breeding, if none of the parents produce a deterministic mutation, but some share one or more breeding pools, a random mutation may occur. The resulting offspring will always be a species tagged with one of the shared pools.%n%n[note]Once you've obtained your first 31/31/31 seed, it can be helpful to use these random pool mutations to collect many different types of crops.[/note]
 
 # Quest: Thauminite Berries
 betterquesting.quest.J04fEo0DTReAF9BJlQZ9RA.name=Thauminite Berries
@@ -5324,7 +5328,7 @@ betterquesting.quest.Nu5EfJtNQ0qIUW0Lt0E4yA.desc=Enriched fertilizer will allow 
 
 # Quest: Crop Sticks
 betterquesting.quest.O65QUnR0QuGSoQrsUMTB1g.name=Crop Sticks
-betterquesting.quest.O65QUnR0QuGSoQrsUMTB1g.desc=To do anything in CropsNH, you first need crop sticks. These will act as the supports for your plants to grow upon. Once your plants mature, a double crop stick will allow your plants to crossbreed with any crops directly adjacent to the same double crop stick.%n%nAs new species grow on your crop sticks you can harvest them by right-clicking, which won't remove the seed. Left-clicking will break the seed and potentially drop a seed. Spades will help you improve your chances at obtaining seeds when you do this, as will the Resistance trait.%n%n§r§r[note]§l§r§lThe chance to drop a seed from any crop without a spade is measured%nas gain/31. §rSo crops with a maxed resistance stat will always drop a seed when broken.§r[/note]%n%n[warn]Note in NEI the varying types of soil, sub-soil blocks, and environmental requirements for different crops![/warn]%n%n%n%n§oIf you're already an experienced farmhand, collect a single stonelily seed and I'll let you skip my introductory trainings for now.
+betterquesting.quest.O65QUnR0QuGSoQrsUMTB1g.desc=To do anything in CropsNH, you first need crop sticks. These will act as the supports for your plants to grow upon. Empty crop sticks can be doubled by right-clicking another crop stick onto them. These double-crop sticks allow you to breed any adjacent mature crops.%n%nAs new species grow on your crop sticks, you can harvest them by right-clicking, which won't remove the seed. Left-clicking harvests the crop and removes it, potentially dropping a seed depending on the resistance. Spades will help you improve your chances of obtaining seeds when you do this, as will the Resistance trait.%n%n§r§r[note]§l§r§lThe chance to drop a seed from any crop §nwithout a spade§r§l is measured%nas resistance/31. §rSo crops with a maxed resistance stat will always drop a seed when broken.§r[/note]%n%n[warn]Note in NEI the varying types of soil, sub-soil, and environmental requirements for different crops![/warn]%n%n%n%n§oIf you're already an experienced farmhand, collect a single stonelily seed and I'll let you skip subsequent introductory trainings for now.
 
 # Quest: Metallic Crops
 betterquesting.quest.PR2T5CUTQ6-IaOQd132Mzg.name=Metallic Crops
@@ -5493,7 +5497,7 @@ betterquesting.quest.gEC9Qy4fTouqNoHVUPg1dg.desc=These crops will all collect an
 
 # Quest: Tools of the Trade 4 - Reinforced Spade
 betterquesting.quest.gUpUgwhUThKRPgMQOyZ7Zw.name=Tools of the Trade 4 - Reinforced Spade
-betterquesting.quest.gUpUgwhUThKRPgMQOyZ7Zw.desc=The reinforced spade will do everything the basic spade does, but better. It further increases your chances of bonus seeds based on the resistance stat. Every ten points of resistance increases the MINIMUM seed drop by one. That means:%n%n1 resist = 10%% seed drop%n10 resist = 1 guaranteed seed drop%n15 resist = 1 guaranteed seed drop + 50%% chance for a second seed drop!%n31 resist = 3 guaranteed seed drops + 10%% chance for a fourth seed drop!!%n%nTime to scale up farmhand.
+betterquesting.quest.gUpUgwhUThKRPgMQOyZ7Zw.desc=The reinforced spade will do everything the basic spade does, but better. It further increases your chances of bonus seeds based on the resistance stat. Every ten points of resistance increases the MINIMUM seed drop by one. That means:%n%n1 Resist = 10%% seed drop%n10 Resist = 1 guaranteed seed drop%n15 Resist = 1 guaranteed seed drop + 50%% chance for a second seed drop!%n31 Resist = 3 guaranteed seed drops + 10%% chance for a fourth seed drop!!%n%nTime to scale up farmhand.%n%n[note]If you're removing a crop with your spade, sneaking will let you remove the crop without having to worry about the spade breaking the crop stick.[/note]
 
 # Quest: Space Flowers!
 betterquesting.quest.gukFWnMtTme0mcEh1VjuOw.name=Space Flowers!
@@ -5561,6 +5565,10 @@ betterquesting.quest.mWk4moL8SwKogZ2_7dQO3w.desc=Basalt dust, as with Granite du
 betterquesting.quest.mmNIDjClTYyKnhgdVsLiJg.name=Not So Evil Berries
 betterquesting.quest.mmNIDjClTYyKnhgdVsLiJg.desc=Fruits are a key part of a balanced diet too y'know.
 
+# Quest: Last Universal Common Seed
+betterquesting.quest.mpKVpvTlRUaQIX1f6bo87Q.name=Last Universal Common Seed
+betterquesting.quest.mpKVpvTlRUaQIX1f6bo87Q.desc=Before going further into CropsNH, there is but one chore I need you to do. §6To prevent future hardship, collect a fully statted 31/31/31 seed.§r%n%nThis may seem daunting at first, but with enough blood, sweat, and bonemeal (see the fertilizer quest), you can do it. I believe in you!%n%n§4Ensure you pick a species which is related via mutation pools and determinism to other Crops you want.§r If you don't know what to choose, may I suggest the Potato or Cactus crops which will give you access to the Root or Danger pools respectively.%n%nWhile there is a reason behind keeping some seeds low statted (lowering enriched fertilizer costs in machines), the time saved by working with max stat crops compared to low stat crops is just too significant to ignore.%n%n§oThis quest will accept any CropsNH seed with a perfect statline.
+
 # Quest: Multiblock Farming
 betterquesting.quest.nkcwXV0yRH-6xPEEeBWcDA.name=Multiblock Farming
 betterquesting.quest.nkcwXV0yRH-6xPEEeBWcDA.desc=Now this... this is how you show those §6B**keepers§r what's what. %n%nThe Industrial Farm (IF) is a long term, scalable, solution to Crop production. At its most basic, it will grow, harvest, and hydrate your crops, but with several upgrades and tier based size scaling, it is not a simple machine to make use of. The IF has three modes:%n%n§lInput§r - Pulls seeds and sub-soil blocks into the machine from an Input Bus.%n§lFarm§r - Grows the seeds and pushes products into an Output Bus.%n§lOutput§r - Exports the seeds and undersoil blocks from the machine into an Output Bus.%n%nYou can cycle through them in the machine menu by clicking on the mode button.%n%nTo start, you should construct the most basic IF possible. Once you've done that, place your seeds (and any relevant sub-soil blocks) into the Input Bus. %n%n[warn]Seeds that have sub-soil requirements won't be inserted into the farm unless a block of the sub-soil is also available to the machine. The sub-soil block doesn't need to be in the same Input Bus as the seeds for it to work.[/warn]§r§r%n%nOnce you've input your seeds (and sub-soil blocks), you can begin using Farm mode to grow your crops.%n%nWhen you wish to switch out seeds, enter Output mode before re-inserting the new seeds via the Input mode.%n%nThe length of your IF is controlled by the tier of your Seed Bed. An MV farm will require MV Seed Beds and therefore can only have one row of Seed Beds. This also means you can only insert one upgrade block (by replacing the wooden frame on the top layer). Each subsequent tier of Seed Bed increases the length of the machine, the base power consumption, the number of upgrades you can install and the number of seeds that can be inserted into the controller.%n%n[note]The power, water and fertilizer consumption of the industrial farm do not scale with the number of seeds inside the farm, so there is no benefit to running the farm under capacity.[/note]%n%nCrops grown in the Industrial Farm are assumed to grow in the following environment:%n- They have sky access (§l+2 Nutrient Points§r)§r
@@ -5580,9 +5588,9 @@ betterquesting.quest.p8eOuc12RZaZUsz21zuOXw.desc=A source of osmium.%n%nOsmianth
 betterquesting.quest.pShpNuYrTXGwFmlSMKOrqw.name=Thaumium Berries
 betterquesting.quest.pShpNuYrTXGwFmlSMKOrqw.desc=Thaumium oreberries! No trapdoor-ed crucible required.
 
-# Quest: Your First Crossbreed
-betterquesting.quest.pTDi3ejJT0O0oXr7Mq5F_Q.name=Your First Crossbreed
-betterquesting.quest.pTDi3ejJT0O0oXr7Mq5F_Q.desc=With both carrot and potato seeds in hand, you are now ready to breed your first new species of crop. Sugarcane.%n%nPlant your potato and carrot seeds next to a double crop stick placed on one of the fitting soil types shown in NEI.%n%n[warn]Always check NEI for what soil to use when breeding a new crop.[/warn]%n%nWhen breeding, it's important to ensure that the crop stick that will contain the new crop meets all the growth requirements of said new crop. [warn]Crops with special growth requirements will not appear unless all their growth requirements are met.[/warn] This includes things like soil, sub-soil, and light level.
+# Quest: Your First Deterministic Cross
+betterquesting.quest.pTDi3ejJT0O0oXr7Mq5F_Q.name=Your First Deterministic Cross
+betterquesting.quest.pTDi3ejJT0O0oXr7Mq5F_Q.desc=With both carrot and potato seeds in hand, you are now ready to deterministically breed your first new species. Sugarcane.%n%nPlant your potato and carrot seeds next to a double crop stick placed on one of the fitting soil types shown in NEI.%n%n[warn]Always check NEI for what soil to use when breeding a new crop.[/warn]%n%nWhen breeding, it's important to ensure that the crop stick that will contain the new crop meets all the growth requirements of said new crop. [warn]Crops with special growth requirements will not appear unless all their growth requirements are met.[/warn] This includes things like soil, sub-soil, and light level.
 
 # Quest: The Fertilization Unit
 betterquesting.quest.poVTqaEOSh-OPgPjEjIfww.name=The Fertilization Unit
@@ -5610,7 +5618,7 @@ betterquesting.quest.s2pEIvhuRwW0FrzqhWJabw.desc=A great source of §mstargates�
 betterquesting.quest.sIXQIDgpQL6NweTPXL8SUw.name=Stone from the Soil
 betterquesting.quest.sIXQIDgpQL6NweTPXL8SUw.desc=Now for something a bit more complicated, Stone Lilies.%n%nThis species from the clade §oLilium§o §rproduces stone dust from its petals.
 %n
-%nTo determine how you can breed it, just check the NEI page for Stone Lily Seeds. The required prerequisite species can be obtained either by breeding, or directly from the overworld (if you are [warn]boring[/warn]).%n%nIf you're getting overwhelmed, don't worry. We will get into mutation pools shortly, but for now the important thing to note is that[note] deterministic breeding will always take priority over pool based breeding[/note]. So don't sweat the pools just yet.
+%nTo determine how you can breed it, just check the NEI page for Stone Lily Seeds. The required prerequisite species can be obtained either by breeding, or directly from the overworld (if you are [warn]boring[/warn])%n%n[note]Remember that deterministic breeding will always take priority over pool based breeding[/note]. So unless you have access to a small pool including the Stone Lily, it will likely be quicker to follow the direct path.
 
 # Quest: More Flowers
 betterquesting.quest.s_UZrRZySwi79jOnwZw3Xg.name=More Flowers
@@ -14593,7 +14601,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMOQ.desc=你为EV阶段所做的努力�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMQQ.name=赌上蒸馏
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMQQ.desc=IV阶段带来了四种GT++多方块机器,包括蒸馏塔的升级版本,称之为丹格特蒸馏厂. 它与蒸馏塔在结构上完全相同,只是使用的控制器方块不同. 这个控制器方块的合成更加复杂,需要更昂贵的材料,并且也锁定只能用IV以上的化工厂合成,这也使得如果仅为此合成升级化工厂的话,那这个合成配方就显得更贵了.%n%n不过话说回来,丹格特解决了蒸馏塔运行缓慢的问题,而且从本质上来说,蒸馏塔是所有这些可再生资源生产线的支柱. 想要靠可再生能源获得可靠的IV/LuV电力,你还需要多少四联蒸馏塔呢?去吧.
 
-# Quest: Faster Crops
+# Quest: Faster Basic Crops
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMRg.name=§6§l作物加速
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMRg.desc=§W欢迎来到我的TED演讲,今天我们来谈谈§6§l极限工业温室.%n§r这是最先进且§l§n无延迟§r的作物农场,并可以为你提供成吨的作物.%n这台机器在§5EV§r阶段就可以制造,但想要解锁IC2杂交作物模式,还得至少为其提供§dLuV§r能量才行.%n放置控制器方块后对其使用投影仪即可显示整体结构.%n玻璃等级会限制能源等级,而[note]UV[/note]玻璃支持所有能源等级.%n手持螺丝刀Shift+右键以切换作物模式(IC2/普通),很遗憾,你不能在同一台机器内同时种植这两种作物.%n这台机器管理作物有三种模式(使用螺丝刀切换):%n%n§l设置模式(输入):%n§r这个模式下,你可以将作物种植到机器中.%n只需将种子送入机器的输入总线,然后使用软槌启动机器即可.%n另外,你还需要输入IC2杂交作物生长所需要的方块(如果有的话)%n等到输入总线空了,就可以关闭机器并切换模式了.%n请注意,基于不同电压等级,机器内部的作物槽位是有限的.%n普通作物的初始槽位数为1,同时§5EV§r后的每个等级槽位数x2,每个槽位可以种植64株同种作物.%n而在IC2杂交作物模式下,初始槽位数为4,同时§dLuV§r后的每个等级槽位数x4,每个槽位只能种植1株作物.%n%n§l设置模式(输出):%n§r此模式下,你可以移动你的温室,或是升级作物.%n机器在此模式下运行时,将在输出总线中输出其内部的所有已种植作物.%n%n§l普通作物运行:%n§r对于普通作物,单次运行相当直截了当.基础运行时间为5秒,运行结束时所有作物都会长成,并将收获从输出总线中输出. 另外,从§5EV§r之后,运行时间不断缩短§o(基础运行时间除以超过§6HV§r§o的级数为实际运行时间,最小1秒.WOW)§r%n%nIC2杂交作物就是另一种运行方式,没这么简单了. 通常它们是模拟的,只是加速了32倍.基础运行时间同样是5秒.你可以使用三录仪来检查作物生长进度.%n%n如果你想让作物长得更快点,可以使用肥料(至多§l400％,多余会掉落§r!).温室会在运行开始的时候,从输入总线中提取肥料,并在本次运行中使用. 每株普通作物模式下的作物,施肥可以获得+200％,而在IC2杂交作物模式下则为+10％.此项增益均匀地应用于每株作物上. 比如：%n普通作物模式,3个小麦种子,1个茶种子,输入一份肥料,你可以获得+150％小麦掉落,以及+50％茶掉落.%nIC2杂交作物模式,16个西瓜种子袋,输入64份肥料,你会获得+40％掉落.%n%n另外,你的作物都需要水才能生长.每次运行每株作物消耗1000L水.所以,举例来说,如果你种植了576株茶作物,[note]UV[/note]等级的温室,每秒需要576000L水.%n%n§l最后的注意事项:%n§r无法禁用动画.%n可以用反相灯.%n泥土必须为耕过的沃土(RandomThings-mod的).%n如果你遇到任何问题或有任何建议,请到github发issue并§l@kuba6000§r.%n这台多方块机器是我为了种茶写的...%n
 
