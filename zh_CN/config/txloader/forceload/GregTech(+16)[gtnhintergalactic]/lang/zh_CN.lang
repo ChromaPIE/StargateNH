@@ -400,6 +400,7 @@ ig.sp.upgrade.reinforcedstructure=结构强化升级
 ig.sp.upgrade.reinforcedstructure.description=本项升级强化了结构,使其能够承受任何快速移动的小行星撞击,并保护无人机免受意外事故的影响
 
 # Asteroids
+ig.asteroid=Asteroid
 ig.asteroid.coalAsteroid=Coal
 ig.asteroid.saltAsteroid=Salt
 ig.asteroid.ironAsteroid=Iron
