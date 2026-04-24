@@ -253,6 +253,7 @@ gui.appliedenergistics2.NoPermissions=无选定权限
 gui.appliedenergistics2.SecurityCardEditor=身份卡编辑
 gui.appliedenergistics2.Encoded=已编码
 gui.appliedenergistics2.Priority=优先级
+gui.appliedenergistics2.Group=Interfaces in group
 gui.appliedenergistics2.StorageBus=存储总线
 gui.appliedenergistics2.EnergyDrain=被动流失
 gui.appliedenergistics2.Installed=已安装

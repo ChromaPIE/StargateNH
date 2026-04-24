@@ -144,6 +144,7 @@ tc.research_name.thaumicenergistics.TEINFPROV=注魔供应器
 tc.research_text.thaumicenergistics.TEINFPROV=注魔更易.
 thaumicenergistics.research_page.TEINFPROV.1=通过研究源质注魔的过程,你发现了能用于注魔的源质瞬间数字化与数字瞬间源质化的方法.<BR>将注魔供应器邻近神秘装置放置,装置就能直接从网络中抽取源质,就像是要素罐子一样.对注魔祭坛来说这十分实用.
 
+
 # Research Advanced Infusion Provider
 tc.research_name.thaumicenergistics.TEADVINFPROV=高级注魔供应器
 tc.research_text.thaumicenergistics.TEADVINFPROV=最简单的灌注。
