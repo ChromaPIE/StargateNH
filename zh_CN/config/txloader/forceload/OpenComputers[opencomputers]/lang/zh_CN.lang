@@ -41,6 +41,7 @@ tile.oc.screen3.name=T3显示屏
 tile.oc.rack.name=机架
 tile.oc.switch.name=§c交换机§7
 tile.oc.transposer.name=转运器
+tile.oc.transposer.tooltip=Transfers up to %s L/s
 tile.oc.waypoint.name=路径点
 
 # Items
