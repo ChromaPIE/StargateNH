@@ -634,6 +634,14 @@ gui.tooltips.appliedenergistics2.ToggleShowOnlyInvalidInterface=显示无效样�
 gui.tooltips.appliedenergistics2.ToggleShowOnlyInvalidInterfaceOnDesc=显示所有接口
 gui.tooltips.appliedenergistics2.ToggleShowOnlyInvalidInterfaceOffDesc=仅显示有无效样板的接口
 gui.tooltips.appliedenergistics2.HighlightInterface=高亮接口
+gui.tooltips.appliedenergistics2.HighlightInterfaceDesc=§6ALT§8 - §7Toggle interface visibility
+gui.tooltips.appliedenergistics2.RenameInterface=§6SHIFT§8 - §7Rename interface
+gui.tooltips.appliedenergistics2.InterfaceTerminalVisibility=Interface Terminal Visibility
+gui.tooltips.appliedenergistics2.InterfaceTerminalVisibilityVisible=Visible - shown in interface terminal
+gui.tooltips.appliedenergistics2.InterfaceTerminalVisibilityHidden=Hidden - not shown in interface terminal
+gui.tooltips.appliedenergistics2.ToggleShowHiddenInterfaces=Show Hidden Interfaces
+gui.tooltips.appliedenergistics2.ToggleShowHiddenInterfacesOnDesc=Showing hidden interfaces
+gui.tooltips.appliedenergistics2.ToggleShowHiddenInterfacesOffDesc=Not showing hidden interfaces
 
 gui.tooltips.appliedenergistics2.ReshuffleIncludeSubnets=Include Subnets
 gui.tooltips.appliedenergistics2.ReshuffleIncludeSubnetsOn=Enabled - sub-network storage is included in the reshuffle
