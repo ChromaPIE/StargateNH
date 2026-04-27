@@ -7325,7 +7325,7 @@ betterquesting.quest.3SzKMSj0StOAOzVmInDjZQ.name=§5§lBig Beautiful Brewery
 betterquesting.quest.3SzKMSj0StOAOzVmInDjZQ.desc=Start your own local brewery with the BBB! You can use it to make tons of potions, obscure alcoholic drinks, or, more likely, industrial quantities of lubricant.
 
 # Quest: This Kinda Burns...
-betterquesting.quest.4-HZ9i5AQ4qLN7cgSDaL3Q.name=§8§lThis Kinda Burns...
+betterquesting.quest.4-HZ9i5AQ4qLN7cgSDaL3Q.name=§9§lThis Kinda Burns...
 betterquesting.quest.4-HZ9i5AQ4qLN7cgSDaL3Q.desc=The §5§lIndustrial Chemical Bath§r will significantly increase the efficiency of your ore processing. It grants a §2§l5x§r speed boost and §6§l4§r parallels per voltage tier compared to its singleblock counterpart.
 
 # Quest: Fits The Mold
@@ -8543,7 +8543,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALyw.desc=众所周知,汽油是一种常
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALzA.name=最大出油口
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALzA.desc=无论如何,你的石油需求都会越来越大.虚拟流体田可能非常大,但低阶油/气/流体钻井平台只能抽取其中的一部分...但现在,有了几组钨钢之后,你就可以建造4阶油/气/流体钻井平台,并一次抽取整个虚拟流体田中所有区块的流体(任意位置即可覆盖整个8x8区块范围). %n%n如果一台钻机不够快,那就再造几台!它们会从同一个油田中抽取,并一起输出.如果你把它们放在相邻的虚拟流体田上,你就可以一次抽取多个完整的虚拟流体田,并把它们输出到一个中心位置.在本阶段解锁末影储罐之后,运输会变得更加容易.
 
-# Quest: Buffered Dynamo
+# Quest: Higher Capacity Dynamo
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALzQ.name=缓存型发电仓
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALzQ.desc=手上有几组钨钢不知道做啥用?造台新的、更强大的发电设备吧,但你还不能马上运行它.就像之前的大型内燃引擎一样,没有一个足够强大的发电仓是无法运行IV级发电机的.%n%n想要在提高模式和非提高模式都适用,你需要一个IV发电仓[缓冲].相信我,它的输出功率不会让你失望的.
 
