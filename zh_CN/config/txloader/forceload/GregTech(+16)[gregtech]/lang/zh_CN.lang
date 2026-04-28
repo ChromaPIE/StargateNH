@@ -6769,6 +6769,7 @@ GT5U.tooltip.volumetric_flask.set_volume=不含流体时对空气右击以设定
 
 GT5U.tooltip.purify.1=Throw into Cauldron to get clean Dust
 GT5U.tooltip.purify.2=Throw into Cauldron to get clean crushed Ore
+GT5U.tooltip.flour.cauldron=Throw into Cauldron with Water to make Dough
 GT5U.tooltip.nqgen=Can be used as Enriched Naquadah Fuel Substitute
 
 # Scanner info

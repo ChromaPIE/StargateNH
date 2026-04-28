@@ -201,7 +201,11 @@ gadomancy.lore.disguise.none=透明
 gadomancy.eldritch.portalPlacerCreative=创造传送门放置器
 gadomancy.eldritch.noflyCreative=(甚至是在创造模式)
 gadomancy.eldritch.nobreakPortalNothing=该传送门不可破坏。
-gadomancy.eldritch.portalSpawned=你感觉应该在开门时保持一段距离。
+
+gadomancy.eldritch.maze.portalSpawned=You sense portals open across the Labyrinth.
+gadomancy.eldritch.maze.first=You completed the Eldritch Labyrinth in %s.
+gadomancy.eldritch.maze.newBest=New fastest Eldritch Labyrinth completion: %s. Previous best time: %s.
+gadomancy.eldritch.maze.default=You completed the Eldritch Labyrinth in %s. Best time: %s.
 
 tile.BlockStickyJar.name=粘性罐子
 tile.BlockArcaneDropper.name=奥术投掷器
@@ -212,7 +216,6 @@ tile.BlockNode.name=灵气节点
 tile.BlockExtendedNodeJar.name=缸中节点
 tile.BlockNodeManipulator.name=Node Manipulator
 tile.BlockNodeManipulator.5.name=节点操纵仪
-tile.BlockStoneMachine.name=Randomization Focus
 tile.BlockStoneMachine.0.name=随机化核心
 tile.BlockStoneMachine.1.name=荒古基座
 tile.BlockStoneMachine.2.name=奥法弱化力场发射器
