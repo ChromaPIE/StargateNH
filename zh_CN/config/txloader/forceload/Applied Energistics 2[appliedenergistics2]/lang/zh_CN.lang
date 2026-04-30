@@ -571,6 +571,7 @@ gui.tooltips.appliedenergistics2.NonSmartBlocking=常规的阻挡模式行为。
 gui.tooltips.appliedenergistics2.Craft=输出时若有需要则合成物品.
 gui.tooltips.appliedenergistics2.CraftOnly=不使用已存储物品,只使用合成物品.
 gui.tooltips.appliedenergistics2.CraftEither=输出时使用已存储物品或合成物品.
+gui.tooltips.appliedenergistics2.MergeOnlyPlayerRequestedCrafts=Crafts can only be merged with jobs requested by players.
 gui.tooltips.appliedenergistics2.LevelType=检测类型
 gui.tooltips.appliedenergistics2.LevelType_Energy=能源(ae)
 gui.tooltips.appliedenergistics2.LevelType_Item_Fluid=Item / Fluid
