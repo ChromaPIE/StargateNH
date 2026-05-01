@@ -26,6 +26,9 @@ item.wireless_ultra_terminal.INTERFACE.name=Universal Wireless Terminal - Interf
 item.fluid_packet.name=流体封包
 item.quantum_bridge_card.name=量子桥升级卡
 item.energy_card.name=无限能量升级卡
+item.part_fluid_formation_plane.name=Fluid Formation Plane
+item.part_fluid_annihilation_plane.name=Fluid Annihilation Plane
+
 item.creative_fluid_storage.name=创造ME流体存储元件
 item.fluid_storage.1.name=%s1k%s-ME流体存储元件
 item.fluid_storage.4.name=%s4k%s-ME流体存储元件
