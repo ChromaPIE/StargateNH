@@ -399,10 +399,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHSA.desc=在本整合包中，你需要�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHSg.name=§2§l本阶段的寻锌途径若干
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHSg.desc=在老字号服务器或某些穷酸的地图种子里，寻找锌矿砂砾可能相当困难。%n%n除了满世界找，这里还有一些别的途径：%n- 在“硬币，硬币，硬币”任务线中直接购买；%n- 在主世界中寻找小型锌矿石；%n- 用液态经验桶合成。%n%n一旦进入LV等级，你便可以在辉锑矿、闪锌矿、黝铜矿和锡矿石的处理中获得锌。%n更多途径请查阅NEI。
 
-# Quest: How to Open Your Wooden Doors?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJHQ.name=§2§l如何打开木门?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJHQ.desc=装上木门,可以使你的住房更加安全. 让我们来制作一些木制压力板和按钮来打开这扇门.%n%n当收到红石信号,门会打开;红石信号终止,门会关闭. 如果你在门的两边都放上压力板,那么当你站上压力板时,门就会打开(但怪物站上的时候也会开...). 双开门会一起打开.%n%n你需要使用橡木才能完成此任务.如果附近没有,在"硬币"任务栏中购买一些树苗吧.%n%n当实体在压力板上时,压力板会发出红石信号.不同的压力板有不同模式,对物品/怪物/玩家/任意实体生效.%n%n按钮会发出持续时间约2秒的信号.%n%n拉杆会发出持续的红石信号,直到手动关闭.
-
 # Quest: Got a Flat Tire?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJYg.name=§2§l汽修工上线
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJYg.desc=作为格雷系列工具的一员，撬棍的专业技能是移除机器、管道或线缆上的覆盖板。覆盖板有很多种，有的仅用于装饰，电动泵和运送模块这类具有实际的功能性，还有的，比如木板，则可加装于用以输送蒸汽的管道上，防止烫伤事故的发生。%n%n不好意思，格雷的撬棍只有蓝色款。%n%n红色的撬棍，也有，但那是Railcraft的，没多大用处，无视即可。
@@ -791,6 +787,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAIXA.desc=只有最疯狂的傻瓜才会�
 # Quest: How to open your Iron Doors?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJHA.name=§3§l如何打开铁门?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJHA.desc=铁门可以使你的厂房或住房更安全.%n%n现在,让我们制作几个石制压力板和按钮来打开沉重的铁门.
+
+# Quest: How to Open Your Wooden Doors?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJHQ.name=§2§l如何打开木门?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJHQ.desc=装上木门,可以使你的住房更加安全. 让我们来制作一些木制压力板和按钮来打开这扇门.%n%n当收到红石信号,门会打开;红石信号终止,门会关闭. 如果你在门的两边都放上压力板,那么当你站上压力板时,门就会打开(但怪物站上的时候也会开...). 双开门会一起打开.%n%n你需要使用橡木才能完成此任务.如果附近没有,在"硬币"任务栏中购买一些树苗吧.%n%n当实体在压力板上时,压力板会发出红石信号.不同的压力板有不同模式,对物品/怪物/玩家/任意实体生效.%n%n按钮会发出持续时间约2秒的信号.%n%n拉杆会发出持续的红石信号,直到手动关闭.
 
 # Quest: Tame an Ocelot to Get a Friend
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJKg.name=§3§l“它想跟我回家~”
@@ -4501,7 +4501,7 @@ betterquesting.quest.vLnSpTweSki3BaorBNQhxQ.desc=见识到调律源金的生产�
 
 # Quest: Do I Really Need These?
 betterquesting.quest.yySGZ5RzSZm38ElTS1kL7g.name=§9§l§nDo I Really Need These?
-betterquesting.quest.yySGZ5RzSZm38ElTS1kL7g.desc=Yes actually.%n%nOnce upon a time these were optional and commonly skipped by players, but now you will need at least 20 of them to use in the Nanochip Assembly Matrix if you want to craft any Pico Circuits. %n%nAs for upgrading your CoAL to use them... that's your choice.
+betterquesting.quest.yySGZ5RzSZm38ElTS1kL7g.desc=Yes, actually, but not until UMV.%n%nOnce upon a time these were optional and commonly skipped by players, but now you will need at least 20 of them for use in the Nanochip Assembly Matrix if you want to craft any Quantum Circuits later on.%n%nAs for upgrading your CoAL to use them in UIV... that's your choice.
 
 
 ## Quest Line: Tier 12 - UMV

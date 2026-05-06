@@ -1377,6 +1377,7 @@ gt.recipe.fog_plasma=太阳热能等离子制造机
 gt.recipe.fog_exotic=太阳聚变异化器
 gt.recipe.fog_molten=阳炎熔核
 gt.recipe.upgrade_costs=Godforge Upgrades
+gt.recipe.condensate=Bose-Einstein Condensate
 
 
 # NEI
