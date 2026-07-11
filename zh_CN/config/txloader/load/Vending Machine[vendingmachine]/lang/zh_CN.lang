@@ -1,0 +1,66 @@
+item.vendingmachine.placeholder.name=占位物品
+
+tooltip.vendingmachine=Who's even restocking this...
+
+structure.vendingmachine.hint.1=Hint 1 Dot: Tin Item Pipe Casing, ME Vending Uplink Hatch
+
+vendingmachine.gui.requirementHeader=前置任务：
+vendingmachine.gui.requirement.unknown=前置任务未知
+vendingmachine.gui.requirement.betterquesting=任务
+vendingmachine.gui.requirement.betterquesting.missing=Missing Quest
+vendingmachine.gui.item_eject=弹出物品
+vendingmachine.gui.coin_eject=弹出所有硬币
+vendingmachine.gui.single_coin_type_eject_hint=Shift点击以提取
+vendingmachine.gui.search=搜索
+vendingmachine.gui.required_inputs=需要：
+vendingmachine.gui.nc_inputs=Requires (Not Consumed):
+vendingmachine.gui.alternative_oredict=Accepts Oredict:
+vendingmachine.gui.shared_trades_tooltip=Shares cooldown with %s other trade(s)
+vendingmachine.gui.trade_hint=Shift点击以付款
+vendingmachine.gui.favourite_hint=Ctrl-Click to Toggle as Favourite
+vendingmachine.gui.display_mode=显示样式：
+vendingmachine.gui.display_mode_tile=方块
+vendingmachine.gui.display_mode_list=列表
+vendingmachine.gui.display_sort=排序方式：
+vendingmachine.gui.display_sort_smart=智能
+vendingmachine.gui.display_sort_alphabet=字母
+vendingmachine.gui.cooldown_display.second=秒
+vendingmachine.gui.cooldown_display.minute=分
+vendingmachine.gui.cooldown_display.hour=时
+vendingmachine.gui.cooldown_display.day=天
+vendingmachine.gui.in=IN
+vendingmachine.gui.out=OUT
+
+vendingmachine.gui.error.incomplete_structure=Incomplete Structure.
+vendingmachine.gui.error.player_using=售货机正被占用。
+vendingmachine.chat.trade_restock=售货机已补充%s存货
+
+gt.blockmachines.multimachine.vendingmachine.name=售货机
+gt.blockmachines.multimachine.vendingmachine.name.gui=Vending Machine
+hatch.vendinguplink.me.name=ME Vending Uplink Hatch
+
+vendingmachine.category.favourites=Favourites
+vendingmachine.category.unknown=未知分类
+vendingmachine.category.all=所有物品
+vendingmachine.category.components=部件
+vendingmachine.category.raw=天然材料
+vendingmachine.category.farming=农林
+vendingmachine.category.chemistry=化工
+vendingmachine.category.magic=魔法
+vendingmachine.category.bees=养蜂
+vendingmachine.category.misc=杂项
+
+vendingmachine.coin.adventure=Explorer Coin
+vendingmachine.coin.bees=Beekeeper Coin
+vendingmachine.coin.blood=Vampire Coin
+vendingmachine.coin.chemist=Chemist Coin
+vendingmachine.coin.cook=Cook Coin
+vendingmachine.coin.darkWizard=Dark Wizard Coin
+vendingmachine.coin.farmer=Farmer Coin
+vendingmachine.coin.flower=Gardener Coin
+vendingmachine.coin.forestry=Forest Ranger Coin
+vendingmachine.coin.smith=Blacksmith Coin
+vendingmachine.coin.space=Space Invaders Coin
+vendingmachine.coin.survivor=Survivor Coin
+vendingmachine.coin.technician=Technician Coin
+vendingmachine.coin.witch=Spirit Coin
