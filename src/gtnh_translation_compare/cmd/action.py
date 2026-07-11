@@ -2,9 +2,9 @@ import asyncio
 import datetime
 import glob
 import os
-import re
 import shutil
 from pathlib import Path
+import re
 import subprocess
 from typing import Sequence, TypeAlias, Callable, Optional
 
@@ -62,6 +62,8 @@ class Action:
         for f in all_files:
             if filter_(f.name):
                 translation_file = await self.converter.to_translation_file(f)
+                if translation_file is None:
+                    continue
                 if after_to_translation_file_callback is not None:
                     after_to_translation_file_callback(translation_file)
                 translation_files.append(translation_file)
@@ -131,9 +133,22 @@ class Action:
     ) -> list[str]:
         # Existing projects use resource folder on PT
         def path_converter_(path: str) -> Path:
-            rel = Path(os.path.relpath(path, Path('resources')))
-            domain = re.sub(r'^.*\[([^\]]+)\]$', r'\1', rel.parts[0])
-            return Path('config/txloader/load') / domain / Path(*rel.parts[1:])
+            cfg = Path("config")
+            provided = Path(path)
+            if provided.parts and provided.parts[0] == "config":
+                logger.info(f"Skip normalizing path for {path}")
+            elif provided.parts and provided.parts[0] == "resources":
+                parts = list(provided.parts)
+                for i in range(len(parts)):
+                    result = re.sub(r"\(\+\d+\)", "", parts[i])
+                    if result != parts[i]:
+                        logger.warning(f"Trimmed path for {parts[i]}")
+                        parts[i] = result
+                provided = cfg / "txloader" / "load" / Path(*parts[1:])
+            else:
+                logger.warning(f"Unknown path {path}")
+                provided = cfg / "txloader" / "load" / provided
+            return provided
 
         return await self.__paratranz_to_translation(
                 is_mod_lang_file,
