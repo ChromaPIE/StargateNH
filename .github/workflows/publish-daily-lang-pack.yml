@@ -24,7 +24,7 @@ jobs:
     name: ${{ inputs.target_lang }} Daily Build
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         with:
           ref: master
       - name: Get current date
@@ -56,7 +56,7 @@ jobs:
         run: python .github/scripts/pack.py ${{ inputs.target_lang }}
 
       - name: Upload artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: GTNH-${{ inputs.target_lang }}-Translation-Daily-${{ steps.date.outputs.today }}
           path: ./temp/
@@ -79,7 +79,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Release as Latest
-        uses: softprops/action-gh-release@v2
+        uses: softprops/action-gh-release@718ea10b132b3b2eba29c1007bb80653f286566b # v3.0.1
         with:
           tag_name: ${{ inputs.target_lang }}-latest
           name: ${{ inputs.target_lang }} Latest
