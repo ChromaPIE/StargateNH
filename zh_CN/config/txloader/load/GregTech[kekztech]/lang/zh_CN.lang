@@ -1,140 +1,140 @@
-item.kekztech_error_item.name=KekzTech错误硬币
+item.kekztech_error_item.name=KekzTech Error Coin
 
 # -------- Multiblock Tooltip Builder Keywords
 # -------- Context can be found in the class util.MultiBlockTooltipBuilder
-mbdesc.beginStructureBlock.Dimensions=外型尺寸
-mbdesc.beginStructureBlock.Structure=结构
-mbdesc.addController.Controller=控制器
-mbdesc.addCasing.atleast=(至少)
-mbdesc.addEnergyHatch.EnergyHatch=能源仓
-mbdesc.addDynamoHatch.DynamoHatch=发电仓
-mbdesc.addMaintenanceHatch.MaintenanceHatch=维修仓
-mbdesc.addIOHatches.IOHatches=输入/出仓(TFFT)
-mbdesc.addInputBus.InputBus=输入总线
-mbdesc.addInputHatch.InputHatch=输入仓
-mbdesc.addOutputBus.OutputBus=输出总线
-mbdesc.addOutputHatch.OutputHatch=输出仓
-mbdesc.signAndFinalize.Hold=按住
-mbdesc.signAndFinalize.todisplay=以显示结构指导
-mbdesc.signAndFinalize.createdby=添加者:
+mbdesc.beginStructureBlock.Dimensions=Dimensions
+mbdesc.beginStructureBlock.Structure=Structure
+mbdesc.addController.Controller=Controller
+mbdesc.addCasing.atleast=(at least)
+mbdesc.addEnergyHatch.EnergyHatch=Energy Hatch
+mbdesc.addDynamoHatch.DynamoHatch=Dynamo Hatch
+mbdesc.addMaintenanceHatch.MaintenanceHatch=Maintenance Hatch
+mbdesc.addIOHatches.IOHatches=I/O Hatches
+mbdesc.addInputBus.InputBus=Input Bus/ses
+mbdesc.addInputHatch.InputHatch=Input Hatch/es
+mbdesc.addOutputBus.OutputBus=Output Bus/ses
+mbdesc.addOutputHatch.OutputHatch=Output Hatch/es
+mbdesc.signAndFinalize.Hold=Hold
+mbdesc.signAndFinalize.todisplay=to display structure guidelines
+mbdesc.signAndFinalize.createdby=Created by
 
 # -------- Fuel Cell: Structure Blocks
-tile.kekztech_gdcceramicelectrolyteunit_block.name=掺钆氧化铈陶瓷电解质单元
-tile.kekztech_yszceramicelectrolyteunit_block.name=钇稳定氧化锆陶瓷电解质单元
+tile.kekztech_gdcceramicelectrolyteunit_block.name=GDC Ceramic Electrolyte Unit
+tile.kekztech_yszceramicelectrolyteunit_block.name=YSZ Ceramic Electrolyte Unit
 
 # -------- Fuel Cell: Crafting Components
 item.kekztech_crafting_item.name=Crafting Component
-item.kekztech_crafting_item.9.name=钇锆陶瓷粉
-item.kekztech_crafting_item.10.name=钆铈陶瓷粉
-item.kekztech_crafting_item.11.name=氧化钇粉
-item.kekztech_crafting_item.12.name=氧化锆粉
-item.kekztech_crafting_item.13.name=氧化铈粉
-item.kekztech_crafting_item.14.name=钇锆陶瓷板
-item.kekztech_crafting_item.15.name=钆铈陶瓷板
+item.kekztech_crafting_item.9.name=YSZ Ceramic Dust
+item.kekztech_crafting_item.10.name=GDC Ceramic Dust
+item.kekztech_crafting_item.11.name=Yttria Dust
+item.kekztech_crafting_item.12.name=Zirconia Dust
+item.kekztech_crafting_item.13.name=Ceria Dust
+item.kekztech_crafting_item.14.name=YSZ Ceramic Plate
+item.kekztech_crafting_item.15.name=GDC Ceramic Plate
 
 # -------- TFFT: Structure Blocks
-tile.kekztech_tfftstoragefield_block.name=T.F.F.T Casing/Storage Field Block
-tile.kekztech_tfftstoragefield_block.0.name=T.F.F.T机械方块
-tile.kekztech_tfftstoragefield_block.1.name=T.F.F.T存储域方块（一级）
-tile.kekztech_tfftstoragefield_block.2.name=T.F.F.T存储域方块（二级）
-tile.kekztech_tfftstoragefield_block.3.name=T.F.F.T存储域方块（三级）
-tile.kekztech_tfftstoragefield_block.4.name=T.F.F.T存储域方块（四级）
-tile.kekztech_tfftstoragefield_block.5.name=T.F.F.T存储域方块（五级）
-tile.kekztech_tfftstoragefield_block.6.name=T.F.F.T存储域方块（六级）
-tile.kekztech_tfftstoragefield_block.7.name=T.F.F.T存储域方块（七级）
-tile.kekztech_tfftstoragefield_block.8.name=T.F.F.T存储域方块（八级）
-tile.kekztech_tfftstoragefield_block.9.name=T.F.F.T存储域方块（九级）
-tile.kekztech_tfftstoragefield_block.10.name=T.F.F.T存储域方块（十级）
-tile.kekztech_tfftstoragefield_block.desc=这不是流体储罐
-tile.kekztech_tfftstoragefield_block.hint.1=提示方块：1号：T.F.F.T机械方块
-tile.kekztech_tfftstoragefield_block.hint.2=提示方块：2号：T.F.F.T机械方块、维修仓、T.F.F.T多重输入/输出仓、输入/输出仓、能源仓
-tile.kekztech_tfftstoragefield_block.hint.3=提示方块：3号：EV+玻璃、T.F.F.T多重输入/输出仓、输入/输出仓
-tile.kekztech_tfftstoragefield_block.hint.4=提示方块：4号：EV+玻璃
+tile.kekztech_tfftstoragefield_block.name=TFFT Casing/Storage Field Block
+tile.kekztech_tfftstoragefield_block.0.name=TFFT Casing
+tile.kekztech_tfftstoragefield_block.1.name=TFFT Storage Field Block (Tier I)
+tile.kekztech_tfftstoragefield_block.2.name=TFFT Storage Field Block (Tier II)
+tile.kekztech_tfftstoragefield_block.3.name=TFFT Storage Field Block (Tier III)
+tile.kekztech_tfftstoragefield_block.4.name=TFFT Storage Field Block (Tier IV)
+tile.kekztech_tfftstoragefield_block.5.name=TFFT Storage Field Block (Tier V)
+tile.kekztech_tfftstoragefield_block.6.name=TFFT Storage Field Block (Tier VI)
+tile.kekztech_tfftstoragefield_block.7.name=TFFT Storage Field Block (Tier VII)
+tile.kekztech_tfftstoragefield_block.8.name=TFFT Storage Field Block (Tier VIII)
+tile.kekztech_tfftstoragefield_block.9.name=TFFT Storage Field Block (Tier IX)
+tile.kekztech_tfftstoragefield_block.10.name=TFFT Storage Field Block (Tier X)
+tile.kekztech_tfftstoragefield_block.desc=This is not a fluid tank
+tile.kekztech_tfftstoragefield_block.hint.1=Hint 1 Dot: TFFT Casing, Energy Hatch, Maintenance Hatch
+tile.kekztech_tfftstoragefield_block.hint.2=Hint 2 Dot: TFFT Casing, Energy Hatch, Maintenance Hatch, TFFT Multi I/O Hatch, Input/Output Hatch
+tile.kekztech_tfftstoragefield_block.hint.3=Hint 3 Dot: EV+ Tiered Glass, TFFT Multi I/O Hatch, Input/Output Hatch
+tile.kekztech_tfftstoragefield_block.hint.4=Hint 4 Dot: EV+ Tiered Glass
 
 # -------- Lapotronic Super Capacitor: Structure Blocks
 tile.kekztech_lapotronicenergyunit_block.name=Lapotronic Casing/Capacitor
-tile.kekztech_lapotronicenergyunit_block.0.name=兰波顿超级电容外壳
-tile.kekztech_lapotronicenergyunit_block.1.name=兰波顿电容（IV）
-tile.kekztech_lapotronicenergyunit_block.2.name=兰波顿电容（LuV）
-tile.kekztech_lapotronicenergyunit_block.3.name=兰波顿电容（ZPM）
-tile.kekztech_lapotronicenergyunit_block.4.name=兰波顿电容（UV）
-tile.kekztech_lapotronicenergyunit_block.5.name=终极电容（UHV）
-tile.kekztech_lapotronicenergyunit_block.6.name=空电容(-)
-tile.kekztech_lapotronicenergyunit_block.7.name=兰波顿电容（EV）
-tile.kekztech_lapotronicenergyunit_block.8.name=极·终极电容（UEV）
-tile.kekztech_lapotronicenergyunit_block.9.name=狂·终极电容（UIV）
-tile.kekztech_lapotronicenergyunit_block.10.name=太·终极电容（UMV）
-tile.kekztech_lapotronicenergyunit_block.desc=兰波顿超级电容库的组成部分
+tile.kekztech_lapotronicenergyunit_block.0.name=Lapotronic Super Capacitor Casing
+tile.kekztech_lapotronicenergyunit_block.1.name=Lapotronic Capacitor (IV)
+tile.kekztech_lapotronicenergyunit_block.2.name=Lapotronic Capacitor (LuV)
+tile.kekztech_lapotronicenergyunit_block.3.name=Lapotronic Capacitor (ZPM)
+tile.kekztech_lapotronicenergyunit_block.4.name=Lapotronic Capacitor (UV)
+tile.kekztech_lapotronicenergyunit_block.5.name=Ultimate Capacitor (UHV)
+tile.kekztech_lapotronicenergyunit_block.6.name=Empty Capacitor (-)
+tile.kekztech_lapotronicenergyunit_block.7.name=Lapotron Capacitor (EV)
+tile.kekztech_lapotronicenergyunit_block.8.name=Extremely Ultimate Capacitor (UEV)
+tile.kekztech_lapotronicenergyunit_block.9.name=Insanely Ultimate Capacitor (UIV)
+tile.kekztech_lapotronicenergyunit_block.10.name=Mega Ultimate Capacitor (UMV)
+tile.kekztech_lapotronicenergyunit_block.desc=Part of the Lapotronic Super Capacitor
 
 # -------- Thaumium Reinforced Jar: Block
 tile.kekztech_thaumiumreinforcedjar_block.name=Thaumium Reinforced Jar
-tile.kekztech_thaumiumreinforcedjar_block.0.name=神秘源质罐子
-tile.kekztech_thaumiumreinforcedjar_block.3.name=神秘虚空罐子
+tile.kekztech_thaumiumreinforcedjar_block.0.name=Thaumium Reinforced Jar
+tile.kekztech_thaumiumreinforcedjar_block.3.name=Thaumium Reinforced Void Jar
 
 # -------- Thaumium Reinforced Jar: Research
 # This is the name of the research
-tc.research_name.THAUMIUMREINFORCEDJAR=神秘源质罐子
+tc.research_name.THAUMIUMREINFORCEDJAR=Thaumium Reinforced Jars
 # This is the subtext for the research note
-tc.research_text.THAUMIUMREINFORCEDJAR=略好的罐子
+tc.research_text.THAUMIUMREINFORCEDJAR=Slightly better jars
 # Lore text for the research pages
-kekztech.research_page.THAUMIUMREINFORCEDJAR.0=你曾听你的神秘使伙伴谈起过数字化源质存储的便利.<BR><BR>为高阶注魔存储足够的源质,你现在面临着同样的问题.但是这些源质罐子实在太讨人喜欢了,你甚至没有考虑用某种更紧凑的技术结构来代替它们.<BR><BR>随着研究的深入,你发现有了一层厚厚的神秘锭内衬,罐子的容量可以变为原来的4倍.要是有充足的时间,你相信还有更好的解决方式.
-kekztech.research_page.THAUMIUMREINFORCEDJAR.1=在如此狭小的空间中压缩这么多的源质会导致一些不稳定性.所以捡起这种加强罐子可能是个糟糕的主意...<BR><BR>可以想象,如果有某种材料比钻石,或比目前为止你所见过的任何其他神秘金属更坚硬的话,以此制成的源质罐子一定能给你惊喜.
+kekztech.research_page.THAUMIUMREINFORCEDJAR.0=You have heard your fellow Thaumaturges talk about the benefits of digitized Essentia Storage.<BR><BR>Storing enough Essentia for your advanced infusions has indeed been an issue for you too. However those jars are simply too pleasing to look at to even consider the idea of replacing them with some compact technological construct.<BR><BR>Thanks to this new discovery, you have managed to quadruple the capacity of your jars by improving them with a thick Thaumium lining. This should buy you some more time to come up with a better solution.
+kekztech.research_page.THAUMIUMREINFORCEDJAR.1=Compressing this much Essentia in such a tiny space causes some volatility. Picking up reinforced jars is probably a bad idea...<BR><BR>You imagine that you could get even more out of your jars if only you had some kind of material harder than even diamond or any of the other magical metal you have seen so far.
 
 # -------- Ichor Jar: Block
 tile.kekztech_ichorjar_block.name=Ichor Jar
-tile.kekztech_ichorjar_block.0.name=灵液源质罐子
-tile.kekztech_ichorjar_block.3.name=灵液虚空罐子
+tile.kekztech_ichorjar_block.0.name=Ichor Jar
+tile.kekztech_ichorjar_block.3.name=Ichor Void Jar
 
 # -------- Ichor Jar: Research
-tc.research_name.ICHORJAR=灵液源质罐子
-tc.research_text.ICHORJAR=非常好的罐子
-kekztech.research_page.ICHORJAR.0=就是这个!<BR><BR>将一点灵液注魔进源质罐子,你获得了可以与数字化源质存储相匹敌,同时还不用牺牲美感的新罐子.<BR><BR>灵液源质罐子可以装下惊人的4096点源质,非常适合你刚解锁的这些基于灵液的注魔.<BR><BR>你绝对不会想打扰这些罐子的.不过幸运的是,灵液源质罐子拥有足够的柔韧性,不太容易被误操作摧毁.
+tc.research_name.ICHORJAR=Ichor Jars
+tc.research_text.ICHORJAR=Much better jars
+kekztech.research_page.ICHORJAR.0=This is it!<BR><BR>By infusing a jar with just a single piece of Ichor you have created something to rival digitized Essentia storage without sacrificing any of the beauty of Warded Jars.<BR><BR>Ichor Jars can hold an astounding 4096 Essentia and fit nicely into your recently acquired set of Ichor based achievements.<BR><BR>You definitely don't want to disturb these jars. Luckily Ichor is resilient enough to make accidentally destroying one unlikely.
 
 # -------- Cosmetic Blocks
-tile.kekztech_largehextile_block.name=大六角瓷砖
+tile.kekztech_largehextile_block.name=Large Hex Tile
 
 # -------- Achievements
-achievement.tile.kekztech_lapotronicenergyunit_block.2.desc=捡起此物品以在NEI内解锁该合成表
-achievement.tile.kekztech_lapotronicenergyunit_block.2=兰波顿电容（LuV）
-achievement.tile.kekztech_lapotronicenergyunit_block.3.desc=捡起此物品以在NEI内解锁该合成表
-achievement.tile.kekztech_lapotronicenergyunit_block.3=兰波顿电容（ZPM）
-achievement.tile.kekztech_lapotronicenergyunit_block.4.desc=捡起此物品以在NEI内解锁该合成表
-achievement.tile.kekztech_lapotronicenergyunit_block.4=兰波顿电容（UV）
-achievement.tile.kekztech_lapotronicenergyunit_block.5.desc=捡起此物品以在NEI内解锁该合成表
-achievement.tile.kekztech_lapotronicenergyunit_block.5=终极电容（UHV）
-achievement.tile.kekztech_lapotronicenergyunit_block.8.desc=超神！
-achievement.tile.kekztech_lapotronicenergyunit_block.8=极·终极电容（UEV）
-achievement.tile.kekztech_lapotronicenergyunit_block.9.desc=狂乱·如影随形！
-achievement.tile.kekztech_lapotronicenergyunit_block.9=狂·终极电容（UIV）
-achievement.tile.kekztech_lapotronicenergyunit_block.10.desc=我们能走多远？
-achievement.tile.kekztech_lapotronicenergyunit_block.10=太·终极电容（UMV）
+achievement.tile.kekztech_lapotronicenergyunit_block.2.desc=Pick up this item to see the recipe in NEI
+achievement.tile.kekztech_lapotronicenergyunit_block.2=Lapotronic Capacitor (LuV)
+achievement.tile.kekztech_lapotronicenergyunit_block.3.desc=Pick up this item to see the recipe in NEI
+achievement.tile.kekztech_lapotronicenergyunit_block.3=Lapotronic Capacitor (ZPM)
+achievement.tile.kekztech_lapotronicenergyunit_block.4.desc=Pick up this item to see the recipe in NEI
+achievement.tile.kekztech_lapotronicenergyunit_block.4=Lapotronic Capacitor (UV)
+achievement.tile.kekztech_lapotronicenergyunit_block.5.desc=Pick up this item to see the recipe in NEI
+achievement.tile.kekztech_lapotronicenergyunit_block.5=Ultimate Capacitor (UHV)
+achievement.tile.kekztech_lapotronicenergyunit_block.8.desc=Beyond the ranks of Gods
+achievement.tile.kekztech_lapotronicenergyunit_block.8=Extremely Ultimate Capacitor (UEV)
+achievement.tile.kekztech_lapotronicenergyunit_block.9.desc=Insanity ensues!
+achievement.tile.kekztech_lapotronicenergyunit_block.9=Insanely Ultimate Capacitor (UIV)
+achievement.tile.kekztech_lapotronicenergyunit_block.10.desc=How far can we go?
+achievement.tile.kekztech_lapotronicenergyunit_block.10=Mega Ultimate Capacitor (UMV)
 
 
 # -------- GUI
-gui.kekztech_lapotronicenergyunit.wireless=无线模式
-gui.kekztech_lapotronicenergyunit.wireless_rebalance=重新平衡无线电网(只能使用一次)
+gui.kekztech_lapotronicenergyunit.wireless=Wireless mode
+gui.kekztech_lapotronicenergyunit.wireless_rebalance=Rebalance Wireless (One-Time Use)
 gui.kekztech_lapotronicenergyunit.warning.header=Warning!
-gui.kekztech_lapotronicenergyunit.warning.text=在启用无线模式前，请确保已仔细阅读本机器的提示信息，知悉其可能导致的基地瘫痪风险。本警告将不会再次显示。
+gui.kekztech_lapotronicenergyunit.warning.text=Make sure to carefully read and understand the tooltip before activating wireless mode. It can potentially brick your base. This warning won't appear again.
 
 kekztech.gui.lapotronic_super_capacitor.text.stored=Stored: %s EU
 kekztech.gui.lapotronic_super_capacitor.text.avg_eu_in=Avg EU IN: %s last 5s
 kekztech.gui.lapotronic_super_capacitor.text.avg_eu_out=Avg EU OUT: %s last 5s
 
 # -------- Tooltips
-tooltip.kekztech.crafting_component=KekzTech物品的合成组件
+tooltip.kekztech.crafting_component=Crafting component for KekzTech things
 tooltip.kekztech.lapotronic_energy_unit.capacity=Capacity: §c%s§7 EU
 tooltip.kekztech.lapotronic_energy_unit.wire_less_transfer=Supports up to §c%s§7 EU/t of wireless energy withdrawal per %s§7 capacitor.
 tooltip.kekztech.lapotronic_energy_unit.capacity.none=Capacity: None
 tooltip.kekztech.tfft.capacity=Capacity: §9%s§7 L
 tooltip.kekztech.tfft.capacity.per_fluid=Per Fluid Capacity: §9%s§7 L
 tooltip.kekztech.tfft.power_draw=Power Draw: §9%d§7 EU/t
-tooltip.kekztech.wrong=提醒：KekzTech的合成配方仅在GTNH中测试有效！\n用于错误识别的占位物品\n若本物品出现于GTNH，可前往以下链接进行汇报：\nhttps://github.com/kekzdealer/KekzTech
+tooltip.kekztech.wrong=REMINDER: KekzTech recipes are only tested to work in GTNH!\nPlaceholder item in case something goes wrong\nIf this item shows up in GTNH, you may report it to:\nhttps://github.com/kekzdealer/KekzTech
 
 # -------- InfoData
-kekztech.infodata.operational_data=Operational Data:
+kekztech.infodata.operational_data=§eOperational Data:§r
 kekztech.infodata.multi.maintenance_status=Maintenance Status: %s
-kekztech.infodata.multi.maintenance_status.ok=Working perfectly
-kekztech.infodata.multi.maintenance_status.bad=Has Problems
+kekztech.infodata.multi.maintenance_status.ok=Maintenance Status: §aWorking perfectly§r
+kekztech.infodata.multi.maintenance_status.bad=Maintenance Status: §cHas Problems§r
 kekztech.infodata.lapotronic_super_capacitor.eu_stored=EU Stored: %s EU
 kekztech.infodata.lapotronic_super_capacitor.used_capacity=Used Capacity: %s
 kekztech.infodata.lapotronic_super_capacitor.total_capacity=Total Capacity: %s EU
@@ -148,14 +148,14 @@ kekztech.infodata.lapotronic_super_capacitor.avg_eu_out.min5=Avg EU OUT: %s (las
 kekztech.infodata.lapotronic_super_capacitor.avg_eu_in.hour1=Avg EU IN: %s (last 1 hour)
 kekztech.infodata.lapotronic_super_capacitor.avg_eu_out.hour1=Avg EU OUT: %s (last 1 hour)
 kekztech.infodata.lapotronic_super_capacitor.time_to.full=Time to Full: %s
-kekztech.infodata.lapotronic_super_capacitor.time_to.sth=Time to Something: Infinity years
+kekztech.infodata.lapotronic_super_capacitor.time_to.sth=Time to Something: Infinite years
 kekztech.infodata.lapotronic_super_capacitor.time_to.empty=Time to Empty: %s
 kekztech.infodata.lapotronic_super_capacitor.wireless_mode=Wireless mode: %s
-kekztech.infodata.lapotronic_super_capacitor.wireless_mode.enabled=enabled
-kekztech.infodata.lapotronic_super_capacitor.wireless_mode.disabled=disabled
+kekztech.infodata.lapotronic_super_capacitor.wireless_mode.enabled=Wireless mode: §aenabled§r
+kekztech.infodata.lapotronic_super_capacitor.wireless_mode.disabled=Wireless mode: §cdisabled§r
 kekztech.infodata.lapotronic_super_capacitor.capacitors=%s Capacitors detected: %d
 kekztech.infodata.lapotronic_super_capacitor.wireless_eu=Total wireless EU: %s EU
-kekztech.infodata.tank.tfft.stored_fluids=Stored Fluids:
+kekztech.infodata.tank.tfft.stored_fluids=§eStored Fluids:§r
 kekztech.infodata.tank.tfft.stored_fluids.null=NULL
 kekztech.infodata.tank.tfft.used=Used Capacity: %sL
 kekztech.infodata.tank.tfft.total=Total Capacity: %sL
@@ -163,4 +163,50 @@ kekztech.infodata.tank.tfft.per_fluid_capacity=Per-Fluid Capacity: %sL
 kekztech.infodata.tank.tfft.running_cost=Running Cost: %dEU/t
 kekztech.infodata.tank.tfft.auto_voiding=Auto-voiding: %b
 
-kekztech.structure.glass_incompatible=§cGlass configuration incompatible
+kekztech.structure.glass_incompatible=§cGlass configuration is incompatible
+
+kekztech.multiblock.LapotronicSuperCapacitor.machine_type=Energy Storage, LSC
+kekztech.multiblock.LapotronicSuperCapacitor.desc1=Loses energy equal to 1% of the total capacity every 24 hours
+kekztech.multiblock.LapotronicSuperCapacitor.desc2=Capped at §c%s§7 EU/t passive loss per %s§7 capacitor
+kekztech.multiblock.LapotronicSuperCapacitor.desc3=The passive loss increases §4100§7-fold for every capacitor tier above
+kekztech.multiblock.LapotronicSuperCapacitor.desc4=Passive loss is multiplied by the number of maintenance issues present
+kekztech.multiblock.LapotronicSuperCapacitor.desc5=Glass shell has to be Tier - 3 of the highest capacitor tier
+kekztech.multiblock.LapotronicSuperCapacitor.desc6=Add more or better capacitors to increase capacity
+kekztech.multiblock.LapotronicSuperCapacitor.desc7=Wireless mode can be enabled by right clicking with a screwdriver
+kekztech.multiblock.LapotronicSuperCapacitor.desc8=This mode can only be enabled if you have a %s§7+ capacitor in the multiblock.
+kekztech.multiblock.LapotronicSuperCapacitor.desc9=When enabled every §9%s§7 ticks the LSC will attempt to re-balance against your
+kekztech.multiblock.LapotronicSuperCapacitor.desc10=wireless EU network.
+kekztech.multiblock.LapotronicSuperCapacitor.desc11=If there is less than §c%s§7(%s§7) EU in the LSC
+kekztech.multiblock.LapotronicSuperCapacitor.desc12=it will withdraw from the network and add to the LSC.
+kekztech.multiblock.LapotronicSuperCapacitor.desc13=If there is more it will add §4§l§nall excess§r§7 EU to the network, removing it from the LSC
+kekztech.multiblock.LapotronicSuperCapacitor.desc14=This can potentially brick your base, be careful
+kekztech.multiblock.LapotronicSuperCapacitor.desc15=The threshold increases §4100§7-fold for every capacitor tier above
+kekztech.multiblock.LapotronicSuperCapacitor.casing=Lapotronic Supercapacitor Casing
+kekztech.multiblock.LapotronicSuperCapacitor.capacitor=Lapotronic Capacitor
+kekztech.multiblock.LapotronicSuperCapacitor.structure_footer=Only 50% or more of the capacitors need to be non-empty
+
+kekztech.multiblock.SOFuelCell.machine_type=Gas Turbine, SOFC
+kekztech.multiblock.SOFuelCell.desc1=Oxidizes gas fuels to generate electricity without polluting the environment
+kekztech.multiblock.SOFuelCell.desc2=Consumes up to %sEU worth of fuel with up to 100% efficiency each second
+kekztech.multiblock.SOFuelCell.desc5=Additionally, requires %sL/s Oxygen gas
+kekztech.multiblock.SOFuelCellMK1.desc3=Steam production requires the SOFC to heat up completely first
+kekztech.multiblock.SOFuelCellMK1.desc4=Outputs %sEU/t and %sL/s Steam
+kekztech.multiblock.SOFuelCellMK1.electrolyte_unit=YSZ Ceramic Electrolyte Unit
+kekztech.multiblock.SOFuelCellMK2.desc3=Nitrobenzene and other gas fuels above 1,000 EU/L are more efficient
+kekztech.multiblock.SOFuelCellMK2.desc3b=Superheated (SH) Steam production requires the SOFC to heat up completely first
+kekztech.multiblock.SOFuelCellMK2.desc4=Outputs %sEU/t and %sL/s SH Steam
+kekztech.multiblock.SOFuelCellMK2.electrolyte_unit=GDC Ceramic Electrolyte Unit
+
+kekztech.multiblock.TankTFFT.machine_type=Fluid Tank
+kekztech.multiblock.TankTFFT.desc1=High-Tech fluid tank that can hold up to 25 different fluids!
+kekztech.multiblock.TankTFFT.desc2=Partitions 1/25th of the total capacity for each fluid, no overflowing allowed
+kekztech.multiblock.TankTFFT.desc3=Right clicking the controller with a screwdriver enables excess voiding
+kekztech.multiblock.TankTFFT.desc4=Fluid storage amount and running cost depends on the Storage Field Block used
+kekztech.multiblock.TankTFFT.desc5=Note on hatch locking:
+kekztech.multiblock.TankTFFT.desc6=Use an Integrated Circuit in the GUI slot to limit which fluid is output
+kekztech.multiblock.TankTFFT.desc7=The index of a stored fluid can be obtained through the Tricorder
+kekztech.multiblock.TankTFFT.multi_io_hatch=TFFT Multi I/O Hatch
+kekztech.multiblock.TankTFFT.any_casing_glass_adjacent=Any casing/glass adjacent to a field storage block
+kekztech.multiblock.TankTFFT.field_storage_block=Field Storage Block
+kekztech.multiblock.TankTFFT.footer1=No air gaps allowed, but the field storage blocks can be different tiers
+kekztech.multiblock.TankTFFT.footer2=Place a fluid storage bus on the Multi I/O Hatch to interact with all fluids directly
