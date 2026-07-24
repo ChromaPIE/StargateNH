@@ -14,6 +14,11 @@ jobs:
     with:
       target_lang: zh_CN
     secrets: inherit
+  sync-gt-lang-to-paratranz-all-langs:
+    needs: save-daily-modpack-history
+    if: needs.save-daily-modpack-history.outputs.gt_lang_changed == 'true'
+    uses: ./.github/workflows/sync-gt-lang-to-paratranz-all-langs.yml
+    secrets: inherit
   publish-daily-lang-pack:
     needs: conditional-sync-to-paratranz
     uses: ./.github/workflows/publish-daily-lang-pack.yml
