@@ -12,6 +12,7 @@ neicustomdiagram.util.emptyfluidcontainer=空容器：
 
 neicustomdiagram.util.gregtech5.materialinfohot=危险！炽热！
 neicustomdiagram.util.gregtech5.materialinfocold=危险！冰冷！
+neicustomdiagram.util.gregtech5.materialinforadioactive=DANGER! RADIOACTIVE!
 neicustomdiagram.util.gregtech5.reverseunifieditems=矿词同义词：
 neicustomdiagram.util.gregtech5.outputchance=几率：%.2f%%
 neicustomdiagram.util.gregtech5.recipecleanroom=合成表要求超净间
@@ -192,6 +193,8 @@ neicustomdiagram.generators.gregtech5.materialparts.casingslot=机械方块
 neicustomdiagram.generators.gregtech5.materialparts.barsslot=条
 neicustomdiagram.generators.gregtech5.materialparts.frameboxslot=框架
 neicustomdiagram.generators.gregtech5.materialparts.sheetmetalslot=Sheetmetal
+neicustomdiagram.generators.gregtech5.materialparts.boltedcasingslot=Bolted Casing
+neicustomdiagram.generators.gregtech5.materialparts.reboltedcasingslot=Rebolted Casing
 neicustomdiagram.generators.gregtech5.materialparts.wiresslot=导线
 neicustomdiagram.generators.gregtech5.materialparts.finewireslot=细导线
 neicustomdiagram.generators.gregtech5.materialparts.cablesslot=线缆
