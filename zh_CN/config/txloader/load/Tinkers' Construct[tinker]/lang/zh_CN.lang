@@ -1195,3 +1195,6 @@ tconstruct.mobsinfocompat.tinkers_construct_beheading_1=如果你用的是屠刀
 
 #Baubles compat (Baubles Expanded already has the relevant localizations)
 baubletype.any=Equippable in a §aRing§7 slot
+slot.heartcanister_red=Red Heart Canister
+slot.heartcanister_yellow=Yellow Heart Canister
+slot.heartcanister_green=Green Heart Canister
