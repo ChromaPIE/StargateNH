@@ -160,6 +160,7 @@ chat.appliedenergistics2.WirelessInOtherDim=%d §e"%d§e"§r located in dimensio
 chat.appliedenergistics2.WirelessHighlighterPrefix=Wireless
 chat.appliedenergistics2.WirelessHighlighterNetworkPrefix=Wireless of network §e"%s§e"§r -
 chat.appliedenergistics2.WirelessHighlighterColorPrefix=Wireless color §e"%s§e"§r of network §e"%s§e"§r -
+chat.appliedenergistics2.ControllerAnimation=Controller animation: %s
 
 # Creative Tabs
 itemGroup.appliedenergistics2=应用能源2
@@ -401,6 +402,7 @@ gui.appliedenergistics2.FromStoragePercent=使用
 gui.appliedenergistics2.ToCraft=合成数量
 gui.appliedenergistics2.ToCraftRequests=轮数
 gui.appliedenergistics2.CraftingPlan=合成计划
+gui.appliedenergistics2.HideAllAvailable=Hide all available
 gui.appliedenergistics2.Automatic=自动分配
 gui.appliedenergistics2.Start=开始
 gui.appliedenergistics2.StartWithFollow=Start and follow
@@ -1286,6 +1288,7 @@ key.pick_block.desc=AE2 Pick Block
 key.toggle_focus.desc=切换是否选中搜索框
 key.search_connected_inventories.desc=Search network inventories for an item
 key.locate_item_flow.desc=Highlight recent item flow for hovered item
+key.cycle_controller_animation.desc=Cycle controller animation
 key.container_interaction.desc=Container Item Interaction
 key.wireless_extra_action.desc=Wireless Extra Action
 key.wireless_mode_switch.desc=Wireless Mode Switch
