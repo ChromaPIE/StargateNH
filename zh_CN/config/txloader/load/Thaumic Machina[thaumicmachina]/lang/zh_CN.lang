@@ -113,7 +113,7 @@ tm.research.page.WAND_AUGMENTATION_CHARGE_BUFFER.1=对法杖存储实际方式�
 tm.research.name.WAND_AUGMENTATION_VIS_CHANNEL=法杖强化: Vis隧道
 tm.research.desc.WAND_AUGMENTATION_VIS_CHANNEL=条条大路通罗马
 tm.research.page.WAND_AUGMENTATION_VIS_CHANNEL.1=你以前对法杖的使用让你知道,你能通过升级多种物品来降低使用法杖时的vis消耗,这些升级包括但不限于,杖端和你自己的魔法袍.你花了很多时间思考这个问题,终于了发现另一种降低消耗的方法.通过在法杖核心添加特殊的vis通道,你可以有效降低法杖使用时的消耗.<BR>将这个强化应用到法杖将使法杖减少10%的vis消耗.但同时增加5%的不稳定性.
-tm.research.page.WAND_AUGMENTATION_VIS_CHANNEL.3=Applying this Augment to a wand will multiply vis costs by 90% of their normal price after reductions from the wand's construction. Any reductions from robes or baubles will be applied after this effect.
+tm.research.page.WAND_AUGMENTATION_VIS_CHANNEL.3=Applying this Augment to a wand will lower its caps' vis costs by an additional 10% of their existing costs. For example, thaumium caps normally have a 90% vis cost modifier; with this Augment, that becomes 81%. Any additional reductions from robes, baubles, or being a scepter will be applied after this effect as normal.
 
 # Wand Augmentation: Tainted Core
 tm.research.name.WAND_AUGMENTATION_TAINTED_CORE=法杖强化: 腐化核心
