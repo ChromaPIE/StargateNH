@@ -219,7 +219,6 @@ languagefile {
     S:Material.butane=丁烷
     S:Material.butene=丁烯
     S:Material.butyraldehyde=丁醛
-    S:Material.cacliumcarbide=碳化钙
     S:Material.cadmium=镉
     S:Material.caesium=铯
     S:Material.caesiumhydroxide_gt5u=Caesium Hydroxide
@@ -227,6 +226,7 @@ languagefile {
     S:Material.calcium=钙
     S:Material.calcium.ChemicalFormula=Ca
     S:Material.calciumacetatesolution=乙酸钙溶液
+    S:Material.calciumcarbide=Calcium Carbide
     S:Material.calciumcarbonate=Calcium Carbonate
     S:Material.calciumchloride=氯化钙
     S:Material.calciumdisilicide=二硅化钙
