@@ -158,6 +158,12 @@ item.bloodFrame.name=血腥亚瑟王
 item.frenziedFrame.name=狂热框架
 item.bloodSoakedFrame.name=浸血框架
 
+#Tooltips
+tooltip.bloodBaseFrame.desc=You feel gross touching this
+tooltip.bloodFrame.desc=Stirs Bees into a frenzy
+tooltip.FrenziedFlame.desc=MAY CHAOS TAKE THE WORLD
+tooltip.bloodFrame.cost=Uses %d LP per bee tick
+
 #Capsules
 item.capsule.magic.name=魔力胶囊
 capsule.magic=%s魔力胶囊
