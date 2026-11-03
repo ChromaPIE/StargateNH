@@ -160,6 +160,7 @@ botaniamisc.keyCategory=植物魔法
 #LOKI
 botaniamisc.toggleLoki=洛基之戒模式选择
 botaniamisc.ringOfLokiClear=清除洛基之戒选区
+botaniamisc.ringOfLokiMirror=Toggle Ring of Loki Mirroring
 botaniamisc.lokiOn=激活
 botaniamisc.lokiOff=禁用
 botaniamisc.breaking=粉碎
@@ -183,6 +184,8 @@ botania.nei.runicAltar=符文祭坛
 botania.nei.pureDaisy=白雏菊
 botania.nei.lexica=植物魔法辞典
 nei.options.keys.gui.botania_corporea_request=多媒体请求
+
+botania.nei.anySeed=Any Seed
 
 botania.nei.lexicaSeparator=详细信息:
 botania.nei.lexicaNoInfo=(并没有这种东西,抱歉!)

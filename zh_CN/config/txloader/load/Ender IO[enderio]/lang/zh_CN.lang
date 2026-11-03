@@ -373,9 +373,14 @@ enderio.endergeticCapacitor.name=充能银电容
 enderio.endergisedCapacitor.name=生动合金电容
 enderio.totemicCapacitor.name=不死图腾电容
 
+enderio.machine.tooltip.upgrade.name=Machine Upgrade
 enderio.machine.tooltip.upgrade=机器升级
-enderio.machine.tooltip.upgrade.tooltip.detailed.line1=增加机器能量存储与
-enderio.machine.tooltip.upgrade.tooltip.detailed.line2=速度/范围
+enderio.machine.tooltip.upgrade.tier=Tier: 
+enderio.machine.tooltip.upgrade.energyreceived=Max Energy Received: 
+enderio.machine.tooltip.upgrade.energyextracted=Max Energy Extracted: 
+enderio.machine.tooltip.upgrade.farmstation=Farming station radius: 
+enderio.machine.tooltip.upgrade.energystorage=Max energy storage: 
+enderio.machine.tooltip.upgrade.range=Range upgrade:
 enderio.machine.tooltip.clearConfig=这会清除所有存储的数据!
 
 #Machines
@@ -518,6 +523,9 @@ tile.blockEnchanter.name=附魔器
 tile.blockEnchanter.tooltip.detailed.line1=使用XP让物品与
 tile.blockEnchanter.tooltip.detailed.line2=来制作附魔书
 tile.blockEnchanter.tooltip.detailed.line3=附魔书创造!
+tile.blockEnchanter.tooltip.detailed.line4=Outputs a comparator signal
+tile.blockEnchanter.tooltip.detailed.line5=based on the second slot's
+tile.blockEnchanter.tooltip.detailed.line6=count, and works with hoppers
 
 tile.blockCombustionGenerator.name=燃烧发电机
 tile.blockCombustionGenerator.tooltip.detailed.line1=燃烧流体燃料产生能量
@@ -643,7 +651,7 @@ tile.blockWeatherObelisk.tooltip.detailed.line4=Liquid Sunshine: Sun
 tile.blockWeatherObelisk.tooltip.detailed.line5=Cloud Seed: Rain
 tile.blockWeatherObelisk.tooltip.detailed.line6=Concentrated Cloud Seed: Thunder
 
-tile.blockBuffer.name=Buffer
+tile.blockBuffer.name=Buffer 
 tile.blockBuffer.item.name=物品缓存器
 tile.blockBuffer.power.name=能量缓存器
 tile.blockBuffer.omni.name=多功能缓存器
@@ -773,6 +781,12 @@ enderio.itemCoordSelector.chat.newCoords=新坐标: %s
 enderio.itemCoordSelector.chat.setCoords=设置坐标: %s
 enderio.itemCoordSelector.chat.newDimension=新维度: %s%s
 enderio.itemCoordSelector.chat.setDimension=设置维度: %s%s
+enderio.itemConduitProbe.chat.copied=Copied conduit settings
+enderio.itemOCConduit.chat.channel=Channel %s at %s
+enderio.itemOCConduit.chat.connectedTo=Connected to: %s
+enderio.itemOCConduit.chat.nodeAt=%s at %s
+enderio.itemOCConduit.chat.noConnections=No connections at %s
+enderio.itemOCConduit.chat.noNetwork=No network at %s
 
 #Painter
 tile.blockPainter.name=喷涂机
@@ -1138,8 +1152,8 @@ enderio.gui.mjReader.insertedInto=将输送至：
 enderio.gui.mjReader.noItems=未接收到物品.
 enderio.gui.mjReader.noItem=无法接收
 enderio.gui.mjReader.receiveItems=可接收物品自：
-enderio.gui.mjReader.receiveItem1=可以接收
-enderio.gui.mjReader.receiveItem2=从:
+enderio.gui.mjReader.receiveItem=Can receive %s from:
+enderio.gui.mjReader.distance=Distance [%s]
 
 #CapactorBank
 enderio.gui.capBank.inputRs=输入红石控制
@@ -1192,9 +1206,15 @@ enderio.stirlingGenerator.upgradeslot=升级栏
 enderio.stirlingGenerator.upgrades={0} 提供 {2}{1,number,#.#}x{3} 的效率
 enderio.stirlingGenerator.remaining=残余 {0,number,percent}|{1,choice,0#|0<{1}m }{2,number}s|{3,number,#,###} RF
 
+# Block buffers
+enderio.gui.blockBuffer.name=Buffer 
+enderio.gui.blockBuffer.item.name=Item Buffer
+enderio.gui.blockBuffer.power.name=Power Buffer
+enderio.gui.blockBuffer.omni.name=Omni Buffer
+enderio.gui.blockBuffer.creative.name=Creative Buffer
+
 #Travel Blocks
-enderio.gui.travelAccessable.privateBlock1=只有
-enderio.gui.travelAccessable.privateBlock2=才能改变该方块的设置.
+enderio.gui.travelAccessable.privateBlock=Only %s may change this blocks settings.
 enderio.gui.travelAccessable.public=公共
 enderio.gui.travelAccessable.private=私有
 enderio.gui.travelAccessable.protected=被保护
