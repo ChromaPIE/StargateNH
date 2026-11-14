@@ -636,6 +636,7 @@ commands.tree_base.available_subcommands=可用子命令：%s
 # Backup
 cmd.backup_start=服务器备份开始！
 cmd.backup_stop=服务器备份停止！
+cmd.backup_stop_pending=Backup work was cancelled, but some of it is still finishing in the background.
 cmd.backup_end_1=服务器备份在 %s 完成！
 cmd.backup_end_2=服务器备份在 %s 完成！(%s)
 cmd.backup_fail=世界保存失败！(%s)
