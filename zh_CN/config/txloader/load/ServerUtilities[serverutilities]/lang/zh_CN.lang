@@ -158,6 +158,7 @@ serverutilities.world.spawn_dimension=出生点维度
 serverutilities.world.unload_erroring_chunks=卸载错误区块
 serverutilities.world.rtp_min_distance=最小 /rtp 距离
 serverutilities.world.rtp_max_distance=最大 /rtp 距离
+serverutilities.world.restore_home_warp_rotation=Restore Home/Warp saved player rotation
 serverutilities.world.forced_spawn_dimension_time=强制出生点维度时间
 serverutilities.world.forced_spawn_dimension_weather=强制出生点维度天气
 serverutilities.world.disable_player_suffocation_damage=禁用玩家受到窒息伤害
