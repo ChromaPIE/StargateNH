@@ -114,6 +114,7 @@ option.ic2.consump=显示消耗
 option.ic2.tradeomat=显示贸易机需求
 option.thaumcraft.storedvis=已存储魔力
 option.thermalexpansion.energyhandler=显示RF储存
+option.thermalexpansion.rfenergybar=Use Progress Bar for RF
 option.thermalexpansion.energycell=显示能量单元输入输出
 option.thermalexpansion.fluidtype=显示流体类型
 option.thermalexpansion.fluidamount=显示流体模式
@@ -152,6 +153,7 @@ option.stevescarts.shifttoggle=潜行触发
 option.general.showents=显示实体
 option.general.showhp=显示实体生命值
 option.general.showcrop=显示作物生长状态
+option.general.showentityicon=Show entity icon
 option.thaumcraft.aspects=显示要素
 
 nei.options.keys.showenchant=显示附魔值
